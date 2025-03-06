@@ -7,7 +7,9 @@
 </head>
 <style>
  header {
-    background-color: #000; /* Color del header */
+    background-color: #1F2023; /* Color del header */
+    position:sticky;
+    top: 0;
 }
 
 header h1 {
