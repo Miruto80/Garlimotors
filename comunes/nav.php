@@ -10,6 +10,7 @@
     background-color: #1F2023; /* Color del header */
     position:sticky;
     top: 0;
+    z-index: 1000;
 }
 
 header h1 {
@@ -25,6 +26,7 @@ header nav ul li a {
     transition: color 0.5s ease;
     font-size: 19px;
     margin-left: 5px;
+    font-family:'Avenir Next', sans-serif;
 }
 header nav ul li a:hover {
     color: #0782fa; /* Color de los enlaces */
@@ -68,7 +70,7 @@ header nav ul li a:hover {
               <img src="imagenes/Logo_nuevo-removebg-preview.png" alt="Logo Taekyon" width="auto" height="200" class="d-inline-block align-text-top">
             </a>
             <h1 class="navbar-brand fs-4 d-none d-sm-inline d-lg-inline fs-lg-2 text-white">
-              <b>Used Cars for Cash or Financing</b>
+              <b>Buy and Finance cars</b>
             </h1>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <i class="fa-solid fa-bars text-white"></i>

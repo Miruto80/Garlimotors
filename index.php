@@ -13,6 +13,16 @@
    <section>
        <h1>pueh</h1>
    </section>
+<section class="car-carousel">
+  <div class="carousel-container">
+      <h2 class="carousel-title">Last adds</h2>
+      <button class="carousel-arrow left-arrow" onclick="previousImage()">&#8249;</button>
+      <div class="carousel-image">
+          <img id="carousel-bg" src="imagenes/Last adds/Last add (1).jpeg" alt="Car 1">
+      </div>
+      <button class="carousel-arrow right-arrow" onclick="nextImage()">&#8250;</button>
+  </div>
+</section>
    <?php require_once("comunes/footer.php")?>
 <script src="js/index.js"></script>
 </body>

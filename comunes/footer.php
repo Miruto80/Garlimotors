@@ -113,11 +113,11 @@ padding: 5px;
 <footer>
         <h4>Social Media</h4>
         <div class="redes-sociales" id="contact">
-            <a target="_blank" href="https://www.instagram.com/usedcarsforsaletxfl?igsh=MWZ6c3IyOW5zODBkdA%3D%3D&utm_source=qr">
+            <a target="_blank" href="https://www.instagram.com/garli_motorsllc/">
                 <i class="fa-brands fa-instagram"></i>
             </a>
-            <a target="_blank" href="https://www.facebook.com/share/1BgkwLX8qh/?mibextid=wwXIfr">
-                <i class="fa-brands fa-facebook"></i>
+            <a target="_blank" href="https://www.tiktok.com/@garli.motors">
+            <i class="fa-brands fa-tiktok"></i>
             </a>
             <i><i class="fa-solid fa-phone"></i><a href="tel:469-275-6620"> 469-275-6620 </a></i>
             <i>Garlimotorsllc@gmail.com<i class="fa-solid fa-envelope"></i></i>
