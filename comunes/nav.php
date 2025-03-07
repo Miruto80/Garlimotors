@@ -29,7 +29,7 @@ header nav ul li a {
     font-family:'Avenir Next', sans-serif;
 }
 header nav ul li a:hover {
-    color: #0782fa; /* Color de los enlaces */
+    color: #6A4B4F; /* Color de los enlaces */
 }
 
 #Link-I{
