@@ -33,7 +33,7 @@ header nav ul li a:hover {
 }
 
 #Link-I{
-    background-color: #0782fa;
+    background-color: #6A4B4F;
     border-radius: 15px;
     padding: 12px;
     color: white;
@@ -67,7 +67,7 @@ header nav ul li a:hover {
         <nav class="navbar navbar-expand-lg">
           <div class="container-fluid">
             <a class="navbar-brand" href="#">
-              <img src="imagenes/Logo_nuevo-removebg-preview.png" alt="Logo Taekyon" width="auto" height="200" class="d-inline-block align-text-top">
+              <img src="imagenes/GARLI MOTORS-11 (2).png" alt="Logo Taekyon" width="250" height="100" class="d-inline-block align-text-top">
             </a>
             <h1 class="navbar-brand fs-4 d-none d-sm-inline d-lg-inline fs-lg-2 text-white">
               <b>Buy and Finance cars</b>

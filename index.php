@@ -10,9 +10,14 @@
 </head>
 <body>
    <?php require_once("comunes/nav.php")?>
-   <section>
-       <h1>pueh</h1>
-   </section>
+   <section class="Inicio">
+      <div class="text-center">
+      <h2>Buy cars here</h2>
+      <br>
+      <h4>Ready to drive your dream car? <br> Discover unbeatable prices and find the perfect ride today!</h4>
+      <button onclick="location.href='Inventory.html'">View inventory</button>
+  </div>
+  </section>
 <section class="car-carousel">
   <div class="carousel-container">
       <h2 class="carousel-title">Last adds</h2>
