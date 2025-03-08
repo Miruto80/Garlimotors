@@ -66,7 +66,7 @@ header nav ul li a:hover {
 <header>
         <nav class="navbar navbar-expand-lg">
           <div class="container-fluid">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="index.php">
               <img src="imagenes/GARLI MOTORS-11 (2).png" alt="Logo Taekyon" width="250" height="100" class="d-inline-block align-text-top">
             </a>
             <h1 class="navbar-brand fs-4 d-none d-sm-inline d-lg-inline fs-lg-2 text-white">
@@ -79,10 +79,16 @@ header nav ul li a:hover {
             <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
               <ul class="navbar-nav mb-2 mb-lg-0">
                 <li class="nav-item">
-                  <a class="nav-link" href="Get approved.html">Pre-Approval</a>
+                  <a class="nav-link" href="index.php">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="Pre-approval.php">Pre-Approval</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="#contact">Contact us</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="Reviews.php">Reviews</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" id="Link-I" href="Inventory.php">View inventory</a>
