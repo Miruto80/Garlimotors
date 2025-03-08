@@ -18,6 +18,23 @@
       <button onclick="location.href='Inventory.html'">View inventory</button>
   </div>
   </section>
+
+  <section class="about-us">
+    <div class="container">
+        <h2>About GARLI MOTORS</h2>
+        <p>GARLI MOTORS is a company dedicated to the buying and selling of cars, financing, and vehicle rentals. We focus on offering our customers accessible, reliable, and modern options to meet their mobility needs.</p>
+        <p>We provide 0% interest financing options and comprehensive warranties with every purchase, ensuring you drive with confidence and peace of mind.</p>
+        <h3>Why Choose Us?</h3>
+        <ul>
+            <li><strong>Extensive Inventory:</strong> From sports cars to family SUVs, we have something for everyone.</li>
+            <li><strong>Trusted Service:</strong> Our team is dedicated to making your car-buying experience as smooth as possible.</li>
+            <li><strong>Flexible Financing:</strong> We offer 0% interest financing with no hidden fees.</li>
+            <li><strong>Warranty Included:</strong> Every car comes with a warranty, so you can drive with confidence.</li>
+        </ul>
+    </div>
+</section>
+
+
 <section class="car-carousel">
   <div class="carousel-container">
       <h2 class="carousel-title">Last adds</h2>

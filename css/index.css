@@ -121,6 +121,71 @@ h1, h2, h3, h4, h5, h6 {
      
   }
 
+  /* Estilo para la sección de la empresa */
+/* Estilo para la sección de la empresa */
+/* Estilo para la sección de la empresa */
+/* Estilo para la sección de la empresa */
+.about-us {
+    background-color: #393C43; /* Fondo suave y oscuro */
+    color: #EAEAEA; /* Texto claro para buena legibilidad */
+    padding: 60px 20px;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.about-us h2 {
+    font-size: 2.5rem;
+    color: #fff; /* Color destacado para el título */
+    margin-bottom: 25px;
+}
+
+.about-us p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+    max-width: 100%; /* Asegura que el párrafo ocupe el máximo ancho disponible */
+    width: 100%;
+}
+
+.about-us h3 {
+    font-size: 1.8rem;
+    color: #9699a0; /* Subtítulo con color más suave */
+    margin-top: 40px;
+    margin-bottom: 20px; /* Sombra sutil */
+}
+
+.about-us ul {
+    list-style: none;
+    padding: 0;
+    font-size: 1.1rem;
+    max-width: 100%; /* Asegura que la lista ocupe el máximo ancho disponible */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about-us ul li {
+    background-color: #6A4B4F; /* Fondo más suave para los ítems */
+    color: #EAEAEA; /* Texto claro en los ítems */
+    margin: 12px 0;
+    padding: 15px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.about-us ul li:hover {
+    background-color: #787B84; /* Fondo al hacer hover */
+    color: #fff; /* Texto blanco al hacer hover */
+    transform: translateY(-5px); /* Efecto de movimiento al pasar el mouse */
+}
+
+/* Contenedor para que ocupe más espacio */
+.about-us .container {
+    width: 90%; /* Ancho más grande para el contenedor */
+    max-width: 1200px; /* Máximo ancho para evitar que se estire demasiado en pantallas grandes */
+    margin: 0 auto; /* Centrado */
+    padding: 0 20px;
+}
+
+
 .carousel-container {
     display: flex;
     justify-content: space-between;
