@@ -5,7 +5,7 @@ html {
 body {
     margin: 0;
     padding: 0;
-    font-family: 'Avenir Next', sans-serif; /* Usamos Avenir Next para todo el cuerpo */
+    font-family: 'Avenir Next', sans-serif !important; /* Usamos Avenir Next para todo el cuerpo */
 }
 
 /* Definir las fuentes personalizadas (Lt Aspire) */
@@ -54,7 +54,7 @@ body {
 
 /* Títulos con LtAspirer */
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lt Aspire', sans-serif;
+    font-family: 'Lt Aspire', sans-serif !important;
 }
 
 .Inicio{

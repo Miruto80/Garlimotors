@@ -1,0 +1,58 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Avenir Next', sans-serif !important; /* Usamos Avenir Next para todo el cuerpo */
+}
+
+/* Definir las fuentes personalizadas (Lt Aspire) */
+@font-face {
+    font-family: 'Lt Aspire';
+    src: url('../fuentes/LTAspirerNeue-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lt Aspire';
+    src: url('../fuentes/LTAspirerNeue-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lt Aspire';
+    src: url('../fuentes/LTAspirerNeue-Extrablack.otf') format('opentype');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+/* Definir la fuente Avenir Next */
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fuentes/AvenirNextLTPro-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fuentes/AvenirNextLTPro-It.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fuentes/AvenirNextLTPro-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Títulos con LtAspirer */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lt Aspire', sans-serif;
+}
