@@ -111,10 +111,14 @@ form input[type="submit"] {
     margin: 30px auto 0;
     width: 50%;
     text-align: center;
+    transition: all 0.3s ease-in-out;
 }
 
 form input[type="submit"]:hover {
-    background-color: #6f45bd;
+    background-color: #352425;
+}
+form input[type="submit"]:focus {
+    background-color: black;
 }
 option{
     background-color: #000;

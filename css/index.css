@@ -258,6 +258,22 @@ h1, h2, h3, h4, h5, h6 {
     .carousel-container {
         height: auto;
     }
+
+    .Inicio button{
+        margin-bottom: 15px;
+    }
+
+    .Inicio h2{
+        margin-top: 10px;
+        font-size: 40px;
+        margin-bottom: 10px;
+     }
+     
+     .Inicio h3{
+        font-size: 20px;
+        margin-bottom: 10px;
+      }
+
   }
 
   #reviewsList h3 {

@@ -61,13 +61,19 @@ header nav ul li a:hover {
     background: rgba(255, 255, 255, 0.1); /* Fondo sutil al hacer hover */
     transform: scale(1.05); /* Pequeño efecto de agrandamiento */
 }
+@media (max-width: 768px) {
+  #logo{
+    width: 150px;
+    height: 50px
+  }
+}
 </style>
 <body>
 <header>
         <nav class="navbar navbar-expand-lg">
           <div class="container-fluid">
             <a class="navbar-brand" href="index.php">
-              <img src="imagenes/GARLI MOTORS-11 (2).png" alt="Logo Taekyon" width="250" height="100" class="d-inline-block align-text-top">
+              <img src="imagenes/GARLI MOTORS-11 (2).png" id="logo"alt="Logo Taekyon" width="250" height="100" class="d-inline-block align-text-top">
             </a>
             <h1 class="navbar-brand fs-4 d-none d-sm-inline d-lg-inline fs-lg-2 text-white">
               <b>Buy and Finance cars</b>
