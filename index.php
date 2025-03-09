@@ -15,7 +15,7 @@
       <h2>Best price in town</h2>
       <br>
       <h3>0% interest Warranty Incluided</h3>
-      <button onclick="location.href='Inventory.html'">View inventory</button>
+      <button onclick="location.href='Inventory.php'">View inventory</button>
   </div>
   </section>
 
