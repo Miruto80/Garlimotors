@@ -11,7 +11,7 @@
 <body>
 <?php require_once("comunes/nav.php") ?>
 
-<form action="https://formspree.io/f/mqakawov" method="POST" onsubmit="return validarenvio()">
+<form action="https://formspree.io/f/xpwpzkgp" method="POST" onsubmit="return validarenvio()">
         <label for="financing">Are you looking for in-house financing?</label>
         <select id="financing" name="financing">
             <option value="yes">Yes</option>

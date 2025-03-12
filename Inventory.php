@@ -115,7 +115,7 @@
         </div>
     </div>
     <div id="contactForm" class="form-popup">
-    <form class="form-container" action="https://formspree.io/f/xzzdgjwz" method="POST" onsubmit="return validarenvio()">
+    <form class="form-container" action="https://formspree.io/f/xgvaerjo" method="POST" onsubmit="return validarenvio()">
         <div class="form-header">
         <h3>Request Information</h3>
         <button type="button" class="close-icon" onclick="closeForm()">✖</button>
