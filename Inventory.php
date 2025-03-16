@@ -185,6 +185,81 @@
                 <button onclick="openForm('2019 Kia optima')">Request Information</button>
             </div>
         </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2011 Toyota Corolla  (1).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
+                <img src="imagenes/Sedan/2011 Toyota Corolla  (2).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
+                <img src="imagenes/Sedan/2011 Toyota Corolla  (3).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
+                <img src="imagenes/Sedan/2011 Toyota Corolla  (5).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
+                <img src="imagenes/Sedan/2011 Toyota Corolla  (4).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
+                <img src="imagenes/Sedan/2011 Toyota Corolla  (6).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2011 Toyota Corolla </h3>
+                <div>
+                    <p><b>Miles:</b> 229.000</p>
+                    <p><b>Cash:</b> $5,500</p>
+                </div>
+                <button onclick="openForm('2011 Toyota Corolla ')">Request Information</button>
+            </div>
+        </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+                <img src="imagenes/Sedan/Lexus 2008 es 350  (2).jpeg" title="Lexus 2008 es 350" alt="Lexus 2008 es 350">
+                <img src="imagenes/Sedan/Lexus 2008 es 350  (1).jpeg" title="Lexus 2008 es 350" alt="Lexus 2008 es 350">
+                <img src="imagenes/Sedan/Lexus 2008 es 350  (3).jpeg" title="Lexus 2008 es 350" alt="Lexus 2008 es 350">
+                <img src="imagenes/Sedan/Lexus 2008 es 350  (5).jpeg" title="Lexus 2008 es 350" alt="Lexus 2008 es 350">
+                <img src="imagenes/Sedan/Lexus 2008 es 350  (4).jpeg" title="Lexus 2008 es 350" alt="Lexus 2008 es 350">
+                <img src="imagenes/Sedan/Lexus 2008 es 350  (6).jpeg" title="Lexus 2008 es 350" alt="Lexus 2008 es 350">
+                <img src="imagenes/Sedan/Lexus 2008 es 350  (7).jpeg" title="Lexus 2008 es 350" alt="Lexus 2008 es 350">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>Lexus 2008 es 350</h3>
+                <div>
+                    <p><b>Miles:</b> 132.000</p>
+                    <p><b>Cash:</b> $6.500</p>
+                </div>
+                <button onclick="openForm('Lexus 2008 es 350')">Request Information</button>
+            </div>
+        </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2017  Hyundai Accent (1).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
+                <img src="imagenes/Sedan/2017  Hyundai Accent (2).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
+                <img src="imagenes/Sedan/2017  Hyundai Accent (3).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
+                <img src="imagenes/Sedan/2017  Hyundai Accent (4).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
+                <img src="imagenes/Sedan/2017  Hyundai Accent (5).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
+                <img src="imagenes/Sedan/2017  Hyundai Accent (6).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
+                <img src="imagenes/Sedan/2017  Hyundai Accent (7).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
+                <img src="imagenes/Sedan/2017  Hyundai Accent (8).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
+                <img src="imagenes/Sedan/2017  Hyundai Accent (9).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
+                <img src="imagenes/Sedan/2017  Hyundai Accent (10).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2017  Hyundai Accent</h3>
+                <div>
+                    <p><b>Miles:</b> 103.000</p>
+                    <p><b>Cash:</b> $5.800</p>
+                </div>
+                <button onclick="openForm('2017  Hyundai Accent')">Request Information</button>
+            </div>
+        </div>
+        <!--Mas sedans aqui -->
     </div>
     <hr>
     <h2 id="SUV">SUV</h2>
@@ -358,6 +433,56 @@
                 <button onclick="openForm('2015 Yaris')">Request Information</button>
             </div>
         </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+            <img src="imagenes/Suv/2018 Subaru Forester TOURING (4).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
+            <img src="imagenes/Suv/2018 Subaru Forester TOURING (1).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
+            <img src="imagenes/Suv/2018 Subaru Forester TOURING (2).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
+            <img src="imagenes/Suv/2018 Subaru Forester TOURING (7).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
+            <img src="imagenes/Suv/2018 Subaru Forester TOURING (3).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
+            <img src="imagenes/Suv/2018 Subaru Forester TOURING (5).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
+            <img src="imagenes/Suv/2018 Subaru Forester TOURING (6).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
+            <img src="imagenes/Suv/2018 Subaru Forester TOURING (8).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2018 Subaru Forester</h3>
+                <div>
+                    <p><b>Miles:</b> 186,824</p>
+                    <p><b>Cash:</b> $8.500</p>
+                </div>
+                <button onclick="openForm('2018 Subaru Forester TOURING')">Request Information</button>
+            </div>
+        </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+            <img src="imagenes/Suv/2023 Toyota rav4  (1).jpeg" title="2023 Toyota rav4" alt="2023 Toyota rav4">
+            <img src="imagenes/Suv/2023 Toyota rav4  (2).jpeg" title="2023 Toyota rav4" alt="2023 Toyota rav4">
+            <img src="imagenes/Suv/2023 Toyota rav4  (3).jpeg" title="2023 Toyota rav4" alt="2023 Toyota rav4">
+            <img src="imagenes/Suv/2023 Toyota rav4  (4).jpeg" title="2023 Toyota rav4" alt="2023 Toyota rav4">
+            <img src="imagenes/Suv/2023 Toyota rav4  (5).jpeg" title="2023 Toyota rav4" alt="2023 Toyota rav4">
+            <img src="imagenes/Suv/2023 Toyota rav4  (6).jpeg" title="2023 Toyota rav4" alt="2023 Toyota rav4">
+            <img src="imagenes/Suv/2023 Toyota rav4  (7).jpeg" title="2023 Toyota rav4" alt="2023 Toyota rav4">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2023 Toyota rav4</h3>
+                <div>
+                    <p><b>Miles:</b> 22.000</p>
+                    <p><b>Cash:</b> $30.000</p>
+                </div>
+                <button onclick="openForm('2023 Toyota rav4')">Request Information</button>
+            </div>
+        </div>
+        <!--More suvs here-->
     </div>
     <hr>
     <h2 id="Trucks">Trucks</h2>
@@ -429,6 +554,32 @@
                 <button onclick="openForm('2006 RAM')">Request Information</button>
             </div>
         </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (1).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (2).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (3).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (4).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (5).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (6).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (7).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (8).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2007 Chevrolet silverado</h3>
+                <div>
+                    <p><b>Miles:</b> 255.000</p>
+                    <p><b>Cash:</b> $5,500</p>
+                </div>
+                <button onclick="openForm('2007 Chevrolet silverado 2500')">Request Information</button>
+            </div>
+        </div>
+        <!--Mas Trucks aqui -->
     </div>
     <hr>
     <h2 id="Luxury">Luxury</h2>
