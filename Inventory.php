@@ -259,6 +259,119 @@
                 <button onclick="openForm('2017  Hyundai Accent')">Request Information</button>
             </div>
         </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2009 BMW 3 Series 3281 (1).jpeg" title="2009 BMW 3 Series 3281t" alt="2009 BMW 3 Series 3281t">
+                <img src="imagenes/Sedan/2009 BMW 3 Series 3281 (3).jpeg" title="2009 BMW 3 Series 3281t" alt="2009 BMW 3 Series 3281t">
+                <img src="imagenes/Sedan/2009 BMW 3 Series 3281 (4).jpeg" title="2009 BMW 3 Series 3281t" alt="2009 BMW 3 Series 3281t">
+                <img src="imagenes/Sedan/2009 BMW 3 Series 3281 (5).jpeg" title="2009 BMW 3 Series 3281t" alt="2009 BMW 3 Series 3281t">
+                <img src="imagenes/Sedan/2009 BMW 3 Series 3281 (2).jpeg" title="2009 BMW 3 Series 3281t" alt="2009 BMW 3 Series 3281t">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2009 BMW 3 Series 3281</h3>
+                <div>
+                    <p><b>Miles:</b> 141,133</p>
+                    <p><b>Cash:</b> $5.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $9.400 (Negotiable)</p>
+                <p><b>Down:</b> $1.400 (Negotiable)</p>
+                <p>Warranty included</p>
+                </div>
+                </div>
+                <button class="Request-btn" onclick="openForm('2009 BMW 3 Series 3281')">Request Information</button>
+            </div>
+        </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+                <img src="imagenes/Sedan/Honda civic 2016  (1).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
+                <img src="imagenes/Sedan/Honda civic 2016  (3).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
+                <img src="imagenes/Sedan/Honda civic 2016  (4).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
+                <img src="imagenes/Sedan/Honda civic 2016  (5).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
+                <img src="imagenes/Sedan/Honda civic 2016  (2).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
+                <img src="imagenes/Sedan/Honda civic 2016  (6).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>Honda civic 2016</h3>
+                <div>
+                    <p><b>Miles:</b> 166,000</p>
+                    <p><b>Cash:</b> $8.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $12.400 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.000 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('Honda civic 2016')">Request Information</button>
+            </div>
+        </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+                <img src="imagenes/Sedan/Kia rio 2021 (1).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
+                <img src="imagenes/Sedan/Kia rio 2021 (3).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
+                <img src="imagenes/Sedan/Kia rio 2021 (4).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
+                <img src="imagenes/Sedan/Kia rio 2021 (5).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
+                <img src="imagenes/Sedan/Kia rio 2021 (2).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
+                <img src="imagenes/Sedan/Kia rio 2021 (6).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
+                <img src="imagenes/Sedan/Kia rio 2021 (7).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
+                <img src="imagenes/Sedan/Kia rio 2021 (8).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>Kia rio 2021</h3>
+                <div>
+                    <p><b>Miles:</b> 75,000</p>
+                    <p><b>Cash:</b> $8.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $12.800 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.000 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('Kia rio 2021')">Request Information</button>
+            </div>
+        </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+                <img src="imagenes/Sedan/Toyota Corolla 2010  (1).jpeg" title="Toyota Corolla 2010" alt="Toyota Corolla 2010">
+                <img src="imagenes/Sedan/Toyota Corolla 2010  (3).jpeg" title="Toyota Corolla 2010" alt="Toyota Corolla 2010">
+                <img src="imagenes/Sedan/Toyota Corolla 2010  (5).jpeg" title="Toyota Corolla 2010" alt="Toyota Corolla 2010">
+                <img src="imagenes/Sedan/Toyota Corolla 2010  (2).jpeg" title="Toyota Corolla 2010" alt="Toyota Corolla 2010">
+                <img src="imagenes/Sedan/Toyota Corolla 2010  (4).jpeg" title="Toyota Corolla 2010" alt="Toyota Corolla 2010">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>Toyota Corolla 2010</h3>
+                <div>
+                    <p><b>Miles:</b> 75,000</p>
+                    <p><b>Cash:</b> $6.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $9.800 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('Toyota Corolla 2010')">Request Information</button>
+            </div>
+        </div>
         <!--Mas sedans aqui -->
     </div>
     <hr>
@@ -336,30 +449,6 @@
         </div>
         <div class="car" data-location="Arlington-Texas">
             <div class="car-images">
-            <img src="imagenes/Suv/2014 Honda odysea (1).jpeg" title="2014 Honda odysea" alt="2014 Honda odysea">
-            <img src="imagenes/Suv/2014 Honda odysea (2).jpeg" title="2014 Honda odysea" alt="2014 Honda odysea">
-            <img src="imagenes/Suv/2014 Honda odysea (4).jpeg" title="2014 Honda odysea" alt="2014 Honda odysea">
-            <img src="imagenes/Suv/2014 Honda odysea (3).jpeg" title="2014 Honda odysea" alt="2014 Honda odysea">
-            <img src="imagenes/Suv/2014 Honda odysea (6).jpeg" title="2014 Honda odysea" alt="2014 Honda odysea">
-            <img src="imagenes/Suv/2014 Honda odysea (5).jpeg" title="2014 Honda odysea" alt="2014 Honda odysea">
-            <img src="imagenes/Suv/2014 Honda odysea (8).jpeg" title="2014 Honda odysea" alt="2014 Honda odysea">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2014 Honda odysea</h3>
-                <div>
-                    <p><b>Miles:</b> 180.000</p>
-                    <p><b>Cash:</b> $7.500</p>
-                </div>
-                <button onclick="openForm('2014 Honda odysea')">Request Information</button>
-            </div>
-        </div>
-        <div class="car" data-location="Arlington-Texas">
-            <div class="car-images">
             <img src="imagenes/Suv/2018 Subaru (1).jpeg" title="2018 Subaru" alt="2018 Subaru">
             <img src="imagenes/Suv/2018 Subaru (8).jpeg" title="2018 Subaru" alt="2018 Subaru">
             <img src="imagenes/Suv/2018 Subaru (3).jpeg" title="2018 Subaru" alt="2018 Subaru">
@@ -412,29 +501,6 @@
         </div>
         <div class="car" data-location="Arlington-Texas">
             <div class="car-images">
-            <img src="imagenes/Suv/2015 Yaris (1).jpeg" title="2015 Yaris " alt="2015 Yaris ">
-            <img src="imagenes/Suv/2015 Yaris (5).jpeg" title="2015 Yaris " alt="2015 Yaris ">
-            <img src="imagenes/Suv/2015 Yaris (4).jpeg" title="2015 Yaris " alt="2015 Yaris ">
-            <img src="imagenes/Suv/2015 Yaris (6).jpeg" title="2015 Yaris " alt="2015 Yaris ">
-            <img src="imagenes/Suv/2015 Yaris (3).jpeg" title="2015 Yaris " alt="2015 Yaris ">
-            <img src="imagenes/Suv/2015 Yaris (2).jpeg" title="2015 Yaris " alt="2015 Yaris ">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2015 Yaris</h3>
-                <div>
-                    <p><b>Miles:</b> 140.000</p>
-                    <p><b>Cash:</b> $7.500</p>
-                </div>
-                <button onclick="openForm('2015 Yaris')">Request Information</button>
-            </div>
-        </div>
-        <div class="car" data-location="Arlington-Texas">
-            <div class="car-images">
             <img src="imagenes/Suv/2018 Subaru Forester TOURING (4).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
             <img src="imagenes/Suv/2018 Subaru Forester TOURING (1).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
             <img src="imagenes/Suv/2018 Subaru Forester TOURING (2).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
@@ -482,6 +548,61 @@
                 <button onclick="openForm('2023 Toyota rav4')">Request Information</button>
             </div>
         </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+            <img src="imagenes/Suv/Toyota Highlander 2013 (6).jpeg" title="Toyota Highlander 2013" alt="Toyota Highlander 2013">
+            <img src="imagenes/Suv/Toyota Highlander 2013 (1).jpeg" title="Toyota Highlander 2013" alt="Toyota Highlander 2013">
+            <img src="imagenes/Suv/Toyota Highlander 2013 (3).jpeg" title="Toyota Highlander 2013" alt="Toyota Highlander 2013">
+            <img src="imagenes/Suv/Toyota Highlander 2013 (4).jpeg" title="Toyota Highlander 2013" alt="Toyota Highlander 2013">
+            <img src="imagenes/Suv/Toyota Highlander 2013 (2).jpeg" title="Toyota Highlander 2013" alt="Toyota Highlander 2013">
+            <img src="imagenes/Suv/Toyota Highlander 2013 (5).jpeg" title="Toyota Highlander 2013" alt="Toyota Highlander 2013">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>Toyota Highlander 2013</h3>
+                <div>
+                    <p><b>Miles:</b> 168.000</p>
+                    <p><b>Cash:</b> $8.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b> $10.500 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('Toyota Highlander 2013')">Request Information</button>
+            </div>
+        </div>
+        <div class="car" data-location="Arlington-Texas">
+            <div class="car-images">
+            <img src="imagenes/Suv/Hyundai Elantra gt 2013 (1).jpeg" title="Hyundai Elantra gt 2013" alt="Hyundai Elantra gt 2013">
+            <img src="imagenes/Suv/Hyundai Elantra gt 2013 (4).jpeg" title="Hyundai Elantra gt 2013" alt="Hyundai Elantra gt 2013">
+            <img src="imagenes/Suv/Hyundai Elantra gt 2013 (2).jpeg" title="Hyundai Elantra gt 2013" alt="Hyundai Elantra gt 2013">
+            <img src="imagenes/Suv/Hyundai Elantra gt 2013 (5).jpeg" title="Hyundai Elantra gt 2013" alt="Hyundai Elantra gt 2013">
+            <img src="imagenes/Suv/Hyundai Elantra gt 2013 (3).jpeg" title="Hyundai Elantra gt 2013" alt="Hyundai Elantra gt 2013">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>Hyundai Elantra gt 2013</h3>
+                <div>
+                    <p><b>Miles:</b> 101.000</p>
+                    <p><b>Cash:</b> $5.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b> $10.500 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('Hyundai Elantra gt 2013')">Request Information</button>
+            </div>
+        </div>
         <!--More suvs here-->
     </div>
     <hr>
@@ -507,29 +628,6 @@
                     <p><b>Cash:</b> $9,000</p>
                 </div>
                 <button onclick="openForm('2013 Ram 1500 TRADESMAN')">Request Information</button>
-            </div>
-        </div>
-        <div class="car" data-location="Arlington-Texas">
-            <div class="car-images">
-                <img src="imagenes/Trucks/2018 Chevrolet Silverado 1500 (1).jpeg" title="2018 Chevrolet Silverado 1500" alt="2018 Chevrolet Silverado 1500">
-                <img src="imagenes/Trucks/2018 Chevrolet Silverado 1500 (2).jpeg" title="2018 Chevrolet Silverado 1500" alt="2018 Chevrolet Silverado 1500">
-                <img src="imagenes/Trucks/2018 Chevrolet Silverado 1500 (3).jpeg" title="2018 Chevrolet Silverado 1500" alt="2018 Chevrolet Silverado 1500">
-                <img src="imagenes/Trucks/2018 Chevrolet Silverado 1500 (4).jpeg" title="2018 Chevrolet Silverado 1500" alt="2018 Chevrolet Silverado 1500">
-                <img src="imagenes/Trucks/2018 Chevrolet Silverado 1500 (5).jpeg" title="2018 Chevrolet Silverado 1500" alt="2018 Chevrolet Silverado 1500">
-                <img src="imagenes/Trucks/2018 Chevrolet Silverado 1500 (6).jpeg" title="2018 Chevrolet Silverado 1500" alt="2018 Chevrolet Silverado 1500">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2018 Chevrolet Silverado</h3>
-                <div>
-                    <p><b>Miles:</b> 170,721</p>
-                    <p><b>Cash:</b> $10,500</p>
-                </div>
-                <button onclick="openForm('2018 Chevrolet Silverado 1500')">Request Information</button>
             </div>
         </div>
         <div class="car" data-location="Arlington-Texas">

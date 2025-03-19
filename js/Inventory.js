@@ -46,6 +46,15 @@ function nextImage(button) {
     } else {
         images[currentIndex + 1].style.display = 'block';
     }
+}function toggleMoreInfo(btn) {
+    const moreInfo = btn.nextElementSibling; // Encuentra el div .more-info
+    if (moreInfo.style.display === "none" || moreInfo.style.display === "") {
+        moreInfo.style.display = "block";
+        btn.innerHTML = "Hide details &#9650;";
+    } else {
+        moreInfo.style.display = "none";
+        btn.innerHTML = "Show details &#9660;";
+    }
 }
 
 // Validaciones para los campos de nombre, teléfono y email

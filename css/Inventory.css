@@ -115,10 +115,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-p {
-    margin:  0.1em 0;
+.car-info p {
+    margin: 1px 0 !important; /* Margen superior e inferior pequeño */
     font-weight: bold;
 }
+
   .caja_img {
       display: flex;
       flex-wrap: wrap;
@@ -162,6 +163,7 @@ p {
       width: calc(100% - 40px); /* Ajusta el ancho del botón */
       max-width: 300px; /* Limita el ancho máximo del botón */
       margin-left: auto;
+      margin-top: 0;
       margin-right: auto;
       margin-bottom: 5px;
   }
@@ -203,6 +205,29 @@ p {
     transform: scale(1.2); /* Efecto de agrandamiento al pasar el mouse */
 }
 
+.more-info {
+    display: none; /* Oculto por defecto */
+    margin-top: 10px;
+}
+
+.more-info-btn {
+    background-color: #0782fa !important; /* Color distintivo */
+    color: #fff !important;              /* Texto blanco */
+    border: none !important;             
+    padding: 8px 20px !important;        /* Espaciado adecuado */
+    font-size: 16px !important;         
+    cursor: pointer !important;
+    border-radius: 5px !important;
+    width: auto !important;              /* No ocupa todo el ancho */
+    display: inline-block !important;    /* Evita que herede el display:block */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2) !important; /* Sombra ligera */
+    transition: background-color 0.3s ease, transform 0.2s ease !important;
+}
+
+.more-info-btn:hover {
+    background-color: #005bb5 !important;  /* Cambio de color al pasar el mouse */
+    transform: scale(1.05) !important;    /* Efecto de aumento leve */
+}
 
   .hidden {
     display: none;
