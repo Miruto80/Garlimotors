@@ -16,7 +16,7 @@
         <li><a href="#Sedan">Sedan</a></li>
         <li><a href="#SUV">SUV</a></li>
         <li><a href="#Trucks">Trucks</a></li>
-        <li><a href="#Luxury">Luxury</a></li>
+        <li><a href="#Luxury">Luxury</a></li> <!-- Prueba-->
         <li><a href="#Boats">Boats</a></li>
     </ul>
 </div>
