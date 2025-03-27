@@ -373,6 +373,94 @@
                 <button onclick="openForm('Toyota Corolla 2010')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2013 Fusión (1).jpeg" title="2013 Fusión" alt="2013 Fusión">
+                <img src="imagenes/Sedan/2013 Fusión (3).jpeg" title="2013 Fusión" alt="2013 Fusión">
+                <img src="imagenes/Sedan/2013 Fusión (5).jpeg" title="2013 Fusión" alt="2013 Fusión">
+                <img src="imagenes/Sedan/2013 Fusión (2).jpeg" title="2013 Fusión" alt="2013 Fusión">
+                <img src="imagenes/Sedan/2013 Fusión (4).jpeg" title="2013 Fusión" alt="2013 Fusión">
+                <img src="imagenes/Sedan/2013 Fusión (6).jpeg" title="2013 Fusión" alt="2013 Fusión">
+                <img src="imagenes/Sedan/2013 Fusión (7).jpeg" title="2013 Fusión" alt="2013 Fusión">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2013 Fusión</h3>
+                <div>
+                    <p><b>Miles:</b> 165.000</p>
+                    <p><b>Cash:</b> $6.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $9.500(Negotiable)</p> <!-- Garantia incluida-->
+                </div>
+                </div>
+                <button onclick="openForm('2013 Fusión')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2013 Toyota Corolla Le Premium (1).jpeg" title="2013 Toyota Corolla Le Premium" alt="2013 Toyota Corolla Le Premium">
+                <img src="imagenes/Sedan/2013 Toyota Corolla Le Premium (2).jpeg" title="2013 Toyota Corolla Le Premium" alt="2013 Toyota Corolla Le Premium">
+                <img src="imagenes/Sedan/2013 Toyota Corolla Le Premium (8).jpeg" title="2013 Toyota Corolla Le Premium" alt="2013 Toyota Corolla Le Premium">
+                <img src="imagenes/Sedan/2013 Toyota Corolla Le Premium (3).jpeg" title="2013 Toyota Corolla Le Premium" alt="2013 Toyota Corolla Le Premium">
+                <img src="imagenes/Sedan/2013 Toyota Corolla Le Premium (5).jpeg" title="2013 Toyota Corolla Le Premium" alt="2013 Toyota Corolla Le Premium">
+                <img src="imagenes/Sedan/2013 Toyota Corolla Le Premium (4).jpeg" title="2013 Toyota Corolla Le Premium" alt="2013 Toyota Corolla Le Premium">
+                <img src="imagenes/Sedan/2013 Toyota Corolla Le Premium (6).jpeg" title="2013 Toyota Corolla Le Premium" alt="2013 Toyota Corolla Le Premium">
+                <img src="imagenes/Sedan/2013 Toyota Corolla Le Premium (7).jpeg" title="2013 Toyota Corolla Le Premium" alt="2013 Toyota Corolla Le Premium">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2013 Toyota Corolla Le</h3>
+                <div>
+                    <p><b>Miles:</b> 173.000</p>
+                    <p><b>Cash:</b> $7.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $11.500(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.500(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2013 Toyota Corolla Le Premium')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2016 Toyota avalo (1).jpeg" title="2016 Toyota avalo" alt="2016 Toyota avalo">
+                <img src="imagenes/Sedan/2016 Toyota avalo (3).jpeg" title="2016 Toyota avalo" alt="2016 Toyota avalo">
+                <img src="imagenes/Sedan/2016 Toyota avalo (5).jpeg" title="2016 Toyota avalo" alt="2016 Toyota avalo">
+                <img src="imagenes/Sedan/2016 Toyota avalo (2).jpeg" title="2016 Toyota avalo" alt="2016 Toyota avalo">
+                <img src="imagenes/Sedan/2016 Toyota avalo (4).jpeg" title="2016 Toyota avalo" alt="2016 Toyota avalo">
+                <img src="imagenes/Sedan/2016 Toyota avalo (6).jpeg" title="2016 Toyota avalo" alt="2016 Toyota avalo">
+                <img src="imagenes/Sedan/2016 Toyota avalo (7).jpeg" title="2016 Toyota avalo" alt="2016 Toyota avalo">
+                <img src="imagenes/Sedan/2016 Toyota avalo (8).jpeg" title="2016 Toyota avalo" alt="2016 Toyota avalo">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2016 Toyota avalo</h3>
+                <div>
+                    <p><b>Miles:</b> 168.000</p>
+                    <p><b>Cash:</b> $9.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $15.500 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $3.000 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2016 Toyota avalo')">Request Information</button>
+            </div>
+        </div>
         <!--Mas sedans aqui -->
     </div>
     <hr>
@@ -757,7 +845,7 @@
                 <div class="car-controls">
                     <button class="arrow" onclick="prevImage(this)">&#9664;</button>
                     <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
+               </div>
                 <h3>2014 honda crv</h3>
                 <div>
                     <p><b>Miles:</b> 183.000</p>
@@ -771,33 +859,69 @@
                 <button onclick="openForm('2014 honda crv')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2021 MITSUBISHI MIRAGE ES (1).jpeg" title="2021 MITSUBISHI MIRAGE ES" alt="2021 MITSUBISHI MIRAGE ES">
+            <img src="imagenes/Suv/2021 MITSUBISHI MIRAGE ES (2).jpeg" title="2021 MITSUBISHI MIRAGE ES" alt="2021 MITSUBISHI MIRAGE ES">
+            <img src="imagenes/Suv/2021 MITSUBISHI MIRAGE ES (3).jpeg" title="2021 MITSUBISHI MIRAGE ES" alt="2021 MITSUBISHI MIRAGE ES">
+            <img src="imagenes/Suv/2021 MITSUBISHI MIRAGE ES (4).jpeg" title="2021 MITSUBISHI MIRAGE ES" alt="2021 MITSUBISHI MIRAGE ES">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2021 MITSUBISHI MIRAGE ES</h3>
+                <div>
+                    <p><b>Miles:</b> 52.000</p>
+                    <p><b>Cash:</b> $8.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b> $12.000 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2021 MITSUBISHI MIRAGE ES')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2012 kia soul (1).jpeg" title="2012 kia soul" alt="2012 kia soul">
+            <img src="imagenes/Suv/2012 kia soul (2).jpeg" title="2012 kia soul" alt="2012 kia soul">
+            <img src="imagenes/Suv/2012 kia soul (3).jpeg" title="2012 kia soul" alt="2012 kia soul">
+            <img src="imagenes/Suv/2012 kia soul (4).jpeg" title="2012 kia soul" alt="2012 kia soul">
+            <img src="imagenes/Suv/2012 kia soul (5).jpeg" title="2012 kia soul" alt="2012 kia soul">
+            <img src="imagenes/Suv/2012 kia soul (6).jpeg" title="2012 kia soul" alt="2012 kia soul">
+            <img src="imagenes/Suv/2012 kia soul (7).jpeg" title="2012 kia soul" alt="2012 kia soul">
+            <img src="imagenes/Suv/2012 kia soul (8).jpeg" title="2012 kia soul" alt="2012 kia soul">
+            <img src="imagenes/Suv/2012 kia soul (9).jpeg" title="2012 kia soul" alt="2012 kia soul">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2012 kia soul</h3>
+                <div>
+                    <p><b>Miles:</b> 155,366</p>
+                    <p><b>Cash:</b> $4.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$9.000 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2012 kia soul')">Request Information</button>
+            </div>
+        </div>
         <!--More suvs here-->
     </div>
     <hr>
     <h2 id="Trucks">Trucks</h2>
     <hr>
     <div class="caja_img">
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (1).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN">
-                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (2).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN">
-                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (3).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN">
-                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (4).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2013 Ram 1500 TRADESMAN</h3>
-                <div>
-                    <p><b>Miles:</b> 175,890</p>
-                    <p><b>Cash:</b> $9,000</p>
-                </div>
-                <button onclick="openForm('2013 Ram 1500 TRADESMAN')">Request Information</button>
-            </div>
-        </div>
         <div class="car">
             <div class="car-images">
                 <img src="imagenes/Trucks/2006  RAM (1).jpeg" title="2006  RAM" alt="2006  RAM">
@@ -822,14 +946,40 @@
         </div>
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (1).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (2).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (3).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (4).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (5).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (6).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (7).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500  (8).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (5).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN ">
+                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (6).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN ">
+                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (7).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN ">
+                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (8).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN ">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2013 Ram 1500 TRADESMAN</h3>
+                <div>
+                    <p><b>Miles:</b> 175,890</p>
+                    <p><b>Cash:</b> $7.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $12.500 (Negotiable)</p>
+                <p><b>Down:</b> $3.000 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2013 Ram 1500 TRADESMAN')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (1).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (2).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (3).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (4).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (5).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (6).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (7).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
+                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (8).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
             </div>
             
             <div class="car-info">
@@ -839,8 +989,13 @@
                 </div>
                 <h3>2007 Chevrolet silverado</h3>
                 <div>
-                    <p><b>Miles:</b> 255.000</p>
-                    <p><b>Cash:</b> $5,500</p>
+                    <p><b>Miles:</b> 255.000 </p>
+                    <p><b>Cash:</b> $5.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $8.500 (Negotiable)</p>
+                <p><b>Down:</b> $1.700 (Negotiable)</p>
+                </div>
                 </div>
                 <button onclick="openForm('2007 Chevrolet silverado 2500')">Request Information</button>
             </div>
