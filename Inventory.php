@@ -1061,6 +1061,35 @@
                 <button onclick="openForm('2016 Land Rover LR4 HSE')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2010 Mercedez glk 350 (2).jpeg" title="2010 Mercedez glk 350" alt="2010 Mercedez glk 350">
+            <img src="imagenes/Suv/2010 Mercedez glk 350 (1).jpeg" title="2010 Mercedez glk 350" alt="2010 Mercedez glk 350">
+            <img src="imagenes/Suv/2010 Mercedez glk 350 (3).jpeg" title="2010 Mercedez glk 350" alt="2010 Mercedez glk 350">
+            <img src="imagenes/Suv/2010 Mercedez glk 350 (4).jpeg" title="2010 Mercedez glk 350" alt="2010 Mercedez glk 350">
+            <img src="imagenes/Suv/2010 Mercedez glk 350 (5).jpeg" title="2010 Mercedez glk 350" alt="2010 Mercedez glk 350">
+            <img src="imagenes/Suv/2010 Mercedez glk 350 (6).jpeg" title="2010 Mercedez glk 350" alt="2010 Mercedez glk 350">
+            <img src="imagenes/Suv/2010 Mercedez glk 350 (7).jpeg" title="2010 Mercedez glk 350" alt="2010 Mercedez glk 350">
+            <img src="imagenes/Suv/2010 Mercedez glk 350 (8).jpeg" title="2010 Mercedez glk 350" alt="2010 Mercedez glk 350">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2010 Mercedez glk 350</h3>
+                <div>
+                    <p><b>Miles:</b> 97.000</p>
+                    <p><b>Cash:</b> $7.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$11.000 (Negotiable)</p> <!-- Garantia incluida-->
+                </div>
+                </div>
+                <button onclick="openForm('2010 Mercedez glk 350')">Request Information</button>
+            </div>
+        </div>
         <!--More suvs here-->
     </div>
     <hr>
@@ -1142,6 +1171,34 @@
                 <button onclick="openForm('2016 Ford Mustang')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Luxury/2016 BMW 5 Series 5281 (1).jpeg" title="2016 BMW 5 Series 5281" alt="2016 BMW 5 Series 5281">
+            <img src="imagenes/Luxury/2016 BMW 5 Series 5281 (2).jpeg" title="2016 BMW 5 Series 5281" alt="2016 BMW 5 Series 5281">
+            <img src="imagenes/Luxury/2016 BMW 5 Series 5281 (3).jpeg" title="2016 BMW 5 Series 5281" alt="2016 BMW 5 Series 5281">
+            <img src="imagenes/Luxury/2016 BMW 5 Series 5281 (4).jpeg" title="2016 BMW 5 Series 5281" alt="2016 BMW 5 Series 5281">
+            <img src="imagenes/Luxury/2016 BMW 5 Series 5281 (5).jpeg" title="2016 BMW 5 Series 5281" alt="2016 BMW 5 Series 5281">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2016 BMW 5 Series 5281</h3>
+                <div>
+                    <p><b>Miles:</b> 193,379</p>
+                    <p><b>Cash:</b> $6.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $11.500 (Negotiable)</p>
+                <p><b>Down:</b> $3.000 (Negotiable)</p>
+                </div>
+            </div>
+            <button onclick="openForm('2016 BMW 5 Series 5281')">Request Information</button>
+        </div>
+    </div>
+    <!-- More Luxury here-->
     </div>
     <hr>
     <h2 id="Boats">Boats</h2>
