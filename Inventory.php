@@ -519,6 +519,35 @@
                 <button onclick="openForm('2018 HYUNDAI ELANTRA SEL')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (1).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
+                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (3).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
+                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (4).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
+                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (5).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
+                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (6).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
+                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (2).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
+                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (7).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2016 Infiniti Q50 PREMIUM</h3>
+                <div>
+                    <p><b>Miles:</b>162,059</p>
+                    <p><b>Cash:</b> $10.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $14.500(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $4.000(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2016 Infiniti Q50 PREMIUM')">Request Information</button>
+            </div>
+        </div>
         <!--Mas sedans aqui -->
     </div>
     <hr>
@@ -977,6 +1006,61 @@
                 <button onclick="openForm('2006 SUZUKI AERIO SX')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (1).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
+            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (2).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
+            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (3).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
+            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (4).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
+            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (5).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
+            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (6).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
+            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (7).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
+            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (8).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2013 TOYOTA YARIS</h3>
+                <div>
+                    <p><b>Miles:</b> 189.098</p>
+                    <p><b>Cash:</b> $4.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$8.500  (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2013 TOYOTA YARIS 5-DOOR LE')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (1).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
+            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (2).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
+            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (3).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
+            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (4).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
+            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (5).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
+            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (6).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
+            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (7).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
+            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (8).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2016 Land Rover LR4</h3>
+                <div>
+                    <p><b>Miles:</b> 117,843</p>
+                    <p><b>Cash:</b> $12.200</p>
+                </div>
+                <button onclick="openForm('2016 Land Rover LR4 HSE')">Request Information</button>
+            </div>
+        </div>
         <!--More suvs here-->
     </div>
     <hr>
@@ -1029,36 +1113,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('2013 Ram 1500 TRADESMAN')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (1).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (2).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (3).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (4).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (5).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (6).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (7).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-                <img src="imagenes/Trucks/2007 Chevrolet silverado 2500 (8).jpeg" title="2007 Chevrolet silverado 2500" alt="2007 Chevrolet silverado 2500 ">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2007 Chevrolet silverado</h3>
-                <div>
-                    <p><b>Miles:</b> 255.000 </p>
-                    <p><b>Cash:</b> $5.000</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                <p><b>Financing:</b> $8.500 (Negotiable)</p>
-                <p><b>Down:</b> $1.700 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2007 Chevrolet silverado 2500')">Request Information</button>
             </div>
         </div>
         <!--Mas Trucks aqui -->
