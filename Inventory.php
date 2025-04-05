@@ -25,77 +25,6 @@
     <div class="caja_img">
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Sedan/2020 Toyota Corolla (1).jpeg" title="2020 Toyota Corolla" alt="2020 Toyota Corolla">
-                <img src="imagenes/Sedan/2020 Toyota Corolla (4).jpeg" title="2020 Toyota Corolla" alt="2020 Toyota Corolla">
-                <img src="imagenes/Sedan/2020 Toyota Corolla (2).jpeg" title="2020 Toyota Corolla" alt="2020 Toyota Corolla">
-                <img src="imagenes/Sedan/2020 Toyota Corolla (3).jpeg" title="2020 Toyota Corolla" alt="2020 Toyota Corolla">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2020 Toyota Corolla</h3>
-                <div>
-                    <p><b>Miles:</b> 190.000</p>
-                    <p><b>Cash:</b> $10,500</p>
-                </div>
-                <button onclick="openForm('2020 Toyota Corolla')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2016 Hyundai Elantra (1).jpeg" title="2016 Hyundai Elantra" alt="2016 Hyundai Elantra">
-                <img src="imagenes/Sedan/2016 Hyundai Elantra (2).jpeg" title="2016 Hyundai Elantra" alt="2016 Hyundai Elantra">
-                <img src="imagenes/Sedan/2016 Hyundai Elantra (7).jpeg" title="2016 Hyundai Elantra" alt="2016 Hyundai Elantra">
-                <img src="imagenes/Sedan/2016 Hyundai Elantra (8).jpeg" title="2016 Hyundai Elantra" alt="2016 Hyundai Elantra">
-                <img src="imagenes/Sedan/2016 Hyundai Elantra (9).jpeg" title="2016 Hyundai Elantra" alt="2016 Hyundai Elantra">
-                <img src="imagenes/Sedan/2016 Hyundai Elantra (3).jpeg" title="2016 Hyundai Elantra" alt="2016 Hyundai Elantra">
-                <img src="imagenes/Sedan/2016 Hyundai Elantra (4).jpeg" title="2016 Hyundai Elantra" alt="2016 Hyundai Elantra">
-                <img src="imagenes/Sedan/2016 Hyundai Elantra (5).jpeg" title="2016 Hyundai Elantra" alt="2016 Hyundai Elantra">
-                <img src="imagenes/Sedan/2016 Hyundai Elantra (6).jpeg" title="2016 Hyundai Elantra" alt="2016 Hyundai Elantra">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2016 Hyundai Elantra</h3>
-                <div>
-                    <p><b>Miles:</b> 180.000</p>
-                    <p><b>Cash:</b> $6,000</p>
-                </div>
-                <button onclick="openForm('2016 Hyundai Elantra')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2009  Honda Accord (13).jpeg" title="2009  Honda Accord" alt="2009  Honda Accord">
-                <img src="imagenes/Sedan/2009  Honda Accord (8).jpeg" title="2009  Honda Accord" alt="2009  Honda Accord">
-                <img src="imagenes/Sedan/2009  Honda Accord (7).jpeg" title="2009  Honda Accord" alt="2009  Honda Accord">
-                <img src="imagenes/Sedan/2009  Honda Accord (9).jpeg" title="2009  Honda Accord" alt="2009  Honda Accord">
-                <img src="imagenes/Sedan/2009  Honda Accord (10).jpeg" title="2009  Honda Accord" alt="2009  Honda Accord">
-                <img src="imagenes/Sedan/2009  Honda Accord (11).jpeg" title="2009  Honda Accord" alt="2009  Honda Accord">
-                <img src="imagenes/Sedan/2009  Honda Accord (12).jpeg" title="2009  Honda Accord" alt="2009  Honda Accord">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2009  Honda Accord</h3>
-                <div>
-                    <p><b>Miles:</b> 170.000 </p>
-                    <p><b>Cash:</b> $5,700</p>
-                </div>
-                <button onclick="openForm('2009  Honda Accord')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
                 <img src="imagenes/Sedan/2012 Toyota Corolla (1).jpeg" title="2012 Toyota Corolla" alt="2012 Toyota Corolla">
                 <img src="imagenes/Sedan/2012 Toyota Corolla (2).jpeg" title="2012 Toyota Corolla" alt="2012 Toyota Corolla">
                 <img src="imagenes/Sedan/2012 Toyota Corolla (3).jpeg" title="2012 Toyota Corolla" alt="2012 Toyota Corolla">
@@ -136,30 +65,6 @@
                     <p><b>Cash:</b> $6,500</p>
                 </div>
                 <button onclick="openForm('2013 Toyota Corolla LE')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2019 Kia optima (1).jpeg" title="2019 Kia optima" alt="2019 Kia optima">
-                <img src="imagenes/Sedan/2019 Kia optima (2).jpeg" title="2019 Kia optima" alt="2019 Kia optima">
-                <img src="imagenes/Sedan/2019 Kia optima (3).jpeg" title="2019 Kia optima" alt="2019 Kia optima">
-                <img src="imagenes/Sedan/2019 Kia optima (5).jpeg" title="2019 Kia optima" alt="2019 Kia optima">
-                <img src="imagenes/Sedan/2019 Kia optima (4).jpeg" title="2019 Kia optima" alt="2019 Kia optima">
-                <img src="imagenes/Sedan/2019 Kia optima (6).jpeg" title="2019 Kia optima" alt="2019 Kia optima">
-                <img src="imagenes/Sedan/2019 Kia optima (7).jpeg" title="2019 Kia optima" alt="2019 Kia optima">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2019 Kia optima</h3>
-                <div>
-                    <p><b>Miles:</b> 130,000</p>
-                    <p><b>Cash:</b> $9,000</p>
-                </div>
-                <button onclick="openForm('2019 Kia optima')">Request Information</button>
             </div>
         </div>
         <div class="car">
@@ -833,34 +738,6 @@
                     <p><b>Cash:</b> $4.000</p>
                 </div>
                 <button onclick="openForm('2009 Mercedes Benz Gl- class 450')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (1).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (2).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (3).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (4).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (5).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (6).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2013 Hyundai Elantra gt</h3>
-                <div>
-                    <p><b>Miles:</b> 101.000</p>
-                    <p><b>Cash:</b> $5.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b> $10.000 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.000 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2013 Hyundai Elantra gt')">Request Information</button>
             </div>
         </div>
         <div class="car">
