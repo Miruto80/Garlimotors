@@ -371,7 +371,7 @@
                 <h3>2015 Dodge Dart SXT</h3>
                 <div>
                     <p><b>Miles:</b> 77,501</p>
-                    <p><b>Cash:</b> $5.000</p>
+                    <p><b>Cash:</b> $4.500</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                 <div class="more-info">
                     <p><b>Financing:</b> $9.500(Negotiable)</p> <!-- Garantia incluida-->
@@ -457,7 +457,7 @@
                 <h3>2017 Chevrolet Cruze LS</h3>
                 <div>
                     <p><b>Miles:</b> 125,101</p>
-                    <p><b>Cash:</b> $5.000</p>
+                    <p><b>Cash:</b> $4.000</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                 <div class="more-info">
                     <p><b>Financing:</b> $9.500(Negotiable)</p> <!-- Garantia incluida-->
@@ -486,7 +486,7 @@
                 <h3>2017 Mazda 3 sport</h3>
                 <div>
                     <p><b>Miles:</b> 147.000</p>
-                    <p><b>Cash:</b> $6.000</p>
+                    <p><b>Cash:</b> $5.500</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                 <div class="more-info">
                     <p><b>Financing:</b> $11.000(Negotiable)</p> <!-- Garantia incluida-->
@@ -1113,7 +1113,12 @@
                 <h3>2006 RAM</h3>
                 <div>
                     <p><b>Miles:</b> 199.000</p>
-                    <p><b>Cash:</b> $7,000</p>
+                    <p><b>Cash:</b> $4,500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $8.000 (Negotiable)</p>
+                <p><b>Down:</b> $1.800 (Negotiable)</p>
+                </div>
                 </div>
                 <button onclick="openForm('2006 RAM')">Request Information</button>
             </div>
