@@ -193,7 +193,7 @@
                 <h3>Kia rio 2021</h3>
                 <div>
                     <p><b>Miles:</b> 75,000</p>
-                    <p><b>Cash:</b> $8.500</p>
+                    <p><b>Cash:</b> $7.500</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                 <div class="more-info">
                     <p><b>Financing:</b> $12.800 (Negotiable)</p> <!-- Garantia incluida-->
@@ -443,7 +443,7 @@
                 <h3>2016 Infiniti Q50 PREMIUM</h3>
                 <div>
                     <p><b>Miles:</b>162,059</p>
-                    <p><b>Cash:</b> $10.500</p>
+                    <p><b>Cash:</b> $9.500</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                 <div class="more-info">
                     <p><b>Financing:</b> $14.500(Negotiable)</p> <!-- Garantia incluida-->
@@ -476,7 +476,7 @@
                 <h3>2009 Toyota rav4</h3>
                 <div>
                     <p><b>Miles:</b> 208.000</p>
-                    <p><b>Cash:</b> $7,000</p>
+                    <p><b>Cash:</b> $5.000</p>
                 </div>
                 <button onclick="openForm('2009 Toyota rav4')">Request Information</button>
             </div>
@@ -499,7 +499,7 @@
                 <h3>2009 Honda pilot</h3>
                 <div>
                     <p><b>Miles:</b> 196.000</p>
-                    <p><b>Cash:</b> $6.000</p>
+                    <p><b>Cash:</b> $5.000</p>
                 </div>
                 <button onclick="openForm('2009 Honda pilot')">Request Information</button>
             </div>
@@ -523,7 +523,7 @@
                 <h3>2010 Crv</h3>
                 <div>
                     <p><b>Miles:</b> 193.000</p>
-                    <p><b>Cash:</b> $11,500</p>
+                    <p><b>Cash:</b> $5,500</p>
                 </div>
                 <button onclick="openForm('2010 Crv')">Request Information</button>
             </div>
@@ -575,7 +575,7 @@
                 <h3>2011 Lexus ct 200h híbrido</h3>
                 <div>
                     <p><b>Miles:</b> 190.000</p>
-                    <p><b>Cash:</b> $7.500</p>
+                    <p><b>Cash:</b> $5.500</p>
                 </div>
                 <button onclick="openForm('2011 Lexus ct 200h híbrido')">Request Information</button>
             </div>
@@ -600,7 +600,7 @@
                 <h3>2018 Subaru Forester</h3>
                 <div>
                     <p><b>Miles:</b> 186,824</p>
-                    <p><b>Cash:</b> $8.500</p>
+                    <p><b>Cash:</b> $7.000</p>
                 </div>
                 <button onclick="openForm('2018 Subaru Forester TOURING')">Request Information</button>
             </div>
@@ -647,7 +647,7 @@
                 <h3>Toyota Highlander 2013</h3>
                 <div>
                     <p><b>Miles:</b> 168.000</p>
-                    <p><b>Cash:</b> $8.500</p>
+                    <p><b>Cash:</b> $7.000</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                     <div class="more-info">
                     <p><b>Financing:</b> $10.500 (Negotiable)</p> <!-- Garantia incluida-->
@@ -786,7 +786,7 @@
                 <h3>2014 honda crv</h3>
                 <div>
                     <p><b>Miles:</b> 183.000</p>
-                    <p><b>Cash:</b> $8.000</p>
+                    <p><b>Cash:</b> $6.700</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                     <div class="more-info">
                     <p><b>Financing:</b> $11.500 (Negotiable)</p> <!-- Garantia incluida-->
