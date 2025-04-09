@@ -453,6 +453,32 @@
                 <button onclick="openForm('2016 Infiniti Q50 PREMIUM')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2020 Nissan versa  (1).jpeg" title="2020 Nissan versa" alt="2020 Nissan versa">
+                <img src="imagenes/Sedan/2020 Nissan versa  (2).jpeg" title="2020 Nissan versa" alt="2020 Nissan versa">
+                <img src="imagenes/Sedan/2020 Nissan versa  (3).jpeg" title="2020 Nissan versa" alt="2020 Nissan versa">
+                <img src="imagenes/Sedan/2020 Nissan versa  (4).jpeg" title="2020 Nissan versa" alt="2020 Nissan versa">
+                <img src="imagenes/Sedan/2020 Nissan versa  (5).jpeg" title="2020 Nissan versa" alt="2020 Nissan versa">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2020 Nissan versa</h3>
+                <div>
+                    <p><b>Miles:</b>100.000</p>
+                    <p><b>Cash:</b> $7.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $11.000(Negotiable)</p> <!-- Garantia incluida-->
+                </div>
+                </div>
+                <button onclick="openForm('2020 Nissan versa')">Request Information</button>
+            </div>
+        </div>
         <!--Mas sedans aqui -->
     </div>
     <hr>
@@ -936,6 +962,37 @@
                     <p><b>Cash:</b> $12.200</p>
                 </div>
                 <button onclick="openForm('2016 Land Rover LR4 HSE')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2017 Infiniti QX60 (1).jpeg" title="2017 Infiniti QX60" alt="2017 Infiniti QX60">
+            <img src="imagenes/Suv/2017 Infiniti QX60 (2).jpeg" title="2017 Infiniti QX60" alt="2017 Infiniti QX60">
+            <img src="imagenes/Suv/2017 Infiniti QX60 (3).jpeg" title="2017 Infiniti QX60" alt="2017 Infiniti QX60">
+            <img src="imagenes/Suv/2017 Infiniti QX60 (4).jpeg" title="2017 Infiniti QX60" alt="2017 Infiniti QX60">
+            <img src="imagenes/Suv/2017 Infiniti QX60 (5).jpeg" title="2017 Infiniti QX60" alt="2017 Infiniti QX60">
+            <img src="imagenes/Suv/2017 Infiniti QX60 (6).jpeg" title="2017 Infiniti QX60" alt="2017 Infiniti QX60">
+            <img src="imagenes/Suv/2017 Infiniti QX60 (7).jpeg" title="2017 Infiniti QX60" alt="2017 Infiniti QX60">
+            <img src="imagenes/Suv/2017 Infiniti QX60 (8).jpeg" title="2017 Infiniti QX60" alt="2017 Infiniti QX60">
+            <img src="imagenes/Suv/2017 Infiniti QX60 (9).jpeg" title="2017 Infiniti QX60" alt="2017 Infiniti QX60">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2017 Infiniti QX60</h3>
+                <div>
+                    <p><b>Miles:</b> 162.000</p>
+                    <p><b>Cash:</b> $8.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$13.000  (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $3.000 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2017 Infiniti QX60')">Request Information</button>
             </div>
         </div>
         <!--More suvs here-->
