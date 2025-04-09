@@ -997,6 +997,29 @@
                 <button onclick="openForm('2013 Ram 1500 TRADESMAN')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Trucks/2002 DODGE DAKOTA SPORT (1).jpeg" title="2002 DODGE DAKOTA SPORT" alt="2002 DODGE DAKOTA SPORT ">
+                <img src="imagenes/Trucks/2002 DODGE DAKOTA SPORT (2).jpeg" title="2002 DODGE DAKOTA SPORT" alt="2002 DODGE DAKOTA SPORT ">
+                <img src="imagenes/Trucks/2002 DODGE DAKOTA SPORT (3).jpeg" title="2002 DODGE DAKOTA SPORT" alt="2002 DODGE DAKOTA SPORT ">
+                <img src="imagenes/Trucks/2002 DODGE DAKOTA SPORT (4).jpeg" title="2002 DODGE DAKOTA SPORT" alt="2002 DODGE DAKOTA SPORT ">
+                <img src="imagenes/Trucks/2002 DODGE DAKOTA SPORT (5).jpeg" title="2002 DODGE DAKOTA SPORT" alt="2002 DODGE DAKOTA SPORT ">
+                <img src="imagenes/Trucks/2002 DODGE DAKOTA SPORT (6).jpeg" title="2002 DODGE DAKOTA SPORT" alt="2002 DODGE DAKOTA SPORT ">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2002 DODGE DAKOTA SPORT</h3>
+                <div>
+                    <p><b>Miles:</b> 156.000</p>
+                    <p><b>Cash:</b> $4.500</p>
+                </div>
+                <button onclick="openForm('2002 DODGE DAKOTA SPORT')">Request Information</button>
+            </div>
+        </div>
         <!--Mas Trucks aqui -->
     </div>
     <hr>
