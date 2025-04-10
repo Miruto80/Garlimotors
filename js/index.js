@@ -1,5 +1,6 @@
 let currentImageIndex = 0;
 const images = [
+    "imagenes/Last adds/Last add (5).jpeg",
     "imagenes/Last adds/Last add (1).jpeg",
     "imagenes/Last adds/Last add (2).jpeg",
     "imagenes/Last adds/Last add (3).jpeg"
