@@ -147,34 +147,6 @@
         </div>
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Sedan/Honda civic 2016  (1).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
-                <img src="imagenes/Sedan/Honda civic 2016  (3).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
-                <img src="imagenes/Sedan/Honda civic 2016  (4).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
-                <img src="imagenes/Sedan/Honda civic 2016  (5).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
-                <img src="imagenes/Sedan/Honda civic 2016  (2).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
-                <img src="imagenes/Sedan/Honda civic 2016  (6).jpeg" title="Honda civic 2016" alt="Honda civic 2016">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>Honda civic 2016</h3>
-                <div>
-                    <p><b>Miles:</b> 166,000</p>
-                    <p><b>Cash:</b> $8.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $12.400 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.000 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('Honda civic 2016')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
                 <img src="imagenes/Sedan/Kia rio 2021 (1).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
                 <img src="imagenes/Sedan/Kia rio 2021 (3).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
                 <img src="imagenes/Sedan/Kia rio 2021 (4).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
@@ -201,33 +173,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('Kia rio 2021')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/Toyota Corolla 2010  (1).jpeg" title="Toyota Corolla 2010" alt="Toyota Corolla 2010">
-                <img src="imagenes/Sedan/Toyota Corolla 2010  (3).jpeg" title="Toyota Corolla 2010" alt="Toyota Corolla 2010">
-                <img src="imagenes/Sedan/Toyota Corolla 2010  (5).jpeg" title="Toyota Corolla 2010" alt="Toyota Corolla 2010">
-                <img src="imagenes/Sedan/Toyota Corolla 2010  (2).jpeg" title="Toyota Corolla 2010" alt="Toyota Corolla 2010">
-                <img src="imagenes/Sedan/Toyota Corolla 2010  (4).jpeg" title="Toyota Corolla 2010" alt="Toyota Corolla 2010">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>Toyota Corolla 2010</h3>
-                <div>
-                    <p><b>Miles:</b> 75,000</p>
-                    <p><b>Cash:</b> $6.000</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $9.800 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $1.500 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('Toyota Corolla 2010')">Request Information</button>
             </div>
         </div>
         <div class="car">
@@ -286,64 +231,7 @@
                 <button onclick="openForm('2015 Dodge Dart SXT')">Request Information</button>
             </div>
         </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2015 Toyota Corolla LE (1).jpeg" title="2015 Toyota Corolla LE" alt="2015 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2015 Toyota Corolla LE (2).jpeg" title="2015 Toyota Corolla LE" alt="2015 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2015 Toyota Corolla LE (3).jpeg" title="2015 Toyota Corolla LE" alt="2015 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2015 Toyota Corolla LE (5).jpeg" title="2015 Toyota Corolla LE" alt="2015 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2015 Toyota Corolla LE (4).jpeg" title="2015 Toyota Corolla LE" alt="2015 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2015 Toyota Corolla LE (6).jpeg" title="2015 Toyota Corolla LE" alt="2015 Toyota Corolla LE">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2015 Toyota Corolla LE</h3>
-                <div>
-                    <p><b>Miles:</b> 190,293</p>
-                    <p><b>Cash:</b> $7.200</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $12.000(Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.500(Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2015 Toyota Corolla LE')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2016 Toyota Corolla LE (4).jpeg" title="2016 Toyota Corolla LE" alt="2016 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2016 Toyota Corolla LE (1).jpeg" title="2016 Toyota Corolla LE" alt="2016 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2016 Toyota Corolla LE (2).jpeg" title="2016 Toyota Corolla LE" alt="2016 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2016 Toyota Corolla LE (3).jpeg" title="2016 Toyota Corolla LE" alt="2016 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2016 Toyota Corolla LE (5).jpeg" title="2016 Toyota Corolla LE" alt="2016 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2016 Toyota Corolla LE (6).jpeg" title="2016 Toyota Corolla LE" alt="2016 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2016 Toyota Corolla LE (7).jpeg" title="2016 Toyota Corolla LE" alt="2016 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2016 Toyota Corolla LE (8).jpeg" title="2016 Toyota Corolla LE" alt="2016 Toyota Corolla LE">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2016 Toyota Corolla LE</h3>
-                <div>
-                    <p><b>Miles:</b> 225,568</p>
-                    <p><b>Cash:</b> $6.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $11.000(Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.500(Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2016 Toyota Corolla LE')">Request Information</button>
-            </div>
-        </div>
+        
         <div class="car">
             <div class="car-images">
                 <img src="imagenes/Sedan/2017 Chevrolet Cruze LS (1).jpeg" title="2017 Chevrolet Cruze LS" alt="2017 Chevrolet Cruze LS">
@@ -745,57 +633,6 @@
         </div>
         <div class="car">
             <div class="car-images">
-            <img src="imagenes/Suv/2009 Mercedes Benz Gl- class 450 (1).jpeg" title="2009 Mercedes Benz Gl- class 450" alt="2009 Mercedes Benz Gl- class 450">
-            <img src="imagenes/Suv/2009 Mercedes Benz Gl- class 450 (2).jpeg" title="2009 Mercedes Benz Gl- class 450" alt="2009 Mercedes Benz Gl- class 450">
-            <img src="imagenes/Suv/2009 Mercedes Benz Gl- class 450 (3).jpeg" title="2009 Mercedes Benz Gl- class 450" alt="2009 Mercedes Benz Gl- class 450">
-            <img src="imagenes/Suv/2009 Mercedes Benz Gl- class 450 (4).jpeg" title="2009 Mercedes Benz Gl- class 450" alt="2009 Mercedes Benz Gl- class 450">
-            <img src="imagenes/Suv/2009 Mercedes Benz Gl- class 450 (5).jpeg" title="2009 Mercedes Benz Gl- class 450" alt="2009 Mercedes Benz Gl- class 450">
-            <img src="imagenes/Suv/2009 Mercedes Benz Gl- class 450 (6).jpeg" title="2009 Mercedes Benz Gl- class 450" alt="2009 Mercedes Benz Gl- class 450">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2009 Mercedes Benz Gl</h3>
-                <div>
-                    <p><b>Miles:</b> 194.000</p>
-                    <p><b>Cash:</b> $4.000</p>
-                </div>
-                <button onclick="openForm('2009 Mercedes Benz Gl- class 450')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (1).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (2).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (3).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (4).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (5).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-            <img src="imagenes/Suv/2013 Hyundai Elantra gt (6).jpeg" title="2013 Hyundai Elantra gt" alt="2013 Hyundai Elantra gt">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2013 Hyundai Elantra gt</h3>
-                <div>
-                    <p><b>Miles:</b> 101.000</p>
-                    <p><b>Cash:</b> $5.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b> $10.000 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.000 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2013 Hyundai Elantra gt')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
             <img src="imagenes/Suv/2014 honda crv (1).jpeg" title="2014 honda crv" alt="2014 honda crv">
             <img src="imagenes/Suv/2014 honda crv (2).jpeg" title="2014 honda crv" alt="2014 honda crv">
             <img src="imagenes/Suv/2014 honda crv (3).jpeg" title="2014 honda crv" alt="2014 honda crv">
@@ -848,67 +685,7 @@
                 <button onclick="openForm('2021 MITSUBISHI MIRAGE ES')">Request Information</button>
             </div>
         </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2012 kia soul (1).jpeg" title="2012 kia soul" alt="2012 kia soul">
-            <img src="imagenes/Suv/2012 kia soul (2).jpeg" title="2012 kia soul" alt="2012 kia soul">
-            <img src="imagenes/Suv/2012 kia soul (3).jpeg" title="2012 kia soul" alt="2012 kia soul">
-            <img src="imagenes/Suv/2012 kia soul (4).jpeg" title="2012 kia soul" alt="2012 kia soul">
-            <img src="imagenes/Suv/2012 kia soul (5).jpeg" title="2012 kia soul" alt="2012 kia soul">
-            <img src="imagenes/Suv/2012 kia soul (6).jpeg" title="2012 kia soul" alt="2012 kia soul">
-            <img src="imagenes/Suv/2012 kia soul (7).jpeg" title="2012 kia soul" alt="2012 kia soul">
-            <img src="imagenes/Suv/2012 kia soul (8).jpeg" title="2012 kia soul" alt="2012 kia soul">
-            <img src="imagenes/Suv/2012 kia soul (9).jpeg" title="2012 kia soul" alt="2012 kia soul">
-        </div>
         
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-               </div>
-                <h3>2012 kia soul</h3>
-                <div>
-                    <p><b>Miles:</b> 155,366</p>
-                    <p><b>Cash:</b> $4.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b>$9.000 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $1.500 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2012 kia soul')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2006 SUZUKI AERIO SX (1).jpeg" title="2006 SUZUKI AERIO SX" alt="2006 SUZUKI AERIO SX">
-            <img src="imagenes/Suv/2006 SUZUKI AERIO SX (2).jpeg" title="2006 SUZUKI AERIO SX" alt="2006 SUZUKI AERIO SX">
-            <img src="imagenes/Suv/2006 SUZUKI AERIO SX (3).jpeg" title="2006 SUZUKI AERIO SX" alt="2006 SUZUKI AERIO SX">
-            <img src="imagenes/Suv/2006 SUZUKI AERIO SX (4).jpeg" title="2006 SUZUKI AERIO SX" alt="2006 SUZUKI AERIO SX">
-            <img src="imagenes/Suv/2006 SUZUKI AERIO SX (5).jpeg" title="2006 SUZUKI AERIO SX" alt="2006 SUZUKI AERIO SX">
-            <img src="imagenes/Suv/2006 SUZUKI AERIO SX (6).jpeg" title="2006 SUZUKI AERIO SX" alt="2006 SUZUKI AERIO SX">
-            <img src="imagenes/Suv/2006 SUZUKI AERIO SX (7).jpeg" title="2006 SUZUKI AERIO SX" alt="2006 SUZUKI AERIO SX">
-            <img src="imagenes/Suv/2006 SUZUKI AERIO SX (8).jpeg" title="2006 SUZUKI AERIO SX" alt="2006 SUZUKI AERIO SX">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-               </div>
-                <h3>2006 SUZUKI AERIO SX</h3>
-                <div>
-                    <p><b>Miles:</b> 46.000</p>
-                    <p><b>Cash:</b> $4.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b>$8.500  (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $1.500 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2006 SUZUKI AERIO SX')">Request Information</button>
-            </div>
-        </div>
         <div class="car">
             <div class="car-images">
             <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (1).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
@@ -1132,33 +909,6 @@
                 <button onclick="openForm('2016 Ford Mustang')">Request Information</button>
             </div>
         </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Luxury/2016 BMW 5 Series 5281 (1).jpeg" title="2016 BMW 5 Series 5281" alt="2016 BMW 5 Series 5281">
-            <img src="imagenes/Luxury/2016 BMW 5 Series 5281 (2).jpeg" title="2016 BMW 5 Series 5281" alt="2016 BMW 5 Series 5281">
-            <img src="imagenes/Luxury/2016 BMW 5 Series 5281 (3).jpeg" title="2016 BMW 5 Series 5281" alt="2016 BMW 5 Series 5281">
-            <img src="imagenes/Luxury/2016 BMW 5 Series 5281 (4).jpeg" title="2016 BMW 5 Series 5281" alt="2016 BMW 5 Series 5281">
-            <img src="imagenes/Luxury/2016 BMW 5 Series 5281 (5).jpeg" title="2016 BMW 5 Series 5281" alt="2016 BMW 5 Series 5281">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2016 BMW 5 Series 5281</h3>
-                <div>
-                    <p><b>Miles:</b> 193,379</p>
-                    <p><b>Cash:</b> $6.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                <p><b>Financing:</b> $11.500 (Negotiable)</p>
-                <p><b>Down:</b> $3.000 (Negotiable)</p>
-                </div>
-            </div>
-            <button onclick="openForm('2016 BMW 5 Series 5281')">Request Information</button>
-        </div>
-    </div>
     <!-- More Luxury here-->
     </div>
     <hr>
