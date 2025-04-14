@@ -367,7 +367,88 @@
                 <button onclick="openForm('2020 Nissan versa')">Request Information</button>
             </div>
         </div>
-        <!--Mas sedans aqui -->
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2010 Toyota Corolla (1).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
+                <img src="imagenes/Sedan/2010 Toyota Corolla (2).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
+                <img src="imagenes/Sedan/2010 Toyota Corolla (3).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
+                <img src="imagenes/Sedan/2010 Toyota Corolla (4).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
+                <img src="imagenes/Sedan/2010 Toyota Corolla (5).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
+                <img src="imagenes/Sedan/2010 Toyota Corolla (6).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
+                <img src="imagenes/Sedan/2010 Toyota Corolla (7).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2010 Toyota Corolla</h3>
+                <div>
+                    <p><b>Miles:</b>154.000</p>
+                    <p><b>Cash:</b> $5.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $9.000(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2010 Toyota Corolla')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2016 Hyundai accent (1).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
+                <img src="imagenes/Sedan/2016 Hyundai accent (2).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
+                <img src="imagenes/Sedan/2016 Hyundai accent (3).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
+                <img src="imagenes/Sedan/2016 Hyundai accent (4).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
+                <img src="imagenes/Sedan/2016 Hyundai accent (5).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
+                <img src="imagenes/Sedan/2016 Hyundai accent (6).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2016 Hyundai accent</h3>
+                <div>
+                    <p><b>Miles:</b>165.000</p>
+                    <p><b>Cash:</b> $4.200</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $8.500(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.000(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2016 Hyundai accent')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2019Toyota Corolla (1).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
+                <img src="imagenes/Sedan/2019Toyota Corolla (2).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
+                <img src="imagenes/Sedan/2019Toyota Corolla (3).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
+                <img src="imagenes/Sedan/2019Toyota Corolla (4).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
+                <img src="imagenes/Sedan/2019Toyota Corolla (5).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
+                <img src="imagenes/Sedan/2019Toyota Corolla (6).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
+                <img src="imagenes/Sedan/2019Toyota Corolla (7).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2019 Toyota Corolla</h3>
+                <div>
+                    <p><b>Miles:</b>399.000</p>
+                    <p><b>Cash:</b> $4.000</p>
+                </div>
+                <button onclick="openForm('2019Toyota Corolla')">Request Information</button>
+            </div>
+        </div>
+        <!--More sedans here -->
     </div>
     <hr>
     <h2 id="SUV">SUV</h2>
@@ -772,6 +853,64 @@
                 <button onclick="openForm('2017 Infiniti QX60')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2014 Toyota Yaris (1).jpeg" title="2014 Toyota Yaris" alt="2014 Toyota Yaris">
+            <img src="imagenes/Suv/2014 Toyota Yaris (2).jpeg" title="2014 Toyota Yaris" alt="2014 Toyota Yaris">
+            <img src="imagenes/Suv/2014 Toyota Yaris (3).jpeg" title="2014 Toyota Yaris" alt="2014 Toyota Yaris">
+            <img src="imagenes/Suv/2014 Toyota Yaris (4).jpeg" title="2014 Toyota Yaris" alt="2014 Toyota Yaris">
+            <img src="imagenes/Suv/2014 Toyota Yaris (5).jpeg" title="2014 Toyota Yaris" alt="2014 Toyota Yaris">
+            <img src="imagenes/Suv/2014 Toyota Yaris (6).jpeg" title="2014 Toyota Yaris" alt="2014 Toyota Yaris">
+            <img src="imagenes/Suv/2014 Toyota Yaris (7).jpeg" title="2014 Toyota Yaris" alt="2014 Toyota Yaris">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2014 Toyota Yaris</h3>
+                <div>
+                    <p><b>Miles:</b> 190.000</p>
+                    <p><b>Cash:</b> $5.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$9.000  (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2014 Toyota Yaris')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (1).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
+            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (2).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
+            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (3).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
+            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (4).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
+            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (5).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
+            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (6).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
+            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (7).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2015 Audi Q5 PREMIUM</h3>
+                <div>
+                    <p><b>Miles:</b> 156,822</p>
+                    <p><b>Cash:</b> $7.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$11.500  (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2015 Audi Q5 PREMIUM +')">Request Information</button>
+            </div>
+        </div>
        
         <!--More suvs here-->
     </div>
@@ -880,6 +1019,32 @@
                     <p><b>Cash:</b> $9.500</p>
                 </div>
                 <button onclick="openForm('2016 Ford Mustang')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Luxury/2011 BMW x6 (1).jpeg" title="2011 BMW x6" alt="2011 BMW x6">
+            <img src="imagenes/Luxury/2011 BMW x6 (2).jpeg" title="2011 BMW x6" alt="2011 BMW x6">
+            <img src="imagenes/Luxury/2011 BMW x6 (4).jpeg" title="2011 BMW x6" alt="2011 BMW x6">
+            <img src="imagenes/Luxury/2011 BMW x6 (5).jpeg" title="2011 BMW x6" alt="2011 BMW x6">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2011 BMW x6</h3>
+                <div>
+                    <p><b>Miles:</b> 131.000</p>
+                    <p><b>Cash:</b> $6.200</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $10.500 (Negotiable)</p>
+                <p><b>Down:</b> $2.000 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2011 BMW x6')">Request Information</button>
             </div>
         </div>
     <!-- More Luxury here-->
