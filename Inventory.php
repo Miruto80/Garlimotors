@@ -419,6 +419,37 @@
                 <button onclick="openForm('2019Toyota Corolla')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2015 Honda Civic EX (1).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
+                <img src="imagenes/Sedan/2015 Honda Civic EX (2).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
+                <img src="imagenes/Sedan/2015 Honda Civic EX (3).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
+                <img src="imagenes/Sedan/2015 Honda Civic EX (4).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
+                <img src="imagenes/Sedan/2015 Honda Civic EX (5).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
+                <img src="imagenes/Sedan/2015 Honda Civic EX (6).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
+                <img src="imagenes/Sedan/2015 Honda Civic EX (7).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
+                <img src="imagenes/Sedan/2015 Honda Civic EX (8).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
+                <img src="imagenes/Sedan/2015 Honda Civic EX (9).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2015 Honda Civic EX</h3>
+                <div>
+                    <p><b>Miles:</b>161,024</p>
+                    <p><b>Cash:</b> $7.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $11.500(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.000(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2015 Honda Civic EX')">Request Information</button>
+            </div>
+        </div>
         <!--More sedans here -->
     </div>
     <hr>
@@ -882,6 +913,35 @@
                 <button onclick="openForm('2015 Audi Q5 PREMIUM +')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (1).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
+            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (2).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
+            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (3).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
+            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (4).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
+            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (5).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
+            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (6).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
+            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (7).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2015 land Rover Rangen</h3>
+                <div>
+                    <p><b>Miles:</b> 126.000</p>
+                    <p><b>Cash:</b> $7.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$11.500  (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2015 land Rover Rangen rover evoque')">Request Information</button>
+            </div>
+        </div>
        
         <!--More suvs here-->
     </div>
@@ -961,11 +1021,43 @@
                 <div>
                     <p><b>Miles:</b> 156.000</p>
                     <p><b>Cash:</b> $4.500</p>
+                    
                 </div>
                 <button onclick="openForm('2002 DODGE DAKOTA SPORT')">Request Information</button>
             </div>
         </div>
-        <!--Mas Trucks aqui -->
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Trucks/2013 Ram 1500 SLT (1).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
+                <img src="imagenes/Trucks/2013 Ram 1500 SLT (2).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
+                <img src="imagenes/Trucks/2013 Ram 1500 SLT (3).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
+                <img src="imagenes/Trucks/2013 Ram 1500 SLT (4).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
+                <img src="imagenes/Trucks/2013 Ram 1500 SLT (5).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
+                <img src="imagenes/Trucks/2013 Ram 1500 SLT (6).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
+                <img src="imagenes/Trucks/2013 Ram 1500 SLT (7).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
+                <img src="imagenes/Trucks/2013 Ram 1500 SLT (8).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
+                <img src="imagenes/Trucks/2013 Ram 1500 SLT (9).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2013 Ram 1500 SLT</h3>
+                <div>
+                    <p><b>Miles:</b> 181,034</p>
+                    <p><b>Cash:</b> $7.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $12.000 (Negotiable)</p>
+                <p><b>Down:</b> $2.000 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2013 Ram 1500 SLT')">Request Information</button>
+            </div>
+        </div>
+        <!--More Trucks here -->
     </div>
     <hr>
     <h2 id="Luxury">Luxury</h2>
@@ -1016,6 +1108,37 @@
                 </div>
                 </div>
                 <button onclick="openForm('2011 BMW x6')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Luxury/2015 BMW 3 Series 3201 (1).jpeg" title="2015 BMW 3 Series 3201" alt="2015 BMW 3 Series 3201">
+            <img src="imagenes/Luxury/2015 BMW 3 Series 3201 (2).jpeg" title="2015 BMW 3 Series 3201" alt="2015 BMW 3 Series 3201">
+            <img src="imagenes/Luxury/2015 BMW 3 Series 3201 (3).jpeg" title="2015 BMW 3 Series 3201" alt="2015 BMW 3 Series 3201">
+            <img src="imagenes/Luxury/2015 BMW 3 Series 3201 (4).jpeg" title="2015 BMW 3 Series 3201" alt="2015 BMW 3 Series 3201">
+            <img src="imagenes/Luxury/2015 BMW 3 Series 3201 (5).jpeg" title="2015 BMW 3 Series 3201" alt="2015 BMW 3 Series 3201">
+            <img src="imagenes/Luxury/2015 BMW 3 Series 3201 (6).jpeg" title="2015 BMW 3 Series 3201" alt="2015 BMW 3 Series 3201">
+            <img src="imagenes/Luxury/2015 BMW 3 Series 3201 (7).jpeg" title="2015 BMW 3 Series 3201" alt="2015 BMW 3 Series 3201">
+            <img src="imagenes/Luxury/2015 BMW 3 Series 3201 (8).jpeg" title="2015 BMW 3 Series 3201" alt="2015 BMW 3 Series 3201">
+            <img src="imagenes/Luxury/2015 BMW 3 Series 3201 (9).jpeg" title="2015 BMW 3 Series 3201" alt="2015 BMW 3 Series 3201">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2015 BMW 3 Series 3201</h3>
+                <div>
+                    <p><b>Miles:</b> 169,317</p>
+                    <p><b>Cash:</b> $5.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $10.500 (Negotiable)</p>
+                <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2015 BMW 3 Series 3201')">Request Information</button>
             </div>
         </div>
     <!-- More Luxury here-->
