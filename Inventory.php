@@ -369,35 +369,6 @@
         </div>
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Sedan/2010 Toyota Corolla (1).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
-                <img src="imagenes/Sedan/2010 Toyota Corolla (2).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
-                <img src="imagenes/Sedan/2010 Toyota Corolla (3).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
-                <img src="imagenes/Sedan/2010 Toyota Corolla (4).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
-                <img src="imagenes/Sedan/2010 Toyota Corolla (5).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
-                <img src="imagenes/Sedan/2010 Toyota Corolla (6).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
-                <img src="imagenes/Sedan/2010 Toyota Corolla (7).jpeg" title="2010 Toyota Corolla" alt="2010 Toyota Corolla">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2010 Toyota Corolla</h3>
-                <div>
-                    <p><b>Miles:</b>154.000</p>
-                    <p><b>Cash:</b> $5.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $9.000(Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $1.500(Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2010 Toyota Corolla')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
                 <img src="imagenes/Sedan/2016 Hyundai accent (1).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
                 <img src="imagenes/Sedan/2016 Hyundai accent (2).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
                 <img src="imagenes/Sedan/2016 Hyundai accent (3).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
