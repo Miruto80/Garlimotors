@@ -450,6 +450,35 @@
                 <button onclick="openForm('2015 Honda Civic EX')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2017 Mazda 6 (1).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
+                <img src="imagenes/Sedan/2017 Mazda 6 (2).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
+                <img src="imagenes/Sedan/2017 Mazda 6 (3).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
+                <img src="imagenes/Sedan/2017 Mazda 6 (4).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
+                <img src="imagenes/Sedan/2017 Mazda 6 (5).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
+                <img src="imagenes/Sedan/2017 Mazda 6 (6).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
+                <img src="imagenes/Sedan/2017 Mazda 6 (7).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2017 Mazda 6</h3>
+                <div>
+                    <p><b>Miles:</b>120.000</p>
+                    <p><b>Cash:</b> $6.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $10.500(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.000(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2017 Mazda 6')">Request Information</button>
+            </div>
+        </div>
         <!--More sedans here -->
     </div>
     <hr>
@@ -911,35 +940,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('2015 Audi Q5 PREMIUM +')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (1).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
-            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (2).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
-            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (3).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
-            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (4).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
-            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (5).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
-            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (6).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
-            <img src="imagenes/Suv/2015 land Rover Rangen rover evoque (7).jpeg" title="2015 land Rover Rangen rover evoque" alt="2015 land Rover Rangen rover evoque">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-               </div>
-                <h3>2015 land Rover Rangen</h3>
-                <div>
-                    <p><b>Miles:</b> 126.000</p>
-                    <p><b>Cash:</b> $7.000</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b>$11.500  (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.500 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2015 land Rover Rangen rover evoque')">Request Information</button>
             </div>
         </div>
        
