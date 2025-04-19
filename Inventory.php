@@ -822,6 +822,34 @@
                 <button onclick="openForm('2011 Chevrolet Suburban')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2016 Hyundai Tucson (1).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
+            <img src="imagenes/Suv/2016 Hyundai Tucson (2).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
+            <img src="imagenes/Suv/2016 Hyundai Tucson (3).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
+            <img src="imagenes/Suv/2016 Hyundai Tucson (4).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
+            <img src="imagenes/Suv/2016 Hyundai Tucson (5).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
+            <img src="imagenes/Suv/2016 Hyundai Tucson (6).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2016 Hyundai Tucson</h3>
+                <div>
+                    <p><b>Miles:</b> 130.000</p>
+                    <p><b>Cash:</b> $7.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$10.500  (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.200 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2016 Hyundai Tucson')">Request Information</button>
+            </div>
+        </div>
        
         <!--More suvs here-->
     </div>
