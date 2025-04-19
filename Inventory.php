@@ -399,6 +399,66 @@
                 <button onclick="openForm('2017 Mazda 6')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2010 Kia forte (1).jpeg" title="2010 Kia forte" alt="2010 Kia forte">
+                <img src="imagenes/Sedan/2010 Kia forte (2).jpeg" title="2010 Kia forte" alt="2010 Kia forte">
+                <img src="imagenes/Sedan/2010 Kia forte (3).jpeg" title="2010 Kia forte" alt="2010 Kia forte">
+                <img src="imagenes/Sedan/2010 Kia forte (4).jpeg" title="2010 Kia forte" alt="2010 Kia forte">
+                <img src="imagenes/Sedan/2010 Kia forte (5).jpeg" title="2010 Kia forte" alt="2010 Kia forte">
+                <img src="imagenes/Sedan/2010 Kia forte (6).jpeg" title="2010 Kia forte" alt="2010 Kia forte">
+                <img src="imagenes/Sedan/2010 Kia forte (7).jpeg" title="2010 Kia forte" alt="2010 Kia forte">
+                <img src="imagenes/Sedan/2010 Kia forte (8).jpeg" title="2010 Kia forte" alt="2010 Kia forte">
+                <img src="imagenes/Sedan/2010 Kia forte (9).jpeg" title="2010 Kia forte" alt="2010 Kia forte">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2010 Kia forte</h3>
+                <div>
+                    <p><b>Miles:</b>240.000</p>
+                    <p><b>Cash:</b> $2.200</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $5.000(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.200(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2010 Kia forte')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2020 Hyundai Elantra (1).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
+                <img src="imagenes/Sedan/2020 Hyundai Elantra (2).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
+                <img src="imagenes/Sedan/2020 Hyundai Elantra (3).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
+                <img src="imagenes/Sedan/2020 Hyundai Elantra (4).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
+                <img src="imagenes/Sedan/2020 Hyundai Elantra (5).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
+                <img src="imagenes/Sedan/2020 Hyundai Elantra (6).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
+                <img src="imagenes/Sedan/2020 Hyundai Elantra (7).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2020 Hyundai Elantra</h3>
+                <div>
+                    <p><b>Miles:</b>110.000</p>
+                    <p><b>Cash:</b> $6.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $11.000(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.200(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2020 Hyundai Elantra')">Request Information</button>
+            </div>
+        </div>
         <!--More sedans here -->
     </div>
     <hr>
@@ -673,6 +733,93 @@
                 </div>
                 </div>
                 <button onclick="openForm('2015 Audi Q5 PREMIUM +')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2001 Acura mdx (1).jpeg" title="2001 Acura mdx" alt="2001 Acura mdx">
+            <img src="imagenes/Suv/2001 Acura mdx (2).jpeg" title="2001 Acura mdx" alt="2001 Acura mdx">
+            <img src="imagenes/Suv/2001 Acura mdx (3).jpeg" title="2001 Acura mdx" alt="2001 Acura mdx">
+            <img src="imagenes/Suv/2001 Acura mdx (4).jpeg" title="2001 Acura mdx" alt="2001 Acura mdx">
+            <img src="imagenes/Suv/2001 Acura mdx (5).jpeg" title="2001 Acura mdx" alt="2001 Acura mdx">
+            <img src="imagenes/Suv/2001 Acura mdx (6).jpeg" title="2001 Acura mdx" alt="2001 Acura mdx">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2001 Acura mdx</h3>
+                <div>
+                    <p><b>Miles:</b> 218,000</p>
+                    <p><b>Cash:</b> $2.400</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$5.000  (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.200 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2001 Acura mdx')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2009 honda crv (1).jpeg" title="2009 honda crv" alt="2009 honda crv">
+            <img src="imagenes/Suv/2009 honda crv (6).jpeg" title="2009 honda crv" alt="2009 honda crv">
+            <img src="imagenes/Suv/2009 honda crv (7).jpeg" title="2009 honda crv" alt="2009 honda crv">
+            <img src="imagenes/Suv/2009 honda crv (2).jpeg" title="2009 honda crv" alt="2009 honda crv">
+            <img src="imagenes/Suv/2009 honda crv (3).jpeg" title="2009 honda crv" alt="2009 honda crv">
+            <img src="imagenes/Suv/2009 honda crv (4).jpeg" title="2009 honda crv" alt="2009 honda crv">
+            <img src="imagenes/Suv/2009 honda crv (5).jpeg" title="2009 honda crv" alt="2009 honda crv">
+            <img src="imagenes/Suv/2009 honda crv (8).jpeg" title="2009 honda crv" alt="2009 honda crv">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2009 honda crv</h3>
+                <div>
+                    <p><b>Miles:</b> 170.000</p>
+                    <p><b>Cash:</b> $5.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$9.500  (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.700 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2009 honda crv')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2011 Chevrolet Suburban (1).jpeg" title="2011 Chevrolet Suburban" alt="2011 Chevrolet Suburban">
+            <img src="imagenes/Suv/2011 Chevrolet Suburban (2).jpeg" title="2011 Chevrolet Suburban" alt="2011 Chevrolet Suburban">
+            <img src="imagenes/Suv/2011 Chevrolet Suburban (3).jpeg" title="2011 Chevrolet Suburban" alt="2011 Chevrolet Suburban">
+            <img src="imagenes/Suv/2011 Chevrolet Suburban (4).jpeg" title="2011 Chevrolet Suburban" alt="2011 Chevrolet Suburban">
+            <img src="imagenes/Suv/2011 Chevrolet Suburban (5).jpeg" title="2011 Chevrolet Suburban" alt="2011 Chevrolet Suburban">
+            <img src="imagenes/Suv/2011 Chevrolet Suburban (6).jpeg" title="2011 Chevrolet Suburban" alt="2011 Chevrolet Suburban">
+            <img src="imagenes/Suv/2011 Chevrolet Suburban (7).jpeg" title="2011 Chevrolet Suburban" alt="2011 Chevrolet Suburban">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2011 Chevrolet Suburban</h3>
+                <div>
+                    <p><b>Miles:</b> 199.000</p>
+                    <p><b>Cash:</b> $7.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$11.000  (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.000 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2011 Chevrolet Suburban')">Request Information</button>
             </div>
         </div>
        
