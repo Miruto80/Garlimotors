@@ -25,28 +25,6 @@
     <div class="caja_img">
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Sedan/2012 Toyota Corolla (1).jpeg" title="2012 Toyota Corolla" alt="2012 Toyota Corolla">
-                <img src="imagenes/Sedan/2012 Toyota Corolla (2).jpeg" title="2012 Toyota Corolla" alt="2012 Toyota Corolla">
-                <img src="imagenes/Sedan/2012 Toyota Corolla (3).jpeg" title="2012 Toyota Corolla" alt="2012 Toyota Corolla">
-                <img src="imagenes/Sedan/2012 Toyota Corolla (4).jpeg" title="2012 Toyota Corolla" alt="2012 Toyota Corolla">
-                <img src="imagenes/Sedan/2012 Toyota Corolla (5).jpeg" title="2012 Toyota Corolla" alt="2012 Toyota Corolla">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2012 Toyota Corolla</h3>
-                <div>
-                    <p><b>Miles:</b> 200.000 </p>
-                    <p><b>Cash:</b> $5,500</p>
-                </div>
-                <button onclick="openForm('2012 Toyota Corolla')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
                 <img src="imagenes/Sedan/2013 Toyota Corolla LE (1).jpeg" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
                 <img src="imagenes/Sedan/2013 Toyota Corolla LE (4).jpeg" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
                 <img src="imagenes/Sedan/2013 Toyota Corolla LE (2).jpeg" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
@@ -147,36 +125,6 @@
         </div>
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Sedan/Kia rio 2021 (1).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
-                <img src="imagenes/Sedan/Kia rio 2021 (3).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
-                <img src="imagenes/Sedan/Kia rio 2021 (4).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
-                <img src="imagenes/Sedan/Kia rio 2021 (5).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
-                <img src="imagenes/Sedan/Kia rio 2021 (2).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
-                <img src="imagenes/Sedan/Kia rio 2021 (6).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
-                <img src="imagenes/Sedan/Kia rio 2021 (7).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
-                <img src="imagenes/Sedan/Kia rio 2021 (8).jpeg" title="Kia rio 2021" alt="Kia rio 2021">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>Kia rio 2021</h3>
-                <div>
-                    <p><b>Miles:</b> 75,000</p>
-                    <p><b>Cash:</b> $7.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $12.800 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.000 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('Kia rio 2021')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
                 <img src="imagenes/Sedan/2013 Fusión (1).jpeg" title="2013 Fusión" alt="2013 Fusión">
                 <img src="imagenes/Sedan/2013 Fusión (3).jpeg" title="2013 Fusión" alt="2013 Fusión">
                 <img src="imagenes/Sedan/2013 Fusión (5).jpeg" title="2013 Fusión" alt="2013 Fusión">
@@ -194,7 +142,7 @@
                 <h3>2013 Fusión</h3>
                 <div>
                     <p><b>Miles:</b> 165.000</p>
-                    <p><b>Cash:</b> $6.000</p>
+                    <p><b>Cash:</b> $4.500</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                 <div class="more-info">
                     <p><b>Financing:</b> $9.500(Negotiable)</p> <!-- Garantia incluida-->
@@ -250,7 +198,7 @@
                 <h3>2017 Chevrolet Cruze LS</h3>
                 <div>
                     <p><b>Miles:</b> 125,101</p>
-                    <p><b>Cash:</b> $4.000</p>
+                    <p><b>Cash:</b> $5.000</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                 <div class="more-info">
                     <p><b>Financing:</b> $9.500(Negotiable)</p> <!-- Garantia incluida-->
@@ -331,7 +279,7 @@
                 <h3>2016 Infiniti Q50 PREMIUM</h3>
                 <div>
                     <p><b>Miles:</b>162,059</p>
-                    <p><b>Cash:</b> $9.500</p>
+                    <p><b>Cash:</b> $8.500</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                 <div class="more-info">
                     <p><b>Financing:</b> $14.500(Negotiable)</p> <!-- Garantia incluida-->
@@ -365,34 +313,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('2020 Nissan versa')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2016 Hyundai accent (1).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
-                <img src="imagenes/Sedan/2016 Hyundai accent (2).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
-                <img src="imagenes/Sedan/2016 Hyundai accent (3).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
-                <img src="imagenes/Sedan/2016 Hyundai accent (4).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
-                <img src="imagenes/Sedan/2016 Hyundai accent (5).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
-                <img src="imagenes/Sedan/2016 Hyundai accent (6).jpeg" title="2016 Hyundai accent" alt="2016 Hyundai accent">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2016 Hyundai accent</h3>
-                <div>
-                    <p><b>Miles:</b>165.000</p>
-                    <p><b>Cash:</b> $4.200</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $8.500(Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $1.000(Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2016 Hyundai accent')">Request Information</button>
             </div>
         </div>
         <div class="car">
@@ -487,28 +407,6 @@
     <div class="caja_img">
         <div class="car">
             <div class="car-images">
-            <img src="imagenes/Suv/2009  Toyota rav4 (3).jpeg" title="2009  Toyota rav4" alt="2009  Toyota rav4">
-            <img src="imagenes/Suv/2009  Toyota rav4 (1).jpeg" title="2009  Toyota rav4" alt="2009  Toyota rav4">
-            <img src="imagenes/Suv/2009  Toyota rav4 (2).jpeg" title="2009  Toyota rav4" alt="2009  Toyota rav4">
-            <img src="imagenes/Suv/2009  Toyota rav4 (4).jpeg" title="2009  Toyota rav4" alt="2009  Toyota rav4">
-            <img src="imagenes/Suv/2009  Toyota rav4 (5).jpeg" title="2009  Toyota rav4" alt="2009  Toyota rav4">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2009 Toyota rav4</h3>
-                <div>
-                    <p><b>Miles:</b> 208.000</p>
-                    <p><b>Cash:</b> $5.000</p>
-                </div>
-                <button onclick="openForm('2009 Toyota rav4')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
             <img src="imagenes/Suv/2009 Honda pilot (1).jpeg" title="2009 Honda pilot" alt="2009 Honda pilot">
             <img src="imagenes/Suv/2009 Honda pilot (2).jpeg" title="2009 Honda pilot" alt="2009 Honda pilot">
             <img src="imagenes/Suv/2009 Honda pilot (4).jpeg" title="2009 Honda pilot" alt="2009 Honda pilot">
@@ -528,56 +426,6 @@
                     <p><b>Cash:</b> $5.000</p>
                 </div>
                 <button onclick="openForm('2009 Honda pilot')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2010 Crv (1).jpeg" title="2010 Crv" alt="2010 Crv">
-            <img src="imagenes/Suv/2010 Crv (6).jpeg" title="2010 Crv" alt="2010 Crv">
-            <img src="imagenes/Suv/2010 Crv (5).jpeg" title="2010 Crv" alt="2010 Crv">
-            <img src="imagenes/Suv/2010 Crv (2).jpeg" title="2010 Crv" alt="2010 Crv">
-            <img src="imagenes/Suv/2010 Crv (4).jpeg" title="2010 Crv" alt="2010 Crv">
-            <img src="imagenes/Suv/2010 Crv (3).jpeg" title="2010 Crv" alt="2010 Crv">
-            <img src="imagenes/Suv/2010 Crv (7).jpeg" title="2010 Crv" alt="2010 Crv">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2010 Crv</h3>
-                <div>
-                    <p><b>Miles:</b> 193.000</p>
-                    <p><b>Cash:</b> $5,500</p>
-                </div>
-                <button onclick="openForm('2010 Crv')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2018 Subaru (1).jpeg" title="2018 Subaru" alt="2018 Subaru">
-            <img src="imagenes/Suv/2018 Subaru (8).jpeg" title="2018 Subaru" alt="2018 Subaru">
-            <img src="imagenes/Suv/2018 Subaru (3).jpeg" title="2018 Subaru" alt="2018 Subaru">
-            <img src="imagenes/Suv/2018 Subaru (4).jpeg" title="2018 Subaru" alt="2018 Subaru">
-            <img src="imagenes/Suv/2018 Subaru (5).jpeg" title="2018 Subaru" alt="2018 Subaru">
-            <img src="imagenes/Suv/2018 Subaru (6).jpeg" title="2018 Subaru" alt="2018 Subaru">
-            <img src="imagenes/Suv/2018 Subaru (7).jpeg" title="2018 Subaru" alt="2018 Subaru">
-            <img src="imagenes/Suv/2018 Subaru (2).jpeg" title="2018 Subaru" alt="2018 Subaru">
-            <img src="imagenes/Suv/2018 Subaru (9).jpeg" title="2018 Subaru" alt="2018 Subaru">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2018 Subaru</h3>
-                <div>
-                    <p><b>Miles:</b> 186.000</p>
-                    <p><b>Cash:</b> $7.500</p>
-                </div>
-                <button onclick="openForm('2018 Subaru')">Request Information</button>
             </div>
         </div>
         <div class="car">
@@ -685,66 +533,6 @@
         </div>
         <div class="car">
             <div class="car-images">
-            <img src="imagenes/Suv/2008 Toyota fj (1).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (2).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (3).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (4).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (5).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (6).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (7).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (8).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2008 Toyota fj</h3>
-                <div>
-                    <p><b>Miles:</b> 101.000</p>
-                    <p><b>Cash:</b> $5.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b> $10.500 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $1.500 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2008 Toyota fj')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2008 Toyota fj (1).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (2).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (3).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (4).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (5).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (6).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (7).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-            <img src="imagenes/Suv/2008 Toyota fj (8).jpeg" title="2008 Toyota fj" alt="2008 Toyota fj">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2008 Toyota fj</h3>
-                <div>
-                    <p><b>Miles:</b> 208.000</p>
-                    <p><b>Cash:</b> $10.000</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b> $14.500 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $4.000 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2008 Toyota fj')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
             <img src="imagenes/Suv/2014 honda crv (1).jpeg" title="2014 honda crv" alt="2014 honda crv">
             <img src="imagenes/Suv/2014 honda crv (2).jpeg" title="2014 honda crv" alt="2014 honda crv">
             <img src="imagenes/Suv/2014 honda crv (3).jpeg" title="2014 honda crv" alt="2014 honda crv">
@@ -798,61 +586,6 @@
             </div>
         </div>
         
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (1).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
-            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (2).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
-            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (3).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
-            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (4).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
-            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (5).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
-            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (6).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
-            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (7).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
-            <img src="imagenes/Suv/2013 TOYOTA YARIS 5-DOOR LE (8).jpeg" title="2013 TOYOTA YARIS 5-DOOR LE" alt="2013 TOYOTA YARIS 5-DOOR LE">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-               </div>
-                <h3>2013 TOYOTA YARIS</h3>
-                <div>
-                    <p><b>Miles:</b> 189.098</p>
-                    <p><b>Cash:</b> $4.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b>$8.500  (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $1.500 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2013 TOYOTA YARIS 5-DOOR LE')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (1).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
-            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (2).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
-            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (3).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
-            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (4).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
-            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (5).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
-            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (6).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
-            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (7).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
-            <img src="imagenes/Suv/2016 Land Rover LR4 HSE (8).jpeg" title="2016 Land Rover LR4 HSE" alt="2016 Land Rover LR4 HSE">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-               </div>
-                <h3>2016 Land Rover LR4</h3>
-                <div>
-                    <p><b>Miles:</b> 117,843</p>
-                    <p><b>Cash:</b> $12.200</p>
-                </div>
-                <button onclick="openForm('2016 Land Rover LR4 HSE')">Request Information</button>
-            </div>
-        </div>
         <div class="car">
             <div class="car-images">
             <img src="imagenes/Suv/2017 Infiniti QX60 (1).jpeg" title="2017 Infiniti QX60" alt="2017 Infiniti QX60">
@@ -951,59 +684,6 @@
     <div class="caja_img">
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Trucks/2006  RAM (1).jpeg" title="2006  RAM" alt="2006  RAM">
-                <img src="imagenes/Trucks/2006  RAM (2).jpeg" title="2006  RAM" alt="2006  RAM">
-                <img src="imagenes/Trucks/2006  RAM (3).jpeg" title="2006  RAM" alt="2006  RAM">
-                <img src="imagenes/Trucks/2006  RAM (4).jpeg" title="2006  RAM" alt="2006  RAM">
-                <img src="imagenes/Trucks/2006  RAM (5).jpeg" title="2006  RAM" alt="2006  RAM">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2006 RAM</h3>
-                <div>
-                    <p><b>Miles:</b> 199.000</p>
-                    <p><b>Cash:</b> $4,500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                <p><b>Financing:</b> $8.000 (Negotiable)</p>
-                <p><b>Down:</b> $1.800 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2006 RAM')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (5).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN ">
-                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (6).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN ">
-                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (7).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN ">
-                <img src="imagenes/Trucks/2013 Ram 1500 TRADESMAN (8).jpeg" title="2013 Ram 1500 TRADESMAN" alt="2013 Ram 1500 TRADESMAN ">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2013 Ram 1500 TRADESMAN</h3>
-                <div>
-                    <p><b>Miles:</b> 175,890</p>
-                    <p><b>Cash:</b> $7.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                <p><b>Financing:</b> $12.500 (Negotiable)</p>
-                <p><b>Down:</b> $3.000 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2013 Ram 1500 TRADESMAN')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
                 <img src="imagenes/Trucks/2002 DODGE DAKOTA SPORT (1).jpeg" title="2002 DODGE DAKOTA SPORT" alt="2002 DODGE DAKOTA SPORT ">
                 <img src="imagenes/Trucks/2002 DODGE DAKOTA SPORT (2).jpeg" title="2002 DODGE DAKOTA SPORT" alt="2002 DODGE DAKOTA SPORT ">
                 <img src="imagenes/Trucks/2002 DODGE DAKOTA SPORT (3).jpeg" title="2002 DODGE DAKOTA SPORT" alt="2002 DODGE DAKOTA SPORT ">
@@ -1026,64 +706,13 @@
                 <button onclick="openForm('2002 DODGE DAKOTA SPORT')">Request Information</button>
             </div>
         </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Trucks/2013 Ram 1500 SLT (1).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
-                <img src="imagenes/Trucks/2013 Ram 1500 SLT (2).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
-                <img src="imagenes/Trucks/2013 Ram 1500 SLT (3).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
-                <img src="imagenes/Trucks/2013 Ram 1500 SLT (4).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
-                <img src="imagenes/Trucks/2013 Ram 1500 SLT (5).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
-                <img src="imagenes/Trucks/2013 Ram 1500 SLT (6).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
-                <img src="imagenes/Trucks/2013 Ram 1500 SLT (7).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
-                <img src="imagenes/Trucks/2013 Ram 1500 SLT (8).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
-                <img src="imagenes/Trucks/2013 Ram 1500 SLT (9).jpeg" title="2013 Ram 1500 SLT" alt="2013 Ram 1500 SLT ">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2013 Ram 1500 SLT</h3>
-                <div>
-                    <p><b>Miles:</b> 181,034</p>
-                    <p><b>Cash:</b> $7.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                <p><b>Financing:</b> $12.000 (Negotiable)</p>
-                <p><b>Down:</b> $2.000 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2013 Ram 1500 SLT')">Request Information</button>
-            </div>
-        </div>
+       
         <!--More Trucks here -->
     </div>
     <hr>
     <h2 id="Luxury">Luxury</h2>
     <hr>
     <div class="caja_img">
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Luxury/2016  Ford Mustang v6 (4).jpeg" title="2016 Ford Mustang" alt="2016 Ford Mustang">
-            <img src="imagenes/Luxury/2016  Ford Mustang v6 (1).jpeg" title="2016 Ford Mustang" alt="2016 Ford Mustang">
-            <img src="imagenes/Luxury/2016  Ford Mustang v6 (2).jpeg" title="2016 Ford Mustang" alt="2016 Ford Mustang">
-            <img src="imagenes/Luxury/2016  Ford Mustang v6 (3).jpeg" title="2016 Ford Mustang" alt="2016 Ford Mustang">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2016 Ford Mustang</h3>
-                <div>
-                    <p><b>Miles:</b> 147.000</p>
-                    <p><b>Cash:</b> $9.500</p>
-                </div>
-                <button onclick="openForm('2016 Ford Mustang')">Request Information</button>
-            </div>
-        </div>
         <div class="car">
             <div class="car-images">
             <img src="imagenes/Luxury/2011 BMW x6 (1).jpeg" title="2011 BMW x6" alt="2011 BMW x6">
@@ -1173,7 +802,7 @@
                 <h3>Yamaha 2013 19ft</h3>
                 <div>
                     <p><b>Miles:</b> 147.000</p>
-                    <p><b>Cash:</b> $21.000</p>
+                    <p><b>Cash:</b> $18.500</p>
                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                 <div class="more-info">
                 <p><b>Financing:</b> $28.000 (Negotiable)</p>
