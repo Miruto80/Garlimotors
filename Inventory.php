@@ -153,12 +153,12 @@
         </div>
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (1).jpeg" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (2).jpeg" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (3).jpeg" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (5).jpeg" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (4).jpeg" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (6).jpeg" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
+                <img src="imagenes/Sedan/2015 Dodge Dart SXT (1).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
+                <img src="imagenes/Sedan/2015 Dodge Dart SXT (2).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
+                <img src="imagenes/Sedan/2015 Dodge Dart SXT (3).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
+                <img src="imagenes/Sedan/2015 Dodge Dart SXT (5).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
+                <img src="imagenes/Sedan/2015 Dodge Dart SXT (4).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
+                <img src="imagenes/Sedan/2015 Dodge Dart SXT (6).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
             </div>
             
             <div class="car-info">
@@ -206,34 +206,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('2017 Chevrolet Cruze LS')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2017 Mazda 3 sport (1).jpeg" title="2017 Mazda 3 sport" alt="2017 Mazda 3 sport">
-                <img src="imagenes/Sedan/2017 Mazda 3 sport (5).jpeg" title="2017 Mazda 3 sport" alt="2017 Mazda 3 sport">
-                <img src="imagenes/Sedan/2017 Mazda 3 sport (6).jpeg" title="2017 Mazda 3 sport" alt="2017 Mazda 3 sport">
-                <img src="imagenes/Sedan/2017 Mazda 3 sport (7).jpeg" title="2017 Mazda 3 sport" alt="2017 Mazda 3 sport">
-                <img src="imagenes/Sedan/2017 Mazda 3 sport (2).jpeg" title="2017 Mazda 3 sport" alt="2017 Mazda 3 sport">
-                <img src="imagenes/Sedan/2017 Mazda 3 sport (3).jpeg" title="2017 Mazda 3 sport" alt="2017 Mazda 3 sport">
-                <img src="imagenes/Sedan/2017 Mazda 3 sport (4).jpeg" title="2017 Mazda 3 sport" alt="2017 Mazda 3 sport">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2017 Mazda 3 sport</h3>
-                <div>
-                    <p><b>Miles:</b> 147.000</p>
-                    <p><b>Cash:</b> $5.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $11.000(Negotiable)</p> <!-- Garantia incluida-->
-                </div>
-                </div>
-                <button onclick="openForm('2017 Mazda 3 sport')">Request Information</button>
             </div>
         </div>
         <div class="car">
@@ -341,37 +313,6 @@
         </div>
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Sedan/2015 Honda Civic EX (1).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
-                <img src="imagenes/Sedan/2015 Honda Civic EX (2).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
-                <img src="imagenes/Sedan/2015 Honda Civic EX (3).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
-                <img src="imagenes/Sedan/2015 Honda Civic EX (4).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
-                <img src="imagenes/Sedan/2015 Honda Civic EX (5).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
-                <img src="imagenes/Sedan/2015 Honda Civic EX (6).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
-                <img src="imagenes/Sedan/2015 Honda Civic EX (7).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
-                <img src="imagenes/Sedan/2015 Honda Civic EX (8).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
-                <img src="imagenes/Sedan/2015 Honda Civic EX (9).jpeg" title="2015 Honda Civic EX" alt="2015 Honda Civic EX">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2015 Honda Civic EX</h3>
-                <div>
-                    <p><b>Miles:</b>161,024</p>
-                    <p><b>Cash:</b> $7.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $11.500(Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.000(Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2015 Honda Civic EX')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
                 <img src="imagenes/Sedan/2017 Mazda 6 (1).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
                 <img src="imagenes/Sedan/2017 Mazda 6 (2).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
                 <img src="imagenes/Sedan/2017 Mazda 6 (3).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
@@ -459,6 +400,66 @@
                 <button onclick="openForm('2020 Hyundai Elantra')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2007 Toyota sport (1) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
+                <img src="imagenes/Sedan/2007 Toyota sport (2) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
+                <img src="imagenes/Sedan/2007 Toyota sport (3) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
+                <img src="imagenes/Sedan/2007 Toyota sport (4) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
+                <img src="imagenes/Sedan/2007 Toyota sport (5) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
+                <img src="imagenes/Sedan/2007 Toyota sport (6) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
+                <img src="imagenes/Sedan/2007 Toyota sport (7) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
+                <img src="imagenes/Sedan/2007 Toyota sport (8) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2007 Toyota sport</h3>
+                <div>
+                    <p><b>Miles:</b> 230.000 </p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $7.500(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2007 Toyota sport')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2019 volkswagen jetta (1) N.webp" title="2019 volkswagen jetta" alt="2019 volkswagen jetta">
+                <img src="imagenes/Sedan/2019 volkswagen jetta (2) N.webp" title="2019 volkswagen jetta" alt="2019 volkswagen jetta">
+                <img src="imagenes/Sedan/2019 volkswagen jetta (3) N.webp" title="2019 volkswagen jetta" alt="2019 volkswagen jetta">
+                <img src="imagenes/Sedan/2019 volkswagen jetta (4) N.webp" title="2019 volkswagen jetta" alt="2019 volkswagen jetta">
+                <img src="imagenes/Sedan/2019 volkswagen jetta (5) N.webp" title="2019 volkswagen jetta" alt="2019 volkswagen jetta">
+                <img src="imagenes/Sedan/2019 volkswagen jetta (6) N.webp" title="2019 volkswagen jetta" alt="2019 volkswagen jetta">
+                <img src="imagenes/Sedan/2019 volkswagen jetta (7) N.webp" title="2019 volkswagen jetta" alt="2019 volkswagen jetta">
+                <img src="imagenes/Sedan/2019 volkswagen jetta (8) N.webp" title="2019 volkswagen jetta" alt="2019 volkswagen jetta">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2019 volkswagen jetta</h3>
+                <div>
+                    <p><b>Miles:</b> 164.000</p>
+                    <p><b>Cash:</b> $7.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $11.000(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.500(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2019 volkswagen jetta')">Request Information</button>
+            </div>
+        </div>
+
         <!--More sedans here -->
     </div>
     <hr>
@@ -850,6 +851,99 @@
                 <button onclick="openForm('2016 Hyundai Tucson')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2007 kia sportage (1).webp" title="2007 kia sportage" alt="2007 kia sportage">
+            <img src="imagenes/Suv/2007 kia sportage (2).webp" title="2007 kia sportage" alt="2007 kia sportage">
+            <img src="imagenes/Suv/2007 kia sportage (3).webp" title="2007 kia sportage" alt="2007 kia sportage">
+            <img src="imagenes/Suv/2007 kia sportage (4).webp" title="2007 kia sportage" alt="2007 kia sportage">
+            <img src="imagenes/Suv/2007 kia sportage (5).webp" title="2007 kia sportage" alt="2007 kia sportage">
+            <img src="imagenes/Suv/2007 kia sportage (6).webp" title="2007 kia sportage" alt="2007 kia sportage">
+            <img src="imagenes/Suv/2007 kia sportage (7).webp" title="2007 kia sportage" alt="2007 kia sportage">
+            <img src="imagenes/Suv/2007 kia sportage (8).webp" title="2007 kia sportage" alt="2007 kia sportage">
+            <img src="imagenes/Suv/2007 kia sportage (9).webp" title="2007 kia sportage" alt="2007 kia sportage">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2007 kia sportage</h3>
+                <div>
+                    <p><b>Miles:</b> 140,000</p>
+                    <p><b>Cash:</b> $3.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$7,000  (Negotiable)</p> <!-- Garantia incluida-->
+                </div>
+                </div>
+                <button onclick="openForm('2007 kia sportage')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2013 MERCEDES-BENZ GLK 350 (1).webp" title="2013 MERCEDES-BENZ GLK 350" alt="2013 MERCEDES-BENZ GLK 350">
+            <img src="imagenes/Suv/2013 MERCEDES-BENZ GLK 350 (2).webp" title="2013 MERCEDES-BENZ GLK 350" alt="2013 MERCEDES-BENZ GLK 350">
+            <img src="imagenes/Suv/2013 MERCEDES-BENZ GLK 350 (3).webp" title="2013 MERCEDES-BENZ GLK 350" alt="2013 MERCEDES-BENZ GLK 350">
+            <img src="imagenes/Suv/2013 MERCEDES-BENZ GLK 350 (4).webp" title="2013 MERCEDES-BENZ GLK 350" alt="2013 MERCEDES-BENZ GLK 350">
+            <img src="imagenes/Suv/2013 MERCEDES-BENZ GLK 350 (5).webp" title="2013 MERCEDES-BENZ GLK 350" alt="2013 MERCEDES-BENZ GLK 350">
+            <img src="imagenes/Suv/2013 MERCEDES-BENZ GLK 350 (6).webp" title="2013 MERCEDES-BENZ GLK 350" alt="2013 MERCEDES-BENZ GLK 350">
+            <img src="imagenes/Suv/2013 MERCEDES-BENZ GLK 350 (7).webp" title="2013 MERCEDES-BENZ GLK 350" alt="2013 MERCEDES-BENZ GLK 350">
+            <img src="imagenes/Suv/2013 MERCEDES-BENZ GLK 350 (8).webp" title="2013 MERCEDES-BENZ GLK 350" alt="2013 MERCEDES-BENZ GLK 350">
+            <img src="imagenes/Suv/2013 MERCEDES-BENZ GLK 350 (9).webp" title="2013 MERCEDES-BENZ GLK 350" alt="2013 MERCEDES-BENZ GLK 350">
+            <img src="imagenes/Suv/2013 MERCEDES-BENZ GLK 350 (10).webp" title="2013 MERCEDES-BENZ GLK 350" alt="2013 MERCEDES-BENZ GLK 350">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2013 MERCEDES-BENZ</h3>
+                <div>
+                    <p><b>Miles:</b> 117.000</p>
+                    <p><b>Cash:</b> $6.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$10,500  (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.000 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2013 MERCEDES-BENZ GLK 350')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (1).webp" title="2014 SUBARU FORESTER 2.5I PREMIUM" alt="2014 SUBARU FORESTER 2.5I PREMIUM">
+            <img src="imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (2).webp" title="2014 SUBARU FORESTER 2.5I PREMIUM" alt="2014 SUBARU FORESTER 2.5I PREMIUM">
+            <img src="imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (3).webp" title="2014 SUBARU FORESTER 2.5I PREMIUM" alt="2014 SUBARU FORESTER 2.5I PREMIUM">
+            <img src="imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (4).webp" title="2014 SUBARU FORESTER 2.5I PREMIUM" alt="2014 SUBARU FORESTER 2.5I PREMIUM">
+            <img src="imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (5).webp" title="2014 SUBARU FORESTER 2.5I PREMIUM" alt="2014 SUBARU FORESTER 2.5I PREMIUM">
+            <img src="imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (6).webp" title="2014 SUBARU FORESTER 2.5I PREMIUM" alt="2014 SUBARU FORESTER 2.5I PREMIUM">
+            <img src="imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (7).webp" title="2014 SUBARU FORESTER 2.5I PREMIUM" alt="2014 SUBARU FORESTER 2.5I PREMIUM">
+            <img src="imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (8).webp" title="2014 SUBARU FORESTER 2.5I PREMIUM" alt="2014 SUBARU FORESTER 2.5I PREMIUM">
+            <img src="imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (9).webp" title="2014 SUBARU FORESTER 2.5I PREMIUM" alt="2014 SUBARU FORESTER 2.5I PREMIUM">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2014 SUBARU FORESTER</h3>
+                <div>
+                    <p><b>Miles:</b> 185.089</p>
+                    <p><b>Cash:</b> $4.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$7,500 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2014 SUBARU FORESTER 2.5I PREMIUM')">Request Information</button>
+            </div>
+        </div>
        
         <!--More suvs here-->
     </div>
@@ -879,6 +973,35 @@
                     
                 </div>
                 <button onclick="openForm('2002 DODGE DAKOTA SPORT')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Trucks/2014 Dodge ram (1) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
+                <img src="imagenes/Trucks/2014 Dodge ram (2) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
+                <img src="imagenes/Trucks/2014 Dodge ram (3) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
+                <img src="imagenes/Trucks/2014 Dodge ram (4) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
+                <img src="imagenes/Trucks/2014 Dodge ram (5) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
+                <img src="imagenes/Trucks/2014 Dodge ram (6) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2014 Dodge ram</h3>
+                <div>
+                    <p><b>Miles:</b> 130.000</p>
+                    <p><b>Cash:</b> $10.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $14.500 (Negotiable)</p>
+                <p><b>Down:</b> $3.000 (Negotiable)</p>
+                </div>
+                    
+                </div>
+                <button onclick="openForm('2014 Dodge ram')">Request Information</button>
             </div>
         </div>
        
@@ -943,6 +1066,34 @@
                 </div>
                 </div>
                 <button onclick="openForm('2015 BMW 3 Series 3201')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (1).webp" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (2).jpeg" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (3).jpeg" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (4).jpeg" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (5).jpeg" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (6).jpeg" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2008 cadillax Dts v8</h3>
+                <div>
+                    <p><b>Miles:</b> 139.000</p>
+                    <p><b>Cash:</b> $4.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $8.000 (Negotiable)</p>
+                <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2008 cadillax Dts v8')">Request Information</button>
             </div>
         </div>
     <!-- More Luxury here-->
