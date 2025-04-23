@@ -25,28 +25,6 @@
     <div class="caja_img">
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Sedan/2013 Toyota Corolla LE (1).jpeg" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2013 Toyota Corolla LE (4).jpeg" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2013 Toyota Corolla LE (2).jpeg" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2013 Toyota Corolla LE (5).jpeg" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2013 Toyota Corolla LE (3).jpeg" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2013 Toyota Corolla LE</h3>
-                <div>
-                    <p><b>Miles:</b> 166,397</p>
-                    <p><b>Cash:</b> $6,500</p>
-                </div>
-                <button onclick="openForm('2013 Toyota Corolla LE')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
                 <img src="imagenes/Sedan/2013 Toyota Corolla LE (1).webp" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
                 <img src="imagenes/Sedan/2013 Toyota Corolla LE (4).webp" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
                 <img src="imagenes/Sedan/2013 Toyota Corolla LE (2).webp" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
