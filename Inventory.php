@@ -151,34 +151,6 @@
                 <button onclick="openForm('2013 Fusión')">Request Information</button>
             </div>
         </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (1).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (2).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (3).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (5).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (4).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-                <img src="imagenes/Sedan/2015 Dodge Dart SXT (6).webp" title="2015 Dodge Dart SXT" alt="2015 Dodge Dart SXT">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2015 Dodge Dart SXT</h3>
-                <div>
-                    <p><b>Miles:</b> 77,501</p>
-                    <p><b>Cash:</b> $4.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $9.500(Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $1.700(Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2015 Dodge Dart SXT')">Request Information</button>
-            </div>
-        </div>
         
         <div class="car">
             <div class="car-images">
@@ -259,32 +231,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('2016 Infiniti Q50 PREMIUM')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2020 Nissan versa  (1).jpeg" title="2020 Nissan versa" alt="2020 Nissan versa">
-                <img src="imagenes/Sedan/2020 Nissan versa  (2).jpeg" title="2020 Nissan versa" alt="2020 Nissan versa">
-                <img src="imagenes/Sedan/2020 Nissan versa  (3).jpeg" title="2020 Nissan versa" alt="2020 Nissan versa">
-                <img src="imagenes/Sedan/2020 Nissan versa  (4).jpeg" title="2020 Nissan versa" alt="2020 Nissan versa">
-                <img src="imagenes/Sedan/2020 Nissan versa  (5).jpeg" title="2020 Nissan versa" alt="2020 Nissan versa">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2020 Nissan versa</h3>
-                <div>
-                    <p><b>Miles:</b>100.000</p>
-                    <p><b>Cash:</b> $7.000</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $11.000(Negotiable)</p> <!-- Garantia incluida-->
-                </div>
-                </div>
-                <button onclick="openForm('2020 Nissan versa')">Request Information</button>
             </div>
         </div>
         <div class="car">
@@ -398,35 +344,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('2020 Hyundai Elantra')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2007 Toyota sport (1) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
-                <img src="imagenes/Sedan/2007 Toyota sport (2) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
-                <img src="imagenes/Sedan/2007 Toyota sport (3) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
-                <img src="imagenes/Sedan/2007 Toyota sport (4) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
-                <img src="imagenes/Sedan/2007 Toyota sport (5) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
-                <img src="imagenes/Sedan/2007 Toyota sport (6) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
-                <img src="imagenes/Sedan/2007 Toyota sport (7) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
-                <img src="imagenes/Sedan/2007 Toyota sport (8) N.webp" title="2007 Toyota sport" alt="2007 Toyota sport">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2007 Toyota sport</h3>
-                <div>
-                    <p><b>Miles:</b> 230.000 </p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $7.500(Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $1.500(Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2007 Toyota sport')">Request Information</button>
             </div>
         </div>
         <div class="car">
@@ -590,34 +507,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('Toyota Highlander 2013')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2014 honda crv (1).jpeg" title="2014 honda crv" alt="2014 honda crv">
-            <img src="imagenes/Suv/2014 honda crv (2).jpeg" title="2014 honda crv" alt="2014 honda crv">
-            <img src="imagenes/Suv/2014 honda crv (3).jpeg" title="2014 honda crv" alt="2014 honda crv">
-            <img src="imagenes/Suv/2014 honda crv (4).jpeg" title="2014 honda crv" alt="2014 honda crv">
-            <img src="imagenes/Suv/2014 honda crv (5).jpeg" title="2014 honda crv" alt="2014 honda crv">
-            <img src="imagenes/Suv/2014 honda crv (6).jpeg" title="2014 honda crv" alt="2014 honda crv">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-               </div>
-                <h3>2014 honda crv</h3>
-                <div>
-                    <p><b>Miles:</b> 183.000</p>
-                    <p><b>Cash:</b> $6.700</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b> $11.500 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.000 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2014 honda crv')">Request Information</button>
             </div>
         </div>
         <div class="car">
