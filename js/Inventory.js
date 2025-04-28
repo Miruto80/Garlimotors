@@ -120,18 +120,3 @@ function validarkeyup(er, etiqueta, etiquetamensaje, mensaje) {
         return 0;
     }
 }
-
-document.addEventListener("DOMContentLoaded", function () {
-    const modal = document.getElementById("financingModal");
-    const agreeCheck = document.getElementById("agreeCheck");
-    const agreeBtn = document.getElementById("agreeBtn");
-
-    agreeCheck.addEventListener("change", function () {
-        agreeBtn.disabled = !this.checked;
-    });
-
-    agreeBtn.addEventListener("click", function () {
-        modal.style.display = "none";
-    });
-
-});
