@@ -17,6 +17,7 @@
                 img.style.display = 'block'; // Muestra solo la primera imagen
             } else {
                 img.style.display = 'none'; // Oculta todas las demás imágenes
+                img.setAttribute('loading', 'lazy'); // Agrega loading lazy solo a las demás
             }
         });
     });
@@ -28,11 +29,10 @@ function prevImage(button) {
     let currentIndex = Array.from(images).findIndex(img => img.style.display === 'block');
 
     images[currentIndex].style.display = 'none';
-    if (currentIndex === 0) {
-        images[images.length - 1].style.display = 'block';
-    } else {
-        images[currentIndex - 1].style.display = 'block';
-    }
+    let newIndex = currentIndex === 0 ? images.length - 1 : currentIndex - 1; // <-- Definimos newIndex
+    images[newIndex].style.display = 'block';
+
+    preloadAdjacentImages(images, newIndex); // Pre-cargar imágenes cercanas
 }
 
 function nextImage(button) {
@@ -41,12 +41,25 @@ function nextImage(button) {
     let currentIndex = Array.from(images).findIndex(img => img.style.display === 'block');
 
     images[currentIndex].style.display = 'none';
-    if (currentIndex === images.length - 1) {
-        images[0].style.display = 'block';
-    } else {
-        images[currentIndex + 1].style.display = 'block';
-    }
-}function toggleMoreInfo(btn) {
+    let newIndex = currentIndex === images.length - 1 ? 0 : currentIndex + 1; // <-- Aquí debes sumar
+    images[newIndex].style.display = 'block';
+    preloadAdjacentImages(images, newIndex); // Pre-cargar imágenes cercanas
+}
+
+function preloadAdjacentImages(images, currentIndex) {
+    const prevIndex = currentIndex === 0 ? images.length - 1 : currentIndex - 1;
+    const nextIndex = currentIndex === images.length - 1 ? 0 : currentIndex + 1;
+
+    [prevIndex, nextIndex].forEach(index => {
+        const img = images[index];
+        if (img.loading === 'lazy' && !img.complete) {
+            const tempImg = new Image();
+            tempImg.src = img.src;
+        }
+    });
+}
+
+function toggleMoreInfo(btn) {
     const moreInfo = btn.nextElementSibling; // Encuentra el div .more-info
     if (moreInfo.style.display === "none" || moreInfo.style.display === "") {
         moreInfo.style.display = "block";
