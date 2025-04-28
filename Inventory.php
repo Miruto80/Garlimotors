@@ -376,6 +376,37 @@
                 <button onclick="openForm('2019 volkswagen jetta')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2010 Toyota Camrry (1).webp" title="2010 Toyota Camrry" alt="2010 Toyota Camrry">
+                <img src="imagenes/Sedan/2010 Toyota Camrry (8).webp" title="2010 Toyota Camrry" alt="2010 Toyota Camrry">
+                <img src="imagenes/Sedan/2010 Toyota Camrry (9).webp" title="2010 Toyota Camrry" alt="2010 Toyota Camrry">
+                <img src="imagenes/Sedan/2010 Toyota Camrry (2).webp" title="2010 Toyota Camrry" alt="2010 Toyota Camrry">
+                <img src="imagenes/Sedan/2010 Toyota Camrry (3).webp" title="2010 Toyota Camrry" alt="2010 Toyota Camrry">
+                <img src="imagenes/Sedan/2010 Toyota Camrry (4).webp" title="2010 Toyota Camrry" alt="2010 Toyota Camrry">
+                <img src="imagenes/Sedan/2010 Toyota Camrry (5).webp" title="2010 Toyota Camrry" alt="2010 Toyota Camrry">
+                <img src="imagenes/Sedan/2010 Toyota Camrry (6).webp" title="2010 Toyota Camrry" alt="2010 Toyota Camrry">
+                <img src="imagenes/Sedan/2010 Toyota Camrry (7).webp" title="2010 Toyota Camrry" alt="2010 Toyota Camrry">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2010 Toyota Camrry</h3>
+                <div>
+                    <p><b>Miles:</b> 208.000</p>
+                    <p><b>Cash:</b> $4.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $9.000(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2010 Toyota Camrry')">Request Information</button>
+            </div>
+        </div>
 
         <!--More sedans here -->
     </div>
@@ -833,6 +864,38 @@
                 <button onclick="openForm('2014 SUBARU FORESTER 2.5I PREMIUM')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2007 Chevrolet tahoe (1).webp" title="2007 Chevrolet tahoe" alt="2007 Chevrolet tahoe">
+            <img src="imagenes/Suv/2007 Chevrolet tahoe (2).webp" title="2007 Chevrolet tahoe" alt="2007 Chevrolet tahoe">
+            <img src="imagenes/Suv/2007 Chevrolet tahoe (3).webp" title="2007 Chevrolet tahoe" alt="2007 Chevrolet tahoe">
+            <img src="imagenes/Suv/2007 Chevrolet tahoe (4).webp" title="2007 Chevrolet tahoe" alt="2007 Chevrolet tahoe">
+            <img src="imagenes/Suv/2007 Chevrolet tahoe (5).webp" title="2007 Chevrolet tahoe" alt="2007 Chevrolet tahoe">
+            <img src="imagenes/Suv/2007 Chevrolet tahoe (6).webp" title="2007 Chevrolet tahoe" alt="2007 Chevrolet tahoe">
+            <img src="imagenes/Suv/2007 Chevrolet tahoe (7).webp" title="2007 Chevrolet tahoe" alt="2007 Chevrolet tahoe">
+            <img src="imagenes/Suv/2007 Chevrolet tahoe (8).webp" title="2007 Chevrolet tahoe" alt="2007 Chevrolet tahoe">
+            <img src="imagenes/Suv/2007 Chevrolet tahoe (9).webp" title="2007 Chevrolet tahoe" alt="2007 Chevrolet tahoe">
+            <img src="imagenes/Suv/2007 Chevrolet tahoe (10).webp" title="2007 Chevrolet tahoe" alt="2007 Chevrolet tahoe">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2007 Chevrolet tahoe</h3>
+                <div>
+                    <p><b>Miles:</b> 220.000</p>
+                    <p><b>Cash:</b> $6.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$10,500 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2007 Chevrolet tahoe')">Request Information</button>
+            </div>
+        </div>
        
         <!--More suvs here-->
     </div>
@@ -960,11 +1023,11 @@
         <div class="car">
             <div class="car-images">
             <img src="imagenes/Luxury/2008 cadillax Dts v8 (1).webp" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
-            <img src="imagenes/Luxury/2008 cadillax Dts v8 (2).jpeg" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
-            <img src="imagenes/Luxury/2008 cadillax Dts v8 (3).jpeg" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
-            <img src="imagenes/Luxury/2008 cadillax Dts v8 (4).jpeg" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
-            <img src="imagenes/Luxury/2008 cadillax Dts v8 (5).jpeg" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
-            <img src="imagenes/Luxury/2008 cadillax Dts v8 (6).jpeg" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (2).webp" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (3).webp" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (4).webp" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (5).webp" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
+            <img src="imagenes/Luxury/2008 cadillax Dts v8 (6).webp" title="2008 cadillax Dts v8" alt="2008 cadillax Dts v8">
             </div>
             
             <div class="car-info">
@@ -979,6 +1042,38 @@
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                 <div class="more-info">
                 <p><b>Financing:</b> $8.000 (Negotiable)</p>
+                <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2008 cadillax Dts v8')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Luxury/2011 BMW serie 3 (1).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
+            <img src="imagenes/Luxury/2011 BMW serie 3 (2).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
+            <img src="imagenes/Luxury/2011 BMW serie 3 (3).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
+            <img src="imagenes/Luxury/2011 BMW serie 3 (4).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
+            <img src="imagenes/Luxury/2011 BMW serie 3 (5).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
+            <img src="imagenes/Luxury/2011 BMW serie 3 (6).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
+            <img src="imagenes/Luxury/2011 BMW serie 3 (7).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
+            <img src="imagenes/Luxury/2011 BMW serie 3 (8).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
+            <img src="imagenes/Luxury/2011 BMW serie 3 (9).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
+            <img src="imagenes/Luxury/2011 BMW serie 3 (10).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2011 BMW serie 3</h3>
+                <div>
+                    <p><b>Miles:</b>110.000</p>
+                    <p><b>Cash:</b> $5.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $9.500 (Negotiable)</p>
                 <p><b>Down:</b> $1.500 (Negotiable)</p>
                 </div>
                 </div>
