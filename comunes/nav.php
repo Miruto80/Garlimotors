@@ -73,7 +73,7 @@ header nav ul li a:hover {
         <nav class="navbar navbar-expand-lg">
           <div class="container-fluid">
             <a class="navbar-brand" href="index.php">
-              <img src="imagenes/Imgcom/GARLI MOTORS-11 (2).png" id="logo"alt="Logo Garlimotors" width="250" height="100" class="d-inline-block align-text-top">
+              <img src="imagenes/Imgcom/GARLI MOTORS-11 (2).webp" id="logo"alt="Logo Garlimotors" width="250" height="100" class="d-inline-block align-text-top">
             </a>
             <h1 class="navbar-brand fs-4 d-none d-sm-inline d-lg-inline fs-lg-2 text-white">
               <b>Buy and Finance cars</b>
