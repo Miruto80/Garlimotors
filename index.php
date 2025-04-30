@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Discover the best car deals in Texas with GARLI MOTORS. Offering 0% interest financing, warranty included, and a wide range of reliable vehicles. Drive with confidence today!">
     <meta name="keywords" content="buy used cars in Texas, car dealership in Texas, 0% interest car financing, GARLI MOTORS, affordable cars Texas, car sales with warranty">
     <title>Garlimotors</title>
