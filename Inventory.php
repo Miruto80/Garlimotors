@@ -922,38 +922,6 @@
         </div>
         <div class="car">
             <div class="car-images">
-            <img src="imagenes/Suv/2014 Kia Zoul (1).webp" title="2014 Kia Zoul" alt="2014 Kia Zoul">
-            <img src="imagenes/Suv/2014 Kia Zoul (8).webp" title="2014 Kia Zoul" alt="2014 Kia Zoul">
-            <img src="imagenes/Suv/2014 Kia Zoul (2).webp" title="2014 Kia Zoul" alt="2014 Kia Zoul">
-            <img src="imagenes/Suv/2014 Kia Zoul (3).webp" title="2014 Kia Zoul" alt="2014 Kia Zoul">
-            <img src="imagenes/Suv/2014 Kia Zoul (4).webp" title="2014 Kia Zoul" alt="2014 Kia Zoul">
-            <img src="imagenes/Suv/2014 Kia Zoul (5).webp" title="2014 Kia Zoul" alt="2014 Kia Zoul">
-            <img src="imagenes/Suv/2014 Kia Zoul (6).webp" title="2014 Kia Zoul" alt="2014 Kia Zoul">
-            <img src="imagenes/Suv/2014 Kia Zoul (7).webp" title="2014 Kia Zoul" alt="2014 Kia Zoul">
-            <img src="imagenes/Suv/2014 Kia Zoul (9).webp" title="2014 Kia Zoul" alt="2014 Kia Zoul">
-            <img src="imagenes/Suv/2014 Kia Zoul (10).webp" title="2014 Kia Zoul" alt="2014 Kia Zoul">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-               </div>
-                <h3>2014 Kia Zoul</h3>
-                <div>
-                    <p><b>Miles:</b> 105.000</p>
-                    <p><b>Cash:</b> $4.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b>$9,000 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $1.500 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2014 Kia Zoul')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
             <img src="imagenes/Suv/2014 Land Rover (1).webp" title="2014 Land Rover" alt="2014 Land Rover">
             <img src="imagenes/Suv/2014 Land Rover (2).webp" title="2014 Land Rover" alt="2014 Land Rover">
             <img src="imagenes/Suv/2014 Land Rover (3).webp" title="2014 Land Rover" alt="2014 Land Rover">
