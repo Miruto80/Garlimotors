@@ -431,6 +431,37 @@
                 <button onclick="openForm('2013 Toyota Prius')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2015 Misubichi Lancer (1).webp" title="2015 Misubichi Lancer" alt="2015 Misubichi Lancer">
+                <img src="imagenes/Sedan/2015 Misubichi Lancer (2).webp" title="2015 Misubichi Lancer" alt="2015 Misubichi Lancer">
+                <img src="imagenes/Sedan/2015 Misubichi Lancer (3).webp" title="2015 Misubichi Lancer" alt="2015 Misubichi Lancer">
+                <img src="imagenes/Sedan/2015 Misubichi Lancer (4).webp" title="2015 Misubichi Lancer" alt="2015 Misubichi Lancer">
+                <img src="imagenes/Sedan/2015 Misubichi Lancer (5).webp" title="2015 Misubichi Lancer" alt="2015 Misubichi Lancer">
+                <img src="imagenes/Sedan/2015 Misubichi Lancer (6).webp" title="2015 Misubichi Lancer" alt="2015 Misubichi Lancer">
+                <img src="imagenes/Sedan/2015 Misubichi Lancer (7).webp" title="2015 Misubichi Lancer" alt="2015 Misubichi Lancer">
+                <img src="imagenes/Sedan/2015 Misubichi Lancer (8).webp" title="2015 Misubichi Lancer" alt="2015 Misubichi Lancer">
+                <img src="imagenes/Sedan/2015 Misubichi Lancer (9).webp" title="2015 Misubichi Lancer" alt="2015 Misubichi Lancer">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2015 Misubichi Lancer</h3>
+                <div>
+                    <p><b>Miles:</b> 93.000</p>
+                    <p><b>Cash:</b> $5.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $9.000(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2015 Misubichi Lancer')">Request Information</button>
+            </div>
+        </div>
 
         <!--More sedans here -->
     </div>
@@ -984,7 +1015,6 @@
                 <button onclick="openForm('2015 Kia Sorento sx')">Request Information</button>
             </div>
         </div>
-       
         <!--More suvs here-->
     </div>
     <hr>
@@ -1136,6 +1166,38 @@
                 <button onclick="openForm('2008 cadillax Dts v8')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC (1).webp" title="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC" alt="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC">
+            <img src="imagenes/Suv/2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC (2).webp" title="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC" alt="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC">
+            <img src="imagenes/Suv/2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC (3).webp" title="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC" alt="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC">
+            <img src="imagenes/Suv/2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC (4).webp" title="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC" alt="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC">
+            <img src="imagenes/Suv/2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC (5).webp" title="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC" alt="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC">
+            <img src="imagenes/Suv/2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC (6).webp" title="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC" alt="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC">
+            <img src="imagenes/Suv/2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC (7).webp" title="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC" alt="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC">
+            <img src="imagenes/Suv/2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC (8).webp" title="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC" alt="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC">
+            <img src="imagenes/Suv/2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC (9).webp" title="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC" alt="2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2014 MERCEDES-BENZ</h3>
+                <div>
+                    <p><b>Miles:</b> 109.000 </p>
+                    <p><b>Cash:</b> $11.300</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$15,500 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $4.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2014 MERCEDES-BENZ GL-CLASS GL 450 4MATIC')">Request Information</button>
+            </div>
+        </div>
+
         <div class="car">
             <div class="car-images">
             <img src="imagenes/Luxury/2011 BMW serie 3 (1).webp" title="2011 BMW serie 3" alt="2011 BMW serie 3">
