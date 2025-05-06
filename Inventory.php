@@ -22,51 +22,6 @@
     <div class="caja_img">
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Sedan/2013 Toyota Corolla LE (1).webp" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2013 Toyota Corolla LE (4).webp" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2013 Toyota Corolla LE (2).webp" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2013 Toyota Corolla LE (5).webp" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
-                <img src="imagenes/Sedan/2013 Toyota Corolla LE (3).webp" title="2013 Toyota Corolla LE" alt="2013 Toyota Corolla LE">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2013 Toyota Corolla LE</h3>
-                <div>
-                    <p><b>Miles:</b> 166,397</p>
-                    <p><b>Cash:</b> $6,500</p>
-                </div>
-                <button onclick="openForm('2013 Toyota Corolla LE')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2011 Toyota Corolla  (1).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
-                <img src="imagenes/Sedan/2011 Toyota Corolla  (2).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
-                <img src="imagenes/Sedan/2011 Toyota Corolla  (3).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
-                <img src="imagenes/Sedan/2011 Toyota Corolla  (5).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
-                <img src="imagenes/Sedan/2011 Toyota Corolla  (4).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
-                <img src="imagenes/Sedan/2011 Toyota Corolla  (6).jpeg" title="2011 Toyota Corolla " alt="2011 Toyota Corolla ">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2011 Toyota Corolla </h3>
-                <div>
-                    <p><b>Miles:</b> 229.000</p>
-                    <p><b>Cash:</b> $5,500</p>
-                </div>
-                <button onclick="openForm('2011 Toyota Corolla ')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
                 <img src="imagenes/Sedan/2017  Hyundai Accent (1).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
                 <img src="imagenes/Sedan/2017  Hyundai Accent (2).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
                 <img src="imagenes/Sedan/2017  Hyundai Accent (3).jpeg" title="2017  Hyundai Accent" alt="2017  Hyundai Accent">
@@ -179,83 +134,6 @@
         </div>
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Sedan/2018 HYUNDAI ELANTRA SEL (1).jpeg" title="2018 HYUNDAI ELANTRA SEL" alt="2018 HYUNDAI ELANTRA SEL">
-                <img src="imagenes/Sedan/2018 HYUNDAI ELANTRA SEL (3).jpeg" title="2018 HYUNDAI ELANTRA SEL" alt="2018 HYUNDAI ELANTRA SEL">
-                <img src="imagenes/Sedan/2018 HYUNDAI ELANTRA SEL (4).jpeg" title="2018 HYUNDAI ELANTRA SEL" alt="2018 HYUNDAI ELANTRA SEL">
-                <img src="imagenes/Sedan/2018 HYUNDAI ELANTRA SEL (5).jpeg" title="2018 HYUNDAI ELANTRA SEL" alt="2018 HYUNDAI ELANTRA SEL">
-                <img src="imagenes/Sedan/2018 HYUNDAI ELANTRA SEL (6).jpeg" title="2018 HYUNDAI ELANTRA SEL" alt="2018 HYUNDAI ELANTRA SEL">
-                <img src="imagenes/Sedan/2018 HYUNDAI ELANTRA SEL (2).jpeg" title="2018 HYUNDAI ELANTRA SEL" alt="2018 HYUNDAI ELANTRA SEL">
-                <img src="imagenes/Sedan/2018 HYUNDAI ELANTRA SEL (7).jpeg" title="2018 HYUNDAI ELANTRA SEL" alt="2018 HYUNDAI ELANTRA SEL">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2018 HYUNDAI ELANTRA SEL</h3>
-                <div>
-                    <p><b>Miles:</b> 115.000</p>
-                    <p><b>Cash:</b> $8.500</p>
-                </div>
-                <button onclick="openForm('2018 HYUNDAI ELANTRA SEL')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (1).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
-                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (3).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
-                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (4).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
-                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (5).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
-                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (6).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
-                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (2).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
-                <img src="imagenes/Sedan/2016 Infiniti Q50 PREMIUM (7).jpeg" title="2016 Infiniti Q50 PREMIUM" alt="2016 Infiniti Q50 PREMIUM">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2016 Infiniti Q50 PREMIUM</h3>
-                <div>
-                    <p><b>Miles:</b>162,059</p>
-                    <p><b>Cash:</b> $8.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $14.500(Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $4.000(Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2016 Infiniti Q50 PREMIUM')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2019Toyota Corolla (1).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
-                <img src="imagenes/Sedan/2019Toyota Corolla (2).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
-                <img src="imagenes/Sedan/2019Toyota Corolla (3).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
-                <img src="imagenes/Sedan/2019Toyota Corolla (4).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
-                <img src="imagenes/Sedan/2019Toyota Corolla (5).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
-                <img src="imagenes/Sedan/2019Toyota Corolla (6).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
-                <img src="imagenes/Sedan/2019Toyota Corolla (7).jpeg" title="2019Toyota Corolla" alt="2019Toyota Corolla">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2019 Toyota Corolla</h3>
-                <div>
-                    <p><b>Miles:</b>399.000</p>
-                    <p><b>Cash:</b> $4.000</p>
-                </div>
-                <button onclick="openForm('2019Toyota Corolla')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
                 <img src="imagenes/Sedan/2017 Mazda 6 (1).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
                 <img src="imagenes/Sedan/2017 Mazda 6 (2).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
                 <img src="imagenes/Sedan/2017 Mazda 6 (3).jpeg" title="2017 Mazda 6" alt="2017 Mazda 6">
@@ -312,35 +190,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('2010 Kia forte')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Sedan/2020 Hyundai Elantra (1).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
-                <img src="imagenes/Sedan/2020 Hyundai Elantra (2).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
-                <img src="imagenes/Sedan/2020 Hyundai Elantra (3).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
-                <img src="imagenes/Sedan/2020 Hyundai Elantra (4).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
-                <img src="imagenes/Sedan/2020 Hyundai Elantra (5).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
-                <img src="imagenes/Sedan/2020 Hyundai Elantra (6).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
-                <img src="imagenes/Sedan/2020 Hyundai Elantra (7).jpeg" title="2020 Hyundai Elantra" alt="2020 Hyundai Elantra">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2020 Hyundai Elantra</h3>
-                <div>
-                    <p><b>Miles:</b>110.000</p>
-                    <p><b>Cash:</b> $6.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                    <p><b>Financing:</b> $11.000(Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.200(Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2020 Hyundai Elantra')">Request Information</button>
             </div>
         </div>
         <div class="car">
@@ -520,31 +369,6 @@
         </div>
         <div class="car">
             <div class="car-images">
-            <img src="imagenes/Suv/2018 Subaru Forester TOURING (4).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
-            <img src="imagenes/Suv/2018 Subaru Forester TOURING (1).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
-            <img src="imagenes/Suv/2018 Subaru Forester TOURING (2).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
-            <img src="imagenes/Suv/2018 Subaru Forester TOURING (7).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
-            <img src="imagenes/Suv/2018 Subaru Forester TOURING (3).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
-            <img src="imagenes/Suv/2018 Subaru Forester TOURING (5).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
-            <img src="imagenes/Suv/2018 Subaru Forester TOURING (6).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
-            <img src="imagenes/Suv/2018 Subaru Forester TOURING (8).jpeg" title="2018 Subaru Forester TOURING" alt="2018 Subaru Forester TOURING">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2018 Subaru Forester</h3>
-                <div>
-                    <p><b>Miles:</b> 186,824</p>
-                    <p><b>Cash:</b> $5.000</p>
-                </div>
-                <button onclick="openForm('2018 Subaru Forester TOURING')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
             <img src="imagenes/Suv/2023 Toyota rav4  (1).jpeg" title="2023 Toyota rav4" alt="2023 Toyota rav4">
             <img src="imagenes/Suv/2023 Toyota rav4  (2).jpeg" title="2023 Toyota rav4" alt="2023 Toyota rav4">
             <img src="imagenes/Suv/2023 Toyota rav4  (3).jpeg" title="2023 Toyota rav4" alt="2023 Toyota rav4">
@@ -684,35 +508,6 @@
         </div>
         <div class="car">
             <div class="car-images">
-            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (1).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
-            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (2).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
-            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (3).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
-            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (4).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
-            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (5).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
-            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (6).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
-            <img src="imagenes/Suv/2015 Audi Q5 PREMIUM + (7).jpeg" title="2015 Audi Q5 PREMIUM +" alt="2015 Audi Q5 PREMIUM +">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-               </div>
-                <h3>2015 Audi Q5 PREMIUM</h3>
-                <div>
-                    <p><b>Miles:</b> 156,822</p>
-                    <p><b>Cash:</b> $7.000</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b>$11.500  (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.500 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2015 Audi Q5 PREMIUM +')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
             <img src="imagenes/Suv/2001 Acura mdx (1).jpeg" title="2001 Acura mdx" alt="2001 Acura mdx">
             <img src="imagenes/Suv/2001 Acura mdx (2).jpeg" title="2001 Acura mdx" alt="2001 Acura mdx">
             <img src="imagenes/Suv/2001 Acura mdx (3).jpeg" title="2001 Acura mdx" alt="2001 Acura mdx">
@@ -796,34 +591,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('2011 Chevrolet Suburban')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2016 Hyundai Tucson (1).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
-            <img src="imagenes/Suv/2016 Hyundai Tucson (2).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
-            <img src="imagenes/Suv/2016 Hyundai Tucson (3).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
-            <img src="imagenes/Suv/2016 Hyundai Tucson (4).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
-            <img src="imagenes/Suv/2016 Hyundai Tucson (5).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
-            <img src="imagenes/Suv/2016 Hyundai Tucson (6).jpeg" title="2016 Hyundai Tucson" alt="2016 Hyundai Tucson">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-               </div>
-                <h3>2016 Hyundai Tucson</h3>
-                <div>
-                    <p><b>Miles:</b> 130.000</p>
-                    <p><b>Cash:</b> $7.000</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b>$10.500  (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.200 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2016 Hyundai Tucson')">Request Information</button>
             </div>
         </div>
         <div class="car">
@@ -982,37 +749,6 @@
                 </div>
                 </div>
                 <button onclick="openForm('2014 Land Rover')">Request Information</button>
-            </div>
-        </div>
-        <div class="car">
-            <div class="car-images">
-            <img src="imagenes/Suv/2015 Kia Sorento sx (1).webp" title="2015 Kia Sorento sx" alt="2015 Kia Sorento sx">
-            <img src="imagenes/Suv/2015 Kia Sorento sx (2).webp" title="2015 Kia Sorento sx" alt="2015 Kia Sorento sx">
-            <img src="imagenes/Suv/2015 Kia Sorento sx (3).webp" title="2015 Kia Sorento sx" alt="2015 Kia Sorento sx">
-            <img src="imagenes/Suv/2015 Kia Sorento sx (4).webp" title="2015 Kia Sorento sx" alt="2015 Kia Sorento sx">
-            <img src="imagenes/Suv/2015 Kia Sorento sx (5).webp" title="2015 Kia Sorento sx" alt="2015 Kia Sorento sx">
-            <img src="imagenes/Suv/2015 Kia Sorento sx (6).webp" title="2015 Kia Sorento sx" alt="2015 Kia Sorento sx">
-            <img src="imagenes/Suv/2015 Kia Sorento sx (7).webp" title="2015 Kia Sorento sx" alt="2015 Kia Sorento sx">
-            <img src="imagenes/Suv/2015 Kia Sorento sx (8).webp" title="2015 Kia Sorento sx" alt="2015 Kia Sorento sx">
-            <img src="imagenes/Suv/2015 Kia Sorento sx (9).webp" title="2015 Kia Sorento sx" alt="2015 Kia Sorento sx">
-        </div>
-        
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-               </div>
-                <h3>2015 Kia Sorento sx</h3>
-                <div>
-                    <p><b>Miles:</b> 105.000 </p>
-                    <p><b>Cash:</b> $6.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                    <div class="more-info">
-                    <p><b>Financing:</b>$11,000 (Negotiable)</p> <!-- Garantia incluida-->
-                    <p><b>Down:</b> $2.000 (Negotiable)</p>
-                </div>
-                </div>
-                <button onclick="openForm('2015 Kia Sorento sx')">Request Information</button>
             </div>
         </div>
         <!--More suvs here-->
