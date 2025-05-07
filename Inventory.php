@@ -311,6 +311,36 @@
                 <button onclick="openForm('2015 Misubichi Lancer')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2015 Mazda (1).webp" title="2015 Mazda" alt="2015 Mazda">
+                <img src="imagenes/Sedan/2015 Mazda (2).webp" title="2015 Mazda" alt="2015 Mazda">
+                <img src="imagenes/Sedan/2015 Mazda (3).webp" title="2015 Mazda" alt="2015 Mazda">
+                <img src="imagenes/Sedan/2015 Mazda (4).webp" title="2015 Mazda" alt="2015 Mazda">
+                <img src="imagenes/Sedan/2015 Mazda (5).webp" title="2015 Mazda" alt="2015 Mazda">
+                <img src="imagenes/Sedan/2015 Mazda (6).webp" title="2015 Mazda" alt="2015 Mazda">
+                <img src="imagenes/Sedan/2015 Mazda (7).webp" title="2015 Mazda" alt="2015 Mazda">
+                <img src="imagenes/Sedan/2015 Mazda (8).webp" title="2015 Mazda" alt="2015 Mazda">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2015 Mazda</h3>
+                <div>
+                    <p><b>Miles:</b> 136,752</p>
+                    <p><b>Cash:</b> $7.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $10.500(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2015 Mazda')">Request Information</button>
+            </div>
+        </div>
 
         <!--More sedans here -->
     </div>
@@ -810,6 +840,38 @@
                 <button onclick="openForm('2014 Dodge ram')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Trucks/2009 gmc sierra (1).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
+                <img src="imagenes/Trucks/2009 gmc sierra (5).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
+                <img src="imagenes/Trucks/2009 gmc sierra (6).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
+                <img src="imagenes/Trucks/2009 gmc sierra (7).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
+                <img src="imagenes/Trucks/2009 gmc sierra (8).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
+                <img src="imagenes/Trucks/2009 gmc sierra (2).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
+                <img src="imagenes/Trucks/2009 gmc sierra (3).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
+                <img src="imagenes/Trucks/2009 gmc sierra (4).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
+                <img src="imagenes/Trucks/2009 gmc sierra (9).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2009 gmc sierra</h3>
+                <div>
+                    <p><b>Miles:</b> 180.000 </p>
+                    <p><b>Cash:</b> $6.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $10.500 (Negotiable)</p>
+                <p><b>Down:</b> $2.500 (Negotiable)</p>
+                </div>
+                    
+                </div>
+                <button onclick="openForm('2009 gmc sierra')">Request Information</button>
+            </div>
+        </div>
        
         <!--More Trucks here -->
     </div>
@@ -963,7 +1025,39 @@
                 <p><b>Down:</b> $1.500 (Negotiable)</p>
                 </div>
                 </div>
-                <button onclick="openForm('2008 cadillax Dts v8')">Request Information</button>
+                <button onclick="openForm('2011 BMW serie 3')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Luxury/2018 Subaru brz límite (1).webp" title="2018 Subaru brz límite" alt="2018 Subaru brz límite">
+            <img src="imagenes/Luxury/2018 Subaru brz límite (2).webp" title="2018 Subaru brz límite" alt="2018 Subaru brz límite">
+            <img src="imagenes/Luxury/2018 Subaru brz límite (3).webp" title="2018 Subaru brz límite" alt="2018 Subaru brz límite">
+            <img src="imagenes/Luxury/2018 Subaru brz límite (4).webp" title="2018 Subaru brz límite" alt="2018 Subaru brz límite">
+            <img src="imagenes/Luxury/2018 Subaru brz límite (5).webp" title="2018 Subaru brz límite" alt="2018 Subaru brz límite">
+            <img src="imagenes/Luxury/2018 Subaru brz límite (6).webp" title="2018 Subaru brz límite" alt="2018 Subaru brz límite">
+            <img src="imagenes/Luxury/2018 Subaru brz límite (7).webp" title="2018 Subaru brz límite" alt="2018 Subaru brz límite">
+            <img src="imagenes/Luxury/2018 Subaru brz límite (8).webp" title="2018 Subaru brz límite" alt="2018 Subaru brz límite">
+            <img src="imagenes/Luxury/2018 Subaru brz límite (9).webp" title="2018 Subaru brz límite" alt="2018 Subaru brz límite">
+            <img src="imagenes/Luxury/2018 Subaru brz límite (10).webp" title="2018 Subaru brz límite" alt="2018 Subaru brz límite">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2018 Subaru brz límite</h3>
+                <div>
+                    <p><b>Miles:</b>150.000 </p>
+                    <p><b>Cash:</b> $11.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $16.500 (Negotiable)</p>
+                <p><b>Down:</b> $4.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2018 Subaru brz límite')">Request Information</button>
             </div>
         </div>
     <!-- More Luxury here-->
