@@ -781,6 +781,31 @@
                 <button onclick="openForm('2014 Land Rover')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/Dodge caravane 2006 (1).webp" title="Dodge caravane 2006" alt="Dodge caravane 2006">
+            <img src="imagenes/Suv/Dodge caravane 2006 (2).webp" title="Dodge caravane 2006" alt="Dodge caravane 2006">
+            <img src="imagenes/Suv/Dodge caravane 2006 (3).webp" title="Dodge caravane 2006" alt="Dodge caravane 2006">
+            <img src="imagenes/Suv/Dodge caravane 2006 (4).webp" title="Dodge caravane 2006" alt="Dodge caravane 2006">
+            <img src="imagenes/Suv/Dodge caravane 2006 (5).webp" title="Dodge caravane 2006" alt="Dodge caravane 2006">
+            <img src="imagenes/Suv/Dodge caravane 2006 (6).webp" title="Dodge caravane 2006" alt="Dodge caravane 2006">
+            <img src="imagenes/Suv/Dodge caravane 2006 (7).webp" title="Dodge caravane 2006" alt="Dodge caravane 2006">
+            <img src="imagenes/Suv/Dodge caravane 2006 (8).webp" title="Dodge caravane 2006" alt="Dodge caravane 2006">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>Dodge caravane 2006</h3>
+                <div>
+                    <p><b>Miles:</b> 223.000</p>
+                    <p><b>Cash:</b> $2.000</p>
+                </div>
+                <button onclick="openForm('Dodge caravane 2006')">Request Information</button>
+            </div>
+        </div>
         <!--More suvs here-->
     </div>
     <hr>
