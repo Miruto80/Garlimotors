@@ -341,6 +341,35 @@
                 <button onclick="openForm('2015 Mazda')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2012 Toyota corrolla (1).webp" title="2012 Toyota corrolla" alt="2012 Toyota corrolla">
+                <img src="imagenes/Sedan/2012 Toyota corrolla (2).webp" title="2012 Toyota corrolla" alt="2012 Toyota corrolla">
+                <img src="imagenes/Sedan/2012 Toyota corrolla (3).webp" title="2012 Toyota corrolla" alt="2012 Toyota corrolla">
+                <img src="imagenes/Sedan/2012 Toyota corrolla (4).webp" title="2012 Toyota corrolla" alt="2012 Toyota corrolla">
+                <img src="imagenes/Sedan/2012 Toyota corrolla (6).webp" title="2012 Toyota corrolla" alt="2012 Toyota corrolla">
+                <img src="imagenes/Sedan/2012 Toyota corrolla (7).webp" title="2012 Toyota corrolla" alt="2012 Toyota corrolla">
+                <img src="imagenes/Sedan/2012 Toyota corrolla (8).webp" title="2012 Toyota corrolla" alt="2012 Toyota corrolla">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2012 Toyota corrolla</h3>
+                <div>
+                    <p><b>Miles:</b> 151,000</p>
+                    <p><b>Cash:</b> $6.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $10.000(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.000(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2012 Toyota corrolla')">Request Information</button>
+            </div>
+        </div>
 
         <!--More sedans here -->
     </div>
@@ -804,6 +833,38 @@
                     <p><b>Cash:</b> $2.000</p>
                 </div>
                 <button onclick="openForm('Dodge caravane 2006')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/Chrysler town & country 2005 (1).webp" title="Chrysler town & country 2005" alt="Chrysler town & country 2005">
+            <img src="imagenes/Suv/Chrysler town & country 2005 (12).webp" title="Chrysler town & country 2005" alt="Chrysler town & country 2005">
+            <img src="imagenes/Suv/Chrysler town & country 2005 (13).webp" title="Chrysler town & country 2005" alt="Chrysler town & country 2005">
+            <img src="imagenes/Suv/Chrysler town & country 2005 (2).webp" title="Chrysler town & country 2005" alt="Chrysler town & country 2005">
+            <img src="imagenes/Suv/Chrysler town & country 2005 (3).webp" title="Chrysler town & country 2005" alt="Chrysler town & country 2005">
+            <img src="imagenes/Suv/Chrysler town & country 2005 (7).webp" title="Chrysler town & country 2005" alt="Chrysler town & country 2005">
+            <img src="imagenes/Suv/Chrysler town & country 2005 (8).webp" title="Chrysler town & country 2005" alt="Chrysler town & country 2005">
+            <img src="imagenes/Suv/Chrysler town & country 2005 (9).webp" title="Chrysler town & country 2005" alt="Chrysler town & country 2005">
+            <img src="imagenes/Suv/Chrysler town & country 2005 (10).webp" title="Chrysler town & country 2005" alt="Chrysler town & country 2005">
+            <img src="imagenes/Suv/Chrysler town & country 2005 (11).webp" title="Chrysler town & country 2005" alt="Chrysler town & country 2005">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>Chrysler 2005</h3>
+                <div>
+                    <p><b>Miles:</b> 104.040</p>
+                    <p><b>Cash:</b> $2.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$4,000 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.500 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('Chrysler town & country 2005')">Request Information</button>
             </div>
         </div>
         <!--More suvs here-->
