@@ -339,6 +339,64 @@
                 <button onclick="openForm('2012 Toyota corrolla')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/2013 Toyota Camrry (9).webp" title="2013 Toyota Camrry" alt="2013 Toyota Camrry">
+                <img src="imagenes/Sedan/2013 Toyota Camrry (8).webp" title="2013 Toyota Camrry" alt="2013 Toyota Camrry">
+                <img src="imagenes/Sedan/2013 Toyota Camrry (1).webp" title="2013 Toyota Camrry" alt="2013 Toyota Camrry">
+                <img src="imagenes/Sedan/2013 Toyota Camrry (2).webp" title="2013 Toyota Camrry" alt="2013 Toyota Camrry">
+                <img src="imagenes/Sedan/2013 Toyota Camrry (3).webp" title="2013 Toyota Camrry" alt="2013 Toyota Camrry">
+                <img src="imagenes/Sedan/2013 Toyota Camrry (4).webp" title="2013 Toyota Camrry" alt="2013 Toyota Camrry">
+                <img src="imagenes/Sedan/2013 Toyota Camrry (6).webp" title="2013 Toyota Camrry" alt="2013 Toyota Camrry">
+                <img src="imagenes/Sedan/2013 Toyota Camrry (7).webp" title="2013 Toyota Camrry" alt="2013 Toyota Camrry">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2013 Toyota Camrry</h3>
+                <div>
+                    <p><b>Miles:</b> 145,009</p>
+                    <p><b>Cash:</b> $6.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $10.500(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $2.000(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2013 Toyota Camrry')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Sedan/Honda Accord 2009 (1).webp" title="Honda Accord 2009" alt="Honda Accord 2009">
+                <img src="imagenes/Sedan/Honda Accord 2009 (2).webp" title="Honda Accord 2009" alt="Honda Accord 2009">
+                <img src="imagenes/Sedan/Honda Accord 2009 (3).webp" title="Honda Accord 2009" alt="Honda Accord 2009">
+                <img src="imagenes/Sedan/Honda Accord 2009 (4).webp" title="Honda Accord 2009" alt="Honda Accord 2009">
+                <img src="imagenes/Sedan/Honda Accord 2009 (5).webp" title="Honda Accord 2009" alt="Honda Accord 2009">
+                <img src="imagenes/Sedan/Honda Accord 2009 (6).webp" title="Honda Accord 2009" alt="Honda Accord 2009">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>Honda Accord 2009</h3>
+                <div>
+                <p><b>Miles:</b> 170,000</p>
+                    <p><b>Cash:</b> $4.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                    <p><b>Financing:</b> $7.500(Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.300(Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('Honda Accord 2009')">Request Information</button>
+            </div>
+        </div>
 
         <!--More sedans here -->
     </div>
@@ -754,6 +812,168 @@
                 <button onclick="openForm('Chrysler town & country 2005')">Request Information</button>
             </div>
         </div>
+        <div class="car">
+            <div class="car-images">
+            <img src="imagenes/Suv/2006 LEXUS RX (1).webp" title="2006 LEXUS RX" alt="2006 LEXUS RX">
+            <img src="imagenes/Suv/2006 LEXUS RX (2).webp" title="2006 LEXUS RX" alt="2006 LEXUS RX">
+            <img src="imagenes/Suv/2006 LEXUS RX (3).webp" title="2006 LEXUS RX" alt="2006 LEXUS RX">
+            <img src="imagenes/Suv/2006 LEXUS RX (4).webp" title="2006 LEXUS RX" alt="2006 LEXUS RX">
+            <img src="imagenes/Suv/2006 LEXUS RX (5).webp" title="2006 LEXUS RX" alt="2006 LEXUS RX">
+            <img src="imagenes/Suv/2006 LEXUS RX (6).webp" title="2006 LEXUS RX" alt="2006 LEXUS RX">
+            <img src="imagenes/Suv/2006 LEXUS RX (7).webp" title="2006 LEXUS RX" alt="2006 LEXUS RX">
+            <img src="imagenes/Suv/2006 LEXUS RX (8).webp" title="2006 LEXUS RX" alt="2006 LEXUS RX">
+            <img src="imagenes/Suv/2006 LEXUS RX (9).webp" title="2006 LEXUS RX" alt="2006 LEXUS RX">
+        </div>
+        
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+               </div>
+                <h3>2006 LEXUS RX</h3>
+                <div>
+                    <p><b>Miles:</b> 201.040</p>
+                    <p><b>Cash:</b> $4.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                    <p><b>Financing:</b>$8,500 (Negotiable)</p> <!-- Garantia incluida-->
+                    <p><b>Down:</b> $1.300 (Negotiable)</p>
+                </div>
+                </div>
+                <button onclick="openForm('2006 LEXUS RX')">Request Information</button>
+            </div>
+        </div>
+
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Suv/2001 Toyota sequoia limited (1).webp" title="2001 Toyota sequoia limited" alt="2001 Toyota sequoia limited ">
+                <img src="imagenes/Suv/2001 Toyota sequoia limited (2).webp" title="2001 Toyota sequoia limited" alt="2001 Toyota sequoia limited ">
+                <img src="imagenes/Suv/2001 Toyota sequoia limited (3).webp" title="2001 Toyota sequoia limited" alt="2001 Toyota sequoia limited ">
+                <img src="imagenes/Suv/2001 Toyota sequoia limited (4).webp" title="2001 Toyota sequoia limited" alt="2001 Toyota sequoia limited ">
+                <img src="imagenes/Suv/2001 Toyota sequoia limited (5).webp" title="2001 Toyota sequoia limited" alt="2001 Toyota sequoia limited ">
+                <img src="imagenes/Suv/2001 Toyota sequoia limited (6).webp" title="2001 Toyota sequoia limited" alt="2001 Toyota sequoia limited ">
+                <img src="imagenes/Suv/2001 Toyota sequoia limited (7).webp" title="2001 Toyota sequoia limited" alt="2001 Toyota sequoia limited ">
+                <img src="imagenes/Suv/2001 Toyota sequoia limited (8).webp" title="2001 Toyota sequoia limited" alt="2001 Toyota sequoia limited ">
+                <img src="imagenes/Suv/2001 Toyota sequoia limited (9).webp" title="2001 Toyota sequoia limited" alt="2001 Toyota sequoia limited ">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2001 Toyota sequoia</h3>
+                <div>
+                    <p><b>Miles:</b> 280.000</p>
+                    <p><b>Cash:</b> $2.500</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $4.500 (Negotiable)</p>
+                <p><b>Down:</b> $1.000 (Negotiable)</p>
+                </div>
+                    
+                </div>
+                <button onclick="openForm('2001 Toyota sequoia limited')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Trucks/2014 Land Rover Range (1).webp" title="2014 Land Rover Range" alt="2014 Land Rover Range">
+                <img src="imagenes/Trucks/2014 Land Rover Range (2).webp" title="2014 Land Rover Range" alt="2014 Land Rover Range">
+                <img src="imagenes/Trucks/2014 Land Rover Range (4).webp" title="2014 Land Rover Range" alt="2014 Land Rover Range">
+                <img src="imagenes/Trucks/2014 Land Rover Range (6).webp" title="2014 Land Rover Range" alt="2014 Land Rover Range">
+                <img src="imagenes/Trucks/2014 Land Rover Range (7).webp" title="2014 Land Rover Range" alt="2014 Land Rover Range">
+                <img src="imagenes/Trucks/2014 Land Rover Range (8).webp" title="2014 Land Rover Range" alt="2014 Land Rover Range">
+                <img src="imagenes/Trucks/2014 Land Rover Range (9).webp" title="2014 Land Rover Range" alt="2014 Land Rover Range">
+                <img src="imagenes/Trucks/2014 Land Rover Range (10).webp" title="2014 Land Rover Range" alt="2014 Land Rover Range">
+                <img src="imagenes/Trucks/2014 Land Rover Range (11).webp" title="2014 Land Rover Range" alt="2014 Land Rover Range">
+                <img src="imagenes/Trucks/2014 Land Rover Range (12).webp" title="2014 Land Rover Range" alt="2014 Land Rover Range">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2014 Land Rover Range</h3>
+                <div>
+                    <p><b>Miles:</b> 208.000</p>
+                    <p><b>Cash:</b> $7.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $10.500 (Negotiable)</p>
+                <p><b>Down:</b> $2.300 (Negotiable)</p>
+                </div>
+                    
+                </div>
+                <button onclick="openForm('2014 Land Rover Range')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Trucks/Chevrolet tahoe 2007 (1).webp" title="Chevrolet tahoe 2007" alt="Chevrolet tahoe 2007">
+                <img src="imagenes/Trucks/Chevrolet tahoe 2007 (2).webp" title="Chevrolet tahoe 2007" alt="Chevrolet tahoe 2007">
+                <img src="imagenes/Trucks/Chevrolet tahoe 2007 (3).webp" title="Chevrolet tahoe 2007" alt="Chevrolet tahoe 2007">
+                <img src="imagenes/Trucks/Chevrolet tahoe 2007 (4).webp" title="Chevrolet tahoe 2007" alt="Chevrolet tahoe 2007">
+                <img src="imagenes/Trucks/Chevrolet tahoe 2007 (5).webp" title="Chevrolet tahoe 2007" alt="Chevrolet tahoe 2007">
+                <img src="imagenes/Trucks/Chevrolet tahoe 2007 (6).webp" title="Chevrolet tahoe 2007" alt="Chevrolet tahoe 2007">
+                <img src="imagenes/Trucks/Chevrolet tahoe 2007 (7).webp" title="Chevrolet tahoe 2007" alt="Chevrolet tahoe 2007">
+                <img src="imagenes/Trucks/Chevrolet tahoe 2007 (8).webp" title="Chevrolet tahoe 2007" alt="Chevrolet tahoe 2007">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>Chevrolet tahoe 2007</h3>
+                <div>
+                    <p><b>Miles:</b> 220.000</p>
+                    <p><b>Cash:</b> $6.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                    <div class="more-info">
+                        <p><b>Financing:</b> $10.500 (Negotiable)</p>
+                        <p><b>Down:</b> $2.000 (Negotiable)</p>
+                    </div>
+                    
+                </div>
+                <button onclick="openForm('Chevrolet tahoe 2007')">Request Information</button>
+            </div>
+        </div>
+        <div class="car">
+            <div class="car-images">
+                <img src="imagenes/Suv/2007 Toyota 4runner (1).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+                <img src="imagenes/Suv/2007 Toyota 4runner (2).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+                <img src="imagenes/Suv/2007 Toyota 4runner (3).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+                <img src="imagenes/Suv/2007 Toyota 4runner (4).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+                <img src="imagenes/Suv/2007 Toyota 4runner (5).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+                <img src="imagenes/Suv/2007 Toyota 4runner (6).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+                <img src="imagenes/Suv/2007 Toyota 4runner (7).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+                <img src="imagenes/Suv/2007 Toyota 4runner (8).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+                <img src="imagenes/Suv/2007 Toyota 4runner (9).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+                <img src="imagenes/Suv/2007 Toyota 4runner (10).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+                <img src="imagenes/Suv/2007 Toyota 4runner (11).webp" title="2007 Toyota 4runner" alt="2007 Toyota 4runner">
+            </div>
+            
+            <div class="car-info">
+                <div class="car-controls">
+                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
+                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
+                </div>
+                <h3>2007 Toyota 4runner</h3>
+                <div>
+                    <p><b>Miles:</b> 208.000</p>
+                    <p><b>Cash:</b> $7.000</p>
+                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
+                <div class="more-info">
+                <p><b>Financing:</b> $10.500 (Negotiable)</p>
+                <p><b>Down:</b> $2.300 (Negotiable)</p>
+                </div>
+                    
+                </div>
+                <button onclick="openForm('2007 Toyota 4runner')">Request Information</button>
+            </div>
+        </div>
         <!--More suvs here-->
     </div>
     <hr>
@@ -779,19 +999,18 @@
                 <div>
                     <p><b>Miles:</b> 156.000</p>
                     <p><b>Cash:</b> $4.500</p>
-                    
                 </div>
                 <button onclick="openForm('2002 DODGE DAKOTA SPORT')">Request Information</button>
             </div>
         </div>
         <div class="car">
             <div class="car-images">
-                <img src="imagenes/Trucks/2014 Dodge ram (1) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
-                <img src="imagenes/Trucks/2014 Dodge ram (2) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
-                <img src="imagenes/Trucks/2014 Dodge ram (3) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
-                <img src="imagenes/Trucks/2014 Dodge ram (4) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
-                <img src="imagenes/Trucks/2014 Dodge ram (5) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
-                <img src="imagenes/Trucks/2014 Dodge ram (6) N.webp" title="2014 Dodge ram" alt="2014 Dodge ram ">
+                <img src="imagenes/Trucks/2014 Dodge ram (1) N.webp" title="2014 Dodge ram " alt="2014 Dodge ram  ">
+                <img src="imagenes/Trucks/2014 Dodge ram (2) N.webp" title="2014 Dodge ram " alt="2014 Dodge ram  ">
+                <img src="imagenes/Trucks/2014 Dodge ram (3) N.webp" title="2014 Dodge ram " alt="2014 Dodge ram  ">
+                <img src="imagenes/Trucks/2014 Dodge ram (4) N.webp" title="2014 Dodge ram " alt="2014 Dodge ram  ">
+                <img src="imagenes/Trucks/2014 Dodge ram (5) N.webp" title="2014 Dodge ram " alt="2014 Dodge ram  ">
+                <img src="imagenes/Trucks/2014 Dodge ram (6) N.webp" title="2014 Dodge ram " alt="2014 Dodge ram  ">
             </div>
             
             <div class="car-info">
@@ -804,16 +1023,15 @@
                     <p><b>Miles:</b> 130.000</p>
                     <p><b>Cash:</b> $10.000</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                <p><b>Financing:</b> $14.500 (Negotiable)</p>
-                <p><b>Down:</b> $3.000 (Negotiable)</p>
-                </div>
+                    <div class="more-info">
+                        <p><b>Financing:</b> $14.000 (Negotiable)</p>
+                        <p><b>Down:</b> $3.000 (Negotiable)</p>
+                    </div>
                     
                 </div>
                 <button onclick="openForm('2014 Dodge ram')">Request Information</button>
             </div>
         </div>
-       
         <!--More Trucks here -->
     </div>
     <hr>
