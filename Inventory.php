@@ -813,38 +813,6 @@
                 <button onclick="openForm('2014 Dodge ram')">Request Information</button>
             </div>
         </div>
-        <div class="car">
-            <div class="car-images">
-                <img src="imagenes/Trucks/2009 gmc sierra (1).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
-                <img src="imagenes/Trucks/2009 gmc sierra (5).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
-                <img src="imagenes/Trucks/2009 gmc sierra (6).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
-                <img src="imagenes/Trucks/2009 gmc sierra (7).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
-                <img src="imagenes/Trucks/2009 gmc sierra (8).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
-                <img src="imagenes/Trucks/2009 gmc sierra (2).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
-                <img src="imagenes/Trucks/2009 gmc sierra (3).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
-                <img src="imagenes/Trucks/2009 gmc sierra (4).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
-                <img src="imagenes/Trucks/2009 gmc sierra (9).webp" title="2009 gmc sierra" alt="2009 gmc sierra ">
-            </div>
-            
-            <div class="car-info">
-                <div class="car-controls">
-                    <button class="arrow" onclick="prevImage(this)">&#9664;</button>
-                    <button class="arrow" onclick="nextImage(this)">&#9654;</button>
-                </div>
-                <h3>2009 gmc sierra</h3>
-                <div>
-                    <p><b>Miles:</b> 180.000 </p>
-                    <p><b>Cash:</b> $6.500</p>
-                    <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
-                <div class="more-info">
-                <p><b>Financing:</b> $10.500 (Negotiable)</p>
-                <p><b>Down:</b> $2.500 (Negotiable)</p>
-                </div>
-                    
-                </div>
-                <button onclick="openForm('2009 gmc sierra')">Request Information</button>
-            </div>
-        </div>
        
         <!--More Trucks here -->
     </div>
