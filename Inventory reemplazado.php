@@ -745,7 +745,7 @@
                 <h3>2014 Land Rover</h3>
                 <div>
                     <p><b>Miles:</b> 122.009</p>
-                    <p><b>Cash:</b> $7.000</p>
+                    <p><b>Cash:</b> $9.500</p>
                     <button class="more-info-btn" onclick="toggleMoreInfo(this)">Show details &#9660;</button>
                     <div class="more-info">
                     <p><b>Financing:</b>$12,000 (Negotiable)</p> <!-- Garantia incluida-->

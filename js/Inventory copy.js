@@ -370,7 +370,170 @@ const cars = [
                 "imagenes/Luxury/2018 Subaru brz límite (9).webp",
                 "imagenes/Luxury/2018 Subaru brz límite (10).webp"
             ]
-        }
+        },
+        {
+            title: "2017 infinity qx30 Sport",
+            cash: "$8.500",
+            down: "3.000",
+            financing: "$14.500 (Negotiable)",
+            mileage: "100.000",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/2017 infinity qx30 Sport (5).webp",
+                "imagenes/Suv/2017 infinity qx30 Sport (1).webp",
+                "imagenes/Suv/2017 infinity qx30 Sport (2).webp",
+                "imagenes/Suv/2017 infinity qx30 Sport (3).webp",
+                "imagenes/Suv/2017 infinity qx30 Sport (4).webp",
+                "imagenes/Suv/2017 infinity qx30 Sport (6).webp",
+                "imagenes/Suv/2017 infinity qx30 Sport (7).webp",
+                "imagenes/Suv/2017 infinity qx30 Sport (8).webp",
+                "imagenes/Suv/2017 infinity qx30 Sport (9).webp",
+                "imagenes/Suv/2017 infinity qx30 Sport (10).webp",
+                "imagenes/Suv/2017 infinity qx30 Sport (11).webp"
+            ]
+        },
+        {
+            "title": "2014 Land Rover",
+            "cash": "$9,500",
+            "down": "$2,000 (Negotiable)",
+            "financing": "$12,000 (Negotiable)",
+            "mileage": "122,009",
+            "make": "Suv",
+            "description": "Warranty include",
+            "images": [
+                "imagenes/Suv/2014 Land Rover (9).webp",
+                "imagenes/Suv/2014 Land Rover (1).webp",
+                "imagenes/Suv/2014 Land Rover (2).webp",
+                "imagenes/Suv/2014 Land Rover (3).webp",
+                "imagenes/Suv/2014 Land Rover (4).webp",
+                "imagenes/Suv/2014 Land Rover (5).webp",
+                "imagenes/Suv/2014 Land Rover (6).webp",
+                "imagenes/Suv/2014 Land Rover (7).webp",
+                "imagenes/Suv/2014 Land Rover (8).webp",
+                "imagenes/Suv/2014 Land Rover (10).webp",
+                "imagenes/Suv/2014 Land Rover (11).webp"
+            ]
+        },
+        {
+            "title": "Dodge Caravane 2006",
+            "cash": "$2,000",
+            "down": "N/A",
+            "financing": "N/A",
+            "mileage": "223,000",
+            "make": "Suv",
+            "description": "Clean title",
+            "images": [
+                "imagenes/Suv/Dodge caravane 2006 (1).webp",
+                "imagenes/Suv/Dodge caravane 2006 (2).webp",
+                "imagenes/Suv/Dodge caravane 2006 (3).webp",
+                "imagenes/Suv/Dodge caravane 2006 (4).webp",
+                "imagenes/Suv/Dodge caravane 2006 (5).webp",
+                "imagenes/Suv/Dodge caravane 2006 (6).webp",
+                "imagenes/Suv/Dodge caravane 2006 (7).webp",
+                "imagenes/Suv/Dodge caravane 2006 (8).webp"
+            ]
+        },
+        {
+            "title": "Chrysler Town & Country 2005",
+            "cash": "$2,500",
+            "down": "$1,500 (Negotiable)",
+            "financing": "$4,000 (Negotiable)",
+            "mileage": "104,040",
+            "make": "Suv",
+            "description": "Warranty include",
+            "images": [
+                "imagenes/Suv/Chrysler town & country 2005 (12).webp",
+                "imagenes/Suv/Chrysler town & country 2005 (1).webp",
+                "imagenes/Suv/Chrysler town & country 2005 (13).webp",
+                "imagenes/Suv/Chrysler town & country 2005 (2).webp",
+                "imagenes/Suv/Chrysler town & country 2005 (3).webp",
+                "imagenes/Suv/Chrysler town & country 2005 (7).webp",
+                "imagenes/Suv/Chrysler town & country 2005 (8).webp",
+                "imagenes/Suv/Chrysler town & country 2005 (9).webp",
+                "imagenes/Suv/Chrysler town & country 2005 (10).webp",
+                "imagenes/Suv/Chrysler town & country 2005 (11).webp"
+            ]
+        },
+        {
+            "title": "2001 Toyota Sequoia Limited",
+            "cash": "$2,500",
+            "down": "$1,000 (Negotiable)",
+            "financing": "$4,500 (Negotiable)",
+            "mileage": "280,000",
+            "make": "Suv",
+            "description": "Clean title",
+            "images": [
+                "imagenes/Suv/2001 Toyota sequoia limited (2).webp",
+                "imagenes/Suv/2001 Toyota sequoia limited (1).webp",
+                "imagenes/Suv/2001 Toyota sequoia limited (3).webp",
+                "imagenes/Suv/2001 Toyota sequoia limited (4).webp",
+                "imagenes/Suv/2001 Toyota sequoia limited (5).webp",
+                "imagenes/Suv/2001 Toyota sequoia limited (6).webp",
+                "imagenes/Suv/2001 Toyota sequoia limited (7).webp",
+                "imagenes/Suv/2001 Toyota sequoia limited (8).webp",
+                "imagenes/Suv/2001 Toyota sequoia limited (9).webp"
+            ]
+        },
+        {
+            "title": "2007 Toyota 4Runner",
+            "cash": "$7,000",
+            "down": "$2,300 (Negotiable)",
+            "financing": "$10,500 (Negotiable)",
+            "mileage": "208,000",
+            "make": "Suv",
+            "description": "Clean title",
+            "images": [
+                "imagenes/Suv/2007 Toyota 4runner (1).webp",
+                "imagenes/Suv/2007 Toyota 4runner (2).webp",
+                "imagenes/Suv/2007 Toyota 4runner (3).webp",
+                "imagenes/Suv/2007 Toyota 4runner (4).webp",
+                "imagenes/Suv/2007 Toyota 4runner (5).webp",
+                "imagenes/Suv/2007 Toyota 4runner (6).webp",
+                "imagenes/Suv/2007 Toyota 4runner (7).webp",
+                "imagenes/Suv/2007 Toyota 4runner (8).webp",
+                "imagenes/Suv/2007 Toyota 4runner (9).webp",
+                "imagenes/Suv/2007 Toyota 4runner (10).webp",
+                "imagenes/Suv/2007 Toyota 4runner (11).webp"
+            ]
+        }, 
+        {
+            "title": "2013 Toyota Camry",
+            "cash": "$6,500",
+            "down": "$2,000 (Negotiable)",
+            "financing": "$10,500 (Negotiable)",
+            "mileage": "145,009",
+            "make": "Sedan",
+            "description": "Warranty include",
+            "images": [
+                "imagenes/Sedan/2013 Toyota Camrry (8).webp",
+                "imagenes/Sedan/2013 Toyota Camrry (9).webp",
+                "imagenes/Sedan/2013 Toyota Camrry (1).webp",
+                "imagenes/Sedan/2013 Toyota Camrry (2).webp",
+                "imagenes/Sedan/2013 Toyota Camrry (3).webp",
+                "imagenes/Sedan/2013 Toyota Camrry (4).webp",
+                "imagenes/Sedan/2013 Toyota Camrry (6).webp",
+                "imagenes/Sedan/2013 Toyota Camrry (7).webp"
+            ]
+        },
+        {
+            "title": "Honda Accord 2009",
+            "cash": "$4,000",
+            "down": "$1,300 (Negotiable)",
+            "financing": "$7,500 (Negotiable)",
+            "mileage": "170,000",
+            "make": "Sedan",
+            "description": "Warranty include",
+            "images": [
+                "imagenes/Sedan/Honda Accord 2009 (3).webp",
+                "imagenes/Sedan/Honda Accord 2009 (2).webp",
+                "imagenes/Sedan/Honda Accord 2009 (1).webp",
+                "imagenes/Sedan/Honda Accord 2009 (4).webp",
+                "imagenes/Sedan/Honda Accord 2009 (5).webp",
+                "imagenes/Sedan/Honda Accord 2009 (6).webp"
+            ]
+        },
+        
 ];
 
 const itemsPerPage = 12;
