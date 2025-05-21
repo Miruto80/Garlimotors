@@ -13,7 +13,7 @@
 
 <div class="container mt-5">
         <div class="row">
-            <div class="col-md-1 d-none d-md-block" id="filters">
+            <div class="col-md-2 d-none d-md-block" id="filters">
                 <h5>Filters</h5>
                 <form>
                     <h6>Type</h6>
@@ -26,8 +26,8 @@
             </div>
             
 
-            <div class="col-md-11">
-                <div class="d-flex justify-content-end align-items-center mb-1">
+            <div class="col-md-10">
+                <div class="d-flex justify-content-between align-items-center mb-1">
                     <h5 class="mb-3" id="results-count">Showing 12 results</h5>
                     <nav aria-label="Page navigation">
                         <ul class="pagination mb-3" id="pagination"></ul>
