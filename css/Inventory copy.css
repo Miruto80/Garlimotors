@@ -301,7 +301,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #000;
     font-weight: bold;
 }
-label{
+.form-container label{
     color: #000;
 }
 /* Asegurarse de que los campos estén bien alineados */
