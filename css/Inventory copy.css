@@ -301,25 +301,45 @@ h1, h2, h3, h4, h5, h6 {
     color: #000;
     font-weight: bold;
 }
-
+label{
+    color: #000;
+}
 /* Asegurarse de que los campos estén bien alineados */
-.form-container label, input, textarea {
+.form-container label, input{
     width: 100%;
     margin: 5px;
 }
 
-.form-containe input[type="text"], textarea {
-    padding: 10px;
+input[type="text"] {
+    width: 100%;
+    padding: 12px;
     font-size: 16px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    margin: 10px 0;
+    outline: none;
+    transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
 }
-.close-icon{
-background-color: red;
-border: none;
+
+/* Cambia el color del borde al enfocar */
+input[type="text"]:focus {
+    border-color: #1F2023;
+    box-shadow: 0 0 5px rgba(31, 32, 35, 0.3);
 }
-.close-icon:hover{
-background-color: rgb(241, 126, 126);
+
+.close-icon {
+    background-color: red;
+    color: white;
+    font-size: 14px;
+    padding: 8px 12px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.close-icon:hover {
+    background-color: rgb(241, 126, 126);
 }
 
 input[type="submit"] {
