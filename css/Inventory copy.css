@@ -1,0 +1,403 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #352425 !important;
+    color: white !important;
+    margin: 0;
+    padding: 0;
+    font-family: 'Avenir Next', sans-serif !important; /* Usamos Avenir Next para todo el cuerpo */
+}
+
+/* Definir las fuentes personalizadas (Lt Aspire) */
+@font-face {
+    font-family: 'Lt Aspire';
+    src: url('../fuentes/LTAspirerNeue-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lt Aspire';
+    src: url('../fuentes/LTAspirerNeue-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lt Aspire';
+    src: url('../fuentes/LTAspirerNeue-Extrablack.otf') format('opentype');
+    font-weight: bolder;
+    font-style: normal;
+}
+
+/* Definir la fuente Avenir Next */
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fuentes/AvenirNextLTPro-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fuentes/AvenirNextLTPro-It.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next';
+    src: url('../fuentes/AvenirNextLTPro-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* Títulos con LtAspirer */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lt Aspire', sans-serif;
+}
+.modal-xl {
+    max-width: 90%;
+}
+.modal-body {
+    text-align: left;
+    max-height: 500px;
+    overflow-y: auto;
+}
+.modal-body img {
+    cursor: pointer;
+  }
+.carousel-control-prev,
+.carousel-control-next {
+  width: auto; /* Elimina el fondo grande */
+  background: none;
+  border: none !important;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  background-color: black !important;
+  border: none;
+  filter: none;
+  width: 40px !important;
+  height: 40px !important;
+}
+.modal-lg {
+    max-width: 90%;
+}
+
+.card-img-top{
+    width: 100%;
+    height: 400px; /* Ajusta según necesidad */
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+.card-img-top:hover{
+    transform: scale(1.1);
+}
+
+.card {
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Limitar el tamaño de la imagen dentro del carrusel para que no sea tan alta */
+.carousel-inner img {
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+}
+
+
+.btn-close {
+    background-color: #f44336 !important;
+    color: white !important;
+    border: none;
+}
+.btn-close:hover {
+    background-color: #8f2821 !important;
+}
+
+/* Quitar la transición al cambiar de imagen */
+.carousel-item {
+    transition: none !important;
+}
+
+.modal-title{
+    font-weight: bold !important;
+}
+
+.btn {
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border: none;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+  }
+
+.Request-btn {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(135deg, #f44336, #8f2821);
+    color: white;
+    font-size: 16px;
+    margin: 0;
+    font-weight: bold;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.Request-btn:hover {
+    background: linear-gradient(135deg, #ff5f50, #a53028);
+    transform: translateY(-2px);
+}
+
+.Request-btn:active {
+    transform: scale(0.95);
+}
+
+  
+
+/* Para pantallas más pequeñas, hacer el modal más grande */
+@media (max-width: 767px) {
+     
+    #descripcion{
+        display: none;
+    }
+
+
+    .carousel-inner img {
+        object-fit: contain;
+        width: auto;
+        height: auto; /* Máxima altura para las imágenes */
+    }
+    .modal-dialog {
+        max-width: 95%; /* Aumentar el tamaño en pantallas pequeñas */
+    }
+
+    .carousel-inner img {
+        height: auto; /* Dejar que la altura se ajuste automáticamente */
+    }
+    #filters {
+        display: none;
+    }
+}
+.modal {
+    color: #000;
+    display: flex;
+    position: fixed;
+    z-index: 1001;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    padding: 10px; /* Agregado para evitar que el modal se quede pegado a los bordes */
+}
+
+.modal-content {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    width: 50%; /* Esto se ajustará en dispositivos móviles */
+    max-width: 700px; /* Máximo ancho para evitar que se haga demasiado grande */
+}
+
+.modal-content h2 {
+    color: #000;
+}
+
+.modal-actions {
+    margin-top: 20px;
+}
+
+.modal-actions button {
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+/* Estilos específicos para dispositivos móviles */
+@media (max-width: 768px) {
+    .modal-content {
+        width: 90%; /* Asegura que el modal se ajuste al tamaño de pantalla */
+        padding: 15px; /* Ajusta el padding para pantallas pequeñas */
+    }
+
+    .modal-actions button {
+        width: 100%; /* Botones en pantalla completa para facilitar clics en dispositivos móviles */
+        padding: 15px 0;
+    }
+
+    .title-select-container h1 {
+        margin:10px; /* Ajusta el margen inferior para dar espacio entre el h1 y el select */
+        font-size: 30px !important;
+    }
+}
+
+#contactForm {
+    pointer-events: auto !important;    
+    display: none;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+    z-index: 9999 !important; /* Asegura que esté encima de otros elementos */
+    overflow: auto; /* Permite desplazarse si el contenido es muy largo */
+}
+.form-header{
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Contenedor del formulario */
+.form-container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 400px;
+    box-sizing: border-box;
+    max-height: 90vh; /* Evita que el formulario sea más alto que la pantalla */
+    overflow-y: auto; /* Permite desplazarse dentro del formulario si es necesario */
+}
+.form-container h3{
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+}
+
+/* Asegurarse de que los campos estén bien alineados */
+.form-container label, input, textarea {
+    width: 100%;
+    margin: 5px;
+}
+
+.form-containe input[type="text"], textarea {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.close-icon{
+background-color: red;
+border: none;
+}
+.close-icon:hover{
+background-color: rgb(241, 126, 126);
+}
+
+input[type="submit"] {
+    background-color: #1F2023;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+input[type="submit"]:hover {
+    background-color: #393C43;
+    color:white;
+}
+
+/* Ajustes específicos para móviles */
+@media (max-width: 600px) {
+    .form-container {
+        padding: 15px;
+        max-width: 90%;
+        width: 90%;
+        max-height: 80vh; /* Ajuste para pantallas más pequeñas */
+    }
+}
+
+  h1, h2 {
+      text-align: center;
+      color: #fff;
+      margin-top: 20px;
+  }
+
+  
+  a {
+      text-decoration: none;
+      color: white;
+    }
+    
+    hr {
+        border: 1px solid white !important; /* Borde blanco */
+        margin: 30px 0;
+    }
+
+    input[type="checkbox"] {
+        accent-color: #f44336; /* Cambia el color del checkbox */
+        width: 20px; /* Ajusta el tamaño */
+        height: 20px; /* Ajusta el tamaño */
+        margin-right: 10px; /* Espacio entre el checkbox y la etiqueta */
+    }
+    form label {
+        display: flex;
+        align-items: center; /* Alinea verticalmente */
+        margin-bottom: 10px; /* Espacio entre los checkboxes */
+    }
+    
+    
+    .title-select-container {
+        display: flex;
+        flex-direction: column; /* Cambia la dirección a columna para que el h1 esté encima del select */
+        align-items: center;
+        margin: 0;
+        background:linear-gradient(#352425, rgba(5, 7, 12, 0.3)),url(../imagenes/Imgcom/Carro\ fondo1.webp);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        border-bottom: 2px solid #fff;
+        padding: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .title-select-container h1 {
+        margin:10px; /* Ajusta el margen inferior para dar espacio entre el h1 y el select */
+        font-size: 50px;
+    }
+    
+    
+    .errorform {
+        color: red;
+        font-size: 0.9em;
+        display: block;
+    }
+    .centrar_texto {
+        text-align: center;
+        margin: 20px 0;
+    }
+    
+.centrar_texto a{
+    color: white;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+}
+
