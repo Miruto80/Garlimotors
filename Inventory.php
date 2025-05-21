@@ -37,6 +37,11 @@
                 <div class="row g-2" id="car-list">
                     <!-- Aquí se generarán los autos dinámicamente -->
                 </div>
+                <div class="d-flex justify-content-end mt-3">
+        <nav aria-label="Page navigation">
+            <ul class="pagination mb-3" id="pagination-bottom"></ul>
+        </nav>
+    </div>
             </div>
             
             <!-- Modal para la galería de imágenes y datos del carro -->

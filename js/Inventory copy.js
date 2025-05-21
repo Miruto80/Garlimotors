@@ -433,15 +433,20 @@ function openModal(carIndex) {
 function updatePagination() {
     const totalPages = Math.ceil(cars.length / itemsPerPage);
     const pagination = document.getElementById("pagination");
-    pagination.innerHTML = ""; // Limpiar la paginación anterior
+    const paginationBottom = document.getElementById("pagination-bottom"); // Nueva referencia
+    pagination.innerHTML = ""; // Limpiar paginación superior
+    paginationBottom.innerHTML = ""; // Limpiar paginación inferior
 
     for (let i = 1; i <= totalPages; i++) {
         const pageItem = document.createElement("li");
         pageItem.className = `page-item ${i === currentPage ? "active" : ""}`;
         pageItem.innerHTML = `<a class="page-link" href="#" onclick="goToPage(${i})">${i}</a>`;
-        pagination.appendChild(pageItem);
+
+        pagination.appendChild(pageItem); // Agregar a la paginación superior
+        paginationBottom.appendChild(pageItem.cloneNode(true)); // Agregar a la paginación inferior
     }
 }
+
 
 function goToPage(page) {
     currentPage = page;
