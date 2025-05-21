@@ -47,9 +47,9 @@
                             <h5 class="modal-title" id="carModalLabel"></h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">✖</button>
                         </div>
-                        <div class="modal-body d-flex">
+                        <div class="modal-body d-flex flex-column flex-md-row">
                             <!-- Carrusel de imágenes (lado izquierdo) -->
-                            <div class="w-50 pe-3">
+                            <div class="w-100 w-md-50 pe-md-3">
                                 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
                                     <div class="carousel-inner" id="carousel-inner"></div>
                                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -62,7 +62,7 @@
                             </div>
             
                             <!-- Datos del carro (lado derecho) -->
-                            <div class="w-50 ml-3">
+                            <div class="w-100 w-md-50 mt-3 mt-md-0 ml-3">
                                 <p><strong>Cash:</strong> <span id="car-cash"></span></p>
                                 <p><strong>Down:</strong> <span id="car-down"></span></p>
                                 <p><strong>Financing:</strong> <span id="car-financing"></span></p>
