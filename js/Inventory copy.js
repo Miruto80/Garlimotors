@@ -349,6 +349,27 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2015 (17).webp",
                 "imagenes/Sedan/Toyota Corolla 2015 (18).webp"
             ]
+        },
+        {
+            title: "2018 Subaru brz límite",
+            cash: "$11.500",
+            down: "",
+            financing: "$9,500 (Negotiable)",
+            mileage: "150.000",
+            make: "Luxury",
+            description: "Clean Title",
+            images: [
+                "imagenes/Luxury/2018 Subaru brz límite (2).webp",
+                "imagenes/Luxury/2018 Subaru brz límite (1).webp",
+                "imagenes/Luxury/2018 Subaru brz límite (3).webp",
+                "imagenes/Luxury/2018 Subaru brz límite (4).webp",
+                "imagenes/Luxury/2018 Subaru brz límite (5).webp",
+                "imagenes/Luxury/2018 Subaru brz límite (6).webp",
+                "imagenes/Luxury/2018 Subaru brz límite (7).webp",
+                "imagenes/Luxury/2018 Subaru brz límite (8).webp",
+                "imagenes/Luxury/2018 Subaru brz límite (9).webp",
+                "imagenes/Luxury/2018 Subaru brz límite (10).webp"
+            ]
         }
 ];
 
