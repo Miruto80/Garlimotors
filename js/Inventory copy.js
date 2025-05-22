@@ -653,7 +653,27 @@ const cars = [
                 "imagenes/Luxury/BMW 2015 x3 (6).webp",
                 "imagenes/Luxury/BMW 2015 x3 (7).webp"
             ]
-        } 
+        },
+        {
+            "title": "2015 Misubichi Lancer",
+            "cash": "$6.000$",
+            "down": "$1.800$ (Negotiable)",
+            "financing": "$ 9.500",
+            "mileage": "93.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2015 Misubichi Lancer (1).webp",
+                "imagenes/Sedan/2015 Misubichi Lancer (2).webp",
+                "imagenes/Sedan/2015 Misubichi Lancer (3).webp",
+                "imagenes/Sedan/2015 Misubichi Lancer (4).webp",
+                "imagenes/Sedan/2015 Misubichi Lancer (5).webp",
+                "imagenes/Sedan/2015 Misubichi Lancer (6).webp",
+                "imagenes/Sedan/2015 Misubichi Lancer (7).webp",
+                "imagenes/Sedan/2015 Misubichi Lancer (8).webp",
+                "imagenes/Sedan/2015 Misubichi Lancer (9).webp"
+            ]
+        },
         
 ];
 
