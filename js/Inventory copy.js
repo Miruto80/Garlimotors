@@ -1,9 +1,9 @@
 const cars = [
     {
         title: "2009 Toyota Corolla",
-        cash: "$6.900",
-        down: "$2.500",
-        financing: "$6.900",
+        cash: "$4.500",
+        down: "$2.000",
+        financing: "$9.000",
         mileage: "152.000",
         make: "Sedan",
         description: "Clean Title",
@@ -38,7 +38,7 @@ const cars = [
     },
     {
         title: "2013 Toyota Prius",
-        cash: "$5,500",
+        cash: "$6,000",
         down: "$1,500 (Negotiable)",
         financing: "$10,000 (Negotiable)",
         mileage: "180,000",
@@ -130,7 +130,7 @@ const cars = [
 
     {
         title: "2014 Dodge Ram",
-        cash: "$10,000",
+        cash: "$9,500",
         down: "$3,000 (Negotiable)",
         financing: "$14,000 (Negotiable)",
         mileage: "130,000",
@@ -250,7 +250,7 @@ const cars = [
         },
         {
             title: "BMW 328i 2009",
-            cash: "$4,000",
+            cash: "$4,500",
             down: "$1,500 (Negotiable)",
             financing: "$7,500 (Negotiable)",
             mileage: "144,000",
@@ -264,7 +264,7 @@ const cars = [
         },
         {
             title: "Mitsubichi Outlander 2003 ",
-            cash: "$3,000",
+            cash: "$3,500",
             down: "1,300",
             financing: "$7,000 (Negotiable)",
             mileage: "95.000",
@@ -284,7 +284,7 @@ const cars = [
         },
         {
             title: "Toyota Corolla 2002 ",
-            cash: "$3,000",
+            cash: "$3,500",
             down: "1,000",
             financing: "$6,000 (Negotiable)",
             mileage: "129.000",
@@ -304,7 +304,7 @@ const cars = [
         },
         {
             title: "Toyota Corolla 2011",
-            cash: "$3,500",
+            cash: "$4,500",
             down: "1,300",
             financing: "$6,000 (Negotiable)",
             mileage: "240.000",
