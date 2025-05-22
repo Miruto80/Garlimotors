@@ -533,6 +533,127 @@ const cars = [
                 "imagenes/Sedan/Honda Accord 2009 (6).webp"
             ]
         },
+        {
+            "title": "2011 BMW x6",
+            "cash": "$6,700",
+            "down": "$2,500 (Negotiable)",
+            "financing": "$11,000 (Negotiable)",
+            "mileage": "131,000",
+            "make": "Luxury",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Luxury/2011 BMW x6 (1).webp",
+                "imagenes/Luxury/2011 BMW x6 (2).webp",
+                "imagenes/Luxury/2011 BMW x6 (3).webp",
+                "imagenes/Luxury/2011 BMW x6 (4).webp"
+            ]
+        },
+        {
+            "title": "2011 Chevrolet Suburban",
+            "cash": "$8,000",
+            "down": "$2,500 (Negotiable)",
+            "financing": "$11,500 (Negotiable)",
+            "mileage": "199,000",
+            "make": "SUV",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2011 Chevrolet Suburban (5).webp",
+                "imagenes/Suv/2011 Chevrolet Suburban (2).webp",
+                "imagenes/Suv/2011 Chevrolet Suburban (1).webp",
+                "imagenes/Suv/2011 Chevrolet Suburban (3).webp",
+                "imagenes/Suv/2011 Chevrolet Suburban (4).webp",
+                "imagenes/Suv/2011 Chevrolet Suburban (6).webp",
+                "imagenes/Suv/2011 Chevrolet Suburban (7).webp"
+            ]
+        },
+        {
+            "title": "2007 Honda CR-V",
+            "cash": "$5,500",
+            "down": "$2,200 (Negotiable)",
+            "financing": "$10,000 (Negotiable)",
+            "mileage": "170,000",
+            "make": "SUV",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Honda crv 2007 (1).webp",
+                "imagenes/Suv/Honda crv 2007 (6).webp",
+                "imagenes/Suv/Honda crv 2007 (7).webp",
+                "imagenes/Suv/Honda crv 2007 (2).webp",
+                "imagenes/Suv/Honda crv 2007 (3).webp",
+                "imagenes/Suv/Honda crv 2007 (4).webp",
+                "imagenes/Suv/Honda crv 2007 (5).webp",
+                "imagenes/Suv/Honda crv 2007 (8).webp"
+            ]
+        },
+        {
+            "title": "2017 Chevrolet Cruze LS",
+            "cash": "$5,500",
+            "down": "$2,000 (Negotiable)",
+            "financing": "$10,000 (Negotiable)",
+            "mileage": "125,101",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2017 Chevrolet Cruze LS (1).webp",
+                "imagenes/Sedan/2017 Chevrolet Cruze LS (3).webp",
+                "imagenes/Sedan/2017 Chevrolet Cruze LS (4).webp",
+                "imagenes/Sedan/2017 Chevrolet Cruze LS (5).webp",
+                "imagenes/Sedan/2017 Chevrolet Cruze LS (6).webp",
+                "imagenes/Sedan/2017 Chevrolet Cruze LS (2).webp"
+            ]
+        },
+        {
+            "title": "Toyota 2009 Rav4 ",
+            "cash": "$4,500",
+            "down": "$1,500 (Negotiable)",
+            "financing": "$8,000 (Negotiable)",
+            "mileage": "209.000",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Toyota 2009 Rav4 (2).webp",
+                "imagenes/Suv/Toyota 2009 Rav4 (1).webp",
+                "imagenes/Suv/Toyota 2009 Rav4 (3).webp",
+                "imagenes/Suv/Toyota 2009 Rav4 (4).webp",
+                "imagenes/Suv/Toyota 2009 Rav4 (5).webp",
+                "imagenes/Suv/Toyota 2009 Rav4 (6).webp"
+            ]
+        },
+        {
+            "title": "Acura mdx 2007 ",
+            "cash": "$3,500",
+            "down": "$1,200 (Negotiable)",
+            "financing": "$6,000 (Negotiable)",
+            "mileage": "210.000",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Acura mdx 2007 (2).webp",
+                "imagenes/Suv/Acura mdx 2007 (1).webp",
+                "imagenes/Suv/Acura mdx 2007 (3).webp",
+                "imagenes/Suv/Acura mdx 2007 (4).webp",
+                "imagenes/Suv/Acura mdx 2007 (5).webp",
+                "imagenes/Suv/Acura mdx 2007 (6).webp"
+            ]
+        },
+        {
+            "title": "BMW 2015 x3",
+            "cash": "$5,000",
+            "down": "$1,700 (Negotiable)",
+            "financing": "$9,000 (Negotiable)",
+            "mileage": "130.000",
+            "make": "Luxury",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Luxury/BMW 2015 x3 (1).webp",
+                "imagenes/Luxury/BMW 2015 x3 (2).webp",
+                "imagenes/Luxury/BMW 2015 x3 (3).webp",
+                "imagenes/Luxury/BMW 2015 x3 (4).webp",
+                "imagenes/Luxury/BMW 2015 x3 (5).webp",
+                "imagenes/Luxury/BMW 2015 x3 (6).webp",
+                "imagenes/Luxury/BMW 2015 x3 (7).webp"
+            ]
+        } 
         
 ];
 
