@@ -594,12 +594,12 @@ const cars = [
             "make": "Sedan",
             "description": "Clean Title",
             "images": [
-                "imagenes/Sedan/2017 Chevrolet Cruze LS (1).webp",
-                "imagenes/Sedan/2017 Chevrolet Cruze LS (3).webp",
-                "imagenes/Sedan/2017 Chevrolet Cruze LS (4).webp",
-                "imagenes/Sedan/2017 Chevrolet Cruze LS (5).webp",
-                "imagenes/Sedan/2017 Chevrolet Cruze LS (6).webp",
-                "imagenes/Sedan/2017 Chevrolet Cruze LS (2).webp"
+                "imagenes/Sedan/2017 chevrolet cruze ls (1).webp",
+                "imagenes/Sedan/2017 chevrolet cruze ls (3).webp",
+                "imagenes/Sedan/2017 chevrolet cruze ls (4).webp",
+                "imagenes/Sedan/2017 chevrolet cruze ls (5).webp",
+                "imagenes/Sedan/2017 chevrolet cruze ls (6).webp",
+                "imagenes/Sedan/2017 chevrolet cruze ls (2).webp"
             ]
         },
         {
