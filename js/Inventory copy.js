@@ -674,6 +674,82 @@ const cars = [
                 "imagenes/Sedan/2015 Misubichi Lancer (9).webp"
             ]
         },
+        {
+            "title": "2013 Fusión",
+            "cash": "$5.000$",
+            "down": "$2.300$ (Negotiable)",
+            "financing": "$10.000",
+            "mileage": "165.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2013 Fusion (2).webp",
+                "imagenes/Sedan/2013 Fusion (1).webp",
+                "imagenes/Sedan/2013 Fusion (3).webp",
+                "imagenes/Sedan/2013 Fusion (4).webp",
+                "imagenes/Sedan/2013 Fusion (5).webp",
+                "imagenes/Sedan/2013 Fusion (6).webp"
+            ]
+        },
+        {
+            "title": "2017 Hyundai Accent",
+            "cash": "$6.300$",
+            "down": "$2.300$ (Negotiable)",
+            "financing": "$10.000",
+            "mileage": "103.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Hyundai Accent 2017 (1).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (2).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (3).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (4).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (5).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (6).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (7).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (8).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (9).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (10).webp"
+            ]
+        },
+        {
+            "title": "2016 Kia forte",
+            "cash": "$4.500$",
+            "down": "$1.500$ (Negotiable)",
+            "financing": "$8.500",
+            "mileage": "106.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Kia forte 2016 (3).webp",
+                "imagenes/Sedan/Kia forte 2016 (1).webp",
+                "imagenes/Sedan/Kia forte 2016 (2).webp",
+                "imagenes/Sedan/Kia forte 2016 (4).webp",
+                "imagenes/Sedan/Kia forte 2016 (5).webp",
+                "imagenes/Sedan/Kia forte 2016 (6).webp",
+                "imagenes/Sedan/Kia forte 2016 (7).webp",
+                "imagenes/Sedan/Kia forte 2016 (8).webp"
+            ]
+        },
+        {
+            "title": "2014 Land Rover Range",
+            "cash": "$10,000",
+            "down": "$3,500 (Negotiable)",
+            "financing": "$15,000 (Negotiable)",
+            "mileage": "134.400",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2014 Land Rover Range (2).webp",
+                "imagenes/Suv/2014 Land Rover Range (1).webp",
+                "imagenes/Suv/2014 Land Rover Range (3).webp",
+                "imagenes/Suv/2014 Land Rover Range (4).webp",
+                "imagenes/Suv/2014 Land Rover Range (5).webp",
+                "imagenes/Suv/2014 Land Rover Range (6).webp"
+            ]
+        },
+        
+        
         
 ];
 
