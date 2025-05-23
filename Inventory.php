@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="css/Inventory copy.css">
+    <link rel="stylesheet" href="css/Inventory.css">
     <?php require_once("comunes/head.php")?>
     <title>Inventory</title>
 </head>
@@ -107,6 +107,6 @@
     </div>
 
 <?php require_once("comunes/footer.php")?>
-<script src="js/Inventory copy.js"></script>
+<script src="js/Inventory.js"></script>
 </body>
 </html>
