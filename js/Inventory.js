@@ -303,54 +303,6 @@ const cars = [
             ]
         },
         {
-            title: "Toyota Corolla 2011",
-            cash: "$4,500",
-            down: "1,300",
-            financing: "$6,000 (Negotiable)",
-            mileage: "240.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/Toyota Corolla 2011 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2011 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2011 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2011 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2011 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2011 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2011 (7).webp",
-                "imagenes/Sedan/Toyota Corolla 2011 (8).webp"
-            ]
-        },
-        {
-            title: "Toyota Corolla 2015",
-            cash: "$5,500",
-            down: "",
-            financing: "$9,500 (Negotiable)",
-            mileage: "200.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/Toyota Corolla 2015 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (7).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (8).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (9).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (10).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (11).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (12).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (13).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (14).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (15).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (16).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (17).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (18).webp"
-            ]
-        },
-        {
             title: "2018 Subaru brz límite",
             cash: "$11.500",
             down: "",
@@ -652,26 +604,6 @@ const cars = [
                 "imagenes/Luxury/BMW 2015 x3 (5).webp",
                 "imagenes/Luxury/BMW 2015 x3 (6).webp",
                 "imagenes/Luxury/BMW 2015 x3 (7).webp"
-            ]
-        },
-        {
-            "title": "2015 Misubichi Lancer",
-            "cash": "$6.000$",
-            "down": "$1.800$ (Negotiable)",
-            "financing": "$ 9.500",
-            "mileage": "93.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2015 Misubichi Lancer (1).webp",
-                "imagenes/Sedan/2015 Misubichi Lancer (2).webp",
-                "imagenes/Sedan/2015 Misubichi Lancer (3).webp",
-                "imagenes/Sedan/2015 Misubichi Lancer (4).webp",
-                "imagenes/Sedan/2015 Misubichi Lancer (5).webp",
-                "imagenes/Sedan/2015 Misubichi Lancer (6).webp",
-                "imagenes/Sedan/2015 Misubichi Lancer (7).webp",
-                "imagenes/Sedan/2015 Misubichi Lancer (8).webp",
-                "imagenes/Sedan/2015 Misubichi Lancer (9).webp"
             ]
         },
         {
