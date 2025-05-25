@@ -87,9 +87,40 @@
             </div>
         </div>
     </div>
+    <div class="btn-container">
+        <button  onclick="openForm()">Request Mechanic service</button>
+    </div>
 </section>
 
 
+<div id="contactForm" class="form-popup">
+    <form class="form-container" action="https://formspree.io/f/myzwqdey" method="POST" onsubmit="return validarenvio()">
+        <div class="form-header">
+        <h3>Request Information</h3>
+        <button type="button" class="close-icon" onclick="closeForm()">✖</button>
+        </div>
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" placeholder="Your name" required>
+        <span id="sname" class="errorform"></span>
+
+        <label for="contact">Contact</label>
+        <input type="text" name="contact" id="contact" placeholder="Your email or phone number" required>
+        <span id="scontact" class="errorform"></span>
+
+        <h6>Mechanic service</h6>
+        <label><input type="checkbox" name="service[]" value="Computerized Diagnostics"> Computerized Diagnostics</label>
+        <label><input type="checkbox" name="service[]" value="Air Conditioning Diagnostics"> Air Conditioning Diagnostics</label>
+        <label><input type="checkbox" name="service[]" value="Complete Front End Service"> Complete Front End Service</label>
+        <label><input type="checkbox" name="service[]" value="Transmission Replacement"> Transmission Replacement</label>
+        <label><input type="checkbox" name="service[]" value="Oil Change"> Oil Change</label>
+        <label><input type="checkbox" name="service[]" value="Engine Support"> Engine Support</label>
+        <label><input type="checkbox" name="service[]" value="Engine Replacement and Repair"> Engine Replacement and Repair</label>
+        <label><input type="checkbox" name="service[]" value="Brake Replacement"> Brake Replacement</label>
+
+
+        <input type="submit" class="btn" value="Send">
+    </form>
+</div>
 
 
 <?php require_once("comunes/footer.php")?>
