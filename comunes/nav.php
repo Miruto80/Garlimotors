@@ -88,6 +88,9 @@ header nav ul li a:hover {
                   <a class="nav-link" href="Pre-approval.php">Pre-Approval</a>
                 </li>
                 <li class="nav-item">
+                  <a class="nav-link" href="Mechanics.php">Mechanics</a>
+                </li>
+                <li class="nav-item">
                   <a class="nav-link" href="#contact">Contact us</a>
                 </li>
                 <li class="nav-item">
