@@ -10,13 +10,17 @@
 <body>
    <?php require_once("comunes/nav.php")?>
    <section class="Inicio">
-      <div class="text-center">
-      <h2>Best price in town</h2>
-      <br>
-      <h3>0% interest Warranty Incluided</h3>
-      <button onclick="location.href='Inventory.php'">View inventory</button>
-  </div>
-  </section>
+    <div class="text-center">
+        <h2>Best price in town</h2>
+        <br>
+        <h3>0% interest Warranty Included</h3>
+        <div class="button-container">
+            <button onclick="location.href='Inventory.php'">View inventory</button>
+            <button onclick="location.href='Mechanics.php'">Mechanic Service</button>
+        </div>
+    </div>
+</section>
+
 
   <section class="about-us">
     <div class="container">
