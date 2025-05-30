@@ -680,7 +680,86 @@ const cars = [
                 "imagenes/Suv/2014 Land Rover Range (6).webp"
             ]
         },
-        
+        {
+            "title": "Kia Spectra 2007",
+            "cash": "$3.000$",
+            "down": "$1.000$ (Negotiable)",
+            "financing": "$5.500",
+            "mileage": "125.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Kia Spectra 2007 (1).webp",
+                "imagenes/Sedan/Kia Spectra 2007 (2).webp",
+                "imagenes/Sedan/Kia Spectra 2007 (3).webp",
+                "imagenes/Sedan/Kia Spectra 2007 (4).webp",
+                "imagenes/Sedan/Kia Spectra 2007 (5).webp",
+                "imagenes/Sedan/Kia Spectra 2007 (6).webp",
+                "imagenes/Sedan/Kia Spectra 2007 (7).webp",
+                "imagenes/Sedan/Kia Spectra 2007 (8).webp",
+                "imagenes/Sedan/Kia Spectra 2007 (9).webp"
+            ]
+        },
+        {
+            "title": "Mitsubichi Lancer 2013",
+            "cash": "$5.000$",
+            "down": "$1.500$ (Negotiable)",
+            "financing": "$8.500",
+            "mileage": "115.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Mitsubichi Lancer 2013 (1).webp",
+                "imagenes/Sedan/Mitsubichi Lancer 2013 (3).webp",
+                "imagenes/Sedan/Mitsubichi Lancer 2013 (4).webp",
+                "imagenes/Sedan/Mitsubichi Lancer 2013 (5).webp",
+                "imagenes/Sedan/Mitsubichi Lancer 2013 (6).webp",
+                "imagenes/Sedan/Mitsubichi Lancer 2013 (7).webp",
+                "imagenes/Sedan/Mitsubichi Lancer 2013 (8).webp",
+                "imagenes/Sedan/Mitsubichi Lancer 2013 (9).webp"
+            ]
+        },
+        {
+            "title": "Toyota Corolla 2006",
+            "cash": "$3.300$",
+            "down": "$1.200$ (Negotiable)",
+            "financing": "$7.000",
+            "mileage": "165.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2006 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2006 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2006 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2006 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2006 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2006 (7).webp",
+                "imagenes/Sedan/Toyota Corolla 2006 (8).webp",
+                "imagenes/Sedan/Toyota Corolla 2006 (9).webp",
+                "imagenes/Sedan/Toyota Corolla 2006 (10).webp",
+                "imagenes/Sedan/Toyota Corolla 2006 (11).webp",
+                "imagenes/Sedan/Toyota Corolla 2006 (12).webp"
+            ]
+        },
+        {
+            "title": "Toyota Corolla 2013 s",
+            "cash": "$5.300$",
+            "down": "$1.500$ (Negotiable)",
+            "financing": "$9.000",
+            "mileage": " 212.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2013 s (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2013 s (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2013 s (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2013 s (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2013 s (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2013 s (7).webp",
+                "imagenes/Sedan/Toyota Corolla 2013 s (8).webp",
+                "imagenes/Sedan/Toyota Corolla 2013 s (9).webp"
+            ]
+        },
         
         
 ];
