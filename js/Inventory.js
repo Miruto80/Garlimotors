@@ -167,26 +167,6 @@ const cars = [
           ]
         },
         {
-          title: "2014 Mercedez benz",
-          cash: "$7,500",
-          down: "$2,200 (Negotiable)",
-          financing: "$13,500 (Negotiable)",
-          mileage: "161.000 ",
-          make: "Suv",
-          description: "",
-          images: [
-            "imagenes/Suv/2014 Mercedez benz gl class 450  (1).webp",
-            "imagenes/Suv/2014 Mercedez benz gl class 450  (2).webp",
-            "imagenes/Suv/2014 Mercedez benz gl class 450  (3).webp",
-            "imagenes/Suv/2014 Mercedez benz gl class 450  (4).webp",
-            "imagenes/Suv/2014 Mercedez benz gl class 450  (5).webp",
-            "imagenes/Suv/2014 Mercedez benz gl class 450  (6).webp",
-            "imagenes/Suv/2014 Mercedez benz gl class 450  (7).webp",
-            "imagenes/Suv/2014 Mercedez benz gl class 450  (8).webp",
-            "imagenes/Suv/2014 Mercedez benz gl class 450  (9).webp"
-          ]
-        },
-        {
           title: "2007 Chevrolet tahoe",
           cash: "$6,000",
           down: "$1,500 (Negotiable)",
@@ -387,27 +367,6 @@ const cars = [
             ]
         },
         {
-            "title": "Chrysler Town & Country 2005",
-            "cash": "$2,500",
-            "down": "$1,500 (Negotiable)",
-            "financing": "$4,000 (Negotiable)",
-            "mileage": "104,040",
-            "make": "Suv",
-            "description": "Warranty include",
-            "images": [
-                "imagenes/Suv/Chrysler town & country 2005 (12).webp",
-                "imagenes/Suv/Chrysler town & country 2005 (1).webp",
-                "imagenes/Suv/Chrysler town & country 2005 (13).webp",
-                "imagenes/Suv/Chrysler town & country 2005 (2).webp",
-                "imagenes/Suv/Chrysler town & country 2005 (3).webp",
-                "imagenes/Suv/Chrysler town & country 2005 (7).webp",
-                "imagenes/Suv/Chrysler town & country 2005 (8).webp",
-                "imagenes/Suv/Chrysler town & country 2005 (9).webp",
-                "imagenes/Suv/Chrysler town & country 2005 (10).webp",
-                "imagenes/Suv/Chrysler town & country 2005 (11).webp"
-            ]
-        },
-        {
             "title": "2001 Toyota Sequoia Limited",
             "cash": "$2,500",
             "down": "$1,000 (Negotiable)",
@@ -427,28 +386,6 @@ const cars = [
                 "imagenes/Suv/2001 Toyota sequoia limited (9).webp"
             ]
         },
-        {
-            "title": "2007 Toyota 4Runner",
-            "cash": "$7,000",
-            "down": "$2,300 (Negotiable)",
-            "financing": "$10,500 (Negotiable)",
-            "mileage": "208,000",
-            "make": "Suv",
-            "description": "Clean title",
-            "images": [
-                "imagenes/Suv/2007 Toyota 4runner (1).webp",
-                "imagenes/Suv/2007 Toyota 4runner (2).webp",
-                "imagenes/Suv/2007 Toyota 4runner (3).webp",
-                "imagenes/Suv/2007 Toyota 4runner (4).webp",
-                "imagenes/Suv/2007 Toyota 4runner (5).webp",
-                "imagenes/Suv/2007 Toyota 4runner (6).webp",
-                "imagenes/Suv/2007 Toyota 4runner (7).webp",
-                "imagenes/Suv/2007 Toyota 4runner (8).webp",
-                "imagenes/Suv/2007 Toyota 4runner (9).webp",
-                "imagenes/Suv/2007 Toyota 4runner (10).webp",
-                "imagenes/Suv/2007 Toyota 4runner (11).webp"
-            ]
-        }, 
         {
             "title": "2013 Toyota Camry",
             "cash": "$6,500",
@@ -535,23 +472,6 @@ const cars = [
                 "imagenes/Suv/Honda crv 2007 (4).webp",
                 "imagenes/Suv/Honda crv 2007 (5).webp",
                 "imagenes/Suv/Honda crv 2007 (8).webp"
-            ]
-        },
-        {
-            "title": "2017 Chevrolet Cruze LS",
-            "cash": "$5,500",
-            "down": "$2,000 (Negotiable)",
-            "financing": "$10,000 (Negotiable)",
-            "mileage": "125,101",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2017 chevrolet cruze ls (1).webp",
-                "imagenes/Sedan/2017 chevrolet cruze ls (3).webp",
-                "imagenes/Sedan/2017 chevrolet cruze ls (4).webp",
-                "imagenes/Sedan/2017 chevrolet cruze ls (5).webp",
-                "imagenes/Sedan/2017 chevrolet cruze ls (6).webp",
-                "imagenes/Sedan/2017 chevrolet cruze ls (2).webp"
             ]
         },
         {
@@ -645,25 +565,6 @@ const cars = [
             ]
         },
         {
-            "title": "2016 Kia forte",
-            "cash": "$4.500$",
-            "down": "$1.500$ (Negotiable)",
-            "financing": "$8.500",
-            "mileage": "106.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Kia forte 2016 (3).webp",
-                "imagenes/Sedan/Kia forte 2016 (1).webp",
-                "imagenes/Sedan/Kia forte 2016 (2).webp",
-                "imagenes/Sedan/Kia forte 2016 (4).webp",
-                "imagenes/Sedan/Kia forte 2016 (5).webp",
-                "imagenes/Sedan/Kia forte 2016 (6).webp",
-                "imagenes/Sedan/Kia forte 2016 (7).webp",
-                "imagenes/Sedan/Kia forte 2016 (8).webp"
-            ]
-        },
-        {
             "title": "2014 Land Rover Range",
             "cash": "$10,000",
             "down": "$3,500 (Negotiable)",
@@ -742,22 +643,42 @@ const cars = [
             ]
         },
         {
-            "title": "Toyota Corolla 2013 s",
-            "cash": "$5.300$",
-            "down": "$1.500$ (Negotiable)",
-            "financing": "$9.000",
-            "mileage": " 212.000",
+            "title": "Toyota Corolla 2010",
+            "cash": "$5.000$",
+            "down": "$1.700$ (Negotiable)",
+            "financing": "$8.500",
+            "mileage": "176.000",
             "make": "Sedan",
             "description": "Clean Title",
             "images": [
-                "imagenes/Sedan/Toyota Corolla 2013 s (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2013 s (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2013 s (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2013 s (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2013 s (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2013 s (7).webp",
-                "imagenes/Sedan/Toyota Corolla 2013 s (8).webp",
-                "imagenes/Sedan/Toyota Corolla 2013 s (9).webp"
+                "imagenes/Sedan/Toyota Corolla 2010 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2010 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2010 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2010 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2010 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2010 (7).webp",
+                "imagenes/Sedan/Toyota Corolla 2010 (8).webp",
+                "imagenes/Sedan/Toyota Corolla 2010 (9).webp",
+                "imagenes/Sedan/Toyota Corolla 2010 (10).webp",
+                "imagenes/Sedan/Toyota Corolla 2010 (11).webp",
+                "imagenes/Sedan/Toyota Corolla 2010 (12).webp"
+            ]
+        },
+        {
+            title: "2002 dodge ram v8",
+            cash: "$9,500",
+            down: "$3,000 (Negotiable)",
+            financing: "$14,000 (Negotiable)",
+            mileage: "130,000",
+            make: "Truck",
+            description: "Clean Title",
+            images: [
+                "imagenes/Trucks/2002 dodge ram v8 (2).webp",
+                "imagenes/Trucks/2002 dodge ram v8 (1).webp",
+                "imagenes/Trucks/2002 dodge ram v8 (3).webp",
+                "imagenes/Trucks/2002 dodge ram v8 (4).webp",
+                "imagenes/Trucks/2002 dodge ram v8 (5).webp",
+                "imagenes/Trucks/2002 dodge ram v8 (6).webp"
             ]
         },
         
