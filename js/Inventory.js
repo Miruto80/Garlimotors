@@ -164,7 +164,8 @@ const cars = [
             "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (7).webp",
             "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (8).webp",
             "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (9).webp"
-          ]
+          ],
+          Rented: true
         },
         {
           title: "2007 Chevrolet tahoe",
@@ -475,23 +476,6 @@ const cars = [
             ]
         },
         {
-            "title": "Toyota 2009 Rav4 ",
-            "cash": "$4,500",
-            "down": "$1,500 (Negotiable)",
-            "financing": "$8,000 (Negotiable)",
-            "mileage": "209.000",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/Toyota 2009 Rav4 (2).webp",
-                "imagenes/Suv/Toyota 2009 Rav4 (1).webp",
-                "imagenes/Suv/Toyota 2009 Rav4 (3).webp",
-                "imagenes/Suv/Toyota 2009 Rav4 (4).webp",
-                "imagenes/Suv/Toyota 2009 Rav4 (5).webp",
-                "imagenes/Suv/Toyota 2009 Rav4 (6).webp"
-            ]
-        },
-        {
             "title": "Acura mdx 2007 ",
             "cash": "$3,500",
             "down": "$1,200 (Negotiable)",
@@ -704,6 +688,7 @@ function renderCars(page, filteredCars = cars) {
         carDiv.innerHTML = `
             <div class="card text-dark" style="height: 100%;">
                 <img src="${car.images[0]}" class="card-img-top" alt="${car.title}" title="Clik in the image to see more" data-bs-toggle="modal" data-bs-target="#carModal" onclick="openModal(${cars.indexOf(car)})">
+                ${car.Rented ? `<div class="sold-out-banner">Rented</div>` : ""}
                 <div class="card-body">
                     <h6 class="card-title">${car.title}</h6>
                     <p class="card-text">Cash: ${car.cash}</p>
