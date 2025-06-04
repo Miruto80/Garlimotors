@@ -665,6 +665,49 @@ const cars = [
                 "imagenes/Trucks/2002 dodge ram v8 (6).webp"
             ]
         },
+        {
+            title: "Yamaha 2013 ar190",
+            cash: "$16.500",
+            down: "",
+            financing: "",
+            mileage: "160.00 hours",
+            make: "Boat",
+            description: "Clean Title",
+            images: [
+                "imagenes/Boats/Yamaha 2013 ar190 (1).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (2).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (3).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (4).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (5).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (6).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (7).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (8).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (9).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (10).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (11).webp",
+                "imagenes/Boats/Yamaha 2013 ar190 (12).webp"
+            ]
+        },
+        {
+            title: "Toyota prius 2013",
+            cash: "$4.500",
+            down: "1.500",
+            financing: "7.500",
+            mileage: "182.000",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/Toyota prius 2013 (9).webp",
+                "imagenes/Suv/Toyota prius 2013 (1).webp",
+                "imagenes/Suv/Toyota prius 2013 (2).webp",
+                "imagenes/Suv/Toyota prius 2013 (3).webp",
+                "imagenes/Suv/Toyota prius 2013 (4).webp",
+                "imagenes/Suv/Toyota prius 2013 (5).webp",
+                "imagenes/Suv/Toyota prius 2013 (6).webp",
+                "imagenes/Suv/Toyota prius 2013 (7).webp",
+                "imagenes/Suv/Toyota prius 2013 (8).webp"
+            ]
+        },
         
         
 ];
