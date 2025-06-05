@@ -708,7 +708,68 @@ const cars = [
                 "imagenes/Suv/Toyota prius 2013 (8).webp"
             ]
         },
-        
+        {
+            title: "Ford 250 2008 diesel v8 6.2",
+            cash: "4.500",
+            down: "$1.500 (Negotiable)",
+            financing: "$7.500 (Negotiable)",
+            mileage: "210.000",
+            make: "Truck",
+            description: "Clean Title",
+            images: [
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (2).webp",
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (3).webp",
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (1).webp",
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (4).webp",
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (5).webp",
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (6).webp",
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (7).webp",
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (8).webp",
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (9).webp",
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (10).webp",
+                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (11).webp"
+            ]
+        },
+        {
+            title: "2007 honda element",
+            cash: "$3.500",
+            down: "1.000",
+            financing: "6.500",
+            mileage: "150.000",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/2007 honda element (1).webp",
+                "imagenes/Suv/2007 honda element (2).webp",
+                "imagenes/Suv/2007 honda element (3).webp",
+                "imagenes/Suv/2007 honda element (4).webp",
+                "imagenes/Suv/2007 honda element (5).webp",
+                "imagenes/Suv/2007 honda element (6).webp",
+                "imagenes/Suv/2007 honda element (7).webp",
+                "imagenes/Suv/2007 honda element (8).webp"
+            ]
+        },
+        {
+            "title": "Toyota Corolla 2004",
+            "cash": "$4.200$",
+            "down": "$1.300$ (Negotiable)",
+            "financing": "$7.500",
+            "mileage": "115.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2004 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2004 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2004 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2004 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2004 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2004 (7).webp",
+                "imagenes/Sedan/Toyota Corolla 2004 (8).webp",
+                "imagenes/Sedan/Toyota Corolla 2004 (9).webp",
+                "imagenes/Sedan/Toyota Corolla 2004 (10).webp",
+                "imagenes/Sedan/Toyota Corolla 2004 (11).webp" 
+            ]
+        },
         
 ];
 
