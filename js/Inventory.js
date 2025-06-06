@@ -266,26 +266,6 @@ const cars = [
             ]
         },
         {
-            title: "Toyota Corolla 2002 ",
-            cash: "$3,500",
-            down: "1,000",
-            financing: "$6,000 (Negotiable)",
-            mileage: "129.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/Toyota Corolla 2002 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2002 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2002 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2002 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2002 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2002 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2002 (7).webp",
-                "imagenes/Sedan/Toyota Corolla 2002 (8).webp",
-                "imagenes/Sedan/Toyota Corolla 2002 (9).webp"
-            ]
-        },
-        {
             title: "2018 Subaru brz límite",
             cash: "$11.500",
             down: "",
