@@ -15,6 +15,7 @@ const cars = [
             "imagenes/Sedan/2009 Toyota Corolla (5).webp",
             "imagenes/Sedan/2009 Toyota Corolla (6).webp"
         ],
+        Rented: true
     },
     {
         title: "2010 Toyota Camry",
@@ -34,7 +35,8 @@ const cars = [
             "imagenes/Sedan/2010 Toyota Camrry (5).webp",
             "imagenes/Sedan/2010 Toyota Camrry (6).webp",
             "imagenes/Sedan/2010 Toyota Camrry (7).webp"
-        ]
+        ],
+        Rented: true
     },
     {
         title: "2013 Toyota Prius",
@@ -473,7 +475,8 @@ const cars = [
                 "imagenes/Suv/Honda crv 2007 (4).webp",
                 "imagenes/Suv/Honda crv 2007 (5).webp",
                 "imagenes/Suv/Honda crv 2007 (8).webp"
-            ]
+            ],
+            Rented: true
         },
         {
             "title": "Acura mdx 2007 ",
