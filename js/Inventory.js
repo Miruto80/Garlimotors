@@ -511,27 +511,6 @@ const cars = [
             ]
         },
         {
-            "title": "2017 Hyundai Accent",
-            "cash": "$6.300$",
-            "down": "$2.300$ (Negotiable)",
-            "financing": "$10.000",
-            "mileage": "103.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Hyundai Accent 2017 (1).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (2).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (3).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (4).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (5).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (6).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (7).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (8).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (9).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (10).webp"
-            ]
-        },
-        {
             "title": "2014 Land Rover Range",
             "cash": "$10,000",
             "down": "$3,500 (Negotiable)",
