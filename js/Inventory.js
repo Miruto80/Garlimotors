@@ -130,24 +130,6 @@ const cars = [
         ]
     },
 
-    {
-        title: "2014 Dodge Ram",
-        cash: "$9,500",
-        down: "$3,000 (Negotiable)",
-        financing: "$14,000 (Negotiable)",
-        mileage: "130,000",
-        make: "Truck",
-        description: "Clean Title",
-        images: [
-            "imagenes/Trucks/2014 Dodge ram (1) N.webp",
-            "imagenes/Trucks/2014 Dodge ram (2) N.webp",
-            "imagenes/Trucks/2014 Dodge ram (3) N.webp",
-            "imagenes/Trucks/2014 Dodge ram (4) N.webp",
-            "imagenes/Trucks/2014 Dodge ram (5) N.webp",
-            "imagenes/Trucks/2014 Dodge ram (6) N.webp"
-        ]
-    },
-
         {
           title: "2014 SUBARU FORESTER 2.5I PREMIUM",
           cash: "$4,500",
