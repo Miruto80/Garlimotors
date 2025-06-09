@@ -651,29 +651,7 @@ const cars = [
                 "imagenes/Suv/Toyota prius 2013 (7).webp",
                 "imagenes/Suv/Toyota prius 2013 (8).webp"
             ]
-        },
-        {
-            title: "Ford 250 2008 diesel v8 6.2",
-            cash: "4.500",
-            down: "$1.500 (Negotiable)",
-            financing: "$7.500 (Negotiable)",
-            mileage: "210.000",
-            make: "Truck",
-            description: "Clean Title",
-            images: [
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (2).webp",
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (3).webp",
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (1).webp",
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (4).webp",
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (5).webp",
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (6).webp",
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (7).webp",
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (8).webp",
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (9).webp",
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (10).webp",
-                "imagenes/Trucks/Ford 250 2008 diesel v8 6.2 (11).webp"
-            ]
-        },
+        },   
         {
             title: "2007 honda element",
             cash: "$3.500",
@@ -712,61 +690,6 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2004 (9).webp",
                 "imagenes/Sedan/Toyota Corolla 2004 (10).webp",
                 "imagenes/Sedan/Toyota Corolla 2004 (11).webp" 
-            ]
-        },
-        {
-            title: "Ford f150 2008",
-            cash: "$5,000",
-            down: "$1,500 (Negotiable)",
-            financing: "$7,500 (Negotiable)",
-            mileage: "174.000",
-            make: "Truck",
-            description: "Clean Title",
-            images: [
-                "imagenes/Trucks/Ford f150 2008 (2).webp",
-                "imagenes/Trucks/Ford f150 2008 (1).webp",
-                "imagenes/Trucks/Ford f150 2008 (3).webp",
-                "imagenes/Trucks/Ford f150 2008 (4).webp",
-                "imagenes/Trucks/Ford f150 2008 (5).webp",
-                "imagenes/Trucks/Ford f150 2008 (6).webp",
-                "imagenes/Trucks/Ford f150 2008 (7).webp"
-            ]
-        },
-        {
-            "title": "Lexus is 250 2008",
-            "cash": "$4.000$",
-            "down": "$1.300$ (Negotiable)",
-            "financing": "$7.000",
-            "mileage": "215.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Lexus is 250 2008 (1).webp",
-                "imagenes/Sedan/Lexus is 250 2008 (2).webp",
-                "imagenes/Sedan/Lexus is 250 2008 (3).webp",
-                "imagenes/Sedan/Lexus is 250 2008 (4).webp",
-                "imagenes/Sedan/Lexus is 250 2008 (5).webp",
-                "imagenes/Sedan/Lexus is 250 2008 (6).webp",
-                "imagenes/Sedan/Lexus is 250 2008 (7).webp"
-            ]
-        },
-        {
-            "title": "Toyota Corolla 2015",
-            "cash": "$6.500$",
-            "down": "$2.000$ (Negotiable)",
-            "financing": "$11.000",
-            "mileage": "182.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2015 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (7).webp",
-                "imagenes/Sedan/Toyota Corolla 2015 (8).webp"
             ]
         },
         {
