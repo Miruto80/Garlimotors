@@ -712,6 +712,44 @@ const cars = [
                 "imagenes/Sedan/Toyota Camrry S 2013 (9).webp"
             ]
         },
+        {
+            "title": "Toyota Corolla 2012",
+            "cash": "$4.700$",
+            "down": "$1.500$ (Negotiable)",
+            "financing": "$8.000$",
+            "mileage": "205.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2012 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (7).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (8).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (9).webp"
+            ]
+        },
+        {
+            title: "Toyota 4runner 2003",
+            cash: "5.800$",
+            down: "2.000$",
+            financing: "9.000$",
+            mileage: "183.000",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/Toyota 4runner 2003 (1).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (3).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (4).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (5).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (6).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (7).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (8).webp"
+            ]
+        },
         
 ];
 
