@@ -404,9 +404,9 @@ const cars = [
         },
         {
             "title": "2011 Chevrolet Suburban",
-            "cash": "$8,000",
-            "down": "$2,500 (Negotiable)",
-            "financing": "$11,500 (Negotiable)",
+            "cash": "$7,600",
+            "down": "$2,000 (Negotiable)",
+            "financing": "$11,000 (Negotiable)",
             "mileage": "199,000",
             "make": "SUV",
             "description": "Clean Title",
@@ -494,9 +494,9 @@ const cars = [
         },
         {
             "title": "2014 Land Rover Range",
-            "cash": "$10,000",
-            "down": "$3,500 (Negotiable)",
-            "financing": "$15,000 (Negotiable)",
+            "cash": "$9,500",
+            "down": "$3,000 (Negotiable)",
+            "financing": "$14,500 (Negotiable)",
             "mileage": "134.400",
             "make": "Suv",
             "description": "Clean Title",
@@ -843,7 +843,63 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2017 (6).webp"
             ]
         },
-        
+        {
+            title: "2007 Toyota 4runner",
+            cash: "7.500$",
+            down: "2.000$",
+            financing: "11.000$",
+            mileage: "205.900",
+            make: "Suv",
+            description: "Clean Title 3 rows of seats",
+            images: [
+                "imagenes/Suv/2007 Toyota 4runner (3).webp",
+                "imagenes/Suv/2007 Toyota 4runner (5).webp",
+                "imagenes/Suv/2007 Toyota 4runner (2).webp",
+                "imagenes/Suv/2007 Toyota 4runner (4).webp",
+                "imagenes/Suv/2007 Toyota 4runner (6).webp",
+                "imagenes/Suv/2007 Toyota 4runner (7).webp",
+                "imagenes/Suv/2007 Toyota 4runner (1).webp",
+                "imagenes/Suv/2007 Toyota 4runner (8).webp",
+                "imagenes/Suv/2007 Toyota 4runner (9).webp"
+            ]
+        },
+        {
+            "title": "Mazda 3 sport",
+            "cash": "$5.000$",
+            "down": "$1.500$ (Negotiable)",
+            "financing": "$8.500$ (Negotiable)",
+            "mileage": "160.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Mazda 3 sport (6).webp",
+                "imagenes/Sedan/Mazda 3 sport (1).webp",
+                "imagenes/Sedan/Mazda 3 sport (3).webp",
+                "imagenes/Sedan/Mazda 3 sport (2).webp",
+                "imagenes/Sedan/Mazda 3 sport (7).webp",
+                "imagenes/Sedan/Mazda 3 sport (4).webp",
+                "imagenes/Sedan/Mazda 3 sport (5).webp",
+                "imagenes/Sedan/Mazda 3 sport (8).webp"
+            ]
+        },
+        {
+            "title": "Toyota Camrry 2012",
+            "cash": "$4.800$",
+            "down": "$1.500$ (Negotiable)",
+            "financing": "$8.500$ (Negotiable)",
+            "mileage": "183.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Camrry 2012 (5).webp",
+                "imagenes/Sedan/Toyota Camrry 2012 (1).webp",
+                "imagenes/Sedan/Toyota Camrry 2012 (2).webp",
+                "imagenes/Sedan/Toyota Camrry 2012 (3).webp",
+                "imagenes/Sedan/Toyota Camrry 2012 (4).webp",
+                "imagenes/Sedan/Toyota Camrry 2012 (6).webp",
+                "imagenes/Sedan/Toyota Camrry 2012 (7).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
