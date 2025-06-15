@@ -733,24 +733,6 @@ const cars = [
             ]
         },
         {
-            title: "Toyota 4runner 2003",
-            cash: "5.800$",
-            down: "2.000$",
-            financing: "9.000$",
-            mileage: "183.000",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/Toyota 4runner 2003 (1).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (3).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (4).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (5).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (6).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (7).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (8).webp"
-            ]
-        },
-        {
             title: "2014 Nissan Murano",
             cash: "6.000$",
             down: "1.800$",
@@ -825,24 +807,6 @@ const cars = [
                 "imagenes/Sedan/2013 Toyota Camry SE (7).webp",
                 "imagenes/Sedan/2013 Toyota Camry SE (8).webp",
                 "imagenes/Sedan/2013 Toyota Camry SE (9).webp"
-            ]
-        },
-        {
-            "title": "Kia forte 2019",
-            "cash": "$7.000$",
-            "down": "$2.000$ (Negotiable)",
-            "financing": "$11.500$",
-            "mileage": "119.900",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Kia forte 2019 (1).webp",
-                "imagenes/Sedan/Kia forte 2019 (2).webp",
-                "imagenes/Sedan/Kia forte 2019 (3).webp",
-                "imagenes/Sedan/Kia forte 2019 (4).webp",
-                "imagenes/Sedan/Kia forte 2019 (5).webp",
-                "imagenes/Sedan/Kia forte 2019 (6).webp",
-                "imagenes/Sedan/Kia forte 2019 (7).webp"
             ]
         },
         {
