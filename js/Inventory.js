@@ -152,27 +152,6 @@ const cars = [
           Rented: true
         },
         {
-          title: "2007 Chevrolet tahoe",
-          cash: "$6,000",
-          down: "$1,500 (Negotiable)",
-          financing: "$10,500 (Negotiable)",
-          mileage: "220,000",
-          make: "Suv",
-          description: "",
-          images: [
-            "imagenes/Suv/2007 Chevrolet tahoe (1).webp",
-            "imagenes/Suv/2007 Chevrolet tahoe (2).webp",
-            "imagenes/Suv/2007 Chevrolet tahoe (3).webp",
-            "imagenes/Suv/2007 Chevrolet tahoe (4).webp",
-            "imagenes/Suv/2007 Chevrolet tahoe (5).webp",
-            "imagenes/Suv/2007 Chevrolet tahoe (6).webp",
-            "imagenes/Suv/2007 Chevrolet tahoe (7).webp",
-            "imagenes/Suv/2007 Chevrolet tahoe (8).webp",
-            "imagenes/Suv/2007 Chevrolet tahoe (9).webp",
-            "imagenes/Suv/2007 Chevrolet tahoe (10).webp"
-          ]
-        },
-        {
           title: "2006 LEXUS RX",
           cash: "$4,500",
           down: "$1,300 (Negotiable)",
@@ -349,25 +328,6 @@ const cars = [
                 "imagenes/Suv/2001 Toyota sequoia limited (7).webp",
                 "imagenes/Suv/2001 Toyota sequoia limited (8).webp",
                 "imagenes/Suv/2001 Toyota sequoia limited (9).webp"
-            ]
-        },
-        {
-            "title": "2013 Toyota Camry",
-            "cash": "$6,500",
-            "down": "$2,000 (Negotiable)",
-            "financing": "$10,500 (Negotiable)",
-            "mileage": "145,009",
-            "make": "Sedan",
-            "description": "Warranty include",
-            "images": [
-                "imagenes/Sedan/2013 Toyota Camrry (8).webp",
-                "imagenes/Sedan/2013 Toyota Camrry (9).webp",
-                "imagenes/Sedan/2013 Toyota Camrry (1).webp",
-                "imagenes/Sedan/2013 Toyota Camrry (2).webp",
-                "imagenes/Sedan/2013 Toyota Camrry (3).webp",
-                "imagenes/Sedan/2013 Toyota Camrry (4).webp",
-                "imagenes/Sedan/2013 Toyota Camrry (6).webp",
-                "imagenes/Sedan/2013 Toyota Camrry (7).webp"
             ]
         },
         {
@@ -672,88 +632,8 @@ const cars = [
             ]
         },
         {
-            "title": "Toyota Corolla 2004",
-            "cash": "$4.200$",
-            "down": "$1.300$ (Negotiable)",
-            "financing": "$7.500",
-            "mileage": "115.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2004 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2004 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2004 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2004 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2004 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2004 (7).webp",
-                "imagenes/Sedan/Toyota Corolla 2004 (8).webp",
-                "imagenes/Sedan/Toyota Corolla 2004 (9).webp",
-                "imagenes/Sedan/Toyota Corolla 2004 (10).webp",
-                "imagenes/Sedan/Toyota Corolla 2004 (11).webp" 
-            ]
-        },
-        {
-            "title": "Toyota Camrry S 2013",
-            "cash": "$6.300$",
-            "down": "$2.000$ (Negotiable)",
-            "financing": "$11.000",
-            "mileage": "163.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Camrry S 2013 (1).webp",
-                "imagenes/Sedan/Toyota Camrry S 2013 (2).webp",
-                "imagenes/Sedan/Toyota Camrry S 2013 (3).webp",
-                "imagenes/Sedan/Toyota Camrry S 2013 (4).webp",
-                "imagenes/Sedan/Toyota Camrry S 2013 (5).webp",
-                "imagenes/Sedan/Toyota Camrry S 2013 (6).webp",
-                "imagenes/Sedan/Toyota Camrry S 2013 (7).webp",
-                "imagenes/Sedan/Toyota Camrry S 2013 (8).webp",
-                "imagenes/Sedan/Toyota Camrry S 2013 (9).webp"
-            ]
-        },
-        {
-            "title": "Toyota Corolla 2012",
-            "cash": "$4.700$",
-            "down": "$1.500$ (Negotiable)",
-            "financing": "$8.000$",
-            "mileage": "205.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2012 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (7).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (8).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (9).webp"
-            ]
-        },
-        {
-            title: "2014 Nissan Murano",
-            cash: "6.000$",
-            down: "1.800$",
-            financing: "9.000$",
-            mileage: "157,502",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/2014 Nissan Murano (2).webp",
-                "imagenes/Suv/2014 Nissan Murano (1).webp",
-                "imagenes/Suv/2014 Nissan Murano (3).webp",
-                "imagenes/Suv/2014 Nissan Murano (4).webp",
-                "imagenes/Suv/2014 Nissan Murano (5).webp",
-                "imagenes/Suv/2014 Nissan Murano (6).webp",
-                "imagenes/Suv/2014 Nissan Murano (7).webp",
-                "imagenes/Suv/2014 Nissan Murano (8).webp"
-            ]
-        },
-        {
             title: "2017 Infiniti QX60",
-            cash: "6.000$",
+            cash: "7.000$",
             down: "2.000$",
             financing: "12.000$",
             mileage: "162.000",
@@ -769,44 +649,6 @@ const cars = [
                 "imagenes/Suv/2017 Infiniti QX60 (7).webp",
                 "imagenes/Suv/2017 Infiniti QX60 (8).webp",
                 "imagenes/Suv/2017 Infiniti QX60 (9).webp"
-            ]
-        },
-        {
-            "title": "2010 Toyota Corolla",
-            "cash": "$5.500$",
-            "down": "$1.500$ (Negotiable)",
-            "financing": "$9.000$",
-            "mileage": "172.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2012 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (7).webp"
-            ]
-        },
-        {
-            "title": "2013 Toyota Camry SE",
-            "cash": "$5.500$",
-            "down": "$1.500$ (Negotiable)",
-            "financing": "$9.000$",
-            "mileage": "172.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2013 Toyota Camry SE (2).webp",
-                "imagenes/Sedan/2013 Toyota Camry SE (1).webp",
-                "imagenes/Sedan/2013 Toyota Camry SE (3).webp",
-                "imagenes/Sedan/2013 Toyota Camry SE (4).webp",
-                "imagenes/Sedan/2013 Toyota Camry SE (5).webp",
-                "imagenes/Sedan/2013 Toyota Camry SE (6).webp",
-                "imagenes/Sedan/2013 Toyota Camry SE (7).webp",
-                "imagenes/Sedan/2013 Toyota Camry SE (8).webp",
-                "imagenes/Sedan/2013 Toyota Camry SE (9).webp"
             ]
         },
         {
@@ -904,10 +746,10 @@ const cars = [
 
 const itemsPerPage = 12;
 let currentPage = 1;
+let currentFilteredCars = cars; // Nuevo: guarda el arreglo filtrado actual
 
-function renderCars(page, filteredCars = cars) {
-
-
+function renderCars(page, filteredCars = currentFilteredCars) {
+    currentFilteredCars = filteredCars; // Actualiza el arreglo filtrado global
     const start = (page - 1) * itemsPerPage;
     const end = start + itemsPerPage;
     const carsToShow = filteredCars.slice(start, end);
@@ -961,7 +803,7 @@ function openModal(carIndex) {
 
 
 function updatePagination() {
-    const totalPages = Math.ceil(cars.length / itemsPerPage);
+    const totalPages = Math.ceil(currentFilteredCars.length / itemsPerPage); // Usa el filtrado actual
     const pagination = document.getElementById("pagination");
     const paginationBottom = document.getElementById("pagination-bottom"); // Nueva referencia
     pagination.innerHTML = ""; // Limpiar paginación superior
@@ -977,16 +819,16 @@ function updatePagination() {
     }
 }
 
-
 function goToPage(page) {
     currentPage = page;
-    renderCars(currentPage);
+    renderCars(currentPage, currentFilteredCars); // Usa el filtrado actual
 }
 
 function filterCars() {
     const selectedMakes = Array.from(document.querySelectorAll('input[name="make"]:checked')).map(cb => cb.value);
     const filteredCars = cars.filter(car => selectedMakes.length === 0 || selectedMakes.includes(car.make));
-    renderCars(1, filteredCars);
+    currentPage = 1; // Reinicia a la primera página
+    renderCars(currentPage, filteredCars);
 }
 
 document.querySelectorAll('input[name="make"]').forEach(checkbox => {
