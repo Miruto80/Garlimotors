@@ -668,24 +668,6 @@ const cars = [
             ]
         },
         {
-            "title": "Toyota Corolla 2017",
-            "cash": "$6.500$",
-            "down": "$2.000$ (Negotiable)",
-            "financing": "$11.000$ (Negotiable)",
-            "mileage": "207.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2017 (7).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (6).webp"
-            ]
-        },
-        {
             title: "2007 Toyota 4runner",
             cash: "7.500$",
             down: "2.000$",
