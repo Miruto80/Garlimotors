@@ -724,6 +724,63 @@ const cars = [
                 "imagenes/Sedan/Toyota Camrry 2012 (7).webp"
             ]
         },
+        {
+            "title": "2014 Toyota corola s",
+            "cash": "$6.300$",
+            "down": "$2.000$ (Negotiable)",
+            "financing": "$10.500$ (Negotiable)",
+            "mileage": "205.999",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2014 Toyota corola s (1).webp",
+                "imagenes/Sedan/2014 Toyota corola s (2).webp",
+                "imagenes/Sedan/2014 Toyota corola s (3).webp",
+                "imagenes/Sedan/2014 Toyota corola s (4).webp",
+                "imagenes/Sedan/2014 Toyota corola s (5).webp",
+                "imagenes/Sedan/2014 Toyota corola s (6).webp",
+                "imagenes/Sedan/2014 Toyota corola s (7).webp",
+                "imagenes/Sedan/2014 Toyota corola s (8).webp"
+            ]
+        },
+        {
+            "title": "2015 Toyota Corolla",
+            "cash": "$7.000$",
+            "down": "$2.500$ (Negotiable)",
+            "financing": "$11.500$ (Negotiable)",
+            "mileage": "157.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2015 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (6).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (7).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (8).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (9).webp"
+            ]
+        },
+        {
+            "title": "Kia forte 2016",
+            "cash": "$4.500$",
+            "down": "$1.500$ (Negotiable)",
+            "financing": "$8.500$ (Negotiable)",
+            "mileage": "128.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Kia forte 2016 (7).webp",
+                "imagenes/Sedan/Kia forte 2016 (5).webp",
+                "imagenes/Sedan/Kia forte 2016 (1).webp",
+                "imagenes/Sedan/Kia forte 2016 (2).webp",
+                "imagenes/Sedan/Kia forte 2016 (3).webp",
+                "imagenes/Sedan/Kia forte 2016 (4).webp",
+                "imagenes/Sedan/Kia forte 2016 (6).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
