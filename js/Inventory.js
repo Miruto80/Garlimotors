@@ -248,50 +248,6 @@ const cars = [
             ]
         },
         {
-            title: "2017 infinity qx30 Sport",
-            cash: "$8.500",
-            down: "3.000",
-            financing: "$14.500 (Negotiable)",
-            mileage: "100.000",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/2017 infinity qx30 Sport (5).webp",
-                "imagenes/Suv/2017 infinity qx30 Sport (1).webp",
-                "imagenes/Suv/2017 infinity qx30 Sport (2).webp",
-                "imagenes/Suv/2017 infinity qx30 Sport (3).webp",
-                "imagenes/Suv/2017 infinity qx30 Sport (4).webp",
-                "imagenes/Suv/2017 infinity qx30 Sport (6).webp",
-                "imagenes/Suv/2017 infinity qx30 Sport (7).webp",
-                "imagenes/Suv/2017 infinity qx30 Sport (8).webp",
-                "imagenes/Suv/2017 infinity qx30 Sport (9).webp",
-                "imagenes/Suv/2017 infinity qx30 Sport (10).webp",
-                "imagenes/Suv/2017 infinity qx30 Sport (11).webp"
-            ]
-        },
-        {
-            "title": "2014 Land Rover",
-            "cash": "$9,500",
-            "down": "$2,000 (Negotiable)",
-            "financing": "$12,000 (Negotiable)",
-            "mileage": "122,009",
-            "make": "Suv",
-            "description": "Warranty include",
-            "images": [
-                "imagenes/Suv/2014 Land Rover (9).webp",
-                "imagenes/Suv/2014 Land Rover (1).webp",
-                "imagenes/Suv/2014 Land Rover (2).webp",
-                "imagenes/Suv/2014 Land Rover (3).webp",
-                "imagenes/Suv/2014 Land Rover (4).webp",
-                "imagenes/Suv/2014 Land Rover (5).webp",
-                "imagenes/Suv/2014 Land Rover (6).webp",
-                "imagenes/Suv/2014 Land Rover (7).webp",
-                "imagenes/Suv/2014 Land Rover (8).webp",
-                "imagenes/Suv/2014 Land Rover (10).webp",
-                "imagenes/Suv/2014 Land Rover (11).webp"
-            ]
-        },
-        {
             "title": "Dodge Caravane 2006",
             "cash": "$2,000",
             "down": "N/A",
@@ -453,23 +409,6 @@ const cars = [
             ]
         },
         {
-            "title": "2014 Land Rover Range",
-            "cash": "$9,500",
-            "down": "$3,000 (Negotiable)",
-            "financing": "$14,500 (Negotiable)",
-            "mileage": "134.400",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2014 Land Rover Range (2).webp",
-                "imagenes/Suv/2014 Land Rover Range (1).webp",
-                "imagenes/Suv/2014 Land Rover Range (3).webp",
-                "imagenes/Suv/2014 Land Rover Range (4).webp",
-                "imagenes/Suv/2014 Land Rover Range (5).webp",
-                "imagenes/Suv/2014 Land Rover Range (6).webp"
-            ]
-        },
-        {
             "title": "Kia Spectra 2007",
             "cash": "$3.000$",
             "down": "$1.000$ (Negotiable)",
@@ -487,7 +426,8 @@ const cars = [
                 "imagenes/Sedan/Kia Spectra 2007 (7).webp",
                 "imagenes/Sedan/Kia Spectra 2007 (8).webp",
                 "imagenes/Sedan/Kia Spectra 2007 (9).webp"
-            ]
+            ],
+             Rented: true
         },
         {
             "title": "Mitsubichi Lancer 2013",
@@ -570,29 +510,6 @@ const cars = [
             ]
         },
         {
-            title: "Yamaha 2013 ar190",
-            cash: "$16.500",
-            down: "",
-            financing: "",
-            mileage: "160.00 hours",
-            make: "Boat",
-            description: "Clean Title",
-            images: [
-                "imagenes/Boats/Yamaha 2013 ar190 (1).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (2).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (3).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (4).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (5).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (6).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (7).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (8).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (9).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (10).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (11).webp",
-                "imagenes/Boats/Yamaha 2013 ar190 (12).webp"
-            ]
-        },
-        {
             title: "Toyota prius 2013",
             cash: "$4.500",
             down: "1.500",
@@ -668,26 +585,6 @@ const cars = [
             ]
         },
         {
-            title: "2007 Toyota 4runner",
-            cash: "7.500$",
-            down: "2.000$",
-            financing: "11.000$",
-            mileage: "205.900",
-            make: "Suv",
-            description: "Clean Title 3 rows of seats",
-            images: [
-                "imagenes/Suv/2007 Toyota 4runner (3).webp",
-                "imagenes/Suv/2007 Toyota 4runner (5).webp",
-                "imagenes/Suv/2007 Toyota 4runner (2).webp",
-                "imagenes/Suv/2007 Toyota 4runner (4).webp",
-                "imagenes/Suv/2007 Toyota 4runner (6).webp",
-                "imagenes/Suv/2007 Toyota 4runner (7).webp",
-                "imagenes/Suv/2007 Toyota 4runner (1).webp",
-                "imagenes/Suv/2007 Toyota 4runner (8).webp",
-                "imagenes/Suv/2007 Toyota 4runner (9).webp"
-            ]
-        },
-        {
             "title": "Mazda 3 sport",
             "cash": "$5.000$",
             "down": "$1.500$ (Negotiable)",
@@ -741,26 +638,6 @@ const cars = [
                 "imagenes/Sedan/2014 Toyota corola s (6).webp",
                 "imagenes/Sedan/2014 Toyota corola s (7).webp",
                 "imagenes/Sedan/2014 Toyota corola s (8).webp"
-            ]
-        },
-        {
-            "title": "2015 Toyota Corolla",
-            "cash": "$7.000$",
-            "down": "$2.500$ (Negotiable)",
-            "financing": "$11.500$ (Negotiable)",
-            "mileage": "157.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2015 Toyota Corolla (4).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (3).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (2).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (1).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (5).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (6).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (7).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (8).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (9).webp"
             ]
         },
         {
