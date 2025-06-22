@@ -586,6 +586,120 @@ const cars = [
                 "imagenes/Sedan/2014 Toyota corola s (8).webp"
             ]
         },
+        {
+            "title": "2011 Toyota Corolla s",
+            "cash": "$5.000$",
+            "down": "$1.800$ (Negotiable)",
+            "financing": "$9.500$ (Negotiable)",
+            "mileage": "183.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2011 Toyota Corolla s (1).webp",
+                "imagenes/Sedan/2011 Toyota Corolla s (2).webp",
+                "imagenes/Sedan/2011 Toyota Corolla s (3).webp",
+                "imagenes/Sedan/2011 Toyota Corolla s (4).webp",
+                "imagenes/Sedan/2011 Toyota Corolla s (5).webp",
+                "imagenes/Sedan/2011 Toyota Corolla s (6).webp",
+                "imagenes/Sedan/2011 Toyota Corolla s (7).webp"
+            ]
+        },
+        {
+            "title": "Ford fiesta 2015",
+            "cash": "$3.000$",
+            "down": "$1.000$ (Negotiable)",
+            "financing": "$6.000$ (Negotiable)",
+            "mileage": "134.009",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Ford fiesta 2015 (1).webp",
+                "imagenes/Sedan/Ford fiesta 2015 (2).webp",
+                "imagenes/Sedan/Ford fiesta 2015 (3).webp",
+                "imagenes/Sedan/Ford fiesta 2015 (4).webp",
+                "imagenes/Sedan/Ford fiesta 2015 (5).webp",
+                "imagenes/Sedan/Ford fiesta 2015 (6).webp",
+                "imagenes/Sedan/Ford fiesta 2015 (7).webp"
+            ]
+        },
+        {
+            "title": "Hyundai Elantra 2020",
+            "cash": "$7.000$",
+            "down": "$2.000$ (Negotiable)",
+            "financing": "$11.500$ (Negotiable)",
+            "mileage": "110.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Hyundai Elantra 2020 (8).webp",
+                "imagenes/Sedan/Hyundai Elantra 2020 (1).webp",
+                "imagenes/Sedan/Hyundai Elantra 2020 (2).webp",
+                "imagenes/Sedan/Hyundai Elantra 2020 (3).webp",
+                "imagenes/Sedan/Hyundai Elantra 2020 (4).webp",
+                "imagenes/Sedan/Hyundai Elantra 2020 (5).webp",
+                "imagenes/Sedan/Hyundai Elantra 2020 (6).webp",
+                "imagenes/Sedan/Hyundai Elantra 2020 (7).webp"
+            ]
+        },
+        {
+            "title": "Toyota Corolla 2014 S",
+            "cash": "$7.700$",
+            "down": "$2.500$ (Negotiable)",
+            "financing": "$12.500$ (Negotiable)",
+            "mileage": "98.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2014 S (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 S (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 S (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 S (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 S (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 S (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 S (7).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 S (8).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 S (9).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 S (10).webp"
+            ]
+        },
+        {
+            "title": "2021 Kia forte",
+            "cash": "$7.500$",
+            "down": "$2.000$ (Negotiable)",
+            "financing": "$12.000$ (Negotiable)",
+            "mileage": "100.900 ",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2021 Kia forte (2).webp",
+                "imagenes/Sedan/2021 Kia forte (1).webp",
+                "imagenes/Sedan/2021 Kia forte (3).webp",
+                "imagenes/Sedan/2021 Kia forte (4).webp",
+                "imagenes/Sedan/2021 Kia forte (5).webp",
+                "imagenes/Sedan/2021 Kia forte (6).webp",
+            ]
+        },
+        {
+            "title": "2002 Ford F-150 XL",
+            "cash": "$4.500$",
+            "down": "$1.300$ (Negotiable)",
+            "financing": "$8.000$ (Negotiable)",
+            "mileage": "144.000",
+            "make": "Trucks",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Trucks/2002 Ford F-150 XL (1).webp",
+                "imagenes/Trucks/2002 Ford F-150 XL (2).webp",
+                "imagenes/Trucks/2002 Ford F-150 XL (3).webp",
+                "imagenes/Trucks/2002 Ford F-150 XL (4).webp",
+                "imagenes/Trucks/2002 Ford F-150 XL (5).webp",
+                "imagenes/Trucks/2002 Ford F-150 XL (6).webp",
+                "imagenes/Trucks/2002 Ford F-150 XL (7).webp",
+                "imagenes/Trucks/2002 Ford F-150 XL (8).webp",
+                "imagenes/Trucks/2002 Ford F-150 XL (9).webp",
+                "imagenes/Trucks/2002 Ford F-150 XL (10).webp",
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
