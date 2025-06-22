@@ -287,23 +287,6 @@ const cars = [
             ]
         },
         {
-            "title": "Honda Accord 2009",
-            "cash": "$4,000",
-            "down": "$1,300 (Negotiable)",
-            "financing": "$7,500 (Negotiable)",
-            "mileage": "170,000",
-            "make": "Sedan",
-            "description": "Warranty include",
-            "images": [
-                "imagenes/Sedan/Honda Accord 2009 (3).webp",
-                "imagenes/Sedan/Honda Accord 2009 (2).webp",
-                "imagenes/Sedan/Honda Accord 2009 (1).webp",
-                "imagenes/Sedan/Honda Accord 2009 (4).webp",
-                "imagenes/Sedan/Honda Accord 2009 (5).webp",
-                "imagenes/Sedan/Honda Accord 2009 (6).webp"
-            ]
-        },
-        {
             "title": "2011 BMW x6",
             "cash": "$6,700",
             "down": "$2,500 (Negotiable)",
@@ -585,43 +568,6 @@ const cars = [
             ]
         },
         {
-            "title": "Mazda 3 sport",
-            "cash": "$5.000$",
-            "down": "$1.500$ (Negotiable)",
-            "financing": "$8.500$ (Negotiable)",
-            "mileage": "160.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Mazda 3 sport (6).webp",
-                "imagenes/Sedan/Mazda 3 sport (1).webp",
-                "imagenes/Sedan/Mazda 3 sport (3).webp",
-                "imagenes/Sedan/Mazda 3 sport (2).webp",
-                "imagenes/Sedan/Mazda 3 sport (7).webp",
-                "imagenes/Sedan/Mazda 3 sport (4).webp",
-                "imagenes/Sedan/Mazda 3 sport (5).webp",
-                "imagenes/Sedan/Mazda 3 sport (8).webp"
-            ]
-        },
-        {
-            "title": "Toyota Camrry 2012",
-            "cash": "$4.800$",
-            "down": "$1.500$ (Negotiable)",
-            "financing": "$8.500$ (Negotiable)",
-            "mileage": "183.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Camrry 2012 (5).webp",
-                "imagenes/Sedan/Toyota Camrry 2012 (1).webp",
-                "imagenes/Sedan/Toyota Camrry 2012 (2).webp",
-                "imagenes/Sedan/Toyota Camrry 2012 (3).webp",
-                "imagenes/Sedan/Toyota Camrry 2012 (4).webp",
-                "imagenes/Sedan/Toyota Camrry 2012 (6).webp",
-                "imagenes/Sedan/Toyota Camrry 2012 (7).webp"
-            ]
-        },
-        {
             "title": "2014 Toyota corola s",
             "cash": "$6.300$",
             "down": "$2.000$ (Negotiable)",
@@ -638,24 +584,6 @@ const cars = [
                 "imagenes/Sedan/2014 Toyota corola s (6).webp",
                 "imagenes/Sedan/2014 Toyota corola s (7).webp",
                 "imagenes/Sedan/2014 Toyota corola s (8).webp"
-            ]
-        },
-        {
-            "title": "Kia forte 2016",
-            "cash": "$4.500$",
-            "down": "$1.500$ (Negotiable)",
-            "financing": "$8.500$ (Negotiable)",
-            "mileage": "128.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Kia forte 2016 (7).webp",
-                "imagenes/Sedan/Kia forte 2016 (5).webp",
-                "imagenes/Sedan/Kia forte 2016 (1).webp",
-                "imagenes/Sedan/Kia forte 2016 (2).webp",
-                "imagenes/Sedan/Kia forte 2016 (3).webp",
-                "imagenes/Sedan/Kia forte 2016 (4).webp",
-                "imagenes/Sedan/Kia forte 2016 (6).webp"
             ]
         },
 ];
