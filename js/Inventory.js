@@ -207,26 +207,6 @@ const cars = [
             ]
         },
         {
-            title: "Mitsubichi Outlander 2003 ",
-            cash: "$3,500",
-            down: "1,300",
-            financing: "$7,000 (Negotiable)",
-            mileage: "95.000",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/Mitsubichi Outlander 2003 (8).webp",
-                "imagenes/Suv/Mitsubichi Outlander 2003 (1).webp",
-                "imagenes/Suv/Mitsubichi Outlander 2003 (2).webp",
-                "imagenes/Suv/Mitsubichi Outlander 2003 (3).webp",
-                "imagenes/Suv/Mitsubichi Outlander 2003 (4).webp",
-                "imagenes/Suv/Mitsubichi Outlander 2003 (5).webp",
-                "imagenes/Suv/Mitsubichi Outlander 2003 (6).webp",
-                "imagenes/Suv/Mitsubichi Outlander 2003 (7).webp",
-                "imagenes/Suv/Mitsubichi Outlander 2003 (9).webp"
-            ]
-        },
-        {
             title: "2018 Subaru brz límite",
             cash: "$11.500",
             down: "",
@@ -432,28 +412,6 @@ const cars = [
             ]
         },
         {
-            "title": "Toyota Corolla 2006",
-            "cash": "$3.300$",
-            "down": "$1.200$ (Negotiable)",
-            "financing": "$7.000",
-            "mileage": "165.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2006 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2006 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2006 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2006 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2006 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2006 (7).webp",
-                "imagenes/Sedan/Toyota Corolla 2006 (8).webp",
-                "imagenes/Sedan/Toyota Corolla 2006 (9).webp",
-                "imagenes/Sedan/Toyota Corolla 2006 (10).webp",
-                "imagenes/Sedan/Toyota Corolla 2006 (11).webp",
-                "imagenes/Sedan/Toyota Corolla 2006 (12).webp"
-            ]
-        },
-        {
             "title": "Toyota Corolla 2010",
             "cash": "$5.000$",
             "down": "$1.700$ (Negotiable)",
@@ -473,23 +431,6 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2010 (10).webp",
                 "imagenes/Sedan/Toyota Corolla 2010 (11).webp",
                 "imagenes/Sedan/Toyota Corolla 2010 (12).webp"
-            ]
-        },
-        {
-            title: "2002 dodge ram v8",
-            cash: "$9,500",
-            down: "$3,000 (Negotiable)",
-            financing: "$14,000 (Negotiable)",
-            mileage: "130,000",
-            make: "Truck",
-            description: "Clean Title",
-            images: [
-                "imagenes/Trucks/2002 dodge ram v8 (2).webp",
-                "imagenes/Trucks/2002 dodge ram v8 (1).webp",
-                "imagenes/Trucks/2002 dodge ram v8 (3).webp",
-                "imagenes/Trucks/2002 dodge ram v8 (4).webp",
-                "imagenes/Trucks/2002 dodge ram v8 (5).webp",
-                "imagenes/Trucks/2002 dodge ram v8 (6).webp"
             ]
         },
         {
@@ -620,7 +561,8 @@ const cars = [
                 "imagenes/Sedan/Ford fiesta 2015 (5).webp",
                 "imagenes/Sedan/Ford fiesta 2015 (6).webp",
                 "imagenes/Sedan/Ford fiesta 2015 (7).webp"
-            ]
+            ],
+           Rented:true
         },
         {
             "title": "Hyundai Elantra 2020",
