@@ -268,7 +268,7 @@ const cars = [
         },
         {
             "title": "2011 BMW x6",
-            "cash": "$6,700",
+            "cash": "$5,000",
             "down": "$2,500 (Negotiable)",
             "financing": "$11,000 (Negotiable)",
             "mileage": "131,000",
