@@ -642,6 +642,46 @@ const cars = [
                 "imagenes/Trucks/2002 Ford F-150 XL (10).webp",
             ]
         },
+         {
+            "title": "2014 Ford Mustang V6",
+            "cash": "$5.800$",
+            "down": "$1.800$ (Negotiable)",
+            "financing": "$10.000$ (Negotiable)",
+            "mileage": "181,886",
+            "make": "Luxury",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2014 Ford Mustang V6 (1).webp",
+                "imagenes/Sedan/2014 Ford Mustang V6 (2).webp",
+                "imagenes/Sedan/2014 Ford Mustang V6 (3).webp",
+                "imagenes/Sedan/2014 Ford Mustang V6 (4).webp",
+                "imagenes/Sedan/2014 Ford Mustang V6 (5).webp",
+                "imagenes/Sedan/2014 Ford Mustang V6 (6).webp",
+                "imagenes/Sedan/2014 Ford Mustang V6 (7).webp",
+                "imagenes/Sedan/2014 Ford Mustang V6 (8).webp",
+                "imagenes/Sedan/2014 Ford Mustang V6 (9).webp",
+                "imagenes/Sedan/2014 Ford Mustang V6 (10).webp",
+                "imagenes/Sedan/2014 Ford Mustang V6 (11).webp",
+            ]
+        },
+         {
+            "title": "2016 Ford Fiesta SE",
+            "cash": "$4.500$",
+            "down": "$1.500$ (Negotiable)",
+            "financing": "$8.000$ (Negotiable)",
+            "mileage": "85,044",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2016 Ford Fiesta SE (1).webp",
+                "imagenes/Sedan/2016 Ford Fiesta SE (2).webp",
+                "imagenes/Sedan/2016 Ford Fiesta SE (3).webp",
+                "imagenes/Sedan/2016 Ford Fiesta SE (4).webp",
+                "imagenes/Sedan/2016 Ford Fiesta SE (5).webp",
+                "imagenes/Sedan/2016 Ford Fiesta SE (6).webp",
+                "imagenes/Sedan/2016 Ford Fiesta SE (7).webp",
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
