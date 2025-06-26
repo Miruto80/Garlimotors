@@ -627,7 +627,7 @@ const cars = [
             "down": "$1.300$ (Negotiable)",
             "financing": "$8.000$ (Negotiable)",
             "mileage": "144.000",
-            "make": "Trucks",
+            "make": "Truck",
             "description": "Clean Title",
             "images": [
                 "imagenes/Trucks/2002 Ford F-150 XL (1).webp",
@@ -680,6 +680,78 @@ const cars = [
                 "imagenes/Sedan/2016 Ford Fiesta SE (5).webp",
                 "imagenes/Sedan/2016 Ford Fiesta SE (6).webp",
                 "imagenes/Sedan/2016 Ford Fiesta SE (7).webp",
+            ]
+        },
+        {
+            "title": "2006 Dodge Ram 1500 SLT",
+            "cash": "$4.800$",
+            "down": "$1.500$ (Negotiable)",
+            "financing": "$8.500$ (Negotiable)",
+            "mileage": "168,502",
+            "make": "Truck",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (1).webp",
+                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (2).webp",
+                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (3).webp",
+                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (4).webp",
+                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (5).webp",
+                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (6).webp",
+                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (7).webp",
+                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (8).webp",
+            ]
+        },
+        {
+            title: "2009 honda pilot",
+            cash: "5.500$",
+            down: "1.500$",
+            financing: "9.000$",
+            mileage: "206.000",
+            make: "Suv",
+            description: "Clean Title 3 rows of seats",
+            images: [
+                "imagenes/Suv/2009 honda pilot (1).webp",
+                "imagenes/Suv/2009 honda pilot (2).webp",
+                "imagenes/Suv/2009 honda pilot (3).webp",
+                "imagenes/Suv/2009 honda pilot (4).webp"
+            ]
+        },
+        {
+            title: "Aveo Chevrolet 2006",
+            cash: "1.800$",
+            down: "800$",
+            financing: "4.000$",
+            mileage: "156.000",
+            make: "Suv",
+            description: "Clean Title 3 rows of seats",
+            images: [
+                "imagenes/Suv/Aveo Chevrolet 2006 (1).webp",
+                "imagenes/Suv/Aveo Chevrolet 2006 (2).webp",
+                "imagenes/Suv/Aveo Chevrolet 2006 (3).webp",
+                "imagenes/Suv/Aveo Chevrolet 2006 (4).webp",
+                "imagenes/Suv/Aveo Chevrolet 2006 (5).webp",
+                "imagenes/Suv/Aveo Chevrolet 2006 (6).webp",
+                "imagenes/Suv/Aveo Chevrolet 2006 (7).webp",
+                "imagenes/Suv/Aveo Chevrolet 2006 (8).webp",
+                "imagenes/Suv/Aveo Chevrolet 2006 (9).webp"
+            ]
+        },
+        {
+            title: "2013 honda Civic 2013",
+            cash: "6.200$",
+            down: "1.800$",
+            financing: "10.500$",
+            mileage: "154.000",
+            make: "Sedan",
+            description: "Clean Title 3 rows of seats",
+            images: [
+                "imagenes/Sedan/2013 honda Civic 2013 (1).webp",
+                "imagenes/Sedan/2013 honda Civic 2013 (2).webp",
+                "imagenes/Sedan/2013 honda Civic 2013 (3).webp",
+                "imagenes/Sedan/2013 honda Civic 2013 (4).webp",
+                "imagenes/Sedan/2013 honda Civic 2013 (5).webp",
+                "imagenes/Sedan/2013 honda Civic 2013 (6).webp",
+                "imagenes/Sedan/2013 honda Civic 2013 (7).webp"
             ]
         },
 ];
