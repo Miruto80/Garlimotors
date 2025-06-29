@@ -754,6 +754,42 @@ const cars = [
                 "imagenes/Sedan/2013 honda Civic 2013 (7).webp"
             ]
         },
+        {
+            title: "2008 Toyota Corolla",
+            cash: "6.200$",
+            down: "1.800$",
+            financing: "10.500$",
+            mileage: "154.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2008 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2008 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2008 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2008 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2008 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2008 Toyota Corolla (6).webp",
+                "imagenes/Sedan/2008 Toyota Corolla (7).webp"
+            ]
+        },
+        {
+            title: "Toyota Corolla 2017 sport",
+            cash: "7.500$",
+            down: "2.000$",
+            financing: "11.500$",
+            mileage: "205.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/Toyota Corolla 2017 sport (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 sport (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 sport (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 sport (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 sport (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 sport (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 sport (7).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
