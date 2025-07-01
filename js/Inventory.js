@@ -108,28 +108,6 @@ const cars = [
             "imagenes/Luxury/2008 cadillax Dts v8 (6).webp"
         ]
     },
-    {
-        title: "2011 BMW Serie 3",
-        cash: "$5,500",
-        down: "$1,500 (Negotiable)",
-        financing: "$9,500 (Negotiable)",
-        mileage: "110,000",
-        make: "Luxury",
-        description: "Clean Title",
-        images: [
-            "imagenes/Luxury/2011 BMW serie 3 (1).webp",
-            "imagenes/Luxury/2011 BMW serie 3 (2).webp",
-            "imagenes/Luxury/2011 BMW serie 3 (3).webp",
-            "imagenes/Luxury/2011 BMW serie 3 (4).webp",
-            "imagenes/Luxury/2011 BMW serie 3 (5).webp",
-            "imagenes/Luxury/2011 BMW serie 3 (6).webp",
-            "imagenes/Luxury/2011 BMW serie 3 (7).webp",
-            "imagenes/Luxury/2011 BMW serie 3 (8).webp",
-            "imagenes/Luxury/2011 BMW serie 3 (9).webp",
-            "imagenes/Luxury/2011 BMW serie 3 (10).webp"
-        ]
-    },
-
         {
           title: "2014 SUBARU FORESTER 2.5I PREMIUM",
           cash: "$4,500",
@@ -193,20 +171,6 @@ const cars = [
             ]
         },
         {
-            title: "BMW 328i 2009",
-            cash: "$4,500",
-            down: "$1,500 (Negotiable)",
-            financing: "$7,500 (Negotiable)",
-            mileage: "144,000",
-            make: "Luxury",
-            description: "Clean Title",
-            images: [
-                "imagenes/Luxury/BMW 328i 2009 (1).webp",
-                "imagenes/Luxury/BMW 328i 2009 (2).webp",
-                "imagenes/Luxury/BMW 328i 2009 (3).webp"
-            ]
-        },
-        {
             title: "2018 Subaru brz límite",
             cash: "$11.500",
             down: "",
@@ -264,21 +228,6 @@ const cars = [
                 "imagenes/Suv/2001 Toyota sequoia limited (7).webp",
                 "imagenes/Suv/2001 Toyota sequoia limited (8).webp",
                 "imagenes/Suv/2001 Toyota sequoia limited (9).webp"
-            ]
-        },
-        {
-            "title": "2011 BMW x6",
-            "cash": "$5,000",
-            "down": "$2,500 (Negotiable)",
-            "financing": "$11,000 (Negotiable)",
-            "mileage": "131,000",
-            "make": "Luxury",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Luxury/2011 BMW x6 (1).webp",
-                "imagenes/Luxury/2011 BMW x6 (2).webp",
-                "imagenes/Luxury/2011 BMW x6 (3).webp",
-                "imagenes/Luxury/2011 BMW x6 (4).webp"
             ]
         },
         {
@@ -493,59 +442,6 @@ const cars = [
             ]
         },
         {
-            "title": "Kia rio 2020",
-            "cash": "$7.500$",
-            "down": "$2.000$ (Negotiable)",
-            "financing": "$10.500$",
-            "mileage": "66.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Kia rio 2020 (1).webp",
-                "imagenes/Sedan/Kia rio 2020 (2).webp",
-                "imagenes/Sedan/Kia rio 2020 (3).webp",
-                "imagenes/Sedan/Kia rio 2020 (4).webp",
-                "imagenes/Sedan/Kia rio 2020 (5).webp"
-            ]
-        },
-        {
-            "title": "2014 Toyota corola s",
-            "cash": "$6.300$",
-            "down": "$2.000$ (Negotiable)",
-            "financing": "$10.500$ (Negotiable)",
-            "mileage": "205.999",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2014 Toyota corola s (1).webp",
-                "imagenes/Sedan/2014 Toyota corola s (2).webp",
-                "imagenes/Sedan/2014 Toyota corola s (3).webp",
-                "imagenes/Sedan/2014 Toyota corola s (4).webp",
-                "imagenes/Sedan/2014 Toyota corola s (5).webp",
-                "imagenes/Sedan/2014 Toyota corola s (6).webp",
-                "imagenes/Sedan/2014 Toyota corola s (7).webp",
-                "imagenes/Sedan/2014 Toyota corola s (8).webp"
-            ]
-        },
-        {
-            "title": "2011 Toyota Corolla s",
-            "cash": "$5.000$",
-            "down": "$1.800$ (Negotiable)",
-            "financing": "$9.500$ (Negotiable)",
-            "mileage": "183.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2011 Toyota Corolla s (1).webp",
-                "imagenes/Sedan/2011 Toyota Corolla s (2).webp",
-                "imagenes/Sedan/2011 Toyota Corolla s (3).webp",
-                "imagenes/Sedan/2011 Toyota Corolla s (4).webp",
-                "imagenes/Sedan/2011 Toyota Corolla s (5).webp",
-                "imagenes/Sedan/2011 Toyota Corolla s (6).webp",
-                "imagenes/Sedan/2011 Toyota Corolla s (7).webp"
-            ]
-        },
-        {
             "title": "Ford fiesta 2015",
             "cash": "$3.000$",
             "down": "$1.000$ (Negotiable)",
@@ -584,44 +480,6 @@ const cars = [
             ]
         },
         {
-            "title": "Toyota Corolla 2014 S",
-            "cash": "$7.700$",
-            "down": "$2.500$ (Negotiable)",
-            "financing": "$12.500$ (Negotiable)",
-            "mileage": "98.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2014 S (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 S (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 S (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 S (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 S (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 S (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 S (7).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 S (8).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 S (9).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 S (10).webp"
-            ]
-        },
-        {
-            "title": "2021 Kia forte",
-            "cash": "$7.500$",
-            "down": "$2.000$ (Negotiable)",
-            "financing": "$12.000$ (Negotiable)",
-            "mileage": "100.900 ",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2021 Kia forte (2).webp",
-                "imagenes/Sedan/2021 Kia forte (1).webp",
-                "imagenes/Sedan/2021 Kia forte (3).webp",
-                "imagenes/Sedan/2021 Kia forte (4).webp",
-                "imagenes/Sedan/2021 Kia forte (5).webp",
-                "imagenes/Sedan/2021 Kia forte (6).webp",
-            ]
-        },
-        {
             "title": "2002 Ford F-150 XL",
             "cash": "$4.500$",
             "down": "$1.300$ (Negotiable)",
@@ -640,28 +498,6 @@ const cars = [
                 "imagenes/Trucks/2002 Ford F-150 XL (8).webp",
                 "imagenes/Trucks/2002 Ford F-150 XL (9).webp",
                 "imagenes/Trucks/2002 Ford F-150 XL (10).webp",
-            ]
-        },
-         {
-            "title": "2014 Ford Mustang V6",
-            "cash": "$5.800$",
-            "down": "$1.800$ (Negotiable)",
-            "financing": "$10.000$ (Negotiable)",
-            "mileage": "181,886",
-            "make": "Luxury",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2014 Ford Mustang V6 (1).webp",
-                "imagenes/Sedan/2014 Ford Mustang V6 (2).webp",
-                "imagenes/Sedan/2014 Ford Mustang V6 (3).webp",
-                "imagenes/Sedan/2014 Ford Mustang V6 (4).webp",
-                "imagenes/Sedan/2014 Ford Mustang V6 (5).webp",
-                "imagenes/Sedan/2014 Ford Mustang V6 (6).webp",
-                "imagenes/Sedan/2014 Ford Mustang V6 (7).webp",
-                "imagenes/Sedan/2014 Ford Mustang V6 (8).webp",
-                "imagenes/Sedan/2014 Ford Mustang V6 (9).webp",
-                "imagenes/Sedan/2014 Ford Mustang V6 (10).webp",
-                "imagenes/Sedan/2014 Ford Mustang V6 (11).webp",
             ]
         },
          {
@@ -716,44 +552,7 @@ const cars = [
                 "imagenes/Suv/2009 honda pilot (4).webp"
             ]
         },
-        {
-            title: "Aveo Chevrolet 2006",
-            cash: "1.800$",
-            down: "800$",
-            financing: "4.000$",
-            mileage: "156.000",
-            make: "Suv",
-            description: "Clean Title 3 rows of seats",
-            images: [
-                "imagenes/Suv/Aveo Chevrolet 2006 (1).webp",
-                "imagenes/Suv/Aveo Chevrolet 2006 (2).webp",
-                "imagenes/Suv/Aveo Chevrolet 2006 (3).webp",
-                "imagenes/Suv/Aveo Chevrolet 2006 (4).webp",
-                "imagenes/Suv/Aveo Chevrolet 2006 (5).webp",
-                "imagenes/Suv/Aveo Chevrolet 2006 (6).webp",
-                "imagenes/Suv/Aveo Chevrolet 2006 (7).webp",
-                "imagenes/Suv/Aveo Chevrolet 2006 (8).webp",
-                "imagenes/Suv/Aveo Chevrolet 2006 (9).webp"
-            ]
-        },
-        {
-            title: "2013 honda Civic 2013",
-            cash: "6.200$",
-            down: "1.800$",
-            financing: "10.500$",
-            mileage: "154.000",
-            make: "Sedan",
-            description: "Clean Title 3 rows of seats",
-            images: [
-                "imagenes/Sedan/2013 honda Civic 2013 (1).webp",
-                "imagenes/Sedan/2013 honda Civic 2013 (2).webp",
-                "imagenes/Sedan/2013 honda Civic 2013 (3).webp",
-                "imagenes/Sedan/2013 honda Civic 2013 (4).webp",
-                "imagenes/Sedan/2013 honda Civic 2013 (5).webp",
-                "imagenes/Sedan/2013 honda Civic 2013 (6).webp",
-                "imagenes/Sedan/2013 honda Civic 2013 (7).webp"
-            ]
-        },
+       
         {
             title: "2008 Toyota Corolla",
             cash: "6.200$",
