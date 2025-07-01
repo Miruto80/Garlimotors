@@ -626,6 +626,25 @@ const cars = [
                 "imagenes/Sedan/2009 Toyota Camry LE (8).webp"
             ]
         },
+        {
+            title: "2009 Toyota Camry LE2",
+            cash: "5.000$",
+            down: "1.500$",
+            financing: "9.000$",
+            mileage: "139,527",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2009 Toyota Camry LE (2).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (1).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (3).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (4).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (5).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (6).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (7).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (8).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
