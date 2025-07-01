@@ -107,6 +107,6 @@
     </div>
 
 <?php require_once("comunes/footer.php")?>
-<script src="js/Inventory.js"></script>
+<script src="js/Inventory.js?v=<?= filemtime('js/Inventory.js') ?>"></script>
 </body>
 </html>
