@@ -589,6 +589,43 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2017 sport (7).webp"
             ]
         },
+        {
+            title: "Toyota Corolla 2012",
+            cash: "4.000$",
+            down: "1.500$",
+            financing: "7.500$",
+            mileage: "270.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/Toyota Corolla 2012 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2012 (7).webp"
+            ]
+        },
+        {
+            title: "2009 Toyota Camry LE",
+            cash: "5.000$",
+            down: "1.500$",
+            financing: "9.000$",
+            mileage: "139,527",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2009 Toyota Camry LE (2).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (1).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (3).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (4).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (5).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (6).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (7).webp",
+                "imagenes/Sedan/2009 Toyota Camry LE (8).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
