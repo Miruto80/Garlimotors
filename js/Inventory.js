@@ -627,7 +627,7 @@ const cars = [
             ]
         },
         {
-            title: "Hyundai Accent 2017",
+            title: "2017 Hyundai Accent",
             cash: "4.700$",
             down: "1.500$",
             financing: "8.500$",
@@ -635,14 +635,14 @@ const cars = [
             make: "Sedan",
             description: "Clean Title",
             images: [
-                "imagenes/Sedan/Hyundai Accent 2017 (3).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (1).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (2).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (4).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (5).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (6).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (7).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (8).webp"
+                "imagenes/Sedan/2017 Hyundai Accent (3).webp",
+                "imagenes/Sedan/2017 Hyundai Accent (1).webp",
+                "imagenes/Sedan/2017 Hyundai Accent (2).webp",
+                "imagenes/Sedan/2017 Hyundai Accent (4).webp",
+                "imagenes/Sedan/2017 Hyundai Accent (5).webp",
+                "imagenes/Sedan/2017 Hyundai Accent (6).webp",
+                "imagenes/Sedan/2017 Hyundai Accent (7).webp",
+                "imagenes/Sedan/2017 Hyundai Accent (8).webp"
             ]
         },
 ];
