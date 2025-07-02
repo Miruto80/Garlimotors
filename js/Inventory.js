@@ -626,6 +626,25 @@ const cars = [
                 "imagenes/Sedan/2009 Toyota Camry LE (8).webp"
             ]
         },
+        {
+            title: "Hyundai Accent 2017",
+            cash: "4.700$",
+            down: "1.500$",
+            financing: "8.500$",
+            mileage: "103,000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/Hyundai Accent 2017 (2).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (1).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (3).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (4).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (5).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (6).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (7).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (8).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
