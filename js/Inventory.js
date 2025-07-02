@@ -635,9 +635,9 @@ const cars = [
             make: "Sedan",
             description: "Clean Title",
             images: [
-                "imagenes/Sedan/Hyundai Accent 2017 (2).webp",
-                "imagenes/Sedan/Hyundai Accent 2017 (1).webp",
                 "imagenes/Sedan/Hyundai Accent 2017 (3).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (1).webp",
+                "imagenes/Sedan/Hyundai Accent 2017 (2).webp",
                 "imagenes/Sedan/Hyundai Accent 2017 (4).webp",
                 "imagenes/Sedan/Hyundai Accent 2017 (5).webp",
                 "imagenes/Sedan/Hyundai Accent 2017 (6).webp",
