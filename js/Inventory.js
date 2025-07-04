@@ -665,6 +665,62 @@ const cars = [
                 "imagenes/Sedan/Toyota Camrry 2011 híbrido (9).webp"
             ]
         },
+        {
+            title: "Toyota Camrry 2013 le",
+            cash: "5.000$",
+            down: "1.700$",
+            financing: "9.000$",
+            mileage: "210.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/Toyota Camrry 2013 le (4).webp",
+                "imagenes/Sedan/Toyota Camrry 2013 le (3).webp",
+                "imagenes/Sedan/Toyota Camrry 2013 le (1).webp",
+                "imagenes/Sedan/Toyota Camrry 2013 le (2).webp"
+            ]
+        },
+        {
+            title: "Toyota avalo 2014",
+            cash: "7.500$",
+            down: "2.000$",
+            financing: "11.000$",
+            mileage: "172.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/Toyota avalo 2014 (1).webp",
+                "imagenes/Sedan/Toyota avalo 2014 (2).webp",
+                "imagenes/Sedan/Toyota avalo 2014 (3).webp",
+                "imagenes/Sedan/Toyota avalo 2014 (4).webp",
+                "imagenes/Sedan/Toyota avalo 2014 (5).webp",
+                "imagenes/Sedan/Toyota avalo 2014 (6).webp",
+                "imagenes/Sedan/Toyota avalo 2014 (7).webp",
+                "imagenes/Sedan/Toyota avalo 2014 (8).webp",
+                "imagenes/Sedan/Toyota avalo 2014 (9).webp",
+                "imagenes/Sedan/Toyota avalo 2014 (10).webp"
+            ]
+        },
+        {
+            title: "2014 Toyota Corolla le",
+            cash: "6.500$",
+            down: "2.000$",
+            financing: "11.000$",
+            mileage: "206.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2014 Toyota Corolla le (1).webp",
+                "imagenes/Sedan/2014 Toyota Corolla le (3).webp",
+                "imagenes/Sedan/2014 Toyota Corolla le (4).webp",
+                "imagenes/Sedan/2014 Toyota Corolla le (5).webp",
+                "imagenes/Sedan/2014 Toyota Corolla le (6).webp",
+                "imagenes/Sedan/2014 Toyota Corolla le (7).webp",
+                "imagenes/Sedan/2014 Toyota Corolla le (8).webp",
+                "imagenes/Sedan/2014 Toyota Corolla le (9).webp",
+                "imagenes/Sedan/2014 Toyota Corolla le (10).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
