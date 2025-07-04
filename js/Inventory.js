@@ -645,6 +645,26 @@ const cars = [
                 "imagenes/Sedan/2017 Hyundai Accent (8).webp"
             ]
         },
+        {
+            title: "Toyota Camrry 2011 hybrid",
+            cash: "8.000$",
+            down: "1.700$",
+            financing: "9.500$",
+            mileage: "81,000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/Toyota Camrry 2011 híbrido (3).webp",
+                "imagenes/Sedan/Toyota Camrry 2011 híbrido (1).webp",
+                "imagenes/Sedan/Toyota Camrry 2011 híbrido (2).webp",
+                "imagenes/Sedan/Toyota Camrry 2011 híbrido (4).webp",
+                "imagenes/Sedan/Toyota Camrry 2011 híbrido (5).webp",
+                "imagenes/Sedan/Toyota Camrry 2011 híbrido (6).webp",
+                "imagenes/Sedan/Toyota Camrry 2011 híbrido (7).webp",
+                "imagenes/Sedan/Toyota Camrry 2011 híbrido (8).webp",
+                "imagenes/Sedan/Toyota Camrry 2011 híbrido (9).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
