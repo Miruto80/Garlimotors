@@ -555,7 +555,7 @@ const cars = [
        
         {
             title: "2008 Toyota Corolla",
-            cash: "6.200$",
+            cash: "5.200$",
             down: "1.800$",
             financing: "10.500$",
             mileage: "154.000",
@@ -647,7 +647,7 @@ const cars = [
         },
         {
             title: "Toyota Camrry 2011 hybrid",
-            cash: "8.000$",
+            cash: "5.500$",
             down: "1.700$",
             financing: "9.500$",
             mileage: "81,000",
