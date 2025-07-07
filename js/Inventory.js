@@ -721,6 +721,42 @@ const cars = [
                 "imagenes/Sedan/2014 Toyota Corolla le (10).webp"
             ]
         },
+        {
+            title: "2017 Toyota Corolla",
+            cash: "7.500$",
+            down: "2.000$",
+            financing: "11.500$",
+            mileage: "182.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2017 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (6).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (7).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (8).webp"
+            ]
+        },
+         {
+            title: "Toyota 4runner 2003",
+            cash: "5.000$",
+            down: "1.500$",
+            financing: "9.000$",
+            mileage: "139,527",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/Toyota 4runner 2003 (1).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (2).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (3).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (4).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (5).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (6).webp",
+                "imagenes/Suv/Toyota 4runner 2003 (7).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
