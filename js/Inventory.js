@@ -757,6 +757,98 @@ const cars = [
                 "imagenes/Suv/Toyota 4runner 2003 (7).webp"
             ]
         },
+        {
+            title: "2013 Toyota Corolla",
+            cash: "6.500$",
+            down: "2.000$",
+            financing: "11.000$",
+            mileage: "113.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2013 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2013 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2013 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2013 Toyota Corolla (4).webp"
+            ]
+        },
+        {
+            title: "2015 Toyota Corolla",
+            cash: "7.000$",
+            down: "2.000$",
+            financing: "11.500$",
+            mileage: "165.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2015 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2015 Toyota Corolla (6).webp"
+            ]
+        },
+        {
+            title: "2019 Hyundai Elantra",
+            cash: "6.500$",
+            down: "1.800$",
+            financing: "11.000$",
+            mileage: "131.516",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2019 Hyundai Elantra (3).webp",
+                "imagenes/Sedan/2019 Hyundai Elantra (1).webp",
+                "imagenes/Sedan/2019 Hyundai Elantra (2).webp",
+                "imagenes/Sedan/2019 Hyundai Elantra (4).webp",
+                "imagenes/Sedan/2019 Hyundai Elantra (5).webp",
+                "imagenes/Sedan/2019 Hyundai Elantra (6).webp",
+                "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
+                "imagenes/Sedan/2019 Hyundai Elantra (8).webp",
+                "imagenes/Sedan/2019 Hyundai Elantra (9).webp"
+            ]
+        },
+        {
+            title: "Honda Civic 2013",
+            cash: "4.700$",
+            down: "1.500$",
+            financing: "8.500$",
+            mileage: "212.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/Honda Civic 2013 (1).webp",
+                "imagenes/Sedan/Honda Civic 2013 (2).webp",
+                "imagenes/Sedan/Honda Civic 2013 (3).webp",
+                "imagenes/Sedan/Honda Civic 2013 (4).webp",
+                "imagenes/Sedan/Honda Civic 2013 (5).webp",
+                "imagenes/Sedan/Honda Civic 2013 (6).webp",
+                "imagenes/Sedan/Honda Civic 2013 (7).webp",
+                "imagenes/Sedan/Honda Civic 2013 (8).webp",
+                "imagenes/Sedan/Honda Civic 2013 (9).webp",
+                "imagenes/Sedan/Honda Civic 2013 (10).webp"
+            ]
+        },
+        {
+            title: "Mitsubichi Galant 2012",
+            cash: "3.000$",
+            down: "700$",
+            financing: "6.500$",
+            mileage: "188.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/Mitsubichi Galant 2012 (1).webp",
+                "imagenes/Sedan/Mitsubichi Galant 2012 (2).webp",
+                "imagenes/Sedan/Mitsubichi Galant 2012 (3).webp",
+                "imagenes/Sedan/Mitsubichi Galant 2012 (4).webp",
+                "imagenes/Sedan/Mitsubichi Galant 2012 (5).webp",
+                "imagenes/Sedan/Mitsubichi Galant 2012 (6).webp",
+                "imagenes/Sedan/Mitsubichi Galant 2012 (7).webp",
+                "imagenes/Sedan/Mitsubichi Galant 2012 (8).webp",
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
