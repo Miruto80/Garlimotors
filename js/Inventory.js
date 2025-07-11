@@ -846,7 +846,43 @@ const cars = [
                 "imagenes/Sedan/Mitsubichi Galant 2012 (5).webp",
                 "imagenes/Sedan/Mitsubichi Galant 2012 (6).webp",
                 "imagenes/Sedan/Mitsubichi Galant 2012 (7).webp",
-                "imagenes/Sedan/Mitsubichi Galant 2012 (8).webp",
+                "imagenes/Sedan/Mitsubichi Galant 2012 (8).webp"
+            ]
+        },
+        {
+            title: "2001 MITSUBISHI GALANT ES",
+            cash: "3.000$",
+            down: "800$",
+            financing: "6.000$",
+            mileage: "145.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (1).webp",
+                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (2).webp",
+                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (3).webp",
+                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (4).webp",
+                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (5).webp",
+                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (6).webp",
+                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (7).webp"
+            ]
+        },
+        {
+            title: "2003 SUZUKI AERIO SX",
+            cash: "3.700$",
+            down: "800$",
+            financing: "6.500$",
+            mileage: "85.000",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/2003 SUZUKI AERIO SX (1).webp",
+                "imagenes/Suv/2003 SUZUKI AERIO SX (2).webp",
+                "imagenes/Suv/2003 SUZUKI AERIO SX (3).webp",
+                "imagenes/Suv/2003 SUZUKI AERIO SX (4).webp",
+                "imagenes/Suv/2003 SUZUKI AERIO SX (5).webp",
+                "imagenes/Suv/2003 SUZUKI AERIO SX (6).webp",
+                "imagenes/Suv/2003 SUZUKI AERIO SX (7).webp"
             ]
         },
 ];
