@@ -741,10 +741,10 @@ const cars = [
         },
          {
             title: "Toyota 4runner 2003",
-            cash: "5.000$",
-            down: "1.500$",
+            cash: "5.800$",
+            down: "2.000$",
             financing: "9.000$",
-            mileage: "139,527",
+            mileage: "183,000",
             make: "Suv",
             description: "Clean Title",
             images: [
