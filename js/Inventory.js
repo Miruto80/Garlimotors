@@ -519,25 +519,6 @@ const cars = [
             ]
         },
         {
-            "title": "2006 Dodge Ram 1500 SLT",
-            "cash": "$4.800$",
-            "down": "$1.500$ (Negotiable)",
-            "financing": "$8.500$ (Negotiable)",
-            "mileage": "168,502",
-            "make": "Truck",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (1).webp",
-                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (2).webp",
-                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (3).webp",
-                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (4).webp",
-                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (5).webp",
-                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (6).webp",
-                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (7).webp",
-                "imagenes/Trucks/2006 Dodge Ram 1500 SLT (8).webp",
-            ]
-        },
-        {
             title: "2009 honda pilot",
             cash: "5.500$",
             down: "1.500$",
@@ -739,24 +720,6 @@ const cars = [
                 "imagenes/Sedan/2017 Toyota Corolla (8).webp"
             ]
         },
-         {
-            title: "Toyota 4runner 2003",
-            cash: "5.800$",
-            down: "2.000$",
-            financing: "9.000$",
-            mileage: "183,000",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/Toyota 4runner 2003 (1).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (2).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (3).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (4).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (5).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (6).webp",
-                "imagenes/Suv/Toyota 4runner 2003 (7).webp"
-            ]
-        },
         {
             title: "2013 Toyota Corolla",
             cash: "6.500$",
@@ -851,9 +814,9 @@ const cars = [
         },
         {
             title: "2001 MITSUBISHI GALANT ES",
-            cash: "3.000$",
+            cash: "2.700$",
             down: "800$",
-            financing: "6.000$",
+            financing: "5.500$",
             mileage: "145.000",
             make: "Sedan",
             description: "Clean Title",
@@ -868,23 +831,116 @@ const cars = [
             ]
         },
         {
-            title: "2003 SUZUKI AERIO SX",
-            cash: "3.700$",
-            down: "800$",
+            title: "2003 suzuki serio",
+            cash: "3.000$",
+            down: "1.000$",
             financing: "6.500$",
-            mileage: "85.000",
+            mileage: "84.000",
             make: "Suv",
             description: "Clean Title",
             images: [
-                "imagenes/Suv/2003 SUZUKI AERIO SX (1).webp",
-                "imagenes/Suv/2003 SUZUKI AERIO SX (2).webp",
-                "imagenes/Suv/2003 SUZUKI AERIO SX (3).webp",
-                "imagenes/Suv/2003 SUZUKI AERIO SX (4).webp",
-                "imagenes/Suv/2003 SUZUKI AERIO SX (5).webp",
-                "imagenes/Suv/2003 SUZUKI AERIO SX (6).webp",
-                "imagenes/Suv/2003 SUZUKI AERIO SX (7).webp"
+                "imagenes/Suv/2003 suzuki serio (1).webp",
+                "imagenes/Suv/2003 suzuki serio (2).webp",
+                "imagenes/Suv/2003 suzuki serio (3).webp",
+                "imagenes/Suv/2003 suzuki serio (4).webp",
+                "imagenes/Suv/2003 suzuki serio (5).webp"
             ]
         },
+        {
+            title: "2013 Toyota higlander",
+            cash: "7.000$",
+            down: "2.000$",
+            financing: "11.000$",
+            mileage: "84.000",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/2013 Toyota higlander (1).webp",
+                "imagenes/Suv/2013 Toyota higlander (2).webp",
+                "imagenes/Suv/2013 Toyota higlander (3).webp",
+                "imagenes/Suv/2013 Toyota higlander (4).webp",
+                "imagenes/Suv/2013 Toyota higlander (5).webp",
+                "imagenes/Suv/2013 Toyota higlander (6).webp",
+                "imagenes/Suv/2013 Toyota higlander (7).webp"
+            ]
+        },
+        {
+            title: "2004 honda Civic",
+            cash: "2.600$",
+            down: "800$",
+            financing: "5.000$",
+            mileage: "154.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2004 honda Civic (1).webp",
+                "imagenes/Sedan/2004 honda Civic (3).webp",
+                "imagenes/Sedan/2004 honda Civic (4).webp",
+                "imagenes/Sedan/2004 honda Civic (5).webp",
+                "imagenes/Sedan/2004 honda Civic (6).webp",
+                "imagenes/Sedan/2004 honda Civic (7).webp",
+                "imagenes/Sedan/2004 honda Civic (8).webp",
+                "imagenes/Sedan/2004 honda Civic (9).webp",
+                "imagenes/Sedan/2004 honda Civic (10).webp"
+            ]
+        },
+        {
+            title: "2012 Toyota Corolla",
+            cash: "6.700$",
+            down: "2.000$",
+            financing: "10.500$",
+            mileage: "135.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/2012 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2012 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2012 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2012 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2012 Toyota Corolla (6).webp",
+                "imagenes/Sedan/2012 Toyota Corolla (7).webp"
+            ]
+        },
+        {
+            title: "Toyota Corolla 2009",
+            cash: "5.500$",
+            down: "1.700$",
+            financing: "9.000$",
+            mileage: "165.000",
+            make: "Sedan",
+            description: "Clean Title",
+            images: [
+                "imagenes/Sedan/Toyota Corolla 2009 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (7).webp"
+            ]
+        },
+        {
+        title: "2016 Mercedes Benz C300",
+        cash: "$10,500",
+        down: "$4,000 (Negotiable)",
+        financing: "$15,500 (Negotiable)",
+        mileage: "109,000",
+        make: "Luxury",
+        description: "Clean Title",
+        images: [
+            "imagenes/Luxury/2016 Mercedes Benz C300 (1).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (2).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (3).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (4).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (5).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (6).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (7).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (8).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (9).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (10).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (11).webp",
+            "imagenes/Luxury/2016 Mercedes Benz C300 (12).webp"
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
