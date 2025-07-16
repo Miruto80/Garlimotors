@@ -516,7 +516,8 @@ const cars = [
                 "imagenes/Sedan/2016 Ford Fiesta SE (5).webp",
                 "imagenes/Sedan/2016 Ford Fiesta SE (6).webp",
                 "imagenes/Sedan/2016 Ford Fiesta SE (7).webp",
-            ]
+            ],
+            Rented:true
         },
         {
             title: "2009 honda pilot",
@@ -531,25 +532,6 @@ const cars = [
                 "imagenes/Suv/2009 honda pilot (2).webp",
                 "imagenes/Suv/2009 honda pilot (3).webp",
                 "imagenes/Suv/2009 honda pilot (4).webp"
-            ]
-        },
-       
-        {
-            title: "2008 Toyota Corolla",
-            cash: "5.200$",
-            down: "1.800$",
-            financing: "10.500$",
-            mileage: "154.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2008 Toyota Corolla (3).webp",
-                "imagenes/Sedan/2008 Toyota Corolla (2).webp",
-                "imagenes/Sedan/2008 Toyota Corolla (1).webp",
-                "imagenes/Sedan/2008 Toyota Corolla (4).webp",
-                "imagenes/Sedan/2008 Toyota Corolla (5).webp",
-                "imagenes/Sedan/2008 Toyota Corolla (6).webp",
-                "imagenes/Sedan/2008 Toyota Corolla (7).webp"
             ]
         },
         {
@@ -586,7 +568,8 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2012 (5).webp",
                 "imagenes/Sedan/Toyota Corolla 2012 (6).webp",
                 "imagenes/Sedan/Toyota Corolla 2012 (7).webp"
-            ]
+            ],
+            Rented:true
         },
         {
             title: "2009 Toyota Camry LE",
@@ -605,25 +588,6 @@ const cars = [
                 "imagenes/Sedan/2009 Toyota Camry LE (6).webp",
                 "imagenes/Sedan/2009 Toyota Camry LE (7).webp",
                 "imagenes/Sedan/2009 Toyota Camry LE (8).webp"
-            ]
-        },
-        {
-            title: "2017 Hyundai Accent",
-            cash: "4.700$",
-            down: "1.500$",
-            financing: "8.500$",
-            mileage: "103,000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2017 Hyundai Accent (3).webp",
-                "imagenes/Sedan/2017 Hyundai Accent (1).webp",
-                "imagenes/Sedan/2017 Hyundai Accent (2).webp",
-                "imagenes/Sedan/2017 Hyundai Accent (4).webp",
-                "imagenes/Sedan/2017 Hyundai Accent (5).webp",
-                "imagenes/Sedan/2017 Hyundai Accent (6).webp",
-                "imagenes/Sedan/2017 Hyundai Accent (7).webp",
-                "imagenes/Sedan/2017 Hyundai Accent (8).webp"
             ]
         },
         {
@@ -791,25 +755,6 @@ const cars = [
                 "imagenes/Sedan/Honda Civic 2013 (8).webp",
                 "imagenes/Sedan/Honda Civic 2013 (9).webp",
                 "imagenes/Sedan/Honda Civic 2013 (10).webp"
-            ]
-        },
-        {
-            title: "Mitsubichi Galant 2012",
-            cash: "3.000$",
-            down: "700$",
-            financing: "6.500$",
-            mileage: "188.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/Mitsubichi Galant 2012 (1).webp",
-                "imagenes/Sedan/Mitsubichi Galant 2012 (2).webp",
-                "imagenes/Sedan/Mitsubichi Galant 2012 (3).webp",
-                "imagenes/Sedan/Mitsubichi Galant 2012 (4).webp",
-                "imagenes/Sedan/Mitsubichi Galant 2012 (5).webp",
-                "imagenes/Sedan/Mitsubichi Galant 2012 (6).webp",
-                "imagenes/Sedan/Mitsubichi Galant 2012 (7).webp",
-                "imagenes/Sedan/Mitsubichi Galant 2012 (8).webp"
             ]
         },
         {
