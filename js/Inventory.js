@@ -886,6 +886,44 @@ const cars = [
             "imagenes/Luxury/2016 Mercedes Benz C300 (12).webp"
         ]
     },
+        {
+        title: "2013 HYUNDAI ELANTRA GS",
+        cash: "$3,500",
+        down: "$1,500 (Negotiable)",
+        financing: "$7,000 (Negotiable)",
+        mileage: "180,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2013 HYUNDAI ELANTRA GS (1).webp",
+            "imagenes/Sedan/2013 HYUNDAI ELANTRA GS (2).webp",
+            "imagenes/Sedan/2013 HYUNDAI ELANTRA GS (3).webp",
+            "imagenes/Sedan/2013 HYUNDAI ELANTRA GS (4).webp",
+            "imagenes/Sedan/2013 HYUNDAI ELANTRA GS (5).webp"
+        ]
+    },
+        {
+        title: "Toyota Corolla 2020",
+        cash: "$9,500",
+        down: "$2,800 (Negotiable)",
+        financing: "$15,500 (Negotiable)",
+        mileage: "193,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Toyota Corolla 2020 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (7).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (8).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (9).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (10).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (11).webp"
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
