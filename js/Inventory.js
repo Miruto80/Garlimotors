@@ -924,6 +924,32 @@ const cars = [
             "imagenes/Sedan/Toyota Corolla 2020 (11).webp"
         ]
     },
+        {
+        title: "2018 Chevrolet Silverado 1500",
+        cash: "$9,000",
+        down: "$2,500 (Negotiable)",
+        financing: "$13,500 (Negotiable)",
+        mileage: "193,721",
+        make: "Truck",
+        description: "Clean Title 1-Month Warranty on Engine & Transmission when Financed",
+        images: [
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (1).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (2).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (3).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (4).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (5).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (6).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (7).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (8).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (9).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (10).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (11).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (12).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (13).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (14).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (15).webp"
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
