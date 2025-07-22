@@ -873,6 +873,96 @@ const cars = [
             "imagenes/Trucks/2018 Chevrolet Silverado 1500 (15).webp"
         ]
     },
+    {
+            title: "2007 Jeep wrangler",
+            cash: "7.500$",
+            down: "2.000$",
+            financing: "12.500$",
+            mileage: "171.000",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/2007 Jeep wrangler (1).webp",
+                "imagenes/Suv/2007 Jeep wrangler (2).webp",
+                "imagenes/Suv/2007 Jeep wrangler (3).webp",
+                "imagenes/Suv/2007 Jeep wrangler (4).webp",
+                "imagenes/Suv/2007 Jeep wrangler (5).webp",
+                "imagenes/Suv/2007 Jeep wrangler (6).webp",
+                "imagenes/Suv/2007 Jeep wrangler (7).webp",
+                "imagenes/Suv/2007 Jeep wrangler (8).webp",
+                "imagenes/Suv/2007 Jeep wrangler (9).webp"
+            ]
+        },
+    {
+            title: "2012 Subaru forester",
+            cash: "5.000$",
+            down: "1.700$",
+            financing: "9.000$",
+            mileage: "162.180",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/2012 Subaru forester (1).webp",
+                "imagenes/Suv/2012 Subaru forester (2).webp",
+                "imagenes/Suv/2012 Subaru forester (3).webp",
+                "imagenes/Suv/2012 Subaru forester (4).webp",
+                "imagenes/Suv/2012 Subaru forester (5).webp",
+                "imagenes/Suv/2012 Subaru forester (6).webp",
+                "imagenes/Suv/2012 Subaru forester (7).webp",
+                "imagenes/Suv/2012 Subaru forester (8).webp",
+                "imagenes/Suv/2012 Subaru forester (9).webp",
+                "imagenes/Suv/2012 Subaru forester (10).webp"
+            ]
+        },
+    {
+            title: "2015 Mercedez gle 450 motor v8",
+            cash: "9.000$",
+            down: "3.500$",
+            financing: "14.500$",
+            mileage: "114.000",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (2).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (3).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (4).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (5).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (6).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (7).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (8).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (1).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (9).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (10).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (11).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (12).webp",
+                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (13).webp"
+            ]
+        },
+    {
+            title: "2020 SUBARU IMPREZA",
+            cash: "7.800$",
+            down: "2.000$",
+            financing: "12.000$",
+            mileage: "160.000",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/2020 SUBARU IMPREZA (1).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (2).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (3).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (4).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (5).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (6).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (7).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (8).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (9).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (10).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (11).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (12).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (13).webp",
+                "imagenes/Suv/2020 SUBARU IMPREZA (14).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
