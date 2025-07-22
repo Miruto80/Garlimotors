@@ -939,30 +939,63 @@ const cars = [
             ]
         },
     {
-            title: "2020 SUBARU IMPREZA",
-            cash: "7.800$",
-            down: "2.000$",
-            financing: "12.000$",
-            mileage: "160.000",
+            title: "2017 Mitsubichi 4 cilindros",
+            cash: "5.500$",
+            down: "1.700$",
+            financing: "10.500$",
+            mileage: "93.000",
             make: "Suv",
             description: "Clean Title",
             images: [
-                "imagenes/Suv/2020 SUBARU IMPREZA (1).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (2).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (3).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (4).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (5).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (6).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (7).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (8).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (9).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (10).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (11).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (12).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (13).webp",
-                "imagenes/Suv/2020 SUBARU IMPREZA (14).webp"
+                "imagenes/Suv/2017 Mitsubichi 4 cilindros (2).webp",
+                "imagenes/Suv/2017 Mitsubichi 4 cilindros (1).webp",
+                "imagenes/Suv/2017 Mitsubichi 4 cilindros (3).webp",
+                "imagenes/Suv/2017 Mitsubichi 4 cilindros (4).webp",
+                "imagenes/Suv/2017 Mitsubichi 4 cilindros (5).webp",
+                "imagenes/Suv/2017 Mitsubichi 4 cilindros (6).webp",
+                "imagenes/Suv/2017 Mitsubichi 4 cilindros (7).webp",
+                "imagenes/Suv/2017 Mitsubichi 4 cilindros (8).webp",
+                "imagenes/Suv/2017 Mitsubichi 4 cilindros (9).webp"
             ]
         },
+        {
+        title: "2009 Toyota Corolla blue",
+        cash: "$5,500",
+        down: "$1,700 (Negotiable)",
+        financing: "$9,500 (Negotiable)",
+        mileage: "138,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2009 Toyota Corolla blue (1).webp",
+            "imagenes/Sedan/2009 Toyota Corolla blue (2).webp",
+            "imagenes/Sedan/2009 Toyota Corolla blue (3).webp",
+            "imagenes/Sedan/2009 Toyota Corolla blue (4).webp",
+            "imagenes/Sedan/2009 Toyota Corolla blue (5).webp",
+            "imagenes/Sedan/2009 Toyota Corolla blue (6).webp",
+            "imagenes/Sedan/2009 Toyota Corolla blue (7).webp"
+        ]
+    },
+        {
+        title: "2016 Kia forte",
+        cash: "$4,500",
+        down: "$1,500 (Negotiable)",
+        financing: "$8,500 (Negotiable)",
+        mileage: "126,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2016 Kia forte (2).webp",
+            "imagenes/Sedan/2016 Kia forte (1).webp",
+            "imagenes/Sedan/2016 Kia forte (3).webp",
+            "imagenes/Sedan/2016 Kia forte (4).webp",
+            "imagenes/Sedan/2016 Kia forte (5).webp",
+            "imagenes/Sedan/2016 Kia forte (6).webp",
+            "imagenes/Sedan/2016 Kia forte (7).webp",
+            "imagenes/Sedan/2016 Kia forte (8).webp",
+            "imagenes/Sedan/2016 Kia forte (9).webp"
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
