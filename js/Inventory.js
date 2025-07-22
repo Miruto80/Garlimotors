@@ -269,23 +269,6 @@ const cars = [
             Rented: true
         },
         {
-            "title": "Acura mdx 2007 ",
-            "cash": "$3,500",
-            "down": "$1,200 (Negotiable)",
-            "financing": "$6,000 (Negotiable)",
-            "mileage": "210.000",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/Acura mdx 2007 (2).webp",
-                "imagenes/Suv/Acura mdx 2007 (1).webp",
-                "imagenes/Suv/Acura mdx 2007 (3).webp",
-                "imagenes/Suv/Acura mdx 2007 (4).webp",
-                "imagenes/Suv/Acura mdx 2007 (5).webp",
-                "imagenes/Suv/Acura mdx 2007 (6).webp"
-            ]
-        },
-        {
             "title": "BMW 2015 x3",
             "cash": "$5,000",
             "down": "$1,700 (Negotiable)",
@@ -340,25 +323,6 @@ const cars = [
                 "imagenes/Sedan/Kia Spectra 2007 (9).webp"
             ],
              Rented: true
-        },
-        {
-            "title": "Mitsubichi Lancer 2013",
-            "cash": "$5.000$",
-            "down": "$1.500$ (Negotiable)",
-            "financing": "$8.500",
-            "mileage": "115.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Mitsubichi Lancer 2013 (1).webp",
-                "imagenes/Sedan/Mitsubichi Lancer 2013 (3).webp",
-                "imagenes/Sedan/Mitsubichi Lancer 2013 (4).webp",
-                "imagenes/Sedan/Mitsubichi Lancer 2013 (5).webp",
-                "imagenes/Sedan/Mitsubichi Lancer 2013 (6).webp",
-                "imagenes/Sedan/Mitsubichi Lancer 2013 (7).webp",
-                "imagenes/Sedan/Mitsubichi Lancer 2013 (8).webp",
-                "imagenes/Sedan/Mitsubichi Lancer 2013 (9).webp"
-            ]
         },
         {
             "title": "Toyota Corolla 2010",
@@ -647,26 +611,6 @@ const cars = [
             ]
         },
         {
-            title: "2014 Toyota Corolla le",
-            cash: "6.500$",
-            down: "2.000$",
-            financing: "11.000$",
-            mileage: "206.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2014 Toyota Corolla le (1).webp",
-                "imagenes/Sedan/2014 Toyota Corolla le (3).webp",
-                "imagenes/Sedan/2014 Toyota Corolla le (4).webp",
-                "imagenes/Sedan/2014 Toyota Corolla le (5).webp",
-                "imagenes/Sedan/2014 Toyota Corolla le (6).webp",
-                "imagenes/Sedan/2014 Toyota Corolla le (7).webp",
-                "imagenes/Sedan/2014 Toyota Corolla le (8).webp",
-                "imagenes/Sedan/2014 Toyota Corolla le (9).webp",
-                "imagenes/Sedan/2014 Toyota Corolla le (10).webp"
-            ]
-        },
-        {
             title: "2017 Toyota Corolla",
             cash: "7.500$",
             down: "2.000$",
@@ -734,27 +678,6 @@ const cars = [
                 "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
                 "imagenes/Sedan/2019 Hyundai Elantra (8).webp",
                 "imagenes/Sedan/2019 Hyundai Elantra (9).webp"
-            ]
-        },
-        {
-            title: "Honda Civic 2013",
-            cash: "4.700$",
-            down: "1.500$",
-            financing: "8.500$",
-            mileage: "212.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/Honda Civic 2013 (1).webp",
-                "imagenes/Sedan/Honda Civic 2013 (2).webp",
-                "imagenes/Sedan/Honda Civic 2013 (3).webp",
-                "imagenes/Sedan/Honda Civic 2013 (4).webp",
-                "imagenes/Sedan/Honda Civic 2013 (5).webp",
-                "imagenes/Sedan/Honda Civic 2013 (6).webp",
-                "imagenes/Sedan/Honda Civic 2013 (7).webp",
-                "imagenes/Sedan/Honda Civic 2013 (8).webp",
-                "imagenes/Sedan/Honda Civic 2013 (9).webp",
-                "imagenes/Sedan/Honda Civic 2013 (10).webp"
             ]
         },
         {
