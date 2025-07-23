@@ -1003,26 +1003,32 @@ let currentPage = 1;
 let currentFilteredCars = cars; // Nuevo: guarda el arreglo filtrado actual
 
 function renderCars(page, filteredCars = currentFilteredCars) {
-    currentFilteredCars = filteredCars; // Actualiza el arreglo filtrado global
+    currentFilteredCars = filteredCars;
+
+    // Ordenar: primero los que tienen Rented: true
+    currentFilteredCars.sort((a, b) => {
+        return (b.Rented === true ? 1 : 0) - (a.Rented === true ? 1 : 0);
+    });
+
     const start = (page - 1) * itemsPerPage;
     const end = start + itemsPerPage;
-    const carsToShow = filteredCars.slice(start, end);
+    const carsToShow = currentFilteredCars.slice(start, end);
 
     const carList = document.getElementById("car-list");
-    carList.innerHTML = ""; // Limpiar los autos anteriores
+    carList.innerHTML = "";
 
     carsToShow.forEach(car => {
         const carDiv = document.createElement("div");
         carDiv.className = "col-md-4 mb-4";
         carDiv.innerHTML = `
             <div class="card text-dark" style="height: 100%;">
-                <img src="${car.images[0]}" class="card-img-top" alt="${car.title}" title="Clik in the image to see more" data-bs-toggle="modal" data-bs-target="#carModal" onclick="openModal(${cars.indexOf(car)})">
-                ${car.Rented ? `<div class="sold-out-banner">Rented</div>` : ""}
+                <img src="${car.images[0]}" class="card-img-top" alt="${car.title}" title="Click in the image to see more" data-bs-toggle="modal" data-bs-target="#carModal" onclick="openModal(${cars.indexOf(car)})">
+                ${car.Rented ? `<div class="sold-out-banner">Rented-Alquilado</div>` : ""}
                 <div class="card-body">
                     <h6 class="card-title">${car.title}</h6>
                     <p class="card-text">Cash: ${car.cash}</p>
                     <button class="Request-btn" onclick="openForm('${car.title}')">Request Information</button>
-                    </div>
+                </div>
             </div>
         `;
         carList.appendChild(carDiv);
