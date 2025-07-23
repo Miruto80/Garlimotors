@@ -996,6 +996,25 @@ const cars = [
             "imagenes/Sedan/2016 Kia forte (9).webp"
         ]
     },
+        {
+        title: "2015 camrry SE",
+        cash: "$4,500",
+        down: "$1,500 (Negotiable)",
+        financing: "$8,500 (Negotiable)",
+        mileage: "126,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2015 camrry SE (1).webp",
+            "imagenes/Sedan/2015 camrry SE (2).webp",
+            "imagenes/Sedan/2015 camrry SE (3).webp",
+            "imagenes/Sedan/2015 camrry SE (4).webp",
+            "imagenes/Sedan/2015 camrry SE (5).webp",
+            "imagenes/Sedan/2015 camrry SE (6).webp",
+            "imagenes/Sedan/2015 camrry SE (7).webp",
+            "imagenes/Sedan/2015 camrry SE (8).webp"
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
