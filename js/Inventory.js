@@ -998,10 +998,10 @@ const cars = [
     },
         {
         title: "2015 camrry SE",
-        cash: "$4,500",
-        down: "$1,500 (Negotiable)",
-        financing: "$8,500 (Negotiable)",
-        mileage: "126,000",
+        cash: "$6,500",
+        down: "$2,000 (Negotiable)",
+        financing: "$10,500 (Negotiable)",
+        mileage: "152.000",
         make: "Sedan",
         description: "Clean Title",
         images: [
