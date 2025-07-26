@@ -1015,6 +1015,61 @@ const cars = [
             "imagenes/Sedan/2015 camrry SE (8).webp"
         ]
     },
+        {
+        title: "Toyota Corolla 2006",
+        cash: "$5,500",
+        down: "$1,800 (Negotiable)",
+        financing: "$9,500 (Negotiable)",
+        mileage: "80.000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Toyota Corolla 2006  (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2006  (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2006  (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2006  (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2006  (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2006  (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2006  (7).webp"
+        ]
+    },
+        {
+        title: "2013 Hyundai Elantra GLS",
+        cash: "$4,000",
+        down: "$1,500 (Negotiable)",
+        financing: "$7,500 (Negotiable)",
+        mileage: "158,258",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (1).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (2).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (3).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (4).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (5).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (6).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (7).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (8).webp"
+        ]
+    },
+        {
+        title: "2013 Toyota Corolla",
+        cash: "$6,700",
+        down: "$2,000 (Negotiable)",
+        financing: "$11,500 (Negotiable)",
+        mileage: "120.000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2013 Toyota Corolla 2 (7).webp",
+            "imagenes/Sedan/2013 Toyota Corolla 2 (1).webp",
+            "imagenes/Sedan/2013 Toyota Corolla 2 (2).webp",
+            "imagenes/Sedan/2013 Toyota Corolla 2 (3).webp",
+            "imagenes/Sedan/2013 Toyota Corolla 2 (4).webp",
+            "imagenes/Sedan/2013 Toyota Corolla 2 (5).webp",
+            "imagenes/Sedan/2013 Toyota Corolla 2 (6).webp"
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
