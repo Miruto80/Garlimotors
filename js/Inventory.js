@@ -753,40 +753,6 @@ const cars = [
             ]
         },
         {
-            title: "2012 Toyota Corolla",
-            cash: "6.700$",
-            down: "2.000$",
-            financing: "10.500$",
-            mileage: "135.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2012 Toyota Corolla (1).webp",
-                "imagenes/Sedan/2012 Toyota Corolla (3).webp",
-                "imagenes/Sedan/2012 Toyota Corolla (4).webp",
-                "imagenes/Sedan/2012 Toyota Corolla (5).webp",
-                "imagenes/Sedan/2012 Toyota Corolla (6).webp",
-                "imagenes/Sedan/2012 Toyota Corolla (7).webp"
-            ]
-        },
-        {
-            title: "Toyota Corolla 2009",
-            cash: "5.500$",
-            down: "1.700$",
-            financing: "9.000$",
-            mileage: "165.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/Toyota Corolla 2009 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (7).webp"
-            ]
-        },
-        {
         title: "2016 Mercedes Benz C300",
         cash: "$10,500",
         down: "$4,000 (Negotiable)",
@@ -936,26 +902,6 @@ const cars = [
                 "imagenes/Suv/2015 Mercedez gle 450 motor v8 (11).webp",
                 "imagenes/Suv/2015 Mercedez gle 450 motor v8 (12).webp",
                 "imagenes/Suv/2015 Mercedez gle 450 motor v8 (13).webp"
-            ]
-        },
-    {
-            title: "2017 Mitsubichi 4 cilindros",
-            cash: "5.500$",
-            down: "1.700$",
-            financing: "10.500$",
-            mileage: "93.000",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/2017 Mitsubichi 4 cilindros (2).webp",
-                "imagenes/Suv/2017 Mitsubichi 4 cilindros (1).webp",
-                "imagenes/Suv/2017 Mitsubichi 4 cilindros (3).webp",
-                "imagenes/Suv/2017 Mitsubichi 4 cilindros (4).webp",
-                "imagenes/Suv/2017 Mitsubichi 4 cilindros (5).webp",
-                "imagenes/Suv/2017 Mitsubichi 4 cilindros (6).webp",
-                "imagenes/Suv/2017 Mitsubichi 4 cilindros (7).webp",
-                "imagenes/Suv/2017 Mitsubichi 4 cilindros (8).webp",
-                "imagenes/Suv/2017 Mitsubichi 4 cilindros (9).webp"
             ]
         },
         {
