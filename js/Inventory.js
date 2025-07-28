@@ -149,27 +149,6 @@ const cars = [
             "imagenes/Suv/2006 LEXUS RX (9).webp"
           ]
         },
-
-        {
-            title: "2007 kia sportage",
-            cash: "$3,500",
-            down: "",
-            financing: "$7,000 (Negotiable)",
-            mileage: "140,000",
-            make: "Suv",
-            description: "",
-            images: [
-                "imagenes/Suv/2007 kia sportage (1).webp",
-                "imagenes/Suv/2007 kia sportage (2).webp",
-                "imagenes/Suv/2007 kia sportage (3).webp",
-                "imagenes/Suv/2007 kia sportage (4).webp",
-                "imagenes/Suv/2007 kia sportage (5).webp",
-                "imagenes/Suv/2007 kia sportage (6).webp",
-                "imagenes/Suv/2007 kia sportage (7).webp",
-                "imagenes/Suv/2007 kia sportage (8).webp",
-                "imagenes/Suv/2007 kia sportage (9).webp"
-            ]
-        },
         {
             title: "2018 Subaru brz límite",
             cash: "$11.500",
@@ -344,7 +323,8 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2010 (10).webp",
                 "imagenes/Sedan/Toyota Corolla 2010 (11).webp",
                 "imagenes/Sedan/Toyota Corolla 2010 (12).webp"
-            ]
+            ],
+            Rented: true
         },
         {
             title: "Toyota prius 2013",
@@ -482,39 +462,6 @@ const cars = [
                 "imagenes/Sedan/2016 Ford Fiesta SE (7).webp",
             ],
             Rented:true
-        },
-        {
-            title: "2009 honda pilot",
-            cash: "5.500$",
-            down: "1.500$",
-            financing: "9.000$",
-            mileage: "206.000",
-            make: "Suv",
-            description: "Clean Title 3 rows of seats",
-            images: [
-                "imagenes/Suv/2009 honda pilot (1).webp",
-                "imagenes/Suv/2009 honda pilot (2).webp",
-                "imagenes/Suv/2009 honda pilot (3).webp",
-                "imagenes/Suv/2009 honda pilot (4).webp"
-            ]
-        },
-        {
-            title: "Toyota Corolla 2017 sport",
-            cash: "7.500$",
-            down: "2.000$",
-            financing: "11.500$",
-            mileage: "205.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/Toyota Corolla 2017 sport (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 sport (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 sport (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 sport (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 sport (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 sport (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 sport (7).webp"
-            ]
         },
         {
             title: "Toyota Corolla 2012",
@@ -813,32 +760,6 @@ const cars = [
             "imagenes/Sedan/Toyota Corolla 2020 (11).webp"
         ]
     },
-        {
-        title: "2018 Chevrolet Silverado 1500",
-        cash: "$9,000",
-        down: "$2,500 (Negotiable)",
-        financing: "$13,500 (Negotiable)",
-        mileage: "193,721",
-        make: "Truck",
-        description: "Clean Title 1-Month Warranty on Engine & Transmission when Financed",
-        images: [
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (1).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (2).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (3).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (4).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (5).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (6).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (7).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (8).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (9).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (10).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (11).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (12).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (13).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (14).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 1500 (15).webp"
-        ]
-    },
     {
             title: "2007 Jeep wrangler",
             cash: "7.500$",
@@ -959,24 +880,6 @@ const cars = [
             "imagenes/Sedan/2015 camrry SE (6).webp",
             "imagenes/Sedan/2015 camrry SE (7).webp",
             "imagenes/Sedan/2015 camrry SE (8).webp"
-        ]
-    },
-        {
-        title: "Toyota Corolla 2006",
-        cash: "$5,500",
-        down: "$1,800 (Negotiable)",
-        financing: "$9,500 (Negotiable)",
-        mileage: "80.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Corolla 2006  (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2006  (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2006  (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2006  (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2006  (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2006  (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2006  (7).webp"
         ]
     },
         {
