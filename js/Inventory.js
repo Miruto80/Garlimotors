@@ -171,25 +171,6 @@ const cars = [
             ]
         },
         {
-            "title": "Dodge Caravane 2006",
-            "cash": "$2,000",
-            "down": "N/A",
-            "financing": "N/A",
-            "mileage": "223,000",
-            "make": "Suv",
-            "description": "Clean title",
-            "images": [
-                "imagenes/Suv/Dodge caravane 2006 (1).webp",
-                "imagenes/Suv/Dodge caravane 2006 (2).webp",
-                "imagenes/Suv/Dodge caravane 2006 (3).webp",
-                "imagenes/Suv/Dodge caravane 2006 (4).webp",
-                "imagenes/Suv/Dodge caravane 2006 (5).webp",
-                "imagenes/Suv/Dodge caravane 2006 (6).webp",
-                "imagenes/Suv/Dodge caravane 2006 (7).webp",
-                "imagenes/Suv/Dodge caravane 2006 (8).webp"
-            ]
-        },
-        {
             "title": "2001 Toyota Sequoia Limited",
             "cash": "$2,500",
             "down": "$1,000 (Negotiable)",
@@ -246,41 +227,6 @@ const cars = [
                 "imagenes/Suv/Honda crv 2007 (8).webp"
             ],
             Rented: true
-        },
-        {
-            "title": "BMW 2015 x3",
-            "cash": "$5,000",
-            "down": "$1,700 (Negotiable)",
-            "financing": "$9,000 (Negotiable)",
-            "mileage": "130.000",
-            "make": "Luxury",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Luxury/BMW 2015 x3 (1).webp",
-                "imagenes/Luxury/BMW 2015 x3 (2).webp",
-                "imagenes/Luxury/BMW 2015 x3 (3).webp",
-                "imagenes/Luxury/BMW 2015 x3 (4).webp",
-                "imagenes/Luxury/BMW 2015 x3 (5).webp",
-                "imagenes/Luxury/BMW 2015 x3 (6).webp",
-                "imagenes/Luxury/BMW 2015 x3 (7).webp"
-            ]
-        },
-        {
-            "title": "2013 Fusión",
-            "cash": "$5.000$",
-            "down": "$2.300$ (Negotiable)",
-            "financing": "$10.000",
-            "mileage": "165.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2013 Fusion (2).webp",
-                "imagenes/Sedan/2013 Fusion (1).webp",
-                "imagenes/Sedan/2013 Fusion (3).webp",
-                "imagenes/Sedan/2013 Fusion (4).webp",
-                "imagenes/Sedan/2013 Fusion (5).webp",
-                "imagenes/Sedan/2013 Fusion (6).webp"
-            ]
         },
         {
             "title": "Kia Spectra 2007",
@@ -537,60 +483,6 @@ const cars = [
             ]
         },
         {
-            title: "Toyota avalo 2014",
-            cash: "7.500$",
-            down: "2.000$",
-            financing: "11.000$",
-            mileage: "172.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/Toyota avalo 2014 (1).webp",
-                "imagenes/Sedan/Toyota avalo 2014 (2).webp",
-                "imagenes/Sedan/Toyota avalo 2014 (3).webp",
-                "imagenes/Sedan/Toyota avalo 2014 (4).webp",
-                "imagenes/Sedan/Toyota avalo 2014 (5).webp",
-                "imagenes/Sedan/Toyota avalo 2014 (6).webp",
-                "imagenes/Sedan/Toyota avalo 2014 (7).webp",
-                "imagenes/Sedan/Toyota avalo 2014 (8).webp",
-                "imagenes/Sedan/Toyota avalo 2014 (9).webp",
-                "imagenes/Sedan/Toyota avalo 2014 (10).webp"
-            ]
-        },
-        {
-            title: "2017 Toyota Corolla",
-            cash: "7.500$",
-            down: "2.000$",
-            financing: "11.500$",
-            mileage: "182.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2017 Toyota Corolla (1).webp",
-                "imagenes/Sedan/2017 Toyota Corolla (3).webp",
-                "imagenes/Sedan/2017 Toyota Corolla (4).webp",
-                "imagenes/Sedan/2017 Toyota Corolla (5).webp",
-                "imagenes/Sedan/2017 Toyota Corolla (6).webp",
-                "imagenes/Sedan/2017 Toyota Corolla (7).webp",
-                "imagenes/Sedan/2017 Toyota Corolla (8).webp"
-            ]
-        },
-        {
-            title: "2013 Toyota Corolla",
-            cash: "6.500$",
-            down: "2.000$",
-            financing: "11.000$",
-            mileage: "113.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2013 Toyota Corolla (1).webp",
-                "imagenes/Sedan/2013 Toyota Corolla (2).webp",
-                "imagenes/Sedan/2013 Toyota Corolla (3).webp",
-                "imagenes/Sedan/2013 Toyota Corolla (4).webp"
-            ]
-        },
-        {
             title: "2015 Toyota Corolla",
             cash: "7.000$",
             down: "2.000$",
@@ -605,26 +497,6 @@ const cars = [
                 "imagenes/Sedan/2015 Toyota Corolla (4).webp",
                 "imagenes/Sedan/2015 Toyota Corolla (5).webp",
                 "imagenes/Sedan/2015 Toyota Corolla (6).webp"
-            ]
-        },
-        {
-            title: "2019 Hyundai Elantra",
-            cash: "6.500$",
-            down: "1.800$",
-            financing: "11.000$",
-            mileage: "131.516",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2019 Hyundai Elantra (3).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (1).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (2).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (4).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (5).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (6).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (8).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (9).webp"
             ]
         },
         {
@@ -781,27 +653,6 @@ const cars = [
             ]
         },
     {
-            title: "2012 Subaru forester",
-            cash: "5.000$",
-            down: "1.700$",
-            financing: "9.000$",
-            mileage: "162.180",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/2012 Subaru forester (1).webp",
-                "imagenes/Suv/2012 Subaru forester (2).webp",
-                "imagenes/Suv/2012 Subaru forester (3).webp",
-                "imagenes/Suv/2012 Subaru forester (4).webp",
-                "imagenes/Suv/2012 Subaru forester (5).webp",
-                "imagenes/Suv/2012 Subaru forester (6).webp",
-                "imagenes/Suv/2012 Subaru forester (7).webp",
-                "imagenes/Suv/2012 Subaru forester (8).webp",
-                "imagenes/Suv/2012 Subaru forester (9).webp",
-                "imagenes/Suv/2012 Subaru forester (10).webp"
-            ]
-        },
-    {
             title: "2015 Mercedez gle 450 motor v8",
             cash: "9.000$",
             down: "3.500$",
@@ -863,26 +714,8 @@ const cars = [
             "imagenes/Sedan/2016 Kia forte (9).webp"
         ]
     },
-        {
-        title: "2015 camrry SE",
-        cash: "$6,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$10,500 (Negotiable)",
-        mileage: "152.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2015 camrry SE (1).webp",
-            "imagenes/Sedan/2015 camrry SE (2).webp",
-            "imagenes/Sedan/2015 camrry SE (3).webp",
-            "imagenes/Sedan/2015 camrry SE (4).webp",
-            "imagenes/Sedan/2015 camrry SE (5).webp",
-            "imagenes/Sedan/2015 camrry SE (6).webp",
-            "imagenes/Sedan/2015 camrry SE (7).webp",
-            "imagenes/Sedan/2015 camrry SE (8).webp"
-        ]
-    },
-        {
+
+    {
         title: "2013 Hyundai Elantra GLS",
         cash: "$4,000",
         down: "$1,500 (Negotiable)",
