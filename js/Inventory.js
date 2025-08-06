@@ -847,6 +847,22 @@ const cars = [
             "imagenes/Suv/Toyota 4runner 2008 (9).webp"
         ]
     },
+        {
+            "title": "Chevrolet avalancha 2007",
+            "cash": "$7.500$",
+            "down": "$2.000$ (Negotiable)",
+            "financing": "$13.000$ (Negotiable)",
+            "mileage": "157.000",
+            "make": "Truck",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Trucks/Chevrolet avalancha 2007 (2).webp",
+                "imagenes/Trucks/Chevrolet avalancha 2007 (1).webp",
+                "imagenes/Trucks/Chevrolet avalancha 2007 (3).webp",
+                "imagenes/Trucks/Chevrolet avalancha 2007 (4).webp",
+                "imagenes/Trucks/Chevrolet avalancha 2007 (5).webp"
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
