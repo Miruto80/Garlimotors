@@ -919,6 +919,101 @@ const cars = [
             "imagenes/Sedan/2013 Toyota Corolla 2 (6).webp"
         ]
     },
+    {
+        title: "2014 honda Accord v6",
+        cash: "$6,000",
+        down: "$2,000 (Negotiable)",
+        financing: "$11,500 (Negotiable)",
+        mileage: "180,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2014 honda Accord v6 (1).webp",
+            "imagenes/Sedan/2014 honda Accord v6 (2).webp",
+            "imagenes/Sedan/2014 honda Accord v6 (3).webp",
+            "imagenes/Sedan/2014 honda Accord v6 (4).webp",
+            "imagenes/Sedan/2014 honda Accord v6 (5).webp",
+            "imagenes/Sedan/2014 honda Accord v6 (6).webp",
+            "imagenes/Sedan/2014 honda Accord v6 (7).webp",
+            "imagenes/Sedan/2014 honda Accord v6 (8).webp",
+        ]
+    },
+    {
+        title: "2005 Kia sportage",
+        cash: "$3,500",
+        down: "$1,200 (Negotiable)",
+        financing: "$8,000 (Negotiable)",
+        mileage: "103.000",
+        make: "Suv",
+        description: "Clean Title",
+        images: [
+            "imagenes/Suv/2005 Kia sportage (1).webp",
+            "imagenes/Suv/2005 Kia sportage (2).webp",
+            "imagenes/Suv/2005 Kia sportage (3).webp",
+            "imagenes/Suv/2005 Kia sportage (4).webp",
+            "imagenes/Suv/2005 Kia sportage (5).webp",
+            "imagenes/Suv/2005 Kia sportage (6).webp",
+            "imagenes/Suv/2005 Kia sportage (7).webp"
+        ]
+    },
+    {
+        title: "2007 TOYOTA 4RUNNER SR5",
+        cash: "$6,800",
+        down: "$2,500 (Negotiable)",
+        financing: "$11,000 (Negotiable)",
+        mileage: "220.000",
+        make: "Suv",
+        description: "Clean Title",
+        images: [
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (1).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (2).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (3).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (4).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (5).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (6).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (7).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (8).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (9).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (10).webp"
+        ]
+    },
+    {
+        title: "Hummer 2007 h3",
+        cash: "$5,600",
+        down: "$2,000 (Negotiable)",
+        financing: "$10,500 (Negotiable)",
+        mileage: "198.000",
+        make: "Suv",
+        description: "Clean Title",
+        images: [
+            "imagenes/Suv/Hummer 2007 h3 (1).webp",
+            "imagenes/Suv/Hummer 2007 h3 (2).webp",
+            "imagenes/Suv/Hummer 2007 h3 (3).webp",
+            "imagenes/Suv/Hummer 2007 h3 (4).webp",
+            "imagenes/Suv/Hummer 2007 h3 (5).webp",
+            "imagenes/Suv/Hummer 2007 h3 (6).webp"
+        ]
+    },
+    {
+        title: "Toyota 4runner 2008",
+        cash: "$10,000",
+        down: "$5,000 (Negotiable)",
+        financing: "$14,000 (Negotiable)",
+        mileage: "103.000",
+        make: "Suv",
+        description: "Clean Title",
+        images: [
+            "imagenes/Suv/Toyota 4runner 2008 (1).webp",
+            "imagenes/Suv/Toyota 4runner 2008 (2).webp",
+            "imagenes/Suv/Toyota 4runner 2008 (3).webp",
+            "imagenes/Suv/Toyota 4runner 2008 (4).webp",
+            "imagenes/Suv/Toyota 4runner 2008 (5).webp",
+            "imagenes/Suv/Toyota 4runner 2008 (6).webp",
+            "imagenes/Suv/Toyota 4runner 2008 (7).webp",
+            "imagenes/Suv/Toyota 4runner 2008 (8).webp",
+            "imagenes/Suv/Toyota 4runner 2008 (9).webp"
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
