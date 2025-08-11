@@ -863,6 +863,61 @@ const cars = [
                 "imagenes/Trucks/Chevrolet avalancha 2007 (5).webp"
             ]
         },
+        {
+        title: "Toyota Corolla 2015",
+        cash: "$7,000",
+        down: "$2,000 (Negotiable)",
+        financing: "$11,500 (Negotiable)",
+        mileage: "150,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Toyota Corolla 2015  (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2015  (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2015  (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2015  (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2015  (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2015  (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2015  (7).webp",
+        ]
+    },
+    {
+        title: "2017 Infiniti QX60",
+        cash: "$6,500",
+        down: "$5,000 (Negotiable)",
+        financing: "$11,000 (Negotiable)",
+        mileage: "162,000",
+        make: "Suv",
+        description: "Clean Title",
+        images: [
+            "imagenes/Suv/2017 Infiniti QX60 (1).webp",
+            "imagenes/Suv/2017 Infiniti QX60 (2).webp",
+            "imagenes/Suv/2017 Infiniti QX60 (3).webp",
+            "imagenes/Suv/2017 Infiniti QX60 (4).webp",
+            "imagenes/Suv/2017 Infiniti QX60 (5).webp",
+            "imagenes/Suv/2017 Infiniti QX60 (6).webp",
+            "imagenes/Suv/2017 Infiniti QX60 (7).webp",
+            "imagenes/Suv/2017 Infiniti QX60 (8).webp",
+            "imagenes/Suv/2017 Infiniti QX60 (9).webp"
+        ]
+    },
+    {
+        title: "Mercedez gla 250 2016",
+        cash: "$8,000",
+        down: "$2,500 (Negotiable)",
+        financing: "$13,500 (Negotiable)",
+        mileage: "120,000",
+        make: "Suv",
+        description: "Clean Title",
+        images: [
+            "imagenes/Suv/Mercedez gla 250 2016 (1).webp",
+            "imagenes/Suv/Mercedez gla 250 2016 (2).webp",
+            "imagenes/Suv/Mercedez gla 250 2016 (3).webp",
+            "imagenes/Suv/Mercedez gla 250 2016 (4).webp",
+            "imagenes/Suv/Mercedez gla 250 2016 (5).webp",
+            "imagenes/Suv/Mercedez gla 250 2016 (6).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
