@@ -595,106 +595,6 @@ const cars = [
         ]
     },
         {
-        title: "2013 HYUNDAI ELANTRA GS",
-        cash: "$3,500",
-        down: "$1,500 (Negotiable)",
-        financing: "$7,000 (Negotiable)",
-        mileage: "180,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2013 HYUNDAI ELANTRA GS (1).webp",
-            "imagenes/Sedan/2013 HYUNDAI ELANTRA GS (2).webp",
-            "imagenes/Sedan/2013 HYUNDAI ELANTRA GS (3).webp",
-            "imagenes/Sedan/2013 HYUNDAI ELANTRA GS (4).webp",
-            "imagenes/Sedan/2013 HYUNDAI ELANTRA GS (5).webp"
-        ]
-    },
-        {
-        title: "Toyota Corolla 2020",
-        cash: "$9,500",
-        down: "$2,800 (Negotiable)",
-        financing: "$15,500 (Negotiable)",
-        mileage: "193,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Corolla 2020 (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (7).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (8).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (9).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (10).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (11).webp"
-        ]
-    },
-    {
-            title: "2007 Jeep wrangler",
-            cash: "7.500$",
-            down: "2.000$",
-            financing: "12.500$",
-            mileage: "171.000",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/2007 Jeep wrangler (1).webp",
-                "imagenes/Suv/2007 Jeep wrangler (2).webp",
-                "imagenes/Suv/2007 Jeep wrangler (3).webp",
-                "imagenes/Suv/2007 Jeep wrangler (4).webp",
-                "imagenes/Suv/2007 Jeep wrangler (5).webp",
-                "imagenes/Suv/2007 Jeep wrangler (6).webp",
-                "imagenes/Suv/2007 Jeep wrangler (7).webp",
-                "imagenes/Suv/2007 Jeep wrangler (8).webp",
-                "imagenes/Suv/2007 Jeep wrangler (9).webp"
-            ]
-        },
-    {
-            title: "2015 Mercedez gle 450 motor v8",
-            cash: "9.000$",
-            down: "3.500$",
-            financing: "14.500$",
-            mileage: "114.000",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (2).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (3).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (4).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (5).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (6).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (7).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (8).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (1).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (9).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (10).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (11).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (12).webp",
-                "imagenes/Suv/2015 Mercedez gle 450 motor v8 (13).webp"
-            ]
-        },
-        {
-        title: "2009 Toyota Corolla blue",
-        cash: "$5,500",
-        down: "$1,700 (Negotiable)",
-        financing: "$9,500 (Negotiable)",
-        mileage: "138,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2009 Toyota Corolla blue (1).webp",
-            "imagenes/Sedan/2009 Toyota Corolla blue (2).webp",
-            "imagenes/Sedan/2009 Toyota Corolla blue (3).webp",
-            "imagenes/Sedan/2009 Toyota Corolla blue (4).webp",
-            "imagenes/Sedan/2009 Toyota Corolla blue (5).webp",
-            "imagenes/Sedan/2009 Toyota Corolla blue (6).webp",
-            "imagenes/Sedan/2009 Toyota Corolla blue (7).webp"
-        ]
-    },
-        {
         title: "2016 Kia forte",
         cash: "$4,500",
         down: "$1,500 (Negotiable)",
@@ -734,24 +634,6 @@ const cars = [
             "imagenes/Sedan/2013 Hyundai Elantra GLS (8).webp"
         ]
     },
-        {
-        title: "2013 Toyota Corolla",
-        cash: "$6,700",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,500 (Negotiable)",
-        mileage: "120.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2013 Toyota Corolla 2 (7).webp",
-            "imagenes/Sedan/2013 Toyota Corolla 2 (1).webp",
-            "imagenes/Sedan/2013 Toyota Corolla 2 (2).webp",
-            "imagenes/Sedan/2013 Toyota Corolla 2 (3).webp",
-            "imagenes/Sedan/2013 Toyota Corolla 2 (4).webp",
-            "imagenes/Sedan/2013 Toyota Corolla 2 (5).webp",
-            "imagenes/Sedan/2013 Toyota Corolla 2 (6).webp"
-        ]
-    },
     {
         title: "2014 honda Accord v6",
         cash: "$6,000",
@@ -769,45 +651,6 @@ const cars = [
             "imagenes/Sedan/2014 honda Accord v6 (6).webp",
             "imagenes/Sedan/2014 honda Accord v6 (7).webp",
             "imagenes/Sedan/2014 honda Accord v6 (8).webp",
-        ]
-    },
-    {
-        title: "2005 Kia sportage",
-        cash: "$3,500",
-        down: "$1,200 (Negotiable)",
-        financing: "$8,000 (Negotiable)",
-        mileage: "103.000",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/2005 Kia sportage (1).webp",
-            "imagenes/Suv/2005 Kia sportage (2).webp",
-            "imagenes/Suv/2005 Kia sportage (3).webp",
-            "imagenes/Suv/2005 Kia sportage (4).webp",
-            "imagenes/Suv/2005 Kia sportage (5).webp",
-            "imagenes/Suv/2005 Kia sportage (6).webp",
-            "imagenes/Suv/2005 Kia sportage (7).webp"
-        ]
-    },
-    {
-        title: "2007 TOYOTA 4RUNNER SR5",
-        cash: "$6,800",
-        down: "$2,500 (Negotiable)",
-        financing: "$11,000 (Negotiable)",
-        mileage: "220.000",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (1).webp",
-            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (2).webp",
-            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (3).webp",
-            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (4).webp",
-            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (5).webp",
-            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (6).webp",
-            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (7).webp",
-            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (8).webp",
-            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (9).webp",
-            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (10).webp"
         ]
     },
     {
@@ -847,22 +690,6 @@ const cars = [
             "imagenes/Suv/Toyota 4runner 2008 (9).webp"
         ]
     },
-        {
-            "title": "Chevrolet avalancha 2007",
-            "cash": "$7.500$",
-            "down": "$2.000$ (Negotiable)",
-            "financing": "$13.000$ (Negotiable)",
-            "mileage": "157.000",
-            "make": "Truck",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Trucks/Chevrolet avalancha 2007 (2).webp",
-                "imagenes/Trucks/Chevrolet avalancha 2007 (1).webp",
-                "imagenes/Trucks/Chevrolet avalancha 2007 (3).webp",
-                "imagenes/Trucks/Chevrolet avalancha 2007 (4).webp",
-                "imagenes/Trucks/Chevrolet avalancha 2007 (5).webp"
-            ]
-        },
         {
         title: "Toyota Corolla 2015",
         cash: "$7,000",
