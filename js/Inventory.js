@@ -745,6 +745,46 @@ const cars = [
             "imagenes/Suv/Mercedez gla 250 2016 (6).webp",
         ]
     },
+    {
+        title: "2016 Toyota Camry SE",
+        cash: "$7,000",
+        down: "$2,000 (Negotiable)",
+        financing: "$11,500 (Negotiable)",
+        mileage: "195,685",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2016 Toyota Camry SE (1).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (2).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (3).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (4).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (5).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (6).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (7).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (8).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (9).webp",
+        ]
+    },
+    {
+        title: "2017 Toyota Corolla LE",
+        cash: "$7,500",
+        down: "$2,000 (Negotiable)",
+        financing: "$11,500 (Negotiable)",
+        mileage: "225,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2017 Toyota Corolla LE (2).webp",
+            "imagenes/Sedan/2017 Toyota Corolla LE (1).webp",
+            "imagenes/Sedan/2017 Toyota Corolla LE (3).webp",
+            "imagenes/Sedan/2017 Toyota Corolla LE (4).webp",
+            "imagenes/Sedan/2017 Toyota Corolla LE (5).webp",
+            "imagenes/Sedan/2017 Toyota Corolla LE (6).webp",
+            "imagenes/Sedan/2017 Toyota Corolla LE (7).webp",
+            "imagenes/Sedan/2017 Toyota Corolla LE (8).webp",
+            "imagenes/Sedan/2017 Toyota Corolla LE (9).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
