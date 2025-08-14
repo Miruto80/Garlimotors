@@ -785,6 +785,59 @@ const cars = [
             "imagenes/Sedan/2017 Toyota Corolla LE (9).webp",
         ]
     },
+    {
+            "title": "Toyota tundra 2023",
+            "cash": "$5.000 Down",
+            "down": "$5.000 (Negotiable)",
+            "financing": "$47.000 (Negotiable)",
+            "mileage": "56.000",
+            "make": "Truck",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Trucks/Toyota tundra 2023 (1).webp",
+                "imagenes/Trucks/Toyota tundra 2023 (2).webp",
+                "imagenes/Trucks/Toyota tundra 2023 (3).webp",
+                "imagenes/Trucks/Toyota tundra 2023 (4).webp",
+                "imagenes/Trucks/Toyota tundra 2023 (5).webp",
+                "imagenes/Trucks/Toyota tundra 2023 (6).webp",
+            ]
+        },
+        {
+        title: "2010 Toyota Corolla",
+        cash: "$5,500",
+        down: "$1,500 (Negotiable)",
+        financing: "$9,000 (Negotiable)",
+        mileage: "172.000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2010 Toyota Corolla 2 (1).webp",
+            "imagenes/Sedan/2010 Toyota Corolla 2 (2).webp",
+            "imagenes/Sedan/2010 Toyota Corolla 2 (3).webp",
+            "imagenes/Sedan/2010 Toyota Corolla 2 (4).webp",
+            "imagenes/Sedan/2010 Toyota Corolla 2 (5).webp",
+            "imagenes/Sedan/2010 Toyota Corolla 2 (6).webp",
+            "imagenes/Sedan/2010 Toyota Corolla 2 (7).webp",
+        ]
+    },
+        {
+        title: "Kia forte 2020",
+        cash: "$7,000",
+        down: "$2,000 (Negotiable)",
+        financing: "$12,000 (Negotiable)",
+        mileage: "123.000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Kia forte 2020 (1).webp",
+            "imagenes/Sedan/Kia forte 2020 (2).webp",
+            "imagenes/Sedan/Kia forte 2020 (3).webp",
+            "imagenes/Sedan/Kia forte 2020 (4).webp",
+            "imagenes/Sedan/Kia forte 2020 (5).webp",
+            "imagenes/Sedan/Kia forte 2020 (6).webp",
+            "imagenes/Sedan/Kia forte 2020 (7).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
