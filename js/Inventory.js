@@ -709,63 +709,6 @@ const cars = [
         ]
     },
     {
-        title: "2017 Infiniti QX60",
-        cash: "$6,500",
-        down: "$5,000 (Negotiable)",
-        financing: "$11,000 (Negotiable)",
-        mileage: "162,000",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/2017 Infiniti QX60 (1).webp",
-            "imagenes/Suv/2017 Infiniti QX60 (2).webp",
-            "imagenes/Suv/2017 Infiniti QX60 (3).webp",
-            "imagenes/Suv/2017 Infiniti QX60 (4).webp",
-            "imagenes/Suv/2017 Infiniti QX60 (5).webp",
-            "imagenes/Suv/2017 Infiniti QX60 (6).webp",
-            "imagenes/Suv/2017 Infiniti QX60 (7).webp",
-            "imagenes/Suv/2017 Infiniti QX60 (8).webp",
-            "imagenes/Suv/2017 Infiniti QX60 (9).webp"
-        ]
-    },
-    {
-        title: "Mercedez gla 250 2016",
-        cash: "$8,000",
-        down: "$2,500 (Negotiable)",
-        financing: "$13,500 (Negotiable)",
-        mileage: "120,000",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/Mercedez gla 250 2016 (1).webp",
-            "imagenes/Suv/Mercedez gla 250 2016 (2).webp",
-            "imagenes/Suv/Mercedez gla 250 2016 (3).webp",
-            "imagenes/Suv/Mercedez gla 250 2016 (4).webp",
-            "imagenes/Suv/Mercedez gla 250 2016 (5).webp",
-            "imagenes/Suv/Mercedez gla 250 2016 (6).webp",
-        ]
-    },
-    {
-        title: "2016 Toyota Camry SE",
-        cash: "$7,000",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,500 (Negotiable)",
-        mileage: "195,685",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2016 Toyota Camry SE (1).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (2).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (3).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (4).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (5).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (6).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (7).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (8).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (9).webp",
-        ]
-    },
-    {
         title: "2017 Toyota Corolla LE",
         cash: "$6,500",
         down: "$2,000 (Negotiable)",
@@ -874,24 +817,6 @@ const cars = [
             "imagenes/Sedan/2008 Honda Civic EX (5).webp",
             "imagenes/Sedan/2008 Honda Civic EX (6).webp",
             "imagenes/Sedan/2008 Honda Civic EX (7).webp",
-        ]
-    },
-    {
-        title: "Chevrolet Suburban LTZ 2011",
-        cash: "$6,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$10,500 (Negotiable)",
-        mileage: "203,500",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/Chevrolet Suburban LTZ 2011 (1).webp",
-            "imagenes/Suv/Chevrolet Suburban LTZ 2011 (2).webp",
-            "imagenes/Suv/Chevrolet Suburban LTZ 2011 (3).webp",
-            "imagenes/Suv/Chevrolet Suburban LTZ 2011 (4).webp",
-            "imagenes/Suv/Chevrolet Suburban LTZ 2011 (5).webp",
-            "imagenes/Suv/Chevrolet Suburban LTZ 2011 (6).webp",
-            "imagenes/Suv/Chevrolet Suburban LTZ 2011 (7).webp",
         ]
     },
 ];
