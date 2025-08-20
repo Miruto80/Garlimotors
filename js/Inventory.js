@@ -819,6 +819,44 @@ const cars = [
             "imagenes/Sedan/2008 Honda Civic EX (7).webp",
         ]
     },
+        {
+        title: "2014 Toyota Corolla le",
+        cash: "$7,500",
+        down: "$2,000 (Negotiable)",
+        financing: "$12,000 (Negotiable)",
+        mileage: "108,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2014 Toyota Corolla le (1).webp",
+            "imagenes/Sedan/2014 Toyota Corolla le (2).webp",
+            "imagenes/Sedan/2014 Toyota Corolla le (3).webp",
+            "imagenes/Sedan/2014 Toyota Corolla le (4).webp",
+            "imagenes/Sedan/2014 Toyota Corolla le (5).webp",
+            "imagenes/Sedan/2014 Toyota Corolla le (6).webp",
+            "imagenes/Sedan/2014 Toyota Corolla le (7).webp",
+            "imagenes/Sedan/2014 Toyota Corolla le (8).webp",
+        ]
+    },
+        {
+        title: "Toyota Corolla 2013",
+        cash: "$6,500",
+        down: "$2,000 (Negotiable)",
+        financing: "$11,500 (Negotiable)",
+        mileage: "125,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Toyota Corolla 2013 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (7).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (8).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
