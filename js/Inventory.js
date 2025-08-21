@@ -191,24 +191,6 @@ const cars = [
             ]
         },
         {
-            "title": "2011 Chevrolet Suburban",
-            "cash": "$7,600",
-            "down": "$2,000 (Negotiable)",
-            "financing": "$11,000 (Negotiable)",
-            "mileage": "199,000",
-            "make": "SUV",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2011 Chevrolet Suburban (5).webp",
-                "imagenes/Suv/2011 Chevrolet Suburban (2).webp",
-                "imagenes/Suv/2011 Chevrolet Suburban (1).webp",
-                "imagenes/Suv/2011 Chevrolet Suburban (3).webp",
-                "imagenes/Suv/2011 Chevrolet Suburban (4).webp",
-                "imagenes/Suv/2011 Chevrolet Suburban (6).webp",
-                "imagenes/Suv/2011 Chevrolet Suburban (7).webp"
-            ]
-        },
-        {
             "title": "2007 Honda CR-V",
             "cash": "$5,500",
             "down": "$2,200 (Negotiable)",
@@ -312,26 +294,6 @@ const cars = [
             ]
         },
         {
-            title: "2017 Infiniti QX60",
-            cash: "7.000$",
-            down: "2.000$",
-            financing: "12.000$",
-            mileage: "162.000",
-            make: "Suv",
-            description: "Clean Title 3 rows of seats",
-            images: [
-                "imagenes/Suv/2017 Infiniti QX60 (1).webp",
-                "imagenes/Suv/2017 Infiniti QX60 (2).webp",
-                "imagenes/Suv/2017 Infiniti QX60 (3).webp",
-                "imagenes/Suv/2017 Infiniti QX60 (4).webp",
-                "imagenes/Suv/2017 Infiniti QX60 (5).webp",
-                "imagenes/Suv/2017 Infiniti QX60 (6).webp",
-                "imagenes/Suv/2017 Infiniti QX60 (7).webp",
-                "imagenes/Suv/2017 Infiniti QX60 (8).webp",
-                "imagenes/Suv/2017 Infiniti QX60 (9).webp"
-            ]
-        },
-        {
             "title": "Ford fiesta 2015",
             "cash": "$3.000$",
             "down": "$1.000$ (Negotiable)",
@@ -349,25 +311,6 @@ const cars = [
                 "imagenes/Sedan/Ford fiesta 2015 (7).webp"
             ],
            Rented:true
-        },
-        {
-            "title": "Hyundai Elantra 2020",
-            "cash": "$7.000$",
-            "down": "$2.000$ (Negotiable)",
-            "financing": "$11.500$ (Negotiable)",
-            "mileage": "110.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Hyundai Elantra 2020 (8).webp",
-                "imagenes/Sedan/Hyundai Elantra 2020 (1).webp",
-                "imagenes/Sedan/Hyundai Elantra 2020 (2).webp",
-                "imagenes/Sedan/Hyundai Elantra 2020 (3).webp",
-                "imagenes/Sedan/Hyundai Elantra 2020 (4).webp",
-                "imagenes/Sedan/Hyundai Elantra 2020 (5).webp",
-                "imagenes/Sedan/Hyundai Elantra 2020 (6).webp",
-                "imagenes/Sedan/Hyundai Elantra 2020 (7).webp"
-            ]
         },
         {
             "title": "2002 Ford F-150 XL",
@@ -635,25 +578,6 @@ const cars = [
         ]
     },
     {
-        title: "2014 honda Accord v6",
-        cash: "$6,000",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,500 (Negotiable)",
-        mileage: "180,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2014 honda Accord v6 (1).webp",
-            "imagenes/Sedan/2014 honda Accord v6 (2).webp",
-            "imagenes/Sedan/2014 honda Accord v6 (3).webp",
-            "imagenes/Sedan/2014 honda Accord v6 (4).webp",
-            "imagenes/Sedan/2014 honda Accord v6 (5).webp",
-            "imagenes/Sedan/2014 honda Accord v6 (6).webp",
-            "imagenes/Sedan/2014 honda Accord v6 (7).webp",
-            "imagenes/Sedan/2014 honda Accord v6 (8).webp",
-        ]
-    },
-    {
         title: "Hummer 2007 h3",
         cash: "$5,600",
         down: "$2,000 (Negotiable)",
@@ -688,44 +612,6 @@ const cars = [
             "imagenes/Suv/Toyota 4runner 2008 (7).webp",
             "imagenes/Suv/Toyota 4runner 2008 (8).webp",
             "imagenes/Suv/Toyota 4runner 2008 (9).webp"
-        ]
-    },
-        {
-        title: "Toyota Corolla 2015",
-        cash: "$7,000",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,500 (Negotiable)",
-        mileage: "150,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Corolla 2015  (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2015  (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2015  (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2015  (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2015  (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2015  (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2015  (7).webp",
-        ]
-    },
-    {
-        title: "2017 Toyota Corolla LE",
-        cash: "$6,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$10,500 (Negotiable)",
-        mileage: "225,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2017 Toyota Corolla LE (2).webp",
-            "imagenes/Sedan/2017 Toyota Corolla LE (1).webp",
-            "imagenes/Sedan/2017 Toyota Corolla LE (3).webp",
-            "imagenes/Sedan/2017 Toyota Corolla LE (4).webp",
-            "imagenes/Sedan/2017 Toyota Corolla LE (5).webp",
-            "imagenes/Sedan/2017 Toyota Corolla LE (6).webp",
-            "imagenes/Sedan/2017 Toyota Corolla LE (7).webp",
-            "imagenes/Sedan/2017 Toyota Corolla LE (8).webp",
-            "imagenes/Sedan/2017 Toyota Corolla LE (9).webp",
         ]
     },
     {
@@ -799,62 +685,6 @@ const cars = [
             "imagenes/Sedan/Kia forte 2021 (7).webp",
             "imagenes/Sedan/Kia forte 2021 (8).webp",
             "imagenes/Sedan/Kia forte 2021 (9).webp",
-        ]
-    },
-        {
-        title: "2008 Honda Civic EX",
-        cash: "$4,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$8,500 (Negotiable)",
-        mileage: "98,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2008 Honda Civic EX (1).webp",
-            "imagenes/Sedan/2008 Honda Civic EX (2).webp",
-            "imagenes/Sedan/2008 Honda Civic EX (3).webp",
-            "imagenes/Sedan/2008 Honda Civic EX (4).webp",
-            "imagenes/Sedan/2008 Honda Civic EX (5).webp",
-            "imagenes/Sedan/2008 Honda Civic EX (6).webp",
-            "imagenes/Sedan/2008 Honda Civic EX (7).webp",
-        ]
-    },
-        {
-        title: "2014 Toyota Corolla le",
-        cash: "$7,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$12,000 (Negotiable)",
-        mileage: "108,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2014 Toyota Corolla le (1).webp",
-            "imagenes/Sedan/2014 Toyota Corolla le (2).webp",
-            "imagenes/Sedan/2014 Toyota Corolla le (3).webp",
-            "imagenes/Sedan/2014 Toyota Corolla le (4).webp",
-            "imagenes/Sedan/2014 Toyota Corolla le (5).webp",
-            "imagenes/Sedan/2014 Toyota Corolla le (6).webp",
-            "imagenes/Sedan/2014 Toyota Corolla le (7).webp",
-            "imagenes/Sedan/2014 Toyota Corolla le (8).webp",
-        ]
-    },
-        {
-        title: "Toyota Corolla 2013",
-        cash: "$6,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,500 (Negotiable)",
-        mileage: "125,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Corolla 2013 (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 (7).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 (8).webp",
         ]
     },
 ];
