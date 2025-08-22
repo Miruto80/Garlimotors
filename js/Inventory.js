@@ -275,25 +275,6 @@ const cars = [
             ]
         },   
         {
-            title: "2007 honda element",
-            cash: "$3.500",
-            down: "1.000",
-            financing: "6.500",
-            mileage: "150.000",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/2007 honda element (1).webp",
-                "imagenes/Suv/2007 honda element (2).webp",
-                "imagenes/Suv/2007 honda element (3).webp",
-                "imagenes/Suv/2007 honda element (4).webp",
-                "imagenes/Suv/2007 honda element (5).webp",
-                "imagenes/Suv/2007 honda element (6).webp",
-                "imagenes/Suv/2007 honda element (7).webp",
-                "imagenes/Suv/2007 honda element (8).webp"
-            ]
-        },
-        {
             "title": "Ford fiesta 2015",
             "cash": "$3.000$",
             "down": "$1.000$ (Negotiable)",
@@ -426,23 +407,6 @@ const cars = [
             ]
         },
         {
-            title: "2015 Toyota Corolla",
-            cash: "7.000$",
-            down: "2.000$",
-            financing: "11.500$",
-            mileage: "165.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2015 Toyota Corolla (1).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (2).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (3).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (4).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (5).webp",
-                "imagenes/Sedan/2015 Toyota Corolla (6).webp"
-            ]
-        },
-        {
             title: "2001 MITSUBISHI GALANT ES",
             cash: "2.700$",
             down: "800$",
@@ -535,46 +499,6 @@ const cars = [
             "imagenes/Luxury/2016 Mercedes Benz C300 (10).webp",
             "imagenes/Luxury/2016 Mercedes Benz C300 (11).webp",
             "imagenes/Luxury/2016 Mercedes Benz C300 (12).webp"
-        ]
-    },
-        {
-        title: "2016 Kia forte",
-        cash: "$4,500",
-        down: "$1,500 (Negotiable)",
-        financing: "$8,500 (Negotiable)",
-        mileage: "126,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2016 Kia forte (2).webp",
-            "imagenes/Sedan/2016 Kia forte (1).webp",
-            "imagenes/Sedan/2016 Kia forte (3).webp",
-            "imagenes/Sedan/2016 Kia forte (4).webp",
-            "imagenes/Sedan/2016 Kia forte (5).webp",
-            "imagenes/Sedan/2016 Kia forte (6).webp",
-            "imagenes/Sedan/2016 Kia forte (7).webp",
-            "imagenes/Sedan/2016 Kia forte (8).webp",
-            "imagenes/Sedan/2016 Kia forte (9).webp"
-        ]
-    },
-
-    {
-        title: "2013 Hyundai Elantra GLS",
-        cash: "$4,000",
-        down: "$1,500 (Negotiable)",
-        financing: "$7,500 (Negotiable)",
-        mileage: "158,258",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (1).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (2).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (3).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (4).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (5).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (6).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (7).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (8).webp"
         ]
     },
     {
@@ -687,6 +611,83 @@ const cars = [
             "imagenes/Sedan/Kia forte 2021 (9).webp",
         ]
     },
+        {
+        title: "2011 BMW serie 3",
+        cash: "$5,000",
+        down: "$1,500 (Negotiable)",
+        financing: "$9,000 (Negotiable)",
+        mileage: "175,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2011 BMW serie 3 (1).webp",
+            "imagenes/Sedan/2011 BMW serie 3 (2).webp",
+            "imagenes/Sedan/2011 BMW serie 3 (3).webp",
+            "imagenes/Sedan/2011 BMW serie 3 (4).webp",
+            "imagenes/Sedan/2011 BMW serie 3 (5).webp",
+            "imagenes/Sedan/2011 BMW serie 3 (6).webp",
+            "imagenes/Sedan/2011 BMW serie 3 (7).webp",
+            "imagenes/Sedan/2011 BMW serie 3 (8).webp",
+        ]
+    },
+     {
+        title: "2007 TOYOTA 4RUNNER SR5",
+        cash: "$6,800",
+        down: "$2,500 (Negotiable)",
+        financing: "$11,000 (Negotiable)",
+        mileage: "220.000",
+        make: "Suv",
+        description: "Clean Title",
+        images: [
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (10).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (1).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (2).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (3).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (4).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (5).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (6).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (7).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (8).webp",
+            "imagenes/Suv/2007 TOYOTA 4RUNNER SR5 (9).webp",
+        ]
+    },
+     {
+        title: "2015 honda fit",
+        cash: "$6,500",
+        down: "$2,000 (Negotiable)",
+        financing: "$11,000 (Negotiable)",
+        mileage: "157.000",
+        make: "Suv",
+        description: "Clean Title",
+        images: [
+            "imagenes/Suv/2015 honda fit (1).webp",
+            "imagenes/Suv/2015 honda fit (2).webp",
+            "imagenes/Suv/2015 honda fit (3).webp",
+            "imagenes/Suv/2015 honda fit (4).webp",
+            "imagenes/Suv/2015 honda fit (5).webp",
+            "imagenes/Suv/2015 honda fit (6).webp",
+            "imagenes/Suv/2015 honda fit (7).webp",
+        ]
+    },
+    {
+            "title": "2013 FORD F-150 XL",
+            "cash": "$7.000$",
+            "down": "$2.500$ (Negotiable)",
+            "financing": "$11.500$ (Negotiable)",
+            "mileage": "173.000",
+            "make": "Truck",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Trucks/2013 FORD F-150 XL (1).webp",
+                "imagenes/Trucks/2013 FORD F-150 XL (2).webp",
+                "imagenes/Trucks/2013 FORD F-150 XL (3).webp",
+                "imagenes/Trucks/2013 FORD F-150 XL (4).webp",
+                "imagenes/Trucks/2013 FORD F-150 XL (5).webp",
+                "imagenes/Trucks/2013 FORD F-150 XL (6).webp",
+                "imagenes/Trucks/2013 FORD F-150 XL (7).webp",
+                "imagenes/Trucks/2013 FORD F-150 XL (8).webp",
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
