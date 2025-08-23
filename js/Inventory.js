@@ -688,6 +688,47 @@ const cars = [
                 "imagenes/Trucks/2013 FORD F-150 XL (8).webp",
             ]
         },
+        {
+        title: "Hyundai Elantra 2020",
+        cash: "$7,500",
+        down: "$2,000 (Negotiable)",
+        financing: "$12,000 (Negotiable)",
+        mileage: "109,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Hyundai Elantra 2020 (2).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (1).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (3).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (4).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (5).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (6).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (7).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (8).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (9).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (10).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (11).webp",
+        ]
+    },
+        {
+        title: "Honda Civic 2008",
+        cash: "$4,500",
+        down: "$1,300 (Negotiable)",
+        financing: "$8,500 (Negotiable)",
+        mileage: "138,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Honda Civic 2008 (1).webp",
+            "imagenes/Sedan/Honda Civic 2008 (2).webp",
+            "imagenes/Sedan/Honda Civic 2008 (3).webp",
+            "imagenes/Sedan/Honda Civic 2008 (4).webp",
+            "imagenes/Sedan/Honda Civic 2008 (5).webp",
+            "imagenes/Sedan/Honda Civic 2008 (6).webp",
+            "imagenes/Sedan/Honda Civic 2008 (7).webp",
+            "imagenes/Sedan/Honda Civic 2008 (8).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
