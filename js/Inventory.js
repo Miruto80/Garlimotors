@@ -729,6 +729,64 @@ const cars = [
             "imagenes/Sedan/Honda Civic 2008 (8).webp",
         ]
     },
+        {
+        title: "2017 Toyota Camry LE",
+        cash: "$7,500",
+        down: "$2,000 (Negotiable)",
+        financing: "$11,500 (Negotiable)",
+        mileage: "211,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2017 Toyota Camry LE (1).webp",
+            "imagenes/Sedan/2017 Toyota Camry LE (2).webp",
+            "imagenes/Sedan/2017 Toyota Camry LE (3).webp",
+            "imagenes/Sedan/2017 Toyota Camry LE (4).webp",
+            "imagenes/Sedan/2017 Toyota Camry LE (5).webp",
+            "imagenes/Sedan/2017 Toyota Camry LE (6).webp",
+            "imagenes/Sedan/2017 Toyota Camry LE (7).webp",
+            "imagenes/Sedan/2017 Toyota Camry LE (8).webp",
+            "imagenes/Sedan/2017 Toyota Camry LE (9).webp",
+        ]
+    },
+        {
+        title: "Toyota Corolla 2011 ",
+        cash: "$4,800",
+        down: "$1,500 (Negotiable)",
+        financing: "$8,500 (Negotiable)",
+        mileage: "211,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Toyota Corolla 2011  (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2011  (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2011  (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2011  (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2011  (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2011  (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2011  (7).webp",
+            "imagenes/Sedan/Toyota Corolla 2011  (8).webp",
+        ]
+    },
+        {
+        title: "Toyota yaris 2018",
+        cash: "$4,800",
+        down: "$1,500 (Negotiable)",
+        financing: "$8,500 (Negotiable)",
+        mileage: "211,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Toyota yaris 2018 (1).webp",
+            "imagenes/Sedan/Toyota yaris 2018 (2).webp",
+            "imagenes/Sedan/Toyota yaris 2018 (3).webp",
+            "imagenes/Sedan/Toyota yaris 2018 (4).webp",
+            "imagenes/Sedan/Toyota yaris 2018 (5).webp",
+            "imagenes/Sedan/Toyota yaris 2018 (6).webp",
+            "imagenes/Sedan/Toyota yaris 2018 (7).webp",
+            "imagenes/Sedan/Toyota yaris 2018 (8).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
