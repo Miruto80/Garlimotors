@@ -689,28 +689,6 @@ const cars = [
             ]
         },
         {
-        title: "Hyundai Elantra 2020",
-        cash: "$7,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$12,000 (Negotiable)",
-        mileage: "109,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Hyundai Elantra 2020 (2).webp",
-            "imagenes/Sedan/Hyundai Elantra 2020 (1).webp",
-            "imagenes/Sedan/Hyundai Elantra 2020 (3).webp",
-            "imagenes/Sedan/Hyundai Elantra 2020 (4).webp",
-            "imagenes/Sedan/Hyundai Elantra 2020 (5).webp",
-            "imagenes/Sedan/Hyundai Elantra 2020 (6).webp",
-            "imagenes/Sedan/Hyundai Elantra 2020 (7).webp",
-            "imagenes/Sedan/Hyundai Elantra 2020 (8).webp",
-            "imagenes/Sedan/Hyundai Elantra 2020 (9).webp",
-            "imagenes/Sedan/Hyundai Elantra 2020 (10).webp",
-            "imagenes/Sedan/Hyundai Elantra 2020 (11).webp",
-        ]
-    },
-        {
         title: "Honda Civic 2008",
         cash: "$4,500",
         down: "$1,300 (Negotiable)",
@@ -785,6 +763,44 @@ const cars = [
             "imagenes/Sedan/Toyota yaris 2018 (6).webp",
             "imagenes/Sedan/Toyota yaris 2018 (7).webp",
             "imagenes/Sedan/Toyota yaris 2018 (8).webp",
+        ]
+    },
+        {
+        title: "Toyota Corolla 2013 le",
+        cash: "$6,000",
+        down: "$1,700 (Negotiable)",
+        financing: "$9,500 (Negotiable)",
+        mileage: "136,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Toyota Corolla 2013 le (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 le (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 le (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 le (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 le (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 le (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 le (7).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 le (8).webp",
+        ]
+    },
+        {
+        title: "2017 honda CiviC",
+        cash: "$8,500",
+        down: "$2,500 (Negotiable)",
+        financing: "$13,500 (Negotiable)",
+        mileage: "119,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2017 honda CiviC (1).webp",
+            "imagenes/Sedan/2017 honda CiviC (2).webp",
+            "imagenes/Sedan/2017 honda CiviC (3).webp",
+            "imagenes/Sedan/2017 honda CiviC (4).webp",
+            "imagenes/Sedan/2017 honda CiviC (5).webp",
+            "imagenes/Sedan/2017 honda CiviC (6).webp",
+            "imagenes/Sedan/2017 honda CiviC (7).webp",
+            "imagenes/Sedan/2017 honda CiviC (8).webp",
         ]
     },
 ];
