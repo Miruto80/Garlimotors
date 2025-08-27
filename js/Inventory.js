@@ -803,6 +803,26 @@ const cars = [
             "imagenes/Sedan/2017 honda CiviC (8).webp",
         ]
     },
+        {
+        title: "2017 Hyundai Elantra SE",
+        cash: "$6,000",
+        down: "$1,800 (Negotiable)",
+        financing: "$9,500 (Negotiable)",
+        mileage: "152,107",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2017 Hyundai Elantra SE (1).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra SE (2).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra SE (3).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra SE (4).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra SE (5).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra SE (6).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra SE (7).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra SE (8).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra SE (9).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
