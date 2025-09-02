@@ -901,7 +901,7 @@ const cars = [
         {
         title: "2019 Toyota Corolla sport",
         cash: "$10,000",
-        down: "$3,000 (Negotiable)",
+        down: "$2,500 (Negotiable)",
         financing: "$14,500 (Negotiable)",
         mileage: "175,000",
         make: "Sedan",
