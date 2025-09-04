@@ -954,6 +954,44 @@ const cars = [
             "imagenes/Luxury/2015 mercedes cla 250 (8).webp",
         ]
     },
+    {
+        title: "2012 Toyota Corolla S",
+        cash: "$5,800",
+        down: "$1,800 (Negotiable)",
+        financing: "$9,500 (Negotiable)",
+        mileage: "200,588",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2012 Toyota Corolla S (8).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (6).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (1).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (2).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (3).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (4).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (5).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (7).webp",
+        ]
+    },
+    {
+        title: "Audi 2016 a3 premium",
+        cash: "$8,000",
+        down: "$2,500 (Negotiable)",
+        financing: "$12,000 (Negotiable)",
+        mileage: "150,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Audi 2016 a3 premium (5).webp",
+            "imagenes/Sedan/Audi 2016 a3 premium (1).webp",
+            "imagenes/Sedan/Audi 2016 a3 premium (2).webp",
+            "imagenes/Sedan/Audi 2016 a3 premium (3).webp",
+            "imagenes/Sedan/Audi 2016 a3 premium (4).webp",
+            "imagenes/Sedan/Audi 2016 a3 premium (6).webp",
+            "imagenes/Sedan/Audi 2016 a3 premium (7).webp",
+            "imagenes/Sedan/Audi 2016 a3 premium (8).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
