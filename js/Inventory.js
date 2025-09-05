@@ -56,25 +56,6 @@ const cars = [
         ]
     },
     {
-        title: "2015 Mazda",
-        cash: "$7,000",
-        down: "$1,500 (Negotiable)",
-        financing: "$10,500 (Negotiable)",
-        mileage: "136,752",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2015 Mazda (1).webp",
-            "imagenes/Sedan/2015 Mazda (2).webp",
-            "imagenes/Sedan/2015 Mazda (3).webp",
-            "imagenes/Sedan/2015 Mazda (4).webp",
-            "imagenes/Sedan/2015 Mazda (5).webp",
-            "imagenes/Sedan/2015 Mazda (6).webp",
-            "imagenes/Sedan/2015 Mazda (7).webp",
-            "imagenes/Sedan/2015 Mazda (8).webp"
-        ]
-    },
-    {
         title: "2019 Volkswagen Jetta",
         cash: "$7,500",
         down: "$2,500 (Negotiable)",
@@ -255,26 +236,6 @@ const cars = [
             Rented: true
         },
         {
-            title: "Toyota prius 2013",
-            cash: "$4.500",
-            down: "1.500",
-            financing: "7.500",
-            mileage: "182.000",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/Toyota prius 2013 (9).webp",
-                "imagenes/Suv/Toyota prius 2013 (1).webp",
-                "imagenes/Suv/Toyota prius 2013 (2).webp",
-                "imagenes/Suv/Toyota prius 2013 (3).webp",
-                "imagenes/Suv/Toyota prius 2013 (4).webp",
-                "imagenes/Suv/Toyota prius 2013 (5).webp",
-                "imagenes/Suv/Toyota prius 2013 (6).webp",
-                "imagenes/Suv/Toyota prius 2013 (7).webp",
-                "imagenes/Suv/Toyota prius 2013 (8).webp"
-            ]
-        },   
-        {
             "title": "Ford fiesta 2015",
             "cash": "$3.000$",
             "down": "$1.000$ (Negotiable)",
@@ -438,7 +399,8 @@ const cars = [
                 "imagenes/Suv/2003 suzuki serio (3).webp",
                 "imagenes/Suv/2003 suzuki serio (4).webp",
                 "imagenes/Suv/2003 suzuki serio (5).webp"
-            ]
+            ],
+             Rented:true
         },
         {
             title: "2013 Toyota higlander",
@@ -476,31 +438,9 @@ const cars = [
                 "imagenes/Sedan/2004 honda Civic (8).webp",
                 "imagenes/Sedan/2004 honda Civic (9).webp",
                 "imagenes/Sedan/2004 honda Civic (10).webp"
-            ]
+            ],
+             Rented:true
         },
-        {
-        title: "2016 Mercedes Benz C300",
-        cash: "$10,500",
-        down: "$4,000 (Negotiable)",
-        financing: "$15,500 (Negotiable)",
-        mileage: "109,000",
-        make: "Luxury",
-        description: "Clean Title",
-        images: [
-            "imagenes/Luxury/2016 Mercedes Benz C300 (1).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (2).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (3).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (4).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (5).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (6).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (7).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (8).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (9).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (10).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (11).webp",
-            "imagenes/Luxury/2016 Mercedes Benz C300 (12).webp"
-        ]
-    },
     {
         title: "Hummer 2007 h3",
         cash: "$5,600",
@@ -538,59 +478,6 @@ const cars = [
             "imagenes/Suv/Toyota 4runner 2008 (9).webp"
         ]
     },
-    {
-            "title": "Toyota tundra 2023",
-            "cash": "$5.000 Down",
-            "down": "$5.000 (Negotiable)",
-            "financing": "$47.000 (Negotiable)",
-            "mileage": "56.000",
-            "make": "Truck",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Trucks/Toyota tundra 2023 (1).webp",
-                "imagenes/Trucks/Toyota tundra 2023 (2).webp",
-                "imagenes/Trucks/Toyota tundra 2023 (3).webp",
-                "imagenes/Trucks/Toyota tundra 2023 (4).webp",
-                "imagenes/Trucks/Toyota tundra 2023 (5).webp",
-                "imagenes/Trucks/Toyota tundra 2023 (6).webp",
-            ]
-        },
-        {
-        title: "2010 Toyota Corolla",
-        cash: "$5,500",
-        down: "$1,500 (Negotiable)",
-        financing: "$9,000 (Negotiable)",
-        mileage: "172.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2010 Toyota Corolla 2 (1).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 2 (2).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 2 (3).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 2 (4).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 2 (5).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 2 (6).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 2 (7).webp",
-        ]
-    },
-        {
-        title: "Kia forte 2020",
-        cash: "$7,000",
-        down: "$2,000 (Negotiable)",
-        financing: "$12,000 (Negotiable)",
-        mileage: "123.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Kia forte 2020 (1).webp",
-            "imagenes/Sedan/Kia forte 2020 (2).webp",
-            "imagenes/Sedan/Kia forte 2020 (3).webp",
-            "imagenes/Sedan/Kia forte 2020 (4).webp",
-            "imagenes/Sedan/Kia forte 2020 (5).webp",
-            "imagenes/Sedan/Kia forte 2020 (6).webp",
-            "imagenes/Sedan/Kia forte 2020 (7).webp",
-        ]
-    },
         {
         title: "Kia forte 2021",
         cash: "$7,000",
@@ -609,25 +496,6 @@ const cars = [
             "imagenes/Sedan/Kia forte 2021 (7).webp",
             "imagenes/Sedan/Kia forte 2021 (8).webp",
             "imagenes/Sedan/Kia forte 2021 (9).webp",
-        ]
-    },
-        {
-        title: "2011 BMW serie 3",
-        cash: "$5,000",
-        down: "$1,500 (Negotiable)",
-        financing: "$9,000 (Negotiable)",
-        mileage: "175,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2011 BMW serie 3 (1).webp",
-            "imagenes/Sedan/2011 BMW serie 3 (2).webp",
-            "imagenes/Sedan/2011 BMW serie 3 (3).webp",
-            "imagenes/Sedan/2011 BMW serie 3 (4).webp",
-            "imagenes/Sedan/2011 BMW serie 3 (5).webp",
-            "imagenes/Sedan/2011 BMW serie 3 (6).webp",
-            "imagenes/Sedan/2011 BMW serie 3 (7).webp",
-            "imagenes/Sedan/2011 BMW serie 3 (8).webp",
         ]
     },
      {
@@ -689,102 +557,6 @@ const cars = [
             ]
         },
         {
-        title: "Honda Civic 2008",
-        cash: "$4,500",
-        down: "$1,300 (Negotiable)",
-        financing: "$8,500 (Negotiable)",
-        mileage: "138,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Honda Civic 2008 (1).webp",
-            "imagenes/Sedan/Honda Civic 2008 (2).webp",
-            "imagenes/Sedan/Honda Civic 2008 (3).webp",
-            "imagenes/Sedan/Honda Civic 2008 (4).webp",
-            "imagenes/Sedan/Honda Civic 2008 (5).webp",
-            "imagenes/Sedan/Honda Civic 2008 (6).webp",
-            "imagenes/Sedan/Honda Civic 2008 (7).webp",
-            "imagenes/Sedan/Honda Civic 2008 (8).webp",
-        ]
-    },
-        {
-        title: "2017 Toyota Camry LE",
-        cash: "$7,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,500 (Negotiable)",
-        mileage: "211,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2017 Toyota Camry LE (1).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (2).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (3).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (4).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (5).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (6).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (7).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (8).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (9).webp",
-        ]
-    },
-        {
-        title: "Toyota Corolla 2011 ",
-        cash: "$4,800",
-        down: "$1,500 (Negotiable)",
-        financing: "$8,500 (Negotiable)",
-        mileage: "211,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Corolla 2011  (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2011  (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2011  (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2011  (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2011  (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2011  (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2011  (7).webp",
-            "imagenes/Sedan/Toyota Corolla 2011  (8).webp",
-        ]
-    },
-        {
-        title: "Toyota yaris 2018",
-        cash: "$6,500",
-        down: "$2,500 (Negotiable)",
-        financing: "$10,500 (Negotiable)",
-        mileage: "188,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota yaris 2018 (1).webp",
-            "imagenes/Sedan/Toyota yaris 2018 (2).webp",
-            "imagenes/Sedan/Toyota yaris 2018 (3).webp",
-            "imagenes/Sedan/Toyota yaris 2018 (4).webp",
-            "imagenes/Sedan/Toyota yaris 2018 (5).webp",
-            "imagenes/Sedan/Toyota yaris 2018 (6).webp",
-            "imagenes/Sedan/Toyota yaris 2018 (7).webp",
-            "imagenes/Sedan/Toyota yaris 2018 (8).webp",
-        ]
-    },
-        {
-        title: "Toyota Corolla 2013 le",
-        cash: "$6,000",
-        down: "$1,700 (Negotiable)",
-        financing: "$9,500 (Negotiable)",
-        mileage: "136,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Corolla 2013 le (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 le (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 le (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 le (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 le (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 le (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 le (7).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 le (8).webp",
-        ]
-    },
-        {
         title: "2017 honda CiviC",
         cash: "$8,500",
         down: "$2,500 (Negotiable)",
@@ -801,26 +573,6 @@ const cars = [
             "imagenes/Sedan/2017 honda CiviC (6).webp",
             "imagenes/Sedan/2017 honda CiviC (7).webp",
             "imagenes/Sedan/2017 honda CiviC (8).webp",
-        ]
-    },
-        {
-        title: "2017 Hyundai Elantra SE",
-        cash: "$6,000",
-        down: "$1,800 (Negotiable)",
-        financing: "$9,500 (Negotiable)",
-        mileage: "152,107",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2017 Hyundai Elantra SE (1).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE (2).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE (3).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE (4).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE (5).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE (6).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE (7).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE (8).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE (9).webp",
         ]
     },
         {
@@ -841,7 +593,8 @@ const cars = [
             "imagenes/Sedan/2015 Ford Fiesta S (7).webp",
             "imagenes/Sedan/2015 Ford Fiesta S (8).webp",
             "imagenes/Sedan/2015 Ford Fiesta S (9).webp",
-        ]
+        ],
+        Rented:true
     },
         {
         title: "2015 Toyota Corolla LE",
@@ -858,44 +611,6 @@ const cars = [
             "imagenes/Sedan/2015 Toyota Corolla LE (4).webp",
             "imagenes/Sedan/2015 Toyota Corolla LE (5).webp",
             "imagenes/Sedan/2015 Toyota Corolla LE (6).webp",
-        ]
-    },
-        {
-        title: "2017 Toyota Corolla le",
-        cash: "$10,000",
-        down: "$3,000 (Negotiable)",
-        financing: "$15,000 (Negotiable)",
-        mileage: "90,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2017 Toyota Corolla le (1).webp",
-            "imagenes/Sedan/2017 Toyota Corolla le (2).webp",
-            "imagenes/Sedan/2017 Toyota Corolla le (3).webp",
-            "imagenes/Sedan/2017 Toyota Corolla le (4).webp",
-            "imagenes/Sedan/2017 Toyota Corolla le (5).webp",
-            "imagenes/Sedan/2017 Toyota Corolla le (6).webp",
-            "imagenes/Sedan/2017 Toyota Corolla le (7).webp",
-        ]
-    },
-        {
-        title: "2017 Toyota Corolla sport",
-        cash: "$10,500",
-        down: "$3,000 (Negotiable)",
-        financing: "$15,500 (Negotiable)",
-        mileage: "102,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2017 Toyota Corolla sport (1).webp",
-            "imagenes/Sedan/2017 Toyota Corolla sport (2).webp",
-            "imagenes/Sedan/2017 Toyota Corolla sport (3).webp",
-            "imagenes/Sedan/2017 Toyota Corolla sport (4).webp",
-            "imagenes/Sedan/2017 Toyota Corolla sport (5).webp",
-            "imagenes/Sedan/2017 Toyota Corolla sport (6).webp",
-            "imagenes/Sedan/2017 Toyota Corolla sport (7).webp",
-            "imagenes/Sedan/2017 Toyota Corolla sport (8).webp",
-            "imagenes/Sedan/2017 Toyota Corolla sport (9).webp",
         ]
     },
         {
@@ -933,25 +648,6 @@ const cars = [
             "imagenes/Sedan/Ford focus 2015 (5).webp",
             "imagenes/Sedan/Ford focus 2015 (6).webp",
             "imagenes/Sedan/Ford focus 2015 (7).webp",
-        ]
-    },
-    {
-        title: "2015 mercedes cla 250",
-        cash: "$7,000",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,500 (Negotiable)",
-        mileage: "154,000",
-        make: "Luxury",
-        description: "Clean Title",
-        images: [
-            "imagenes/Luxury/2015 mercedes cla 250 (1).webp",
-            "imagenes/Luxury/2015 mercedes cla 250 (2).webp",
-            "imagenes/Luxury/2015 mercedes cla 250 (3).webp",
-            "imagenes/Luxury/2015 mercedes cla 250 (4).webp",
-            "imagenes/Luxury/2015 mercedes cla 250 (5).webp",
-            "imagenes/Luxury/2015 mercedes cla 250 (6).webp",
-            "imagenes/Luxury/2015 mercedes cla 250 (7).webp",
-            "imagenes/Luxury/2015 mercedes cla 250 (8).webp",
         ]
     },
     {
