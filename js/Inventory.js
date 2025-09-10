@@ -688,6 +688,26 @@ const cars = [
             "imagenes/Sedan/Audi 2016 a3 premium (8).webp",
         ]
     },
+     {
+        title: "2016 GMC Yukon XL DENALI",
+        cash: "$12,500",
+        down: "",
+        financing: "",
+        mileage: "197,058",
+        make: "Suv",
+        description: "Clean Title",
+        images: [
+            "imagenes/Suv/2016 GMC Yukon XL DENALI (1).webp",
+            "imagenes/Suv/2016 GMC Yukon XL DENALI (2).webp",
+            "imagenes/Suv/2016 GMC Yukon XL DENALI (3).webp",
+            "imagenes/Suv/2016 GMC Yukon XL DENALI (4).webp",
+            "imagenes/Suv/2016 GMC Yukon XL DENALI (5).webp",
+            "imagenes/Suv/2016 GMC Yukon XL DENALI (6).webp",
+            "imagenes/Suv/2016 GMC Yukon XL DENALI (7).webp",
+            "imagenes/Suv/2016 GMC Yukon XL DENALI (8).webp",
+            "imagenes/Suv/2016 GMC Yukon XL DENALI (9).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
