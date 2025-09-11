@@ -72,23 +72,6 @@ const cars = [
             "imagenes/Sedan/2019 volkswagen jetta (6) N.webp"
         ]
     },
-    {
-        title: "2008 Cadillax DTS V8",
-        cash: "$4,500",
-        down: "$1,500 (Negotiable)",
-        financing: "$8,000 (Negotiable)",
-        mileage: "139,000",
-        make: "Luxury",
-        description: "Clean Title",
-        images: [
-            "imagenes/Luxury/2008 cadillax Dts v8 (1).webp",
-            "imagenes/Luxury/2008 cadillax Dts v8 (2).webp",
-            "imagenes/Luxury/2008 cadillax Dts v8 (3).webp",
-            "imagenes/Luxury/2008 cadillax Dts v8 (4).webp",
-            "imagenes/Luxury/2008 cadillax Dts v8 (5).webp",
-            "imagenes/Luxury/2008 cadillax Dts v8 (6).webp"
-        ]
-    },
         {
           title: "2014 SUBARU FORESTER 2.5I PREMIUM",
           cash: "$4,500",
@@ -368,24 +351,6 @@ const cars = [
             ]
         },
         {
-            title: "2001 MITSUBISHI GALANT ES",
-            cash: "2.700$",
-            down: "800$",
-            financing: "5.500$",
-            mileage: "145.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (1).webp",
-                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (2).webp",
-                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (3).webp",
-                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (4).webp",
-                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (5).webp",
-                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (6).webp",
-                "imagenes/Sedan/2001 MITSUBISHI GALANT ES (7).webp"
-            ]
-        },
-        {
             title: "2003 suzuki serio",
             cash: "3.000$",
             down: "1.000$",
@@ -557,25 +522,6 @@ const cars = [
             ]
         },
         {
-        title: "2017 honda CiviC",
-        cash: "$8,500",
-        down: "$2,500 (Negotiable)",
-        financing: "$13,500 (Negotiable)",
-        mileage: "119,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2017 honda CiviC (1).webp",
-            "imagenes/Sedan/2017 honda CiviC (2).webp",
-            "imagenes/Sedan/2017 honda CiviC (3).webp",
-            "imagenes/Sedan/2017 honda CiviC (4).webp",
-            "imagenes/Sedan/2017 honda CiviC (5).webp",
-            "imagenes/Sedan/2017 honda CiviC (6).webp",
-            "imagenes/Sedan/2017 honda CiviC (7).webp",
-            "imagenes/Sedan/2017 honda CiviC (8).webp",
-        ]
-    },
-        {
         title: "2015 Ford Fiesta S",
         cash: "$4,000",
         down: "$1,300 (Negotiable)",
@@ -630,24 +576,6 @@ const cars = [
             "imagenes/Sedan/2019 Toyota Corolla sport (6).webp",
             "imagenes/Sedan/2019 Toyota Corolla sport (7).webp",
             "imagenes/Sedan/2019 Toyota Corolla sport (8).webp",
-        ]
-    },
-        {
-        title: "Ford focus 2015",
-        cash: "$4,500",
-        down: "$1,500 (Negotiable)",
-        financing: "$8,500 (Negotiable)",
-        mileage: "105,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Ford focus 2015 (1).webp",
-            "imagenes/Sedan/Ford focus 2015 (2).webp",
-            "imagenes/Sedan/Ford focus 2015 (3).webp",
-            "imagenes/Sedan/Ford focus 2015 (4).webp",
-            "imagenes/Sedan/Ford focus 2015 (5).webp",
-            "imagenes/Sedan/Ford focus 2015 (6).webp",
-            "imagenes/Sedan/Ford focus 2015 (7).webp",
         ]
     },
     {
