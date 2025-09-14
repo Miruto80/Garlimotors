@@ -39,23 +39,6 @@ const cars = [
         Rented: true
     },
     {
-        title: "2013 Toyota Prius",
-        cash: "$6,000",
-        down: "$1,500 (Negotiable)",
-        financing: "$10,000 (Negotiable)",
-        mileage: "180,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2013 Toyota Prius (1).webp",
-            "imagenes/Sedan/2013 Toyota Prius (2).webp",
-            "imagenes/Sedan/2013 Toyota Prius (3).webp",
-            "imagenes/Sedan/2013 Toyota Prius (4).webp",
-            "imagenes/Sedan/2013 Toyota Prius (5).webp",
-            "imagenes/Sedan/2013 Toyota Prius (6).webp"
-        ]
-    },
-    {
         title: "2019 Volkswagen Jetta",
         cash: "$7,500",
         down: "$2,500 (Negotiable)",
@@ -336,21 +319,6 @@ const cars = [
             ]
         },
         {
-            title: "Toyota Camrry 2013 le",
-            cash: "5.000$",
-            down: "1.700$",
-            financing: "9.000$",
-            mileage: "210.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/Toyota Camrry 2013 le (4).webp",
-                "imagenes/Sedan/Toyota Camrry 2013 le (3).webp",
-                "imagenes/Sedan/Toyota Camrry 2013 le (1).webp",
-                "imagenes/Sedan/Toyota Camrry 2013 le (2).webp"
-            ]
-        },
-        {
             title: "2003 suzuki serio",
             cash: "3.000$",
             down: "1.000$",
@@ -443,26 +411,6 @@ const cars = [
             "imagenes/Suv/Toyota 4runner 2008 (9).webp"
         ]
     },
-        {
-        title: "Kia forte 2021",
-        cash: "$7,000",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,500 (Negotiable)",
-        mileage: "98,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Kia forte 2021 (1).webp",
-            "imagenes/Sedan/Kia forte 2021 (2).webp",
-            "imagenes/Sedan/Kia forte 2021 (3).webp",
-            "imagenes/Sedan/Kia forte 2021 (4).webp",
-            "imagenes/Sedan/Kia forte 2021 (5).webp",
-            "imagenes/Sedan/Kia forte 2021 (6).webp",
-            "imagenes/Sedan/Kia forte 2021 (7).webp",
-            "imagenes/Sedan/Kia forte 2021 (8).webp",
-            "imagenes/Sedan/Kia forte 2021 (9).webp",
-        ]
-    },
      {
         title: "2007 TOYOTA 4RUNNER SR5",
         cash: "$6,800",
@@ -521,63 +469,6 @@ const cars = [
                 "imagenes/Trucks/2013 FORD F-150 XL (8).webp",
             ]
         },
-        {
-        title: "2015 Ford Fiesta S",
-        cash: "$4,000",
-        down: "$1,300 (Negotiable)",
-        financing: "$8,000 (Negotiable)",
-        mileage: "97,099",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2015 Ford Fiesta S (1).webp",
-            "imagenes/Sedan/2015 Ford Fiesta S (2).webp",
-            "imagenes/Sedan/2015 Ford Fiesta S (3).webp",
-            "imagenes/Sedan/2015 Ford Fiesta S (4).webp",
-            "imagenes/Sedan/2015 Ford Fiesta S (5).webp",
-            "imagenes/Sedan/2015 Ford Fiesta S (6).webp",
-            "imagenes/Sedan/2015 Ford Fiesta S (7).webp",
-            "imagenes/Sedan/2015 Ford Fiesta S (8).webp",
-            "imagenes/Sedan/2015 Ford Fiesta S (9).webp",
-        ],
-        Rented:true
-    },
-        {
-        title: "2015 Toyota Corolla LE",
-        cash: "$6,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,000 (Negotiable)",
-        mileage: "160,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2015 Toyota Corolla LE (1).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE (2).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE (3).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE (4).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE (5).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE (6).webp",
-        ]
-    },
-        {
-        title: "2019 Toyota Corolla sport",
-        cash: "$10,000",
-        down: "$2,500 (Negotiable)",
-        financing: "$14,500 (Negotiable)",
-        mileage: "175,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2019 Toyota Corolla sport (1).webp",
-            "imagenes/Sedan/2019 Toyota Corolla sport (2).webp",
-            "imagenes/Sedan/2019 Toyota Corolla sport (3).webp",
-            "imagenes/Sedan/2019 Toyota Corolla sport (4).webp",
-            "imagenes/Sedan/2019 Toyota Corolla sport (5).webp",
-            "imagenes/Sedan/2019 Toyota Corolla sport (6).webp",
-            "imagenes/Sedan/2019 Toyota Corolla sport (7).webp",
-            "imagenes/Sedan/2019 Toyota Corolla sport (8).webp",
-        ]
-    },
     {
         title: "2012 Toyota Corolla S",
         cash: "$5,800",
@@ -650,24 +541,6 @@ const cars = [
             "imagenes/Sedan/2020 Toyota Corolla (5).webp",
             "imagenes/Sedan/2020 Toyota Corolla (6).webp",
             "imagenes/Sedan/2020 Toyota Corolla (7).webp",
-        ]
-    },
-    {
-        title: "Toyota Corolla 2013 sport",
-        cash: "$7,200",
-        down: "$2,000 (Negotiable)",
-        financing: "$12,000 (Negotiable)",
-        mileage: "156,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Corolla 2013 sport (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 sport (7).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 sport (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 sport (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 sport (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 sport (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2013 sport (5).webp",
         ]
     },
 ];
