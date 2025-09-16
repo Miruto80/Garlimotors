@@ -658,6 +658,64 @@ const cars = [
                 "imagenes/Trucks/Chevrolet ssr 2004 (7).webp",
             ]
     },
+     {
+        title: "2017 Mercedez c 300",
+        cash: "$8,500",
+        down: "$2,500 (Negotiable)",
+        financing: "$14,000 (Negotiable)",
+        mileage: "164,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2017 Mercedez c 300 (1).webp",
+            "imagenes/Sedan/2017 Mercedez c 300 (2).webp",
+            "imagenes/Sedan/2017 Mercedez c 300 (3).webp",
+            "imagenes/Sedan/2017 Mercedez c 300 (4).webp",
+            "imagenes/Sedan/2017 Mercedez c 300 (5).webp",
+            "imagenes/Sedan/2017 Mercedez c 300 (6).webp",
+            "imagenes/Sedan/2017 Mercedez c 300 (7).webp",
+            "imagenes/Sedan/2017 Mercedez c 300 (8).webp",
+            "imagenes/Sedan/2017 Mercedez c 300 (9).webp",
+            "imagenes/Sedan/2017 Mercedez c 300 (10).webp",
+        ]
+    },
+     {
+        title: "Kia forte 2021 sport",
+        cash: "$6,500",
+        down: "$2,000 (Negotiable)",
+        financing: "$11,000 (Negotiable)",
+        mileage: "90,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Kia forte 2021 sport (3).webp",
+            "imagenes/Sedan/Kia forte 2021 sport (1).webp",
+            "imagenes/Sedan/Kia forte 2021 sport (2).webp",
+            "imagenes/Sedan/Kia forte 2021 sport (4).webp",
+            "imagenes/Sedan/Kia forte 2021 sport (5).webp",
+            "imagenes/Sedan/Kia forte 2021 sport (6).webp",
+            "imagenes/Sedan/Kia forte 2021 sport (7).webp",
+        ]
+    },
+     {
+        title: "Toyota Corolla 2008 sport",
+        cash: "$5,300",
+        down: "$1,700 (Negotiable)",
+        financing: "$9,500 (Negotiable)",
+        mileage: "166.000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Toyota Corolla 2008 sport (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2008 sport (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2008 sport (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2008 sport (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2008 sport (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2008 sport (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2008 sport (7).webp",
+            "imagenes/Sedan/Toyota Corolla 2008 sport (8).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
