@@ -716,6 +716,26 @@ const cars = [
             "imagenes/Sedan/Toyota Corolla 2008 sport (8).webp",
         ]
     },
+    {
+        title: "Mitsubichi Outlander 2019",
+        cash: "$6,500",
+        down: "$2,000 (Negotiable)",
+        financing: "$12,500 (Negotiable)",
+        mileage: "90,000",
+        make: "Suv",
+        description: "Clean Title",
+        images: [
+            "imagenes/Suv/Mitsubichi Outlander 2019 (2).webp",
+            "imagenes/Suv/Mitsubichi Outlander 2019 (8).webp",
+            "imagenes/Suv/Mitsubichi Outlander 2019 (1).webp",
+            "imagenes/Suv/Mitsubichi Outlander 2019 (3).webp",
+            "imagenes/Suv/Mitsubichi Outlander 2019 (4).webp",
+            "imagenes/Suv/Mitsubichi Outlander 2019 (5).webp",
+            "imagenes/Suv/Mitsubichi Outlander 2019 (6).webp",
+            "imagenes/Suv/Mitsubichi Outlander 2019 (7).webp",
+            "imagenes/Suv/Mitsubichi Outlander 2019 (9).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
