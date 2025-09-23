@@ -526,24 +526,6 @@ const cars = [
         ]
     },
     {
-        title: "2020 Toyota Corolla",
-        cash: "$10,000",
-        down: "$3,000 (Negotiable)",
-        financing: "$14,500 (Negotiable)",
-        mileage: "181,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2020 Toyota Corolla (4).webp",
-            "imagenes/Sedan/2020 Toyota Corolla (1).webp",
-            "imagenes/Sedan/2020 Toyota Corolla (2).webp",
-            "imagenes/Sedan/2020 Toyota Corolla (3).webp",
-            "imagenes/Sedan/2020 Toyota Corolla (5).webp",
-            "imagenes/Sedan/2020 Toyota Corolla (6).webp",
-            "imagenes/Sedan/2020 Toyota Corolla (7).webp",
-        ]
-    },
-    {
         title: "2015 Mercedez benz cl300",
         cash: "$8,500",
         down: "$2,300 (Negotiable)",
@@ -558,23 +540,6 @@ const cars = [
             "imagenes/Sedan/2015 Mercedez benz cl300 (4).webp",
             "imagenes/Sedan/2015 Mercedez benz cl300 (5).webp",
             "imagenes/Sedan/2015 Mercedez benz cl300 (6).webp",
-        ]
-    },
-    {
-        title: "Mitsubichi Galant 2012",
-        cash: "$3,300",
-        down: "$1,500 (Negotiable)",
-        financing: "$8,000 (Negotiable)",
-        mileage: "146,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Mitsubichi Galant 2012 (1).webp",
-            "imagenes/Sedan/Mitsubichi Galant 2012 (2).webp",
-            "imagenes/Sedan/Mitsubichi Galant 2012 (3).webp",
-            "imagenes/Sedan/Mitsubichi Galant 2012 (4).webp",
-            "imagenes/Sedan/Mitsubichi Galant 2012 (5).webp",
-            "imagenes/Sedan/Mitsubichi Galant 2012 (6).webp",
         ]
     },
     {
@@ -657,27 +622,6 @@ const cars = [
                 "imagenes/Trucks/Chevrolet ssr 2004 (6).webp",
                 "imagenes/Trucks/Chevrolet ssr 2004 (7).webp",
             ]
-    },
-     {
-        title: "2017 Mercedez c 300",
-        cash: "$8,500",
-        down: "$2,500 (Negotiable)",
-        financing: "$14,000 (Negotiable)",
-        mileage: "164,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2017 Mercedez c 300 (1).webp",
-            "imagenes/Sedan/2017 Mercedez c 300 (2).webp",
-            "imagenes/Sedan/2017 Mercedez c 300 (3).webp",
-            "imagenes/Sedan/2017 Mercedez c 300 (4).webp",
-            "imagenes/Sedan/2017 Mercedez c 300 (5).webp",
-            "imagenes/Sedan/2017 Mercedez c 300 (6).webp",
-            "imagenes/Sedan/2017 Mercedez c 300 (7).webp",
-            "imagenes/Sedan/2017 Mercedez c 300 (8).webp",
-            "imagenes/Sedan/2017 Mercedez c 300 (9).webp",
-            "imagenes/Sedan/2017 Mercedez c 300 (10).webp",
-        ]
     },
      {
         title: "Kia forte 2021 sport",
