@@ -795,6 +795,23 @@ const cars = [
             "imagenes/Sedan/Toyota Corolla 2011 (10).webp",
         ]
     },
+    {
+        title: "Hyundai Elantra 2019",
+        cash: "$6,500",
+        down: "$1,800 (Negotiable)",
+        financing: "$10,000 (Negotiable)",
+        mileage: "156.000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/Hyundai Elantra 2019 (1).webp",
+            "imagenes/Sedan/Hyundai Elantra 2019 (2).webp",
+            "imagenes/Sedan/Hyundai Elantra 2019 (3).webp",
+            "imagenes/Sedan/Hyundai Elantra 2019 (4).webp",
+            "imagenes/Sedan/Hyundai Elantra 2019 (5).webp",
+            "imagenes/Sedan/Hyundai Elantra 2019 (6).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
