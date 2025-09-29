@@ -507,61 +507,7 @@ const cars = [
             "imagenes/Sedan/Audi 2016 a3 premium (8).webp",
         ]
     },
-     {
-        title: "Honda fit 2019",
-        cash: "$8,500",
-        down: "$2,500 (Negotiable)",
-        financing: "$14,000 (Negotiable)",
-        mileage: "136,000",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/Honda fit 2019 (1).webp",
-            "imagenes/Suv/Honda fit 2019 (2).webp",
-            "imagenes/Suv/Honda fit 2019 (3).webp",
-            "imagenes/Suv/Honda fit 2019 (4).webp",
-            "imagenes/Suv/Honda fit 2019 (5).webp",
-            "imagenes/Suv/Honda fit 2019 (6).webp",
-            "imagenes/Suv/Honda fit 2019 (7).webp",
-        ]
-    },
     {
-        title: "2015 Mercedez benz cl300",
-        cash: "$8,500",
-        down: "$2,300 (Negotiable)",
-        financing: "$14,000 (Negotiable)",
-        mileage: "128,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2015 Mercedez benz cl300 (1).webp",
-            "imagenes/Sedan/2015 Mercedez benz cl300 (2).webp",
-            "imagenes/Sedan/2015 Mercedez benz cl300 (3).webp",
-            "imagenes/Sedan/2015 Mercedez benz cl300 (4).webp",
-            "imagenes/Sedan/2015 Mercedez benz cl300 (5).webp",
-            "imagenes/Sedan/2015 Mercedez benz cl300 (6).webp",
-        ]
-    },
-    {
-        title: "Toyota Rav4 2008",
-        cash: "$4,500",
-        down: "$1,500 (Negotiable)",
-        financing: "$9,000 (Negotiable)",
-        mileage: "187,009",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/Toyota Rav4 2008 (1).webp",
-            "imagenes/Suv/Toyota Rav4 2008 (2).webp",
-            "imagenes/Suv/Toyota Rav4 2008 (3).webp",
-            "imagenes/Suv/Toyota Rav4 2008 (4).webp",
-            "imagenes/Suv/Toyota Rav4 2008 (5).webp",
-            "imagenes/Suv/Toyota Rav4 2008 (6).webp",
-            "imagenes/Suv/Toyota Rav4 2008 (7).webp",
-            "imagenes/Suv/Toyota Rav4 2008 (8).webp",
-        ]
-    },
-     {
             title: "2009 Chevrolet silverado 2500",
             cash: "$6.000$",
             down: "$2.000$ (Negotiable)",
@@ -641,25 +587,6 @@ const cars = [
             "imagenes/Sedan/Kia forte 2021 sport (7).webp",
         ]
     },
-     {
-        title: "Toyota Corolla 2008 sport",
-        cash: "$5,300",
-        down: "$1,700 (Negotiable)",
-        financing: "$9,500 (Negotiable)",
-        mileage: "166.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Corolla 2008 sport (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2008 sport (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2008 sport (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2008 sport (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2008 sport (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2008 sport (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2008 sport (7).webp",
-            "imagenes/Sedan/Toyota Corolla 2008 sport (8).webp",
-        ]
-    },
     {
         title: "Mitsubichi Outlander 2019",
         cash: "$6,500",
@@ -678,23 +605,6 @@ const cars = [
             "imagenes/Suv/Mitsubichi Outlander 2019 (6).webp",
             "imagenes/Suv/Mitsubichi Outlander 2019 (7).webp",
             "imagenes/Suv/Mitsubichi Outlander 2019 (9).webp",
-        ]
-    },
-    {
-        title: "2019 Toyota chr",
-        cash: "$10,000",
-        down: "$3,000 (Negotiable)",
-        financing: "$15,000 (Negotiable)",
-        mileage: "138,000",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/2019 Toyota chr (1).webp",
-            "imagenes/Suv/2019 Toyota chr (2).webp",
-            "imagenes/Suv/2019 Toyota chr (3).webp",
-            "imagenes/Suv/2019 Toyota chr (4).webp",
-            "imagenes/Suv/2019 Toyota chr (5).webp",
-            "imagenes/Suv/2019 Toyota chr (6).webp",
         ]
     },
     {
@@ -732,46 +642,6 @@ const cars = [
             "imagenes/Sedan/2018 Hyundai Elantra SEL (5).webp",
             "imagenes/Sedan/2018 Hyundai Elantra SEL (6).webp",
             "imagenes/Sedan/2018 Hyundai Elantra SEL (7).webp",
-        ]
-    },
-    {
-        title: "Honda Accord 2017 sport",
-        cash: "$9,500",
-        down: "$3,000 (Negotiable)",
-        financing: "$14,500 (Negotiable)",
-        mileage: "156.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Honda Accord 2017 sport (1).webp",
-            "imagenes/Sedan/Honda Accord 2017 sport (2).webp",
-            "imagenes/Sedan/Honda Accord 2017 sport (3).webp",
-            "imagenes/Sedan/Honda Accord 2017 sport (4).webp",
-            "imagenes/Sedan/Honda Accord 2017 sport (5).webp",
-            "imagenes/Sedan/Honda Accord 2017 sport (6).webp",
-            "imagenes/Sedan/Honda Accord 2017 sport (7).webp",
-            "imagenes/Sedan/Honda Accord 2017 sport (8).webp",
-        ]
-    },
-    {
-        title: "Toyota Corolla 2010 sport",
-        cash: "$6,000",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,000 (Negotiable)",
-        mileage: "150.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Corolla 2010 sport (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2010 sport (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2010 sport (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2010 sport (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2010 sport (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2010 sport (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2010 sport (7).webp",
-            "imagenes/Sedan/Toyota Corolla 2010 sport (8).webp",
-            "imagenes/Sedan/Toyota Corolla 2010 sport (9).webp",
-            "imagenes/Sedan/Toyota Corolla 2010 sport (10).webp",
         ]
     },
     {
