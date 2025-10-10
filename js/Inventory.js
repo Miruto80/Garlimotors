@@ -720,6 +720,34 @@ const cars = [
             "imagenes/Sedan/2024 Toyota Corolla (8).webp",
         ]
     },
+     {
+            title: "2019 Chevrolet Silverado 1500 LT",
+            cash: "$15.500$",
+            down: "",
+            financing: "",
+            mileage: "142.454",
+            make: "Truck",
+            description: "Clean Title",
+            images: [
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (1).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (2).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (3).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (4).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (5).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (6).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (7).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (8).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (9).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (10).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (11).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (12).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (13).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (14).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (15).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (16).webp",
+                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (17).webp",
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
