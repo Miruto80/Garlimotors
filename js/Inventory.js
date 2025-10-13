@@ -768,6 +768,26 @@ const cars = [
             "imagenes/Sedan/2019 Kia Forte S (9).webp",
         ]
     },
+         {
+        title: "2015 Mercedes-Benz CLA CLA250",
+        cash: "$8,500",
+        down: "$3,000 (Negotiable)",
+        financing: "$13,000 (Negotiable)",
+        mileage: "107,999",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (2).webp",
+            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (1).webp",
+            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (3).webp",
+            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (4).webp",
+            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (5).webp",
+            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (6).webp",
+            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (7).webp",
+            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (8).webp",
+            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (9).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
