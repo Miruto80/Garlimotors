@@ -788,6 +788,49 @@ const cars = [
             "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (9).webp",
         ]
     },
+         {
+        title: "2011 BMW 3 Serie 328i",
+        cash: "$5,500",
+        down: "$2,000 (Negotiable)",
+        financing: "$10,000 (Negotiable)",
+        mileage: "75,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2011 BMW 3 Serie 328i (4).webp",
+            "imagenes/Sedan/2011 BMW 3 Serie 328i (1).webp",
+            "imagenes/Sedan/2011 BMW 3 Serie 328i (2).webp",
+            "imagenes/Sedan/2011 BMW 3 Serie 328i (3).webp",
+            "imagenes/Sedan/2011 BMW 3 Serie 328i (5).webp",
+            "imagenes/Sedan/2011 BMW 3 Serie 328i (6).webp",
+            "imagenes/Sedan/2011 BMW 3 Serie 328i (7).webp",
+            "imagenes/Sedan/2011 BMW 3 Serie 328i (8).webp",
+            "imagenes/Sedan/2011 BMW 3 Serie 328i (9).webp",
+            "imagenes/Sedan/2011 BMW 3 Serie 328i (10).webp",
+        ]
+    },
+     {
+            title: "2006 Ford F-150",
+            cash: "$5,500",
+            down: "$1,500 (Negotiable)",
+            financing: "$9,000 (Negotiable)",
+            mileage: "177,000",
+            make: "Truck",
+            description: "Clean Title",
+            images: [
+                "imagenes/Trucks/2006 Ford F-150 (1).webp",
+                "imagenes/Trucks/2006 Ford F-150 (2).webp",
+                "imagenes/Trucks/2006 Ford F-150 (3).webp",
+                "imagenes/Trucks/2006 Ford F-150 (4).webp",
+                "imagenes/Trucks/2006 Ford F-150 (5).webp",
+                "imagenes/Trucks/2006 Ford F-150 (6).webp",
+                "imagenes/Trucks/2006 Ford F-150 (7).webp",
+                "imagenes/Trucks/2006 Ford F-150 (8).webp",
+                "imagenes/Trucks/2006 Ford F-150 (9).webp",
+                "imagenes/Trucks/2006 Ford F-150 (10).webp",
+                "imagenes/Trucks/2006 Ford F-150 (11).webp",
+            ]
+        },
 ];
 
 const itemsPerPage = 12;
