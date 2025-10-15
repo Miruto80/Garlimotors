@@ -788,7 +788,7 @@ const cars = [
             "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (9).webp",
         ]
     },
-         {
+    {
         title: "2011 BMW 3 Serie 328i",
         cash: "$5,500",
         down: "$2,000 (Negotiable)",
@@ -831,6 +831,27 @@ const cars = [
                 "imagenes/Trucks/2006 Ford F-150 (11).webp",
             ]
         },
+        {
+        title: "2019 Honda Civic LX",
+        cash: "$9,000",
+        down: "$3,000 (Negotiable)",
+        financing: "$14,000 (Negotiable)",
+        mileage: "147,883",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2019 Honda Civic LX (1).webp",
+            "imagenes/Sedan/2019 Honda Civic LX (2).webp",
+            "imagenes/Sedan/2019 Honda Civic LX (3).webp",
+            "imagenes/Sedan/2019 Honda Civic LX (4).webp",
+            "imagenes/Sedan/2019 Honda Civic LX (5).webp",
+            "imagenes/Sedan/2019 Honda Civic LX (6).webp",
+            "imagenes/Sedan/2019 Honda Civic LX (7).webp",
+            "imagenes/Sedan/2019 Honda Civic LX (8).webp",
+            "imagenes/Sedan/2019 Honda Civic LX (9).webp",
+            "imagenes/Sedan/2019 Honda Civic LX (10).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
