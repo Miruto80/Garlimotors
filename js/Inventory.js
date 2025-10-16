@@ -831,7 +831,7 @@ const cars = [
                 "imagenes/Trucks/2006 Ford F-150 (11).webp",
             ]
         },
-        {
+    {
         title: "2019 Honda Civic LX",
         cash: "$9,000",
         down: "$3,000 (Negotiable)",
@@ -850,6 +850,25 @@ const cars = [
             "imagenes/Sedan/2019 Honda Civic LX (8).webp",
             "imagenes/Sedan/2019 Honda Civic LX (9).webp",
             "imagenes/Sedan/2019 Honda Civic LX (10).webp",
+        ]
+    },
+    {
+        title: "2019 Nissan Sentra S",
+        cash: "$5,500",
+        down: "",
+        financing: "",
+        mileage: "81,698",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2019 Nissan Sentra S (1).webp",
+            "imagenes/Sedan/2019 Nissan Sentra S (3).webp",
+            "imagenes/Sedan/2019 Nissan Sentra S (8).webp",
+            "imagenes/Sedan/2019 Nissan Sentra S (2).webp",
+            "imagenes/Sedan/2019 Nissan Sentra S (4).webp",
+            "imagenes/Sedan/2019 Nissan Sentra S (5).webp",
+            "imagenes/Sedan/2019 Nissan Sentra S (6).webp",
+            "imagenes/Sedan/2019 Nissan Sentra S (7).webp",
         ]
     },
 ];
