@@ -871,6 +871,48 @@ const cars = [
             "imagenes/Sedan/2019 Nissan Sentra S (7).webp",
         ]
     },
+    {
+        title: "2015 Toyota Corolla S PLUS",
+        cash: "$8,500",
+        down: "$2,500 (Negotiable)",
+        financing: "$13,000 (Negotiable)",
+        mileage: "138,647",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2015 Toyota Corolla S PLUS (4).webp",
+            "imagenes/Sedan/2015 Toyota Corolla S PLUS (1).webp",
+            "imagenes/Sedan/2015 Toyota Corolla S PLUS (5).webp",
+            "imagenes/Sedan/2015 Toyota Corolla S PLUS (2).webp",
+            "imagenes/Sedan/2015 Toyota Corolla S PLUS (3).webp",
+            "imagenes/Sedan/2015 Toyota Corolla S PLUS (6).webp",
+            "imagenes/Sedan/2015 Toyota Corolla S PLUS (7).webp",
+            "imagenes/Sedan/2015 Toyota Corolla S PLUS (8).webp",
+            "imagenes/Sedan/2015 Toyota Corolla S PLUS (9).webp",
+            "imagenes/Sedan/2015 Toyota Corolla S PLUS (10).webp",
+        ]
+    },
+    {
+        title: "2022 Toyota Corolla LE",
+        cash: "$10,500",
+        down: "$3,000 (Negotiable)",
+        financing: "$15,000 (Negotiable)",
+        mileage: "173,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2022 Toyota Corolla LE (2).webp",
+            "imagenes/Sedan/2022 Toyota Corolla LE (1).webp",
+            "imagenes/Sedan/2022 Toyota Corolla LE (4).webp",
+            "imagenes/Sedan/2022 Toyota Corolla LE (3).webp",
+            "imagenes/Sedan/2022 Toyota Corolla LE (5).webp",
+            "imagenes/Sedan/2022 Toyota Corolla LE (6).webp",
+            "imagenes/Sedan/2022 Toyota Corolla LE (7).webp",
+            "imagenes/Sedan/2022 Toyota Corolla LE (8).webp",
+            "imagenes/Sedan/2022 Toyota Corolla LE (9).webp",
+            "imagenes/Sedan/2022 Toyota Corolla LE (10).webp",
+        ]
+    },
 ];
 
 const itemsPerPage = 12;
