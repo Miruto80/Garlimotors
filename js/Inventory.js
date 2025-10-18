@@ -280,25 +280,6 @@ const cars = [
             Rented:true
         },
         {
-            title: "2009 Toyota Camry LE",
-            cash: "5.000$",
-            down: "1.500$",
-            financing: "9.000$",
-            mileage: "139,527",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2009 Toyota Camry LE (2).webp",
-                "imagenes/Sedan/2009 Toyota Camry LE (1).webp",
-                "imagenes/Sedan/2009 Toyota Camry LE (3).webp",
-                "imagenes/Sedan/2009 Toyota Camry LE (4).webp",
-                "imagenes/Sedan/2009 Toyota Camry LE (5).webp",
-                "imagenes/Sedan/2009 Toyota Camry LE (6).webp",
-                "imagenes/Sedan/2009 Toyota Camry LE (7).webp",
-                "imagenes/Sedan/2009 Toyota Camry LE (8).webp"
-            ]
-        },
-        {
             title: "Toyota Camrry 2011 hybrid",
             cash: "5.500$",
             down: "1.700$",
@@ -545,26 +526,6 @@ const cars = [
             "imagenes/Sedan/Kia forte 2021 sport (5).webp",
             "imagenes/Sedan/Kia forte 2021 sport (6).webp",
             "imagenes/Sedan/Kia forte 2021 sport (7).webp",
-        ]
-    },
-    {
-        title: "Mitsubichi Outlander 2019",
-        cash: "$5,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$12,500 (Negotiable)",
-        mileage: "90,000",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/Mitsubichi Outlander 2019 (2).webp",
-            "imagenes/Suv/Mitsubichi Outlander 2019 (8).webp",
-            "imagenes/Suv/Mitsubichi Outlander 2019 (1).webp",
-            "imagenes/Suv/Mitsubichi Outlander 2019 (3).webp",
-            "imagenes/Suv/Mitsubichi Outlander 2019 (4).webp",
-            "imagenes/Suv/Mitsubichi Outlander 2019 (5).webp",
-            "imagenes/Suv/Mitsubichi Outlander 2019 (6).webp",
-            "imagenes/Suv/Mitsubichi Outlander 2019 (7).webp",
-            "imagenes/Suv/Mitsubichi Outlander 2019 (9).webp",
         ]
     },
     {
@@ -913,6 +874,27 @@ const cars = [
             "imagenes/Sedan/2022 Toyota Corolla LE (10).webp",
         ]
     },
+     {
+          title: "2013 Toyota Yaris SE",
+          cash: "$6,700",
+          down: "$1,500 (Negotiable)",
+          financing: "$10,500 (Negotiable)",
+          mileage: "91,396",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2013 Toyota Yaris SE (1).webp",
+            "imagenes/Suv/2013 Toyota Yaris SE (2).webp",
+            "imagenes/Suv/2013 Toyota Yaris SE (4).webp",
+            "imagenes/Suv/2013 Toyota Yaris SE (3).webp",
+            "imagenes/Suv/2013 Toyota Yaris SE (5).webp",
+            "imagenes/Suv/2013 Toyota Yaris SE (6).webp",
+            "imagenes/Suv/2013 Toyota Yaris SE (7).webp",
+            "imagenes/Suv/2013 Toyota Yaris SE (8).webp",
+            "imagenes/Suv/2013 Toyota Yaris SE (9).webp"
+          ],
+          Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
