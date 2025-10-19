@@ -635,6 +635,27 @@ const cars = [
           ],
           Rented: false
         },
+     {
+          title: "2012 Subaru forester",
+          cash: "$5,000",
+          down: "$1,500 (Negotiable)",
+          financing: "$9,000 (Negotiable)",
+          mileage: "172,180",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2012 Subaru forester (3).webp",
+            "imagenes/Suv/2012 Subaru forester (1).webp",
+            "imagenes/Suv/2012 Subaru forester (9).webp",
+            "imagenes/Suv/2012 Subaru forester (2).webp",
+            "imagenes/Suv/2012 Subaru forester (4).webp",
+            "imagenes/Suv/2012 Subaru forester (5).webp",
+            "imagenes/Suv/2012 Subaru forester (6).webp",
+            "imagenes/Suv/2012 Subaru forester (7).webp",
+            "imagenes/Suv/2012 Subaru forester (8).webp"
+          ],
+          Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
