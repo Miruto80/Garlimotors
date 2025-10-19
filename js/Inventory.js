@@ -118,26 +118,6 @@ const cars = [
             ]
         },
         {
-            "title": "2001 Toyota Sequoia Limited",
-            "cash": "$2,500",
-            "down": "$1,000 (Negotiable)",
-            "financing": "$4,500 (Negotiable)",
-            "mileage": "280,000",
-            "make": "Suv",
-            "description": "Clean title",
-            "images": [
-                "imagenes/Suv/2001 Toyota sequoia limited (2).webp",
-                "imagenes/Suv/2001 Toyota sequoia limited (1).webp",
-                "imagenes/Suv/2001 Toyota sequoia limited (3).webp",
-                "imagenes/Suv/2001 Toyota sequoia limited (4).webp",
-                "imagenes/Suv/2001 Toyota sequoia limited (5).webp",
-                "imagenes/Suv/2001 Toyota sequoia limited (6).webp",
-                "imagenes/Suv/2001 Toyota sequoia limited (7).webp",
-                "imagenes/Suv/2001 Toyota sequoia limited (8).webp",
-                "imagenes/Suv/2001 Toyota sequoia limited (9).webp"
-            ]
-        },
-        {
             "title": "2007 Honda CR-V",
             "cash": "$5,500",
             "down": "$2,200 (Negotiable)",
@@ -220,27 +200,6 @@ const cars = [
             ],
            Rented:true
         },
-        {
-            "title": "2002 Ford F-150 XL",
-            "cash": "$4.500$",
-            "down": "$1.300$ (Negotiable)",
-            "financing": "$8.000$ (Negotiable)",
-            "mileage": "144.000",
-            "make": "Truck",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Trucks/2002 Ford F-150 XL (1).webp",
-                "imagenes/Trucks/2002 Ford F-150 XL (2).webp",
-                "imagenes/Trucks/2002 Ford F-150 XL (3).webp",
-                "imagenes/Trucks/2002 Ford F-150 XL (4).webp",
-                "imagenes/Trucks/2002 Ford F-150 XL (5).webp",
-                "imagenes/Trucks/2002 Ford F-150 XL (6).webp",
-                "imagenes/Trucks/2002 Ford F-150 XL (7).webp",
-                "imagenes/Trucks/2002 Ford F-150 XL (8).webp",
-                "imagenes/Trucks/2002 Ford F-150 XL (9).webp",
-                "imagenes/Trucks/2002 Ford F-150 XL (10).webp",
-            ]
-        },
          {
             "title": "2016 Ford Fiesta SE",
             "cash": "$4.500$",
@@ -278,26 +237,6 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2012 (7).webp"
             ],
             Rented:true
-        },
-        {
-            title: "Toyota Camrry 2011 hybrid",
-            cash: "5.500$",
-            down: "1.700$",
-            financing: "9.500$",
-            mileage: "81,000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/Toyota Camrry 2011 híbrido (3).webp",
-                "imagenes/Sedan/Toyota Camrry 2011 híbrido (1).webp",
-                "imagenes/Sedan/Toyota Camrry 2011 híbrido (2).webp",
-                "imagenes/Sedan/Toyota Camrry 2011 híbrido (4).webp",
-                "imagenes/Sedan/Toyota Camrry 2011 híbrido (5).webp",
-                "imagenes/Sedan/Toyota Camrry 2011 híbrido (6).webp",
-                "imagenes/Sedan/Toyota Camrry 2011 híbrido (7).webp",
-                "imagenes/Sedan/Toyota Camrry 2011 híbrido (8).webp",
-                "imagenes/Sedan/Toyota Camrry 2011 híbrido (9).webp"
-            ]
         },
         {
             title: "2003 suzuki serio",
@@ -448,24 +387,6 @@ const cars = [
             "imagenes/Sedan/Audi 2016 a3 premium (8).webp",
         ]
     },
-    {
-            title: "2009 Chevrolet silverado 2500",
-            cash: "$6.000$",
-            down: "$2.000$ (Negotiable)",
-            financing: "$10.500$ (Negotiable)",
-            mileage: "202.000",
-            make: "Truck",
-            description: "Clean Title",
-            images: [
-                "imagenes/Trucks/2009 Chevrolet silverado 2500 (3).webp",
-                "imagenes/Trucks/2009 Chevrolet silverado 2500 (1).webp",
-                "imagenes/Trucks/2009 Chevrolet silverado 2500 (2).webp",
-                "imagenes/Trucks/2009 Chevrolet silverado 2500 (4).webp",
-                "imagenes/Trucks/2009 Chevrolet silverado 2500 (5).webp",
-                "imagenes/Trucks/2009 Chevrolet silverado 2500 (6).webp",
-                "imagenes/Trucks/2009 Chevrolet silverado 2500 (7).webp",
-            ]
-    },
      {
             title: "2021 GMC Sierra 1500",
             cash: "$28.000 financing",
@@ -548,62 +469,6 @@ const cars = [
         ]
     },
     {
-        title: "2018 Hyundai Elantra SEL",
-        cash: "$6,500",
-        down: "$1,800 (Negotiable)",
-        financing: "$10,000 (Negotiable)",
-        mileage: "138.138",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (3).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (2).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (1).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (4).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (5).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (6).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (7).webp",
-        ]
-    },
-    {
-        title: "Toyota Corolla 2011",
-        cash: "$5,500",
-        down: "$1,500 (Negotiable)",
-        financing: "$9,500 (Negotiable)",
-        mileage: "156.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Corolla 2011 (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2011 (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2011 (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2011 (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2011 (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2011 (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2011 (7).webp",
-            "imagenes/Sedan/Toyota Corolla 2011 (8).webp",
-            "imagenes/Sedan/Toyota Corolla 2011 (9).webp",
-            "imagenes/Sedan/Toyota Corolla 2011 (10).webp",
-        ]
-    },
-    {
-        title: "Hyundai Elantra 2019",
-        cash: "$6,500",
-        down: "$1,800 (Negotiable)",
-        financing: "$10,000 (Negotiable)",
-        mileage: "156.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Hyundai Elantra 2019 (1).webp",
-            "imagenes/Sedan/Hyundai Elantra 2019 (2).webp",
-            "imagenes/Sedan/Hyundai Elantra 2019 (3).webp",
-            "imagenes/Sedan/Hyundai Elantra 2019 (4).webp",
-            "imagenes/Sedan/Hyundai Elantra 2019 (5).webp",
-            "imagenes/Sedan/Hyundai Elantra 2019 (6).webp",
-        ]
-    },
-    {
         title: "2015 BMW serie 5",
         cash: "$6,000",
         down: "$2,000 (Negotiable)",
@@ -619,47 +484,6 @@ const cars = [
             "imagenes/Sedan/2015 BMW serie 5 (5).webp",
             "imagenes/Sedan/2015 BMW serie 5 (6).webp",
             "imagenes/Sedan/2015 BMW serie 5 (7).webp",
-        ]
-    },
-    {
-        title: "Toyota Camrry 2016",
-        cash: "$8,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$12,000 (Negotiable)",
-        mileage: "108.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Toyota Camrry 2016  (1).webp",
-            "imagenes/Sedan/Toyota Camrry 2016  (2).webp",
-            "imagenes/Sedan/Toyota Camrry 2016  (3).webp",
-            "imagenes/Sedan/Toyota Camrry 2016  (4).webp",
-            "imagenes/Sedan/Toyota Camrry 2016  (5).webp",
-            "imagenes/Sedan/Toyota Camrry 2016  (6).webp",
-            "imagenes/Sedan/Toyota Camrry 2016  (7).webp",
-            "imagenes/Sedan/Toyota Camrry 2016  (8).webp",
-            "imagenes/Sedan/Toyota Camrry 2016  (9).webp",
-            "imagenes/Sedan/Toyota Camrry 2016  (10).webp",
-        ]
-    },
-    {
-        title: "2022 Toyota Corolla",
-        cash: "$20,500 Financing",
-        down: "$2,000 (Negotiable)",
-        financing: "$20,500 (Negotiable)",
-        mileage: "72.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2022 Toyota Corolla (1).webp",
-            "imagenes/Sedan/2022 Toyota Corolla (2).webp",
-            "imagenes/Sedan/2022 Toyota Corolla (3).webp",
-            "imagenes/Sedan/2022 Toyota Corolla (4).webp",
-            "imagenes/Sedan/2022 Toyota Corolla (5).webp",
-            "imagenes/Sedan/2022 Toyota Corolla (6).webp",
-            "imagenes/Sedan/2022 Toyota Corolla (7).webp",
-            "imagenes/Sedan/2022 Toyota Corolla (8).webp",
-            "imagenes/Sedan/2022 Toyota Corolla (9).webp",
         ]
     },
     {
@@ -729,69 +553,6 @@ const cars = [
             "imagenes/Sedan/2019 Kia Forte S (9).webp",
         ]
     },
-         {
-        title: "2015 Mercedes-Benz CLA CLA250",
-        cash: "$8,500",
-        down: "$3,000 (Negotiable)",
-        financing: "$13,000 (Negotiable)",
-        mileage: "107,999",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (2).webp",
-            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (1).webp",
-            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (3).webp",
-            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (4).webp",
-            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (5).webp",
-            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (6).webp",
-            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (7).webp",
-            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (8).webp",
-            "imagenes/Sedan/2015 Mercedes-Benz CLA CLA250 (9).webp",
-        ]
-    },
-    {
-        title: "2011 BMW 3 Serie 328i",
-        cash: "$5,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$10,000 (Negotiable)",
-        mileage: "75,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2011 BMW 3 Serie 328i (4).webp",
-            "imagenes/Sedan/2011 BMW 3 Serie 328i (1).webp",
-            "imagenes/Sedan/2011 BMW 3 Serie 328i (2).webp",
-            "imagenes/Sedan/2011 BMW 3 Serie 328i (3).webp",
-            "imagenes/Sedan/2011 BMW 3 Serie 328i (5).webp",
-            "imagenes/Sedan/2011 BMW 3 Serie 328i (6).webp",
-            "imagenes/Sedan/2011 BMW 3 Serie 328i (7).webp",
-            "imagenes/Sedan/2011 BMW 3 Serie 328i (8).webp",
-            "imagenes/Sedan/2011 BMW 3 Serie 328i (9).webp",
-            "imagenes/Sedan/2011 BMW 3 Serie 328i (10).webp",
-        ]
-    },
-     {
-            title: "2006 Ford F-150",
-            cash: "$5,500",
-            down: "$1,500 (Negotiable)",
-            financing: "$9,000 (Negotiable)",
-            mileage: "177,000",
-            make: "Truck",
-            description: "Clean Title",
-            images: [
-                "imagenes/Trucks/2006 Ford F-150 (1).webp",
-                "imagenes/Trucks/2006 Ford F-150 (2).webp",
-                "imagenes/Trucks/2006 Ford F-150 (3).webp",
-                "imagenes/Trucks/2006 Ford F-150 (4).webp",
-                "imagenes/Trucks/2006 Ford F-150 (5).webp",
-                "imagenes/Trucks/2006 Ford F-150 (6).webp",
-                "imagenes/Trucks/2006 Ford F-150 (7).webp",
-                "imagenes/Trucks/2006 Ford F-150 (8).webp",
-                "imagenes/Trucks/2006 Ford F-150 (9).webp",
-                "imagenes/Trucks/2006 Ford F-150 (10).webp",
-                "imagenes/Trucks/2006 Ford F-150 (11).webp",
-            ]
-        },
     {
         title: "2019 Honda Civic LX",
         cash: "$9,000",
@@ -830,27 +591,6 @@ const cars = [
             "imagenes/Sedan/2019 Nissan Sentra S (5).webp",
             "imagenes/Sedan/2019 Nissan Sentra S (6).webp",
             "imagenes/Sedan/2019 Nissan Sentra S (7).webp",
-        ]
-    },
-    {
-        title: "2015 Toyota Corolla S PLUS",
-        cash: "$8,500",
-        down: "$2,500 (Negotiable)",
-        financing: "$13,000 (Negotiable)",
-        mileage: "138,647",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2015 Toyota Corolla S PLUS (4).webp",
-            "imagenes/Sedan/2015 Toyota Corolla S PLUS (1).webp",
-            "imagenes/Sedan/2015 Toyota Corolla S PLUS (5).webp",
-            "imagenes/Sedan/2015 Toyota Corolla S PLUS (2).webp",
-            "imagenes/Sedan/2015 Toyota Corolla S PLUS (3).webp",
-            "imagenes/Sedan/2015 Toyota Corolla S PLUS (6).webp",
-            "imagenes/Sedan/2015 Toyota Corolla S PLUS (7).webp",
-            "imagenes/Sedan/2015 Toyota Corolla S PLUS (8).webp",
-            "imagenes/Sedan/2015 Toyota Corolla S PLUS (9).webp",
-            "imagenes/Sedan/2015 Toyota Corolla S PLUS (10).webp",
         ]
     },
     {
