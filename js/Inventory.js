@@ -486,25 +486,6 @@ const cars = [
             "imagenes/Sedan/2015 BMW serie 5 (7).webp",
         ]
     },
-    {
-        title: "2024 Toyota Corolla",
-        cash: "$22,000 Financing",
-        down: "$2,500 (Negotiable)",
-        financing: "$22,000 (Negotiable)",
-        mileage: "36.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2024 Toyota Corolla (2).webp",
-            "imagenes/Sedan/2024 Toyota Corolla (1).webp",
-            "imagenes/Sedan/2024 Toyota Corolla (5).webp",
-            "imagenes/Sedan/2024 Toyota Corolla (3).webp",
-            "imagenes/Sedan/2024 Toyota Corolla (4).webp",
-            "imagenes/Sedan/2024 Toyota Corolla (6).webp",
-            "imagenes/Sedan/2024 Toyota Corolla (7).webp",
-            "imagenes/Sedan/2024 Toyota Corolla (8).webp",
-        ]
-    },
      {
             title: "2019 Chevrolet Silverado 1500 LT",
             cash: "$15.500$",
@@ -533,26 +514,6 @@ const cars = [
                 "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (17).webp",
             ]
         },
-         {
-        title: "2019 Kia Forte S",
-        cash: "$7,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,500 (Negotiable)",
-        mileage: "84.274",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2019 Kia Forte S (2).webp",
-            "imagenes/Sedan/2019 Kia Forte S (1).webp",
-            "imagenes/Sedan/2019 Kia Forte S (3).webp",
-            "imagenes/Sedan/2019 Kia Forte S (4).webp",
-            "imagenes/Sedan/2019 Kia Forte S (5).webp",
-            "imagenes/Sedan/2019 Kia Forte S (6).webp",
-            "imagenes/Sedan/2019 Kia Forte S (7).webp",
-            "imagenes/Sedan/2019 Kia Forte S (8).webp",
-            "imagenes/Sedan/2019 Kia Forte S (9).webp",
-        ]
-    },
     {
         title: "2019 Honda Civic LX",
         cash: "$9,000",
