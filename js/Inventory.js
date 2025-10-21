@@ -536,6 +536,26 @@ const cars = [
         ]
     },
     {
+        title: "2014 Kia rio",
+        cash: "$4,500",
+        down: "",
+        financing: "",
+        mileage: "200,000",
+        make: "Sedan",
+        description: "Clean Title",
+        images: [
+            "imagenes/Sedan/2014 Kia rio (9).webp",
+            "imagenes/Sedan/2014 Kia rio (5).webp",
+            "imagenes/Sedan/2014 Kia rio (1).webp",
+            "imagenes/Sedan/2014 Kia rio (2).webp",
+            "imagenes/Sedan/2014 Kia rio (3).webp",
+            "imagenes/Sedan/2014 Kia rio (4).webp",
+            "imagenes/Sedan/2014 Kia rio (6).webp",
+            "imagenes/Sedan/2014 Kia rio (7).webp",
+            "imagenes/Sedan/2014 Kia rio (8).webp",
+        ]
+    },
+    {
         title: "2019 Nissan Sentra S",
         cash: "$5,500",
         down: "",
@@ -552,27 +572,6 @@ const cars = [
             "imagenes/Sedan/2019 Nissan Sentra S (5).webp",
             "imagenes/Sedan/2019 Nissan Sentra S (6).webp",
             "imagenes/Sedan/2019 Nissan Sentra S (7).webp",
-        ]
-    },
-    {
-        title: "2022 Toyota Corolla LE",
-        cash: "$10,500",
-        down: "$3,000 (Negotiable)",
-        financing: "$15,000 (Negotiable)",
-        mileage: "173,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2022 Toyota Corolla LE (2).webp",
-            "imagenes/Sedan/2022 Toyota Corolla LE (1).webp",
-            "imagenes/Sedan/2022 Toyota Corolla LE (4).webp",
-            "imagenes/Sedan/2022 Toyota Corolla LE (3).webp",
-            "imagenes/Sedan/2022 Toyota Corolla LE (5).webp",
-            "imagenes/Sedan/2022 Toyota Corolla LE (6).webp",
-            "imagenes/Sedan/2022 Toyota Corolla LE (7).webp",
-            "imagenes/Sedan/2022 Toyota Corolla LE (8).webp",
-            "imagenes/Sedan/2022 Toyota Corolla LE (9).webp",
-            "imagenes/Sedan/2022 Toyota Corolla LE (10).webp",
         ]
     },
      {
@@ -617,6 +616,25 @@ const cars = [
           ],
           Rented: false
         },
+        {
+            title: "2002 DODGE DAKOTA SPORT",
+            cash: "$4.000",
+            down: "",
+            financing: "",
+            mileage: "156.000",
+            make: "Truck",
+            description: "Clean Title",
+            images: [
+                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (3).webp",
+                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (1).webp",
+                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (2).webp",
+                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (4).webp",
+                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (5).webp",
+                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (6).webp",
+                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (7).webp",
+                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (8).webp",
+            ]
+    },
 ];
 
 const itemsPerPage = 12;
