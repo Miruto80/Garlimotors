@@ -635,6 +635,46 @@ const cars = [
                 "imagenes/Trucks/2002 DODGE DAKOTA SPORT (8).webp",
             ]
     },
+     {
+          title: "2019 Subaru Forester SPORT",
+          cash: "$11,000",
+          down: "$4,000 (Negotiable)",
+          financing: "$17,000 (Negotiable)",
+          mileage: "132,147",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2019 Subaru Forester SPORT (2).webp",
+            "imagenes/Suv/2019 Subaru Forester SPORT (1).webp",
+            "imagenes/Suv/2019 Subaru Forester SPORT (4).webp",
+            "imagenes/Suv/2019 Subaru Forester SPORT (3).webp",
+            "imagenes/Suv/2019 Subaru Forester SPORT (5).webp",
+            "imagenes/Suv/2019 Subaru Forester SPORT (6).webp",
+            "imagenes/Suv/2019 Subaru Forester SPORT (7).webp",
+            "imagenes/Suv/2019 Subaru Forester SPORT (8).webp",
+          ],
+          Rented: false
+        },
+     {
+          title: "2021 Kia Forte LXS",
+          cash: "$7,500",
+          down: "$2,000 (Negotiable)",
+          financing: "$11,500 (Negotiable)",
+          mileage: "133,746",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2021 Kia Forte LXS (1).webp",
+            "imagenes/Sedan/2021 Kia Forte LXS (2).webp",
+            "imagenes/Sedan/2021 Kia Forte LXS (3).webp",
+            "imagenes/Sedan/2021 Kia Forte LXS (4).webp",
+            "imagenes/Sedan/2021 Kia Forte LXS (5).webp",
+            "imagenes/Sedan/2021 Kia Forte LXS (6).webp",
+            "imagenes/Sedan/2021 Kia Forte LXS (7).webp",
+            "imagenes/Sedan/2021 Kia Forte LXS (8).webp",
+          ],
+          Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
