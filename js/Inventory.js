@@ -737,6 +737,48 @@ const cars = [
           ],
           Rented: false
         },
+     {
+          title: "2019 Hyundai Elantra",
+          cash: "$7,500",
+          down: "$2,000 (Negotiable)",
+          financing: "$11,500 (Negotiable)",
+          mileage: "91,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2019 Hyundai Elantra (5).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (1).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (2).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (3).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (4).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (6).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (8).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (9).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (10).webp",
+          ],
+          Rented: false
+        },
+        {
+          title: "Honda Pilot 2009",
+          cash: "$5,000",
+          down: "$1,500 (Negotiable)",
+          financing: "$9,000 (Negotiable)",
+          mileage: "201,600",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/Honda Pilot 2009 (8).webp",
+            "imagenes/Suv/Honda Pilot 2009 (1).webp",
+            "imagenes/Suv/Honda Pilot 2009 (5).webp",
+            "imagenes/Suv/Honda Pilot 2009 (2).webp",
+            "imagenes/Suv/Honda Pilot 2009 (3).webp",
+            "imagenes/Suv/Honda Pilot 2009 (4).webp",
+            "imagenes/Suv/Honda Pilot 2009 (6).webp",
+            "imagenes/Suv/Honda Pilot 2009 (7).webp",
+        ],
+          Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
