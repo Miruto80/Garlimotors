@@ -313,7 +313,7 @@ const cars = [
     },
     {
         title: "Toyota 4runner 2008",
-        cash: "$10,000",
+        cash: "$8,500",
         down: "$5,000 (Negotiable)",
         financing: "$14,000 (Negotiable)",
         mileage: "103.000",
@@ -516,7 +516,7 @@ const cars = [
         },
     {
         title: "2019 Honda Civic LX",
-        cash: "$9,000",
+        cash: "$7,700",
         down: "$3,000 (Negotiable)",
         financing: "$14,000 (Negotiable)",
         mileage: "147,883",
