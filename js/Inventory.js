@@ -801,6 +801,26 @@ const cars = [
           ],
           Rented: false
         },
+     {
+          title: "2014 Mercedes-Benz CLA CLA250",
+          cash: "$6,500",
+          down: "$2,000 (Negotiable)",
+          financing: "$10,000 (Negotiable)",
+          mileage: "167,903",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+              "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (1).webp",
+              "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (2).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (3).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (4).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (5).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (6).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (7).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (8).webp",
+          ],
+          Rented: false
+        },
         {
           title: "Honda Pilot 2009",
           cash: "$5,000",
