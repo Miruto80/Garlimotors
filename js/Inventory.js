@@ -40,10 +40,10 @@ const cars = [
     },
     {
         title: "2019 Volkswagen Jetta",
-        cash: "$7,500",
-        down: "$2,500 (Negotiable)",
-        financing: "$11,000 (Negotiable)",
-        mileage: "164,000",
+        cash: "$7,300",
+        down: "$1,500 (Negotiable)",
+        financing: "$10,500 (Negotiable)",
+        mileage: "166,000",
         make: "Sedan",
         description: "Clean Title",
         images: [
@@ -256,11 +256,11 @@ const cars = [
              Rented:true
         },
         {
-            title: "2013 Toyota higlander",
-            cash: "7.000$",
-            down: "2.000$",
-            financing: "11.000$",
-            mileage: "84.000",
+            title: "2012 Toyota higlander",
+            cash: "6.000$",
+            down: "1.500$",
+            financing: "9.500$",
+            mileage: "190.000",
             make: "Suv",
             description: "Clean Title",
             images: [
@@ -333,9 +333,9 @@ const cars = [
     },
      {
         title: "2015 honda fit",
-        cash: "$6,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,000 (Negotiable)",
+        cash: "$6,000",
+        down: "$1,500 (Negotiable)",
+        financing: "$10,000 (Negotiable)",
         mileage: "157.000",
         make: "Suv",
         description: "Clean Title",
@@ -433,10 +433,10 @@ const cars = [
     },
      {
         title: "Kia forte 2021 sport",
-        cash: "$6,500",
-        down: "$2,000 (Negotiable)",
-        financing: "$11,000 (Negotiable)",
-        mileage: "90,000",
+        cash: "$6,000",
+        down: "$1,500 (Negotiable)",
+        financing: "$10,000 (Negotiable)",
+        mileage: "84,000",
         make: "Sedan",
         description: "Clean Title",
         images: [
@@ -576,9 +576,9 @@ const cars = [
     },
      {
           title: "2013 Toyota Yaris SE",
-          cash: "$6,700",
+          cash: "$6,200",
           down: "$1,500 (Negotiable)",
-          financing: "$10,500 (Negotiable)",
+          financing: "$9,500 (Negotiable)",
           mileage: "91,396",
           make: "Suv",
           description: "Clean Title",
@@ -759,6 +759,68 @@ const cars = [
           ],
           Rented: false
         },
+     {
+          title: "2024 Toyota Corolla Azul",
+          cash: "$17,000 Financing",
+          down: "$1,800 (Negotiable)",
+          financing: "$17,000 (Negotiable)",
+          mileage: "36,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (2).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (1).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (3).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (4).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (5).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (6).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (7).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (8).webp",
+          ],
+          Rented: false
+        },
+     {
+          title: "2024 Toyota Corolla Azul",
+          cash: "$17,000 Financing",
+          down: "$1,800 (Negotiable)",
+          financing: "$17,000 (Negotiable)",
+          mileage: "36,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (2).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (1).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (3).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (4).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (5).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (6).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (7).webp",
+            "imagenes/Sedan/2024 Toyota Corolla Azul  (8).webp",
+          ],
+          Rented: false
+        },
+     {
+          title: "2017 Hyundai Elantra LIMITED",
+          cash: "$5,800",
+          down: "$1,700 (Negotiable)",
+          financing: "$10,500 (Negotiable)",
+          mileage: "129,756",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2017 Hyundai Elantra LIMITED  (1).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra LIMITED  (2).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra LIMITED  (3).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra LIMITED  (4).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra LIMITED  (5).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra LIMITED  (6).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra LIMITED  (7).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra LIMITED  (8).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra LIMITED  (9).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra LIMITED  (10).webp",
+          ],
+          Rented: false
+        },
         {
           title: "Honda Pilot 2009",
           cash: "$5,000",
@@ -779,6 +841,22 @@ const cars = [
         ],
           Rented: false
         },
+         {
+            title: "Chevrolet avalancha 2007",
+            cash: "$5.600",
+            down: "$1,500 (Negotiable)",
+            financing: "$10,000 (Negotiable)",
+            mileage: "157.000",
+            make: "Truck",
+            description: "Clean Title",
+            images: [
+                "imagenes/Trucks/Chevrolet avalancha 2007 (3).webp",
+                "imagenes/Trucks/Chevrolet avalancha 2007 (1).webp",
+                "imagenes/Trucks/Chevrolet avalancha 2007 (2).webp",
+                "imagenes/Trucks/Chevrolet avalancha 2007 (4).webp",
+                "imagenes/Trucks/Chevrolet avalancha 2007 (5).webp",
+            ]
+    },
 ];
 
 const itemsPerPage = 12;
