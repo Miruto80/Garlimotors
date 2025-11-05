@@ -915,6 +915,66 @@ const cars = [
                 "imagenes/Trucks/Chevrolet avalancha 2007 (5).webp",
             ]
     },
+     {
+          title: "2008 Toyota 4Runner SR5",
+          cash: "$8,000",
+          down: "$2,000 (Negotiable)",
+          financing: "$11,500 (Negotiable)",
+          mileage: "194,608",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2008 Toyota 4Runner SR5 (1).webp",
+            "imagenes/Suv/2008 Toyota 4Runner SR5 (2).webp",
+            "imagenes/Suv/2008 Toyota 4Runner SR5 (3).webp",
+            "imagenes/Suv/2008 Toyota 4Runner SR5 (4).webp",
+            "imagenes/Suv/2008 Toyota 4Runner SR5 (5).webp",
+            "imagenes/Suv/2008 Toyota 4Runner SR5 (6).webp",
+            "imagenes/Suv/2008 Toyota 4Runner SR5 (7).webp",
+        ],
+          Rented: false
+        },
+         {
+          title: "2014 Toyota Corolla LE",
+          cash: "$7,500",
+          down: "$1,500 (Negotiable)",
+          financing: "$11,000 (Negotiable)",
+          mileage: "133,210",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2014 Toyota Corolla LE 2(1).webp",
+            "imagenes/Sedan/2014 Toyota Corolla LE 2(2).webp",
+            "imagenes/Sedan/2014 Toyota Corolla LE 2(3).webp",
+            "imagenes/Sedan/2014 Toyota Corolla LE 2(4).webp",
+            "imagenes/Sedan/2014 Toyota Corolla LE 2(5).webp",
+            "imagenes/Sedan/2014 Toyota Corolla LE 2(6).webp",
+            "imagenes/Sedan/2014 Toyota Corolla LE 2(7).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "2016 Toyota Corolla LE",
+          cash: "$7,500",
+          down: "$1,500 (Negotiable)",
+          financing: "$11,000 (Negotiable)",
+          mileage: "133,210",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2016 Toyota Corolla LE (1).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (2).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (3).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (4).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (5).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (6).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (7).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (8).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (9).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (10).webp",
+          ],
+          Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
