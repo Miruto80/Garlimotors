@@ -1,23 +1,5 @@
 const cars = [
     {
-        title: "2009 Toyota Corolla",
-        cash: "$4.500",
-        down: "$2.000",
-        financing: "$9.000",
-        mileage: "152.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2009 Toyota Corolla (1).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (2).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (3).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (4).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (5).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (6).webp"
-        ],
-        Rented: true
-    },
-    {
         title: "2010 Toyota Camry",
         cash: "$4,500",
         down: "$1,500 (Negotiable)",
@@ -295,23 +277,6 @@ const cars = [
              Rented:true
         },
     {
-        title: "Hummer 2007 h3",
-        cash: "$5,600",
-        down: "$2,000 (Negotiable)",
-        financing: "$10,500 (Negotiable)",
-        mileage: "198.000",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/Hummer 2007 h3 (1).webp",
-            "imagenes/Suv/Hummer 2007 h3 (2).webp",
-            "imagenes/Suv/Hummer 2007 h3 (3).webp",
-            "imagenes/Suv/Hummer 2007 h3 (4).webp",
-            "imagenes/Suv/Hummer 2007 h3 (5).webp",
-            "imagenes/Suv/Hummer 2007 h3 (6).webp"
-        ]
-    },
-    {
         title: "Toyota 4runner 2008",
         cash: "$8,500",
         down: "$5,000 (Negotiable)",
@@ -350,25 +315,6 @@ const cars = [
         ]
     },
     {
-        title: "2012 Toyota Corolla S",
-        cash: "$5,800",
-        down: "$1,800 (Negotiable)",
-        financing: "$9,500 (Negotiable)",
-        mileage: "200,588",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2012 Toyota Corolla S (8).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (6).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (1).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (2).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (3).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (4).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (5).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (7).webp",
-        ]
-    },
-    {
         title: "Audi 2016 a3 premium",
         cash: "$8,000",
         down: "$2,500 (Negotiable)",
@@ -386,32 +332,6 @@ const cars = [
             "imagenes/Sedan/Audi 2016 a3 premium (7).webp",
             "imagenes/Sedan/Audi 2016 a3 premium (8).webp",
         ]
-    },
-     {
-            title: "2021 GMC Sierra 1500",
-            cash: "$28.000 financing",
-            down: "$4.500$ (Negotiable)",
-            financing: "$28.000$ (Negotiable)",
-            mileage: "202.000",
-            make: "Truck",
-            description: "Clean Title",
-            images: [
-                "imagenes/Trucks/2021 GMC Sierra 1500 (15).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (2).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (1).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (3).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (4).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (5).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (6).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (7).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (8).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (9).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (10).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (11).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (12).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (13).webp",
-                "imagenes/Trucks/2021 GMC Sierra 1500 (14).webp",
-            ]
     },
     {
             title: "Chevrolet ssr 2004",
@@ -486,96 +406,6 @@ const cars = [
             "imagenes/Sedan/2015 BMW serie 5 (7).webp",
         ]
     },
-     {
-            title: "2019 Chevrolet Silverado 1500 LT",
-            cash: "$15.500$",
-            down: "",
-            financing: "",
-            mileage: "142.454",
-            make: "Truck",
-            description: "Clean Title",
-            images: [
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (1).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (2).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (3).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (4).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (5).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (6).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (7).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (8).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (9).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (10).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (11).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (12).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (13).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (14).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (15).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (16).webp",
-                "imagenes/Trucks/2019 Chevrolet Silverado 1500 LT (17).webp",
-            ]
-        },
-    {
-        title: "2019 Honda Civic LX",
-        cash: "$7,700",
-        down: "$3,000 (Negotiable)",
-        financing: "$14,000 (Negotiable)",
-        mileage: "147,883",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2019 Honda Civic LX (1).webp",
-            "imagenes/Sedan/2019 Honda Civic LX (2).webp",
-            "imagenes/Sedan/2019 Honda Civic LX (3).webp",
-            "imagenes/Sedan/2019 Honda Civic LX (4).webp",
-            "imagenes/Sedan/2019 Honda Civic LX (5).webp",
-            "imagenes/Sedan/2019 Honda Civic LX (6).webp",
-            "imagenes/Sedan/2019 Honda Civic LX (7).webp",
-            "imagenes/Sedan/2019 Honda Civic LX (8).webp",
-            "imagenes/Sedan/2019 Honda Civic LX (9).webp",
-            "imagenes/Sedan/2019 Honda Civic LX (10).webp",
-        ]
-    },
-    {
-        title: "2014 Kia rio",
-        cash: "$4,500",
-        down: "",
-        financing: "",
-        mileage: "200,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2014 Kia rio (9).webp",
-            "imagenes/Sedan/2014 Kia rio (5).webp",
-            "imagenes/Sedan/2014 Kia rio (1).webp",
-            "imagenes/Sedan/2014 Kia rio (2).webp",
-            "imagenes/Sedan/2014 Kia rio (3).webp",
-            "imagenes/Sedan/2014 Kia rio (4).webp",
-            "imagenes/Sedan/2014 Kia rio (6).webp",
-            "imagenes/Sedan/2014 Kia rio (7).webp",
-            "imagenes/Sedan/2014 Kia rio (8).webp",
-        ]
-    },
-     {
-          title: "2013 Toyota Yaris SE",
-          cash: "$6,200",
-          down: "$1,500 (Negotiable)",
-          financing: "$9,500 (Negotiable)",
-          mileage: "91,396",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2013 Toyota Yaris SE (1).webp",
-            "imagenes/Suv/2013 Toyota Yaris SE (2).webp",
-            "imagenes/Suv/2013 Toyota Yaris SE (4).webp",
-            "imagenes/Suv/2013 Toyota Yaris SE (3).webp",
-            "imagenes/Suv/2013 Toyota Yaris SE (5).webp",
-            "imagenes/Suv/2013 Toyota Yaris SE (6).webp",
-            "imagenes/Suv/2013 Toyota Yaris SE (7).webp",
-            "imagenes/Suv/2013 Toyota Yaris SE (8).webp",
-            "imagenes/Suv/2013 Toyota Yaris SE (9).webp"
-          ],
-          Rented: false
-        },
      {
           title: "2012 Subaru forester",
           cash: "$5,000",
@@ -660,26 +490,6 @@ const cars = [
           Rented: false
         },
      {
-          title: "2021 Kia Forte LXS",
-          cash: "$7,500",
-          down: "$2,000 (Negotiable)",
-          financing: "$11,500 (Negotiable)",
-          mileage: "133,746",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2021 Kia Forte LXS (1).webp",
-            "imagenes/Sedan/2021 Kia Forte LXS (2).webp",
-            "imagenes/Sedan/2021 Kia Forte LXS (3).webp",
-            "imagenes/Sedan/2021 Kia Forte LXS (4).webp",
-            "imagenes/Sedan/2021 Kia Forte LXS (5).webp",
-            "imagenes/Sedan/2021 Kia Forte LXS (6).webp",
-            "imagenes/Sedan/2021 Kia Forte LXS (7).webp",
-            "imagenes/Sedan/2021 Kia Forte LXS (8).webp",
-          ],
-          Rented: false
-        },
-     {
           title: "2013 Hyundai Elantra LIMITED",
           cash: "$6,500",
           down: "$1,500 (Negotiable)",
@@ -698,45 +508,6 @@ const cars = [
             "imagenes/Sedan/2013 Hyundai Elantra LIMITED (8).webp",
             "imagenes/Sedan/2013 Hyundai Elantra LIMITED (9).webp",
             "imagenes/Sedan/2013 Hyundai Elantra LIMITED (10).webp",
-          ],
-          Rented: false
-        },
-     {
-          title: "Hyundai Elantra 2017",
-          cash: "$5,800",
-          down: "",
-          financing: "",
-          mileage: "124,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-              "imagenes/Sedan/Hyundai Elantra 2017 (3).webp",
-              "imagenes/Sedan/Hyundai Elantra 2017 (1).webp",
-              "imagenes/Sedan/Hyundai Elantra 2017 (2).webp",
-            "imagenes/Sedan/Hyundai Elantra 2017 (4).webp",
-            "imagenes/Sedan/Hyundai Elantra 2017 (5).webp",
-          ],
-          Rented: false
-        },
-     {
-          title: "2019 Hyundai Elantra",
-          cash: "$7,500",
-          down: "$2,000 (Negotiable)",
-          financing: "$11,500 (Negotiable)",
-          mileage: "91,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2019 Hyundai Elantra (5).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (1).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (2).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (3).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (4).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (6).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (8).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (9).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (10).webp",
           ],
           Rented: false
         },
@@ -803,23 +574,6 @@ const cars = [
           Rented: false
         },
      {
-          title: "2009 Toyota Corolla",
-          cash: "$4,500",
-          down: "$1,300 (Negotiable)",
-          financing: "$8,000 (Negotiable)",
-          mileage: "230,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2009 Toyota Corolla red (1).webp",
-            "imagenes/Sedan/2009 Toyota Corolla red (2).webp",
-            "imagenes/Sedan/2009 Toyota Corolla red (3).webp",
-            "imagenes/Sedan/2009 Toyota Corolla red (4).webp",
-            "imagenes/Sedan/2009 Toyota Corolla red (5).webp",
-          ],
-          Rented: false
-        },
-     {
           title: "2015 Toyota Camry LE",
           cash: "$8,500",
           down: "$2,000 (Negotiable)",
@@ -858,25 +612,6 @@ const cars = [
             "imagenes/Suv/Honda Pilot 2009 (4).webp",
             "imagenes/Suv/Honda Pilot 2009 (6).webp",
             "imagenes/Suv/Honda Pilot 2009 (7).webp",
-        ],
-          Rented: false
-        },
-        {
-          title: "2010 Toyota 4runner limited",
-          cash: "$11,500",
-          down: "$3,000 (Negotiable)",
-          financing: "$17,000 (Negotiable)",
-          mileage: "170,900",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2010 Toyota 4runner limited (1).webp",
-            "imagenes/Suv/2010 Toyota 4runner limited (2).webp",
-            "imagenes/Suv/2010 Toyota 4runner limited (3).webp",
-            "imagenes/Suv/2010 Toyota 4runner limited (4).webp",
-            "imagenes/Suv/2010 Toyota 4runner limited (5).webp",
-            "imagenes/Suv/2010 Toyota 4runner limited (6).webp",
-            "imagenes/Suv/2010 Toyota 4runner limited (7).webp",
         ],
           Rented: false
         },
@@ -972,6 +707,28 @@ const cars = [
             "imagenes/Sedan/2016 Toyota Corolla LE (8).webp",
             "imagenes/Sedan/2016 Toyota Corolla LE (9).webp",
             "imagenes/Sedan/2016 Toyota Corolla LE (10).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "2020 Toyota Camry SE",
+          cash: "$11,500",
+          down: "$4,000 (Negotiable)",
+          financing: "$16,500 (Negotiable)",
+          mileage: "160,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2020 Toyota Camrry se (1).webp",
+            "imagenes/Sedan/2020 Toyota Camrry se (2).webp",
+            "imagenes/Sedan/2020 Toyota Camrry se (3).webp",
+            "imagenes/Sedan/2020 Toyota Camrry se (4).webp",
+            "imagenes/Sedan/2020 Toyota Camrry se (5).webp",
+            "imagenes/Sedan/2020 Toyota Camrry se (6).webp",
+            "imagenes/Sedan/2020 Toyota Camrry se (7).webp",
+            "imagenes/Sedan/2020 Toyota Camrry se (8).webp",
+            "imagenes/Sedan/2020 Toyota Camrry se (9).webp",
+            "imagenes/Sedan/2020 Toyota Camrry se (10).webp",
           ],
           Rented: false
         },
