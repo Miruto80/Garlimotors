@@ -732,6 +732,30 @@ const cars = [
           ],
           Rented: false
         },
+         {
+          title: "2020 Toyota Camrry le",
+          cash: "$10,000",
+          down: "$3,000 (Negotiable)",
+          financing: "$15,000 (Negotiable)",
+          mileage: "190,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2020 Toyota Camrry le (1).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (2).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (3).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (4).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (5).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (6).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (7).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (8).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (9).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (10).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (11).webp",
+            "imagenes/Sedan/2020 Toyota Camrry le (12).webp",
+          ],
+          Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
