@@ -756,6 +756,64 @@ const cars = [
           ],
           Rented: false
         },
+         {
+          title: "2018 honda Civic",
+          cash: "$8,500",
+          down: "$2,000 (Negotiable)",
+          financing: "$12,500 (Negotiable)",
+          mileage: "143,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2018 honda Civic (1).webp",
+            "imagenes/Sedan/2018 honda Civic (2).webp",
+            "imagenes/Sedan/2018 honda Civic (3).webp",
+            "imagenes/Sedan/2018 honda Civic (4).webp",
+            "imagenes/Sedan/2018 honda Civic (5).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "2021 Kia rio",
+          cash: "$8,000",
+          down: "$2,000 (Negotiable)",
+          financing: "$11,500 (Negotiable)",
+          mileage: "73,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2021 Kia rio (1).webp",
+            "imagenes/Sedan/2021 Kia rio (2).webp",
+            "imagenes/Sedan/2021 Kia rio (3).webp",
+            "imagenes/Sedan/2021 Kia rio (4).webp",
+            "imagenes/Sedan/2021 Kia rio (5).webp",
+            "imagenes/Sedan/2021 Kia rio (6).webp",
+            "imagenes/Sedan/2021 Kia rio (7).webp",
+            "imagenes/Sedan/2021 Kia rio (8).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "2010 Toyota 4runner",
+          cash: "$10,500",
+          down: "$4,000 (Negotiable)",
+          financing: "$16,000 (Negotiable)",
+          mileage: "170,000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2010 Toyota 4runner (1).webp",
+            "imagenes/Suv/2010 Toyota 4runner (2).webp",
+            "imagenes/Suv/2010 Toyota 4runner (3).webp",
+            "imagenes/Suv/2010 Toyota 4runner (4).webp",
+            "imagenes/Suv/2010 Toyota 4runner (5).webp",
+            "imagenes/Suv/2010 Toyota 4runner (6).webp",
+            "imagenes/Suv/2010 Toyota 4runner (7).webp",
+            "imagenes/Suv/2010 Toyota 4runner (8).webp",
+            "imagenes/Suv/2010 Toyota 4runner (9).webp",
+        ],
+          Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
