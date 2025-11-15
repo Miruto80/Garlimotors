@@ -315,25 +315,6 @@ const cars = [
         ]
     },
     {
-        title: "Audi 2016 a3 premium",
-        cash: "$8,000",
-        down: "$2,500 (Negotiable)",
-        financing: "$12,000 (Negotiable)",
-        mileage: "150,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/Audi 2016 a3 premium (5).webp",
-            "imagenes/Sedan/Audi 2016 a3 premium (1).webp",
-            "imagenes/Sedan/Audi 2016 a3 premium (2).webp",
-            "imagenes/Sedan/Audi 2016 a3 premium (3).webp",
-            "imagenes/Sedan/Audi 2016 a3 premium (4).webp",
-            "imagenes/Sedan/Audi 2016 a3 premium (6).webp",
-            "imagenes/Sedan/Audi 2016 a3 premium (7).webp",
-            "imagenes/Sedan/Audi 2016 a3 premium (8).webp",
-        ]
-    },
-    {
             title: "Chevrolet ssr 2004",
             cash: "$17.500$",
             down: "",
@@ -367,43 +348,6 @@ const cars = [
             "imagenes/Sedan/Kia forte 2021 sport (5).webp",
             "imagenes/Sedan/Kia forte 2021 sport (6).webp",
             "imagenes/Sedan/Kia forte 2021 sport (7).webp",
-        ]
-    },
-    {
-        title: "2014 Toyota Corolla LE",
-        cash: "$8,500",
-        down: "$2,500 (Negotiable)",
-        financing: "$13,500 (Negotiable)",
-        mileage: "142.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2014 Toyota Corolla LE (6).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE (3).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE (1).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE (2).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE (4).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE (5).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE (7).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE (8).webp",
-        ]
-    },
-    {
-        title: "2015 BMW serie 5",
-        cash: "$6,000",
-        down: "$2,000 (Negotiable)",
-        financing: "$10,500 (Negotiable)",
-        mileage: "117.000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2015 BMW serie 5 (1).webp",
-            "imagenes/Sedan/2015 BMW serie 5 (2).webp",
-            "imagenes/Sedan/2015 BMW serie 5 (3).webp",
-            "imagenes/Sedan/2015 BMW serie 5 (4).webp",
-            "imagenes/Sedan/2015 BMW serie 5 (5).webp",
-            "imagenes/Sedan/2015 BMW serie 5 (6).webp",
-            "imagenes/Sedan/2015 BMW serie 5 (7).webp",
         ]
     },
      {
@@ -667,47 +611,6 @@ const cars = [
             "imagenes/Suv/2008 Toyota 4Runner SR5 (6).webp",
             "imagenes/Suv/2008 Toyota 4Runner SR5 (7).webp",
         ],
-          Rented: false
-        },
-         {
-          title: "2014 Toyota Corolla LE",
-          cash: "$7,500",
-          down: "$1,500 (Negotiable)",
-          financing: "$11,000 (Negotiable)",
-          mileage: "133,210",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2014 Toyota Corolla LE 2(1).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE 2(2).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE 2(3).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE 2(4).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE 2(5).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE 2(6).webp",
-            "imagenes/Sedan/2014 Toyota Corolla LE 2(7).webp",
-          ],
-          Rented: false
-        },
-         {
-          title: "2016 Toyota Corolla LE",
-          cash: "$7,500",
-          down: "$1,500 (Negotiable)",
-          financing: "$11,000 (Negotiable)",
-          mileage: "133,210",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2016 Toyota Corolla LE (1).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (2).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (3).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (4).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (5).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (6).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (7).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (8).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (9).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (10).webp",
-          ],
           Rented: false
         },
          {
