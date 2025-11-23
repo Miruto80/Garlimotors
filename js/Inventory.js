@@ -1,26 +1,5 @@
 const cars = [
     {
-        title: "2010 Toyota Camry",
-        cash: "$4,500",
-        down: "$1,500 (Negotiable)",
-        financing: "$9,000 (Negotiable)",
-        mileage: "208,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2010 Toyota Camrry (1).webp",
-            "imagenes/Sedan/2010 Toyota Camrry (8).webp",
-            "imagenes/Sedan/2010 Toyota Camrry (9).webp",
-            "imagenes/Sedan/2010 Toyota Camrry (2).webp",
-            "imagenes/Sedan/2010 Toyota Camrry (3).webp",
-            "imagenes/Sedan/2010 Toyota Camrry (4).webp",
-            "imagenes/Sedan/2010 Toyota Camrry (5).webp",
-            "imagenes/Sedan/2010 Toyota Camrry (6).webp",
-            "imagenes/Sedan/2010 Toyota Camrry (7).webp"
-        ],
-        Rented: true
-    },
-    {
         title: "2019 Volkswagen Jetta",
         cash: "$7,300",
         down: "$1,500 (Negotiable)",
@@ -37,27 +16,6 @@ const cars = [
             "imagenes/Sedan/2019 volkswagen jetta (6) N.webp"
         ]
     },
-        {
-          title: "2014 SUBARU FORESTER 2.5I PREMIUM",
-          cash: "$4,500",
-          down: "$1,500 (Negotiable)",
-          financing: "$7,500 (Negotiable)",
-          mileage: "185,089",
-          make: "Suv",
-          description: "",
-          images: [
-            "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (1).webp",
-            "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (2).webp",
-            "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (3).webp",
-            "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (4).webp",
-            "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (5).webp",
-            "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (6).webp",
-            "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (7).webp",
-            "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (8).webp",
-            "imagenes/Suv/2014 SUBARU FORESTER 2.5I PREMIUM (9).webp"
-          ],
-          Rented: true
-        },
         {
           title: "2006 LEXUS RX",
           cash: "$4,500",
@@ -98,26 +56,6 @@ const cars = [
                 "imagenes/Luxury/2018 Subaru brz límite (9).webp",
                 "imagenes/Luxury/2018 Subaru brz límite (10).webp"
             ]
-        },
-        {
-            "title": "2007 Honda CR-V",
-            "cash": "$5,500",
-            "down": "$2,200 (Negotiable)",
-            "financing": "$10,000 (Negotiable)",
-            "mileage": "170,000",
-            "make": "SUV",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/Honda crv 2007 (1).webp",
-                "imagenes/Suv/Honda crv 2007 (6).webp",
-                "imagenes/Suv/Honda crv 2007 (7).webp",
-                "imagenes/Suv/Honda crv 2007 (2).webp",
-                "imagenes/Suv/Honda crv 2007 (3).webp",
-                "imagenes/Suv/Honda crv 2007 (4).webp",
-                "imagenes/Suv/Honda crv 2007 (5).webp",
-                "imagenes/Suv/Honda crv 2007 (8).webp"
-            ],
-            Rented: true
         },
         {
             "title": "Kia Spectra 2007",
@@ -237,45 +175,6 @@ const cars = [
             ],
              Rented:true
         },
-        {
-            title: "2012 Toyota higlander",
-            cash: "6.000$",
-            down: "1.500$",
-            financing: "9.500$",
-            mileage: "190.000",
-            make: "Suv",
-            description: "Clean Title",
-            images: [
-                "imagenes/Suv/2013 Toyota higlander (1).webp",
-                "imagenes/Suv/2013 Toyota higlander (2).webp",
-                "imagenes/Suv/2013 Toyota higlander (3).webp",
-                "imagenes/Suv/2013 Toyota higlander (4).webp",
-                "imagenes/Suv/2013 Toyota higlander (5).webp",
-                "imagenes/Suv/2013 Toyota higlander (6).webp",
-                "imagenes/Suv/2013 Toyota higlander (7).webp"
-            ]
-        },
-        {
-            title: "2004 honda Civic",
-            cash: "2.600$",
-            down: "800$",
-            financing: "5.000$",
-            mileage: "154.000",
-            make: "Sedan",
-            description: "Clean Title",
-            images: [
-                "imagenes/Sedan/2004 honda Civic (1).webp",
-                "imagenes/Sedan/2004 honda Civic (3).webp",
-                "imagenes/Sedan/2004 honda Civic (4).webp",
-                "imagenes/Sedan/2004 honda Civic (5).webp",
-                "imagenes/Sedan/2004 honda Civic (6).webp",
-                "imagenes/Sedan/2004 honda Civic (7).webp",
-                "imagenes/Sedan/2004 honda Civic (8).webp",
-                "imagenes/Sedan/2004 honda Civic (9).webp",
-                "imagenes/Sedan/2004 honda Civic (10).webp"
-            ],
-             Rented:true
-        },
     {
         title: "Toyota 4runner 2008",
         cash: "$8,500",
@@ -371,25 +270,6 @@ const cars = [
           ],
           Rented: false
         },
-        {
-            title: "2002 DODGE DAKOTA SPORT",
-            cash: "$4.000",
-            down: "",
-            financing: "",
-            mileage: "156.000",
-            make: "Truck",
-            description: "Clean Title",
-            images: [
-                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (3).webp",
-                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (1).webp",
-                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (2).webp",
-                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (4).webp",
-                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (5).webp",
-                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (6).webp",
-                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (7).webp",
-                "imagenes/Trucks/2002 DODGE DAKOTA SPORT (8).webp",
-            ]
-    },
      {
           title: "2019 Subaru Forester SPORT",
           cash: "$11,000",
@@ -408,29 +288,6 @@ const cars = [
             "imagenes/Suv/2019 Subaru Forester SPORT (7).webp",
             "imagenes/Suv/2019 Subaru Forester SPORT (8).webp",
           ],
-          Rented: false
-        },
-     {
-          title: "2013 Ford Explorer Limited",
-          cash: "$7,000",
-          down: "$2,000 (Negotiable)",
-          financing: "$11,000 (Negotiable)",
-          mileage: "155,000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2013 Ford Explorer Limited (1).webp",
-            "imagenes/Suv/2013 Ford Explorer Limited (11).webp",
-            "imagenes/Suv/2013 Ford Explorer Limited (2).webp",
-            "imagenes/Suv/2013 Ford Explorer Limited (3).webp",
-            "imagenes/Suv/2013 Ford Explorer Limited (4).webp",
-            "imagenes/Suv/2013 Ford Explorer Limited (5).webp",
-            "imagenes/Suv/2013 Ford Explorer Limited (6).webp",
-            "imagenes/Suv/2013 Ford Explorer Limited (7).webp",
-            "imagenes/Suv/2013 Ford Explorer Limited (8).webp",
-            "imagenes/Suv/2013 Ford Explorer Limited (9).webp",
-            "imagenes/Suv/2013 Ford Explorer Limited (10).webp",
-        ],
           Rented: false
         },
      {
@@ -498,26 +355,6 @@ const cars = [
           Rented: false
         },
      {
-          title: "2014 Mercedes-Benz CLA CLA250",
-          cash: "$6,500",
-          down: "$2,000 (Negotiable)",
-          financing: "$10,000 (Negotiable)",
-          mileage: "167,903",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-              "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (1).webp",
-              "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (2).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (3).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (4).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (5).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (6).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (7).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (8).webp",
-          ],
-          Rented: false
-        },
-     {
           title: "2015 Toyota Camry LE",
           cash: "$8,500",
           down: "$2,000 (Negotiable)",
@@ -578,22 +415,6 @@ const cars = [
         ],
           Rented: false
         },
-         {
-            title: "Chevrolet avalancha 2007",
-            cash: "$5.600",
-            down: "$1,500 (Negotiable)",
-            financing: "$10,000 (Negotiable)",
-            mileage: "157.000",
-            make: "Truck",
-            description: "Clean Title",
-            images: [
-                "imagenes/Trucks/Chevrolet avalancha 2007 (3).webp",
-                "imagenes/Trucks/Chevrolet avalancha 2007 (1).webp",
-                "imagenes/Trucks/Chevrolet avalancha 2007 (2).webp",
-                "imagenes/Trucks/Chevrolet avalancha 2007 (4).webp",
-                "imagenes/Trucks/Chevrolet avalancha 2007 (5).webp",
-            ]
-    },
      {
           title: "2008 Toyota 4Runner SR5",
           cash: "$7,500",
@@ -711,24 +532,6 @@ const cars = [
             "imagenes/Sedan/2009 Toyota Corolla (4).webp",
             "imagenes/Sedan/2009 Toyota Corolla (5).webp",
             "imagenes/Sedan/2009 Toyota Corolla (6).webp",
-          ],
-          Rented: false
-        },
-         {
-          title: "2009 Toyota Corolla le",
-          cash: "$6,000",
-          down: "$1,500 (Negotiable)",
-          financing: "$9,500 (Negotiable)",
-          mileage: "182,198",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2009 Toyota Corolla le (1).webp",
-            "imagenes/Sedan/2009 Toyota Corolla le (2).webp",
-            "imagenes/Sedan/2009 Toyota Corolla le (3).webp",
-            "imagenes/Sedan/2009 Toyota Corolla le (4).webp",
-            "imagenes/Sedan/2009 Toyota Corolla le (5).webp",
-            "imagenes/Sedan/2009 Toyota Corolla le (6).webp",
           ],
           Rented: false
         },
