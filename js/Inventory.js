@@ -291,48 +291,6 @@ const cars = [
           Rented: false
         },
      {
-          title: "2013 Hyundai Elantra LIMITED",
-          cash: "$6,500",
-          down: "$1,500 (Negotiable)",
-          financing: "$10,500 (Negotiable)",
-          mileage: "148,280",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2013 Hyundai Elantra LIMITED (1).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra LIMITED (2).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra LIMITED (3).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra LIMITED (4).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra LIMITED (5).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra LIMITED (6).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra LIMITED (7).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra LIMITED (8).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra LIMITED (9).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra LIMITED (10).webp",
-          ],
-          Rented: false
-        },
-     {
-          title: "2024 Toyota Corolla Azul",
-          cash: "$17,000 Financing",
-          down: "$1,800 (Negotiable)",
-          financing: "$17,000 (Negotiable)",
-          mileage: "36,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2024 Toyota Corolla Azul  (2).webp",
-            "imagenes/Sedan/2024 Toyota Corolla Azul  (1).webp",
-            "imagenes/Sedan/2024 Toyota Corolla Azul  (3).webp",
-            "imagenes/Sedan/2024 Toyota Corolla Azul  (4).webp",
-            "imagenes/Sedan/2024 Toyota Corolla Azul  (5).webp",
-            "imagenes/Sedan/2024 Toyota Corolla Azul  (6).webp",
-            "imagenes/Sedan/2024 Toyota Corolla Azul  (7).webp",
-            "imagenes/Sedan/2024 Toyota Corolla Azul  (8).webp",
-          ],
-          Rented: false
-        },
-     {
           title: "2017 Hyundai Elantra LIMITED",
           cash: "$5,800",
           down: "$1,700 (Negotiable)",
@@ -351,28 +309,6 @@ const cars = [
             "imagenes/Sedan/2017 Hyundai Elantra LIMITED (8).webp",
             "imagenes/Sedan/2017 Hyundai Elantra LIMITED (9).webp",
             "imagenes/Sedan/2017 Hyundai Elantra LIMITED (10).webp",
-          ],
-          Rented: false
-        },
-     {
-          title: "2015 Toyota Camry LE",
-          cash: "$8,500",
-          down: "$2,000 (Negotiable)",
-          financing: "$12,500 (Negotiable)",
-          mileage: "146,769",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2015 Toyota Camry LE (1).webp",
-            "imagenes/Sedan/2015 Toyota Camry LE (2).webp",
-            "imagenes/Sedan/2015 Toyota Camry LE (3).webp",
-            "imagenes/Sedan/2015 Toyota Camry LE (4).webp",
-            "imagenes/Sedan/2015 Toyota Camry LE (5).webp",
-            "imagenes/Sedan/2015 Toyota Camry LE (6).webp",
-            "imagenes/Sedan/2015 Toyota Camry LE (7).webp",
-            "imagenes/Sedan/2015 Toyota Camry LE (8).webp",
-            "imagenes/Sedan/2015 Toyota Camry LE (9).webp",
-            "imagenes/Sedan/2015 Toyota Camry LE (10).webp",
           ],
           Rented: false
         },
@@ -396,25 +332,6 @@ const cars = [
         ],
           Rented: false
         },
-        {
-          title: "2019 Toyota RAV4",
-          cash: "$13,500",
-          down: "$5,000 (Negotiable)",
-          financing: "$19,500 (Negotiable)",
-          mileage: "160,124",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2019 Toyota RAV4 (1).webp",
-            "imagenes/Suv/2019 Toyota RAV4 (2).webp",
-            "imagenes/Suv/2019 Toyota RAV4 (3).webp",
-            "imagenes/Suv/2019 Toyota RAV4 (4).webp",
-            "imagenes/Suv/2019 Toyota RAV4 (5).webp",
-            "imagenes/Suv/2019 Toyota RAV4 (6).webp",
-            "imagenes/Suv/2019 Toyota RAV4 (7).webp",
-        ],
-          Rented: false
-        },
      {
           title: "2008 Toyota 4Runner SR5",
           cash: "$7,500",
@@ -432,28 +349,6 @@ const cars = [
             "imagenes/Suv/2008 Toyota 4Runner SR5 (6).webp",
             "imagenes/Suv/2008 Toyota 4Runner SR5 (7).webp",
         ],
-          Rented: false
-        },
-         {
-          title: "2020 Toyota Camry SE",
-          cash: "$10,500",
-          down: "$3,500 (Negotiable)",
-          financing: "$15,000 (Negotiable)",
-          mileage: "160,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2020 Toyota Camrry se (1).webp",
-            "imagenes/Sedan/2020 Toyota Camrry se (2).webp",
-            "imagenes/Sedan/2020 Toyota Camrry se (3).webp",
-            "imagenes/Sedan/2020 Toyota Camrry se (4).webp",
-            "imagenes/Sedan/2020 Toyota Camrry se (5).webp",
-            "imagenes/Sedan/2020 Toyota Camrry se (6).webp",
-            "imagenes/Sedan/2020 Toyota Camrry se (7).webp",
-            "imagenes/Sedan/2020 Toyota Camrry se (8).webp",
-            "imagenes/Sedan/2020 Toyota Camrry se (9).webp",
-            "imagenes/Sedan/2020 Toyota Camrry se (10).webp",
-          ],
           Rented: false
         },
          {
@@ -518,24 +413,6 @@ const cars = [
           Rented: false
         },
          {
-          title: "2009 Toyota Corolla",
-          cash: "$5,500",
-          down: "$1,500 (Negotiable)",
-          financing: "$9,500 (Negotiable)",
-          mileage: "144,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2009 Toyota Corolla (1).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (2).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (3).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (4).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (5).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (6).webp",
-          ],
-          Rented: false
-        },
-         {
           title: "2022 honda Civic",
           cash: "$14,000 financing",
           down: "$1,500 (Negotiable)",
@@ -551,28 +428,6 @@ const cars = [
             "imagenes/Sedan/2022 honda Civic (5).webp",
             "imagenes/Sedan/2022 honda Civic (6).webp",
           ],
-          Rented: false
-        },
-
-         {
-          title: "2010 Toyota 4runner",
-          cash: "$10,500",
-          down: "$4,000 (Negotiable)",
-          financing: "$16,000 (Negotiable)",
-          mileage: "170,000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2010 Toyota 4runner (1).webp",
-            "imagenes/Suv/2010 Toyota 4runner (2).webp",
-            "imagenes/Suv/2010 Toyota 4runner (3).webp",
-            "imagenes/Suv/2010 Toyota 4runner (4).webp",
-            "imagenes/Suv/2010 Toyota 4runner (5).webp",
-            "imagenes/Suv/2010 Toyota 4runner (6).webp",
-            "imagenes/Suv/2010 Toyota 4runner (7).webp",
-            "imagenes/Suv/2010 Toyota 4runner (8).webp",
-            "imagenes/Suv/2010 Toyota 4runner (9).webp",
-        ],
           Rented: false
         },
          {
@@ -617,24 +472,24 @@ const cars = [
           Rented: false
         },
          {
-          title: "2012 Toyota RAV4",
-          cash: "$5,500",
-          down: "$1,500 (Negotiable)",
-          financing: "$9,500 (Negotiable)",
-          mileage: "147,886",
-          make: "Suv",
+          title: "2021 Toyota Camrry híbrido",
+          cash: "$13,000 financing",
+          down: "$2,000 (Negotiable)",
+          financing: "$13,000 (Negotiable)",
+          mileage: "100,000",
+          make: "Sedan",
           description: "Clean Title",
           images: [
-            "imagenes/Suv/2012 Toyota RAV4 (1).webp",
-            "imagenes/Suv/2012 Toyota RAV4 (2).webp",
-            "imagenes/Suv/2012 Toyota RAV4 (3).webp",
-            "imagenes/Suv/2012 Toyota RAV4 (4).webp",
-            "imagenes/Suv/2012 Toyota RAV4 (5).webp",
-            "imagenes/Suv/2012 Toyota RAV4 (6).webp",
-            "imagenes/Suv/2012 Toyota RAV4 (7).webp",
-        ],
+            "imagenes/Sedan/2021 Toyota Camrry híbrido (1).webp",
+            "imagenes/Sedan/2021 Toyota Camrry híbrido (2).webp",
+            "imagenes/Sedan/2021 Toyota Camrry híbrido (3).webp",
+            "imagenes/Sedan/2021 Toyota Camrry híbrido (4).webp",
+            "imagenes/Sedan/2021 Toyota Camrry híbrido (5).webp",
+            "imagenes/Sedan/2021 Toyota Camrry híbrido (6).webp",
+          ],
           Rented: false
         },
+
 ];
 
 const itemsPerPage = 12;
