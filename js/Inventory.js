@@ -630,6 +630,24 @@ const cars = [
           ],
           Rented: false
         },
+         {
+          title: "2016 Toyota Corolla sport",
+          cash: "$7,000",
+          down: "$1,700 (Negotiable)",
+          financing: "$11,500 (Negotiable)",
+          mileage: "190,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2016 Toyota Corolla sport (1).webp",
+            "imagenes/Sedan/2016 Toyota Corolla sport (3).webp",
+            "imagenes/Sedan/2016 Toyota Corolla sport (2).webp",
+            "imagenes/Sedan/2016 Toyota Corolla sport (4).webp",
+            "imagenes/Sedan/2016 Toyota Corolla sport (5).webp",
+            "imagenes/Sedan/2016 Toyota Corolla sport (6).webp",
+          ],
+          Rented: false
+        },
 
 ];
 
