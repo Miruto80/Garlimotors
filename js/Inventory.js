@@ -648,6 +648,25 @@ const cars = [
           ],
           Rented: false
         },
+         {
+          title: "2009 honda Accord",
+          cash: "$4,500",
+          down: "$1,200 (Negotiable)",
+          financing: "$8,500 (Negotiable)",
+          mileage: "180,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2009 honda Accord (1).webp",
+            "imagenes/Sedan/2009 honda Accord (3).webp",
+            "imagenes/Sedan/2009 honda Accord (2).webp",
+            "imagenes/Sedan/2009 honda Accord (4).webp",
+            "imagenes/Sedan/2009 honda Accord (5).webp",
+            "imagenes/Sedan/2009 honda Accord (6).webp",
+            "imagenes/Sedan/2009 honda Accord (7).webp",
+          ],
+          Rented: false
+        },
 
 ];
 
