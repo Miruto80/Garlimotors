@@ -667,6 +667,26 @@ const cars = [
           ],
           Rented: false
         },
+         {
+          title: "Audi A3 2018 premium 2.0",
+          cash: "$4,500",
+          down: "$1,200 (Negotiable)",
+          financing: "$8,500 (Negotiable)",
+          mileage: "180,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (1).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (2).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (3).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (4).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (5).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (6).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (7).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (8).webp",
+          ],
+          Rented: false
+        },
 
 ];
 
