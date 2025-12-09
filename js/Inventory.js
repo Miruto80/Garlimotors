@@ -687,6 +687,63 @@ const cars = [
           ],
           Rented: false
         },
+         {
+          title: "Audi A3 2018 premium 2.0",
+          cash: "$4,500",
+          down: "$1,200 (Negotiable)",
+          financing: "$8,500 (Negotiable)",
+          mileage: "180,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (1).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (2).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (3).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (4).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (5).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (6).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (7).webp",
+            "imagenes/Sedan/Audi A3 2018 premium 2.0  (8).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "2017 Toyota Corolla",
+          cash: "$7,000",
+          down: "$1,900 (Negotiable)",
+          financing: "$10,500 (Negotiable)",
+          mileage: "180,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2017  Toyota Corolla  (1).webp",
+            "imagenes/Sedan/2017  Toyota Corolla  (2).webp",
+            "imagenes/Sedan/2017  Toyota Corolla  (3).webp",
+            "imagenes/Sedan/2017  Toyota Corolla  (4).webp",
+            "imagenes/Sedan/2017  Toyota Corolla  (5).webp",
+            "imagenes/Sedan/2017  Toyota Corolla  (6).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "Toyota Corolla 2016",
+          cash: "$7,500",
+          down: "$2,000 (Negotiable)",
+          financing: "$11,000 (Negotiable)",
+          mileage: "160,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2016 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (7).webp",
+          ],
+          Rented: false
+        },
 
 ];
 
