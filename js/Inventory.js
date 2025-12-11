@@ -781,28 +781,6 @@ const cars = [
           ],
           Rented: false
         },
-         {
-          title: "2014 Mercedes-Benz CLA CLA250",
-          cash: "$8,000",
-          down: "$2,000 (Negotiable)",
-          financing: "$11,500 (Negotiable)",
-          mileage: "115,409",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (1).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (3).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (7).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (2).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (4).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (5).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (6).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (8).webp",
-            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (9).webp",
-          ],
-          Rented: false
-        },
-
 ];
 
 const itemsPerPage = 12;
