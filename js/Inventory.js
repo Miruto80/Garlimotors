@@ -744,6 +744,64 @@ const cars = [
           ],
           Rented: false
         },
+         {
+          title: "2010 Toyota Corolla S",
+          cash: "$5,000",
+          down: "$1,500 (Negotiable)",
+          financing: "$7,500 (Negotiable)",
+          mileage: "229.000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2010 Toyota Corolla S (1).webp",
+            "imagenes/Sedan/2010 Toyota Corolla S (4).webp",
+            "imagenes/Sedan/2010 Toyota Corolla S (2).webp",
+            "imagenes/Sedan/2010 Toyota Corolla S (3).webp",
+            "imagenes/Sedan/2010 Toyota Corolla S (5).webp",
+            "imagenes/Sedan/2010 Toyota Corolla S (6).webp",
+            "imagenes/Sedan/2010 Toyota Corolla S (7).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "2012 Toyota Corolla",
+          cash: "$5,500",
+          down: "$1,500 (Negotiable)",
+          financing: "$8,000 (Negotiable)",
+          mileage: "190,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2012 Toyota Corolla (1).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (6).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (2).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (3).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (4).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (5).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "2014 Mercedes-Benz CLA CLA250",
+          cash: "$8,000",
+          down: "$2,000 (Negotiable)",
+          financing: "$11,500 (Negotiable)",
+          mileage: "115,409",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (1).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (3).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (7).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (2).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (4).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (5).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (6).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (8).webp",
+            "imagenes/Sedan/2014 Mercedes-Benz CLA CLA250 (9).webp",
+          ],
+          Rented: false
+        },
 
 ];
 
