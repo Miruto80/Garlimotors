@@ -642,6 +642,117 @@ const cars = [
           ],
           Rented: false
         },
+         {
+          title: "2009 Toyota Corolla",
+          cash: "$5,300",
+          down: "$1,300 (Negotiable)",
+          financing: "$9,000 (Negotiable)",
+          mileage: "185,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2009 Toyota Corolla (1).webp",
+            "imagenes/Sedan/2009 Toyota Corolla (2).webp",
+            "imagenes/Sedan/2009 Toyota Corolla (3).webp",
+            "imagenes/Sedan/2009 Toyota Corolla (4).webp",
+            "imagenes/Sedan/2009 Toyota Corolla (5).webp",
+            "imagenes/Sedan/2009 Toyota Corolla (6).webp",
+            "imagenes/Sedan/2009 Toyota Corolla (7).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "2009 Toyota Corolla LE",
+          cash: "$6,000",
+          down: "$1,500 (Negotiable)",
+          financing: "$8,500 (Negotiable)",
+          mileage: "159,223",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2009 Toyota Corolla LE (1).webp",
+            "imagenes/Sedan/2009 Toyota Corolla LE (2).webp",
+            "imagenes/Sedan/2009 Toyota Corolla LE (3).webp",
+            "imagenes/Sedan/2009 Toyota Corolla LE (4).webp",
+            "imagenes/Sedan/2009 Toyota Corolla LE (5).webp",
+            "imagenes/Sedan/2009 Toyota Corolla LE (6).webp",
+            "imagenes/Sedan/2009 Toyota Corolla LE (7).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "2013 Toyota Corolla LE",
+          cash: "$6,000",
+          down: "$1,500 (Negotiable)",
+          financing: "$8,500 (Negotiable)",
+          mileage: "159,223",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2013 Toyota Corolla LE (1).webp",
+            "imagenes/Sedan/2013 Toyota Corolla LE (2).webp",
+            "imagenes/Sedan/2013 Toyota Corolla LE (3).webp",
+            "imagenes/Sedan/2013 Toyota Corolla LE (4).webp",
+            "imagenes/Sedan/2013 Toyota Corolla LE (5).webp",
+            "imagenes/Sedan/2013 Toyota Corolla LE (6).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "Kia forte 2019",
+          cash: "$7,000",
+          down: "$1,700 (Negotiable)",
+          financing: "$10,500 (Negotiable)",
+          mileage: "137.000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Kia forte 2019 (1).webp",
+            "imagenes/Sedan/Kia forte 2019 (2).webp",
+            "imagenes/Sedan/Kia forte 2019 (3).webp",
+            "imagenes/Sedan/Kia forte 2019 (4).webp",
+            "imagenes/Sedan/Kia forte 2019 (5).webp",
+            "imagenes/Sedan/Kia forte 2019 (6).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "Kia forte 2020",
+          cash: "$7,300",
+          down: "$1,700 (Negotiable)",
+          financing: "$11,000 (Negotiable)",
+          mileage: "159,223",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Kia forte 2020 (1).webp",
+            "imagenes/Sedan/Kia forte 2020 (2).webp",
+            "imagenes/Sedan/Kia forte 2020 (3).webp",
+            "imagenes/Sedan/Kia forte 2020 (4).webp",
+            "imagenes/Sedan/Kia forte 2020 (5).webp",
+            "imagenes/Sedan/Kia forte 2020 (6).webp",
+            "imagenes/Sedan/Kia forte 2020 (7).webp",
+            "imagenes/Sedan/Kia forte 2020 (8).webp",
+          ],
+          Rented: false
+        },
+         {
+          title: "2014 BMW X1 SDRIVE 281",
+          cash: "$5,500",
+          down: "",
+          financing: "",
+          mileage: "160,000",
+          make: "Suv",
+          description: "",
+          images: [
+            "imagenes/Suv/2014 BMW X1 SDRIVE 281 (1).webp",
+            "imagenes/Suv/2014 BMW X1 SDRIVE 281 (2).webp",
+            "imagenes/Suv/2014 BMW X1 SDRIVE 281 (3).webp",
+            "imagenes/Suv/2014 BMW X1 SDRIVE 281 (4).webp",
+            "imagenes/Suv/2014 BMW X1 SDRIVE 281 (5).webp",
+            "imagenes/Suv/2014 BMW X1 SDRIVE 281 (6).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
