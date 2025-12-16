@@ -753,6 +753,59 @@ const cars = [
             "imagenes/Suv/2014 BMW X1 SDRIVE 281 (6).webp",
           ]
         },
+         {
+          title: "2012 Toyota Corolla Sport",
+          cash: "$6,500",
+          down: "",
+          financing: "$11,000",
+          mileage: "160,000",
+          make: "Sedan",
+          description: "",
+          images: [
+            "imagenes/Sedan/2012 Toyota Corolla Sport (1).webp",
+            "imagenes/Sedan/2012 Toyota Corolla Sport (2).webp",
+            "imagenes/Sedan/2012 Toyota Corolla Sport (3).webp",
+            "imagenes/Sedan/2012 Toyota Corolla Sport (4).webp",
+            "imagenes/Sedan/2012 Toyota Corolla Sport (5).webp",
+            "imagenes/Sedan/2012 Toyota Corolla Sport (6).webp",
+          ]
+        },
+         {
+          title: "2013 Toyota Corolla Le2",
+          cash: "$6,000",
+          down: "",
+          financing: "$10,500",
+          mileage: "182,000",
+          make: "Sedan",
+          description: "",
+          images: [
+            "imagenes/Sedan/2013 Toyota Corolla Le2 (1).webp",
+            "imagenes/Sedan/2013 Toyota Corolla Le2 (2).webp",
+            "imagenes/Sedan/2013 Toyota Corolla Le2 (3).webp",
+            "imagenes/Sedan/2013 Toyota Corolla Le2 (4).webp",
+            "imagenes/Sedan/2013 Toyota Corolla Le2 (5).webp",
+            "imagenes/Sedan/2013 Toyota Corolla Le2 (6).webp",
+            "imagenes/Sedan/2013 Toyota Corolla Le2 (7).webp",
+          ]
+        },
+         {
+          title: "2018 Toyota Corolla SE",
+          cash: "$8,500",
+          down: "$1,800",
+          financing: "$11,500",
+          mileage: "175,790",
+          make: "Sedan",
+          description: "",
+          images: [
+            "imagenes/Sedan/2018 Toyota Corolla SE (1).webp",
+            "imagenes/Sedan/2018 Toyota Corolla SE (2).webp",
+            "imagenes/Sedan/2018 Toyota Corolla SE (3).webp",
+            "imagenes/Sedan/2018 Toyota Corolla SE (4).webp",
+            "imagenes/Sedan/2018 Toyota Corolla SE (5).webp",
+            "imagenes/Sedan/2018 Toyota Corolla SE (6).webp",
+            "imagenes/Sedan/2018 Toyota Corolla SE (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
