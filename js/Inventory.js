@@ -806,6 +806,46 @@ const cars = [
             "imagenes/Sedan/2018 Toyota Corolla SE (7).webp",
           ]
         },
+         {
+          title: "2013 Toyota Corolla S",
+          cash: "$7,500",
+          down: "$1,600",
+          financing: "$10,500",
+          mileage: "170,556",
+          make: "Sedan",
+          description: "",
+          images: [
+            "imagenes/Sedan/2013 Toyota Corolla S (1).webp",
+            "imagenes/Sedan/2013 Toyota Corolla S (2).webp",
+            "imagenes/Sedan/2013 Toyota Corolla S (3).webp",
+            "imagenes/Sedan/2013 Toyota Corolla S (4).webp",
+            "imagenes/Sedan/2013 Toyota Corolla S (5).webp",
+            "imagenes/Sedan/2013 Toyota Corolla S (6).webp",
+            "imagenes/Sedan/2013 Toyota Corolla S (7).webp",
+            "imagenes/Sedan/2013 Toyota Corolla S (8).webp",
+          ]
+        },
+        {
+          title: "2019 KIA SORENTO LX",
+          cash: "$7,500",
+          down: "$2,000",
+          financing: "$12,000",
+          mileage: "156.000",
+          make: "Suv",
+          description: "",
+          images: [
+            "imagenes/Suv/2019 KIA SORENTO LX (6).webp",
+            "imagenes/Suv/2019 KIA SORENTO LX (1).webp",
+            "imagenes/Suv/2019 KIA SORENTO LX (2).webp",
+            "imagenes/Suv/2019 KIA SORENTO LX (3).webp",
+            "imagenes/Suv/2019 KIA SORENTO LX (4).webp",
+            "imagenes/Suv/2019 KIA SORENTO LX (5).webp",
+            "imagenes/Suv/2019 KIA SORENTO LX (7).webp",
+            "imagenes/Suv/2019 KIA SORENTO LX (8).webp",
+            "imagenes/Suv/2019 KIA SORENTO LX (9).webp",
+            "imagenes/Suv/2019 KIA SORENTO LX (10).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
