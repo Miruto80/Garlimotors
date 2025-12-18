@@ -619,6 +619,24 @@ const cars = [
             "imagenes/Sedan/2013 Toyota Corolla S (8).webp",
           ]
         },
+         {
+          title: "2017 Toyota Corolla SE",
+          cash: "$8,000",
+          down: "$1,800",
+          financing: "$11,500",
+          mileage: "151,892",
+          make: "Sedan",
+          description: "Cñean Title",
+          images: [
+            "imagenes/Sedan/2017 Toyota Corolla SE (1).webp",
+            "imagenes/Sedan/2017 Toyota Corolla SE (2).webp",
+            "imagenes/Sedan/2017 Toyota Corolla SE (3).webp",
+            "imagenes/Sedan/2017 Toyota Corolla SE (4).webp",
+            "imagenes/Sedan/2017 Toyota Corolla SE (5).webp",
+            "imagenes/Sedan/2017 Toyota Corolla SE (6).webp",
+            "imagenes/Sedan/2017 Toyota Corolla SE (7).webp",
+          ]
+        },
         {
           title: "2019 KIA SORENTO LX",
           cash: "$7,500",
