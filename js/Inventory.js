@@ -234,48 +234,6 @@ const cars = [
           ],
           Rented: false
         },
-     {
-          title: "2019 Subaru Forester SPORT",
-          cash: "$11,000",
-          down: "$4,000 (Negotiable)",
-          financing: "$17,000 (Negotiable)",
-          mileage: "132,147",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2019 Subaru Forester SPORT (2).webp",
-            "imagenes/Suv/2019 Subaru Forester SPORT (1).webp",
-            "imagenes/Suv/2019 Subaru Forester SPORT (4).webp",
-            "imagenes/Suv/2019 Subaru Forester SPORT (3).webp",
-            "imagenes/Suv/2019 Subaru Forester SPORT (5).webp",
-            "imagenes/Suv/2019 Subaru Forester SPORT (6).webp",
-            "imagenes/Suv/2019 Subaru Forester SPORT (7).webp",
-            "imagenes/Suv/2019 Subaru Forester SPORT (8).webp",
-          ],
-          Rented: false
-        },
-     {
-          title: "2017 Hyundai Elantra LIMITED",
-          cash: "$5,800",
-          down: "$1,700 (Negotiable)",
-          financing: "$10,500 (Negotiable)",
-          mileage: "129,756",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-              "imagenes/Sedan/2017 Hyundai Elantra LIMITED (2).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra LIMITED (1).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra LIMITED (3).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra LIMITED (4).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra LIMITED (5).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra LIMITED (6).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra LIMITED (7).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra LIMITED (8).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra LIMITED (9).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra LIMITED (10).webp",
-          ],
-          Rented: false
-        },
         {
           title: "Honda Pilot 2009",
           cash: "$5,000",
@@ -492,25 +450,6 @@ const cars = [
           Rented: false
         },
          {
-          title: "2009 Toyota Corolla",
-          cash: "$5,300",
-          down: "$1,300 (Negotiable)",
-          financing: "$9,000 (Negotiable)",
-          mileage: "185,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2009 Toyota Corolla (1).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (2).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (3).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (4).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (5).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (6).webp",
-            "imagenes/Sedan/2009 Toyota Corolla (7).webp",
-          ],
-          Rented: false
-        },
-         {
           title: "2009 Toyota Corolla LE",
           cash: "$6,000",
           down: "$1,500 (Negotiable)",
@@ -526,24 +465,6 @@ const cars = [
             "imagenes/Sedan/2009 Toyota Corolla LE (5).webp",
             "imagenes/Sedan/2009 Toyota Corolla LE (6).webp",
             "imagenes/Sedan/2009 Toyota Corolla LE (7).webp",
-          ],
-          Rented: false
-        },
-         {
-          title: "Kia forte 2019",
-          cash: "$7,000",
-          down: "$1,700 (Negotiable)",
-          financing: "$10,500 (Negotiable)",
-          mileage: "137.000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/Kia forte 2019 (1).webp",
-            "imagenes/Sedan/Kia forte 2019 (2).webp",
-            "imagenes/Sedan/Kia forte 2019 (3).webp",
-            "imagenes/Sedan/Kia forte 2019 (4).webp",
-            "imagenes/Sedan/Kia forte 2019 (5).webp",
-            "imagenes/Sedan/Kia forte 2019 (6).webp",
           ],
           Rented: false
         },
@@ -583,24 +504,6 @@ const cars = [
           ]
         },
          {
-          title: "2018 Toyota Corolla SE",
-          cash: "$8,500",
-          down: "$1,800",
-          financing: "$11,500",
-          mileage: "175,790",
-          make: "Sedan",
-          description: "",
-          images: [
-            "imagenes/Sedan/2018 Toyota Corolla SE (1).webp",
-            "imagenes/Sedan/2018 Toyota Corolla SE (2).webp",
-            "imagenes/Sedan/2018 Toyota Corolla SE (3).webp",
-            "imagenes/Sedan/2018 Toyota Corolla SE (4).webp",
-            "imagenes/Sedan/2018 Toyota Corolla SE (5).webp",
-            "imagenes/Sedan/2018 Toyota Corolla SE (6).webp",
-            "imagenes/Sedan/2018 Toyota Corolla SE (7).webp",
-          ]
-        },
-         {
           title: "2013 Toyota Corolla S",
           cash: "$7,500",
           down: "$1,600",
@@ -617,24 +520,6 @@ const cars = [
             "imagenes/Sedan/2013 Toyota Corolla S (6).webp",
             "imagenes/Sedan/2013 Toyota Corolla S (7).webp",
             "imagenes/Sedan/2013 Toyota Corolla S (8).webp",
-          ]
-        },
-         {
-          title: "2017 Toyota Corolla SE",
-          cash: "$8,000",
-          down: "$1,800",
-          financing: "$11,500",
-          mileage: "151,892",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2017 Toyota Corolla SE (1).webp",
-            "imagenes/Sedan/2017 Toyota Corolla SE (2).webp",
-            "imagenes/Sedan/2017 Toyota Corolla SE (3).webp",
-            "imagenes/Sedan/2017 Toyota Corolla SE (4).webp",
-            "imagenes/Sedan/2017 Toyota Corolla SE (5).webp",
-            "imagenes/Sedan/2017 Toyota Corolla SE (6).webp",
-            "imagenes/Sedan/2017 Toyota Corolla SE (7).webp",
           ]
         },
          {
