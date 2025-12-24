@@ -680,6 +680,47 @@ const cars = [
             "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (7).webp",
           ]
         },
+         {
+          title: "2015 Mercedez 250",
+          cash: "$8,500",
+          down: "$2,000",
+          financing: "$12,000",
+          mileage: "119.000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2015 Mercedez 250 (1).webp",
+            "imagenes/Sedan/2015 Mercedez 250 (2).webp",
+            "imagenes/Sedan/2015 Mercedez 250 (3).webp",
+            "imagenes/Sedan/2015 Mercedez 250 (4).webp",
+            "imagenes/Sedan/2015 Mercedez 250 (5).webp",
+            "imagenes/Sedan/2015 Mercedez 250 (6).webp",
+            "imagenes/Sedan/2015 Mercedez 250 (7).webp",
+            "imagenes/Sedan/2015 Mercedez 250 (8).webp",
+          ]
+        },
+         {
+          title: "2015 Toyota Corolla LE",
+          cash: "$8,000",
+          down: "$2,000",
+          financing: "$12,000",
+          mileage: "145,602",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2015 Toyota Corolla LE (3).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE (1).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE (2).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE (4).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE (5).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE (6).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE (7).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE (8).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE (9).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE (10).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE (11).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
