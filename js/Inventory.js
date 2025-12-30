@@ -721,6 +721,61 @@ const cars = [
             "imagenes/Sedan/2015 Toyota Corolla LE (11).webp",
           ]
         },
+         {
+          title: "2020 Toyota Corolla LE",
+          cash: "$11,000",
+          down: "$3,000",
+          financing: "$15,000",
+          mileage: "129,881",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2020 Toyota Corolla LE (3).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (1).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (2).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (4).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (5).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (6).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (7).webp",
+          ]
+        },
+        {
+          title: "2016 Scion iM",
+          cash: "$7,000",
+          down: "$1,800",
+          financing: "$11,000",
+          mileage: "162,579",
+          make: "Suv",
+          description: "",
+          images: [
+            "imagenes/Suv/2016 Scion iM (1).webp",
+            "imagenes/Suv/2016 Scion iM (2).webp",
+            "imagenes/Suv/2016 Scion iM (3).webp",
+            "imagenes/Suv/2016 Scion iM (4).webp",
+            "imagenes/Suv/2016 Scion iM (5).webp",
+            "imagenes/Suv/2016 Scion iM (6).webp",
+            "imagenes/Suv/2016 Scion iM (7).webp",
+            "imagenes/Suv/2016 Scion iM (8).webp",
+          ]
+        },
+        {
+          title: "2019 Toyota RAV4 LE",
+          cash: "$12,000",
+          down: "$3,500",
+          financing: "$17,500",
+          mileage: "190.000",
+          make: "Suv",
+          description: "",
+          images: [
+            "imagenes/Suv/2019 Toyota RAV4 LE (1).webp",
+            "imagenes/Suv/2019 Toyota RAV4 LE (2).webp",
+            "imagenes/Suv/2019 Toyota RAV4 LE (3).webp",
+            "imagenes/Suv/2019 Toyota RAV4 LE (4).webp",
+            "imagenes/Suv/2019 Toyota RAV4 LE (5).webp",
+            "imagenes/Suv/2019 Toyota RAV4 LE (6).webp",
+            "imagenes/Suv/2019 Toyota RAV4 LE (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
