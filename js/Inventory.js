@@ -776,6 +776,63 @@ const cars = [
             "imagenes/Suv/2019 Toyota RAV4 LE (7).webp",
           ]
         },
+         {
+          title: "2014 Toyota Camry SE",
+          cash: "$6,000",
+          down: "$1,500",
+          financing: "$10,500",
+          mileage: "178.000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2014 Toyota Camry SE (1).webp",
+            "imagenes/Sedan/2014 Toyota Camry SE (2).webp",
+            "imagenes/Sedan/2014 Toyota Camry SE (3).webp",
+            "imagenes/Sedan/2014 Toyota Camry SE (4).webp",
+            "imagenes/Sedan/2014 Toyota Camry SE (5).webp",
+            "imagenes/Sedan/2014 Toyota Camry SE (6).webp",
+            "imagenes/Sedan/2014 Toyota Camry SE (7).webp",
+          ]
+        },
+         {
+          title: "2015 Toyota Corolla LE2",
+          cash: "$7,500",
+          down: "$1,800",
+          financing: "$11,500",
+          mileage: "149,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2015 Toyota Corolla LE2 (1).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE2 (2).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE2 (3).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE2 (4).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE2 (5).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE2 (6).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE2 (7).webp",
+            "imagenes/Sedan/2015 Toyota Corolla LE2 (8).webp",
+          ]
+        },
+         {
+          title: "2017 Toyota Corolla sport2",
+          cash: "$8,800",
+          down: "$2,000",
+          financing: "$13,500",
+          mileage: "152,760",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2017 Toyota Corolla sport2 (1).webp",
+            "imagenes/Sedan/2017 Toyota Corolla sport2 (2).webp",
+            "imagenes/Sedan/2017 Toyota Corolla sport2 (3).webp",
+            "imagenes/Sedan/2017 Toyota Corolla sport2 (4).webp",
+            "imagenes/Sedan/2017 Toyota Corolla sport2 (5).webp",
+            "imagenes/Sedan/2017 Toyota Corolla sport2 (6).webp",
+            "imagenes/Sedan/2017 Toyota Corolla sport2 (7).webp",
+            "imagenes/Sedan/2017 Toyota Corolla sport2 (8).webp",
+            "imagenes/Sedan/2017 Toyota Corolla sport2 (9).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
