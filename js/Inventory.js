@@ -195,24 +195,6 @@ const cars = [
             "imagenes/Suv/Toyota 4runner 2008 (9).webp"
         ]
     },
-    {
-            title: "Chevrolet ssr 2004",
-            cash: "$17.500$",
-            down: "",
-            financing: "",
-            mileage: "89.985",
-            make: "Truck",
-            description: "Clean Title",
-            images: [
-                "imagenes/Trucks/Chevrolet ssr 2004 (1).webp",
-                "imagenes/Trucks/Chevrolet ssr 2004 (2).webp",
-                "imagenes/Trucks/Chevrolet ssr 2004 (3).webp",
-                "imagenes/Trucks/Chevrolet ssr 2004 (4).webp",
-                "imagenes/Trucks/Chevrolet ssr 2004 (5).webp",
-                "imagenes/Trucks/Chevrolet ssr 2004 (6).webp",
-                "imagenes/Trucks/Chevrolet ssr 2004 (7).webp",
-            ]
-    },
      {
           title: "2012 Subaru forester",
           cash: "$5,000",
@@ -333,43 +315,6 @@ const cars = [
           Rented: false
         },
          {
-          title: "2021 Toyota Camrry híbrido",
-          cash: "$13,000 financing",
-          down: "$2,000 (Negotiable)",
-          financing: "$13,000 (Negotiable)",
-          mileage: "100,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2021 Toyota Camrry híbrido (1).webp",
-            "imagenes/Sedan/2021 Toyota Camrry híbrido (2).webp",
-            "imagenes/Sedan/2021 Toyota Camrry híbrido (3).webp",
-            "imagenes/Sedan/2021 Toyota Camrry híbrido (4).webp",
-            "imagenes/Sedan/2021 Toyota Camrry híbrido (5).webp",
-            "imagenes/Sedan/2021 Toyota Camrry híbrido (6).webp",
-          ],
-          Rented: false
-        },
-         {
-          title: "2010 Toyota Corolla",
-          cash: "$5,500",
-          down: "$1,500 (Negotiable)",
-          financing: "$9,500 (Negotiable)",
-          mileage: "157,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2010 Toyota Corolla 1 (1).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 1 (2).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 1 (3).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 1 (4).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 1 (5).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 1 (6).webp",
-            "imagenes/Sedan/2010 Toyota Corolla 1 (7).webp",
-          ],
-          Rented: false
-        },
-         {
           title: "2016 Mercedes-Benz C-Class C300",
           cash: "$9,000",
           down: "$2,500 (Negotiable)",
@@ -412,26 +357,6 @@ const cars = [
           Rented: false
         },
          {
-          title: "Toyota Camrry 2012",
-          cash: "$6,500",
-          down: "$1,400 (Negotiable)",
-          financing: "$10,500 (Negotiable)",
-          mileage: "167,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/Toyota Camrry 2012 (1).webp",
-            "imagenes/Sedan/Toyota Camrry 2012 (2).webp",
-            "imagenes/Sedan/Toyota Camrry 2012 (3).webp",
-            "imagenes/Sedan/Toyota Camrry 2012 (4).webp",
-            "imagenes/Sedan/Toyota Camrry 2012 (5).webp",
-            "imagenes/Sedan/Toyota Camrry 2012 (6).webp",
-            "imagenes/Sedan/Toyota Camrry 2012 (7).webp",
-            "imagenes/Sedan/Toyota Camrry 2012 (8).webp",
-          ],
-          Rented: false
-        },
-         {
           title: "2012 Toyota Corolla",
           cash: "$5,500",
           down: "$1,500 (Negotiable)",
@@ -446,25 +371,6 @@ const cars = [
             "imagenes/Sedan/2012 Toyota Corolla (3).webp",
             "imagenes/Sedan/2012 Toyota Corolla (4).webp",
             "imagenes/Sedan/2012 Toyota Corolla (5).webp",
-          ],
-          Rented: false
-        },
-         {
-          title: "2009 Toyota Corolla LE",
-          cash: "$6,000",
-          down: "$1,500 (Negotiable)",
-          financing: "$8,500 (Negotiable)",
-          mileage: "159,223",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2009 Toyota Corolla LE (1).webp",
-            "imagenes/Sedan/2009 Toyota Corolla LE (2).webp",
-            "imagenes/Sedan/2009 Toyota Corolla LE (3).webp",
-            "imagenes/Sedan/2009 Toyota Corolla LE (4).webp",
-            "imagenes/Sedan/2009 Toyota Corolla LE (5).webp",
-            "imagenes/Sedan/2009 Toyota Corolla LE (6).webp",
-            "imagenes/Sedan/2009 Toyota Corolla LE (7).webp",
           ],
           Rented: false
         },
@@ -520,66 +426,6 @@ const cars = [
             "imagenes/Sedan/2013 Toyota Corolla S (6).webp",
             "imagenes/Sedan/2013 Toyota Corolla S (7).webp",
             "imagenes/Sedan/2013 Toyota Corolla S (8).webp",
-          ]
-        },
-         {
-          title: "2011 Toyota Corolla S",
-          cash: "$5,500",
-          down: "$1,500",
-          financing: "$8,500",
-          mileage: "170,210",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2011 Toyota Corolla S (1).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (2).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (3).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (4).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (5).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (6).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (7).webp",
-          ]
-        },
-         {
-          title: "2017 Hyundai Elantra SE 3",
-          cash: "$4,500",
-          down: "$1,500",
-          financing: "$8,500",
-          mileage: "150,279",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2017 Hyundai Elantra SE 3 (1).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE 3 (2).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE 3 (3).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE 3 (4).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE 3 (5).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE 3 (6).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE 3 (7).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE 3 (8).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE 3 (9).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra SE 3 (10).webp",
-          ]
-        },
-         {
-          title: "2019 Hyundai Elantra",
-          cash: "$7,500",
-          down: "$1,800",
-          financing: "$11,000",
-          mileage: "91,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2019 Hyundai Elantra (1).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (2).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (3).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (4).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (5).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (6).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (8).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (9).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (10).webp",
           ]
         },
          {
@@ -643,26 +489,6 @@ const cars = [
           ]
         },
         {
-          title: "2012 Toyota 4Runner SR5",
-          cash: "$11,000",
-          down: "$3,500",
-          financing: "$15,000",
-          mileage: "218,672",
-          make: "Suv",
-          description: "",
-          images: [
-            "imagenes/Suv/2012 Toyota 4Runner SR5 (1).webp",
-            "imagenes/Suv/2012 Toyota 4Runner SR5 (2).webp",
-            "imagenes/Suv/2012 Toyota 4Runner SR5 (3).webp",
-            "imagenes/Suv/2012 Toyota 4Runner SR5 (4).webp",
-            "imagenes/Suv/2012 Toyota 4Runner SR5 (5).webp",
-            "imagenes/Suv/2012 Toyota 4Runner SR5 (6).webp",
-            "imagenes/Suv/2012 Toyota 4Runner SR5 (7).webp",
-            "imagenes/Suv/2012 Toyota 4Runner SR5 (8).webp",
-            "imagenes/Suv/2012 Toyota 4Runner SR5 (9).webp",
-          ]
-        },
-        {
           title: "2013 Mercedes-Benz GLK-Class GLK350",
           cash: "$6,500",
           down: "$2,000",
@@ -678,25 +504,6 @@ const cars = [
             "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (5).webp",
             "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (6).webp",
             "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (7).webp",
-          ]
-        },
-         {
-          title: "2015 Mercedez 250",
-          cash: "$8,500",
-          down: "$2,000",
-          financing: "$12,000",
-          mileage: "119.000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2015 Mercedez 250 (1).webp",
-            "imagenes/Sedan/2015 Mercedez 250 (2).webp",
-            "imagenes/Sedan/2015 Mercedez 250 (3).webp",
-            "imagenes/Sedan/2015 Mercedez 250 (4).webp",
-            "imagenes/Sedan/2015 Mercedez 250 (5).webp",
-            "imagenes/Sedan/2015 Mercedez 250 (6).webp",
-            "imagenes/Sedan/2015 Mercedez 250 (7).webp",
-            "imagenes/Sedan/2015 Mercedez 250 (8).webp",
           ]
         },
          {
