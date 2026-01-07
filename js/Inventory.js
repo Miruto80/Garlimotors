@@ -580,6 +580,24 @@ const cars = [
             "imagenes/Sedan/2015 Toyota Corolla LE2 (8).webp",
           ]
         },
+         {
+          title: "2020 Toyota Corolla LE",
+          cash: "$11,000",
+          down: "$2,800",
+          financing: "$15,500",
+          mileage: "147,121",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2020 Toyota Corolla LE (1).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (2).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (3).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (4).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (5).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (6).webp",
+            "imagenes/Sedan/2020 Toyota Corolla LE (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
