@@ -689,6 +689,60 @@ const cars = [
             "imagenes/Sedan/2017 Hyundai Sonata (7).webp",
           ]
         },
+         {
+          title: "2013 Lexus 200h",
+          cash: "$5,000",
+          down: "$1,500",
+          financing: "$9,000",
+          mileage: "187.900",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2013 Lexus 200h (1).webp",
+            "imagenes/Sedan/2013 Lexus 200h (2).webp",
+            "imagenes/Sedan/2013 Lexus 200h (3).webp",
+            "imagenes/Sedan/2013 Lexus 200h (4).webp",
+            "imagenes/Sedan/2013 Lexus 200h (5).webp",
+            "imagenes/Sedan/2013 Lexus 200h (6).webp",
+            "imagenes/Sedan/2013 Lexus 200h (7).webp",
+            "imagenes/Sedan/2013 Lexus 200h (8).webp",
+          ]
+        },
+         {
+          title: "2018 Toyota higlander",
+          cash: "$13,000",
+          down: "$4,000",
+          financing: "$18,000",
+          mileage: "167.000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2018 Toyota higlander (1).webp",
+            "imagenes/Suv/2018 Toyota higlander (2).webp",
+            "imagenes/Suv/2018 Toyota higlander (3).webp",
+            "imagenes/Suv/2018 Toyota higlander (4).webp",
+            "imagenes/Suv/2018 Toyota higlander (5).webp",
+            "imagenes/Suv/2018 Toyota higlander (6).webp",
+          ]
+        },
+         {
+          title: "2012 Chevrolet silverado 2500",
+          cash: "$9,000",
+          down: "$3,500",
+          financing: "$15,000",
+          mileage: "135.000",
+          make: "Truck",
+          description: "Clean Title",
+          images: [
+            "imagenes/Trucks/2012 Chevrolet silverado 2500 (1).webp",
+            "imagenes/Trucks/2012 Chevrolet silverado 2500 (2).webp",
+            "imagenes/Trucks/2012 Chevrolet silverado 2500 (3).webp",
+            "imagenes/Trucks/2012 Chevrolet silverado 2500 (4).webp",
+            "imagenes/Trucks/2012 Chevrolet silverado 2500 (5).webp",
+            "imagenes/Trucks/2012 Chevrolet silverado 2500 (6).webp",
+            "imagenes/Trucks/2012 Chevrolet silverado 2500 (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
