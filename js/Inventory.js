@@ -784,9 +784,9 @@ const cars = [
         },
          {
           title: "Toyota Yaris 2018",
-          cash: "$5,000",
-          down: "$1,500",
-          financing: "$9,000",
+          cash: "$6,500",
+          down: "$1,600",
+          financing: "$10,500",
           mileage: "210.000",
           make: "Sedan",
           description: "Clean Title",
