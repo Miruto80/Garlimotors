@@ -743,6 +743,62 @@ const cars = [
             "imagenes/Trucks/2012 Chevrolet silverado 2500 (7).webp",
           ]
         },
+         {
+          title: "2016 Toyota Camry SE",
+          cash: "$7,000",
+          down: "$1,800",
+          financing: "$11,000",
+          mileage: "164,019",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2016 Toyota Camry SE (1).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (2).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (3).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (4).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (5).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (6).webp",
+            "imagenes/Sedan/2016 Toyota Camry SE (7).webp",
+          ]
+        },
+         {
+          title: "Toyota Camrry 2013",
+          cash: "$5,000",
+          down: "$1,500",
+          financing: "$9,500",
+          mileage: "194.000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Camrry 2013 (1).webp",
+            "imagenes/Sedan/Toyota Camrry 2013 (2).webp",
+            "imagenes/Sedan/Toyota Camrry 2013 (3).webp",
+            "imagenes/Sedan/Toyota Camrry 2013 (4).webp",
+            "imagenes/Sedan/Toyota Camrry 2013 (5).webp",
+            "imagenes/Sedan/Toyota Camrry 2013 (6).webp",
+            "imagenes/Sedan/Toyota Camrry 2013 (7).webp",
+            "imagenes/Sedan/Toyota Camrry 2013 (8).webp",
+            "imagenes/Sedan/Toyota Camrry 2013 (9).webp",
+            "imagenes/Sedan/Toyota Camrry 2013 (10).webp",
+          ]
+        },
+         {
+          title: "Toyota Yaris 2018",
+          cash: "$5,000",
+          down: "$1,500",
+          financing: "$9,000",
+          mileage: "210.000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Yaris 2018 2 (1).webp",
+            "imagenes/Sedan/Toyota Yaris 2018 2 (2).webp",
+            "imagenes/Sedan/Toyota Yaris 2018 2 (3).webp",
+            "imagenes/Sedan/Toyota Yaris 2018 2 (4).webp",
+            "imagenes/Sedan/Toyota Yaris 2018 2 (5).webp",
+            "imagenes/Sedan/Toyota Yaris 2018 2 (6).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
