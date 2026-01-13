@@ -562,43 +562,6 @@ const cars = [
           ]
         },
          {
-          title: "2015 Toyota Corolla LE",
-          cash: "$7,500",
-          down: "$1,800",
-          financing: "$11,500",
-          mileage: "149,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2015 Toyota Corolla LE2 (1).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE2 (2).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE2 (3).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE2 (4).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE2 (5).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE2 (6).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE2 (7).webp",
-            "imagenes/Sedan/2015 Toyota Corolla LE2 (8).webp",
-          ]
-        },
-         {
-          title: "2020 Toyota Corolla LE",
-          cash: "$11,000",
-          down: "$2,800",
-          financing: "$15,500",
-          mileage: "147,121",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2020 Toyota Corolla LE (1).webp",
-            "imagenes/Sedan/2020 Toyota Corolla LE (2).webp",
-            "imagenes/Sedan/2020 Toyota Corolla LE (3).webp",
-            "imagenes/Sedan/2020 Toyota Corolla LE (4).webp",
-            "imagenes/Sedan/2020 Toyota Corolla LE (5).webp",
-            "imagenes/Sedan/2020 Toyota Corolla LE (6).webp",
-            "imagenes/Sedan/2020 Toyota Corolla LE (7).webp",
-          ]
-        },
-         {
           title: "1997 jaguar XJ6",
           cash: "$1,800",
           down: "",
@@ -613,62 +576,6 @@ const cars = [
             "imagenes/Sedan/1997 jaguar XJ6 (4).webp",
             "imagenes/Sedan/1997 jaguar XJ6 (5).webp",
             "imagenes/Sedan/1997 jaguar XJ6 (6).webp",
-          ]
-        },
-        {
-          title: "2014 Toyota Camry SE",
-          cash: "$5,500",
-          down: "$1,500",
-          financing: "$1,500",
-          mileage: "164.000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2014 Toyota Camry SE 2 (1).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE 2 (2).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE 2 (3).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE 2 (4).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE 2 (5).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE 2 (6).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE 2 (7).webp",
-          ]
-        },
-         {
-          title: "2014 Toyota Corolla",
-          cash: "$7,000",
-          down: "$1,800",
-          financing: "$10,500",
-          mileage: "191.000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2014 Toyota Corolla (1).webp",
-            "imagenes/Sedan/2014 Toyota Corolla (2).webp",
-            "imagenes/Sedan/2014 Toyota Corolla (3).webp",
-            "imagenes/Sedan/2014 Toyota Corolla (4).webp",
-            "imagenes/Sedan/2014 Toyota Corolla (5).webp",
-            "imagenes/Sedan/2014 Toyota Corolla (6).webp",
-            "imagenes/Sedan/2014 Toyota Corolla (7).webp",
-            "imagenes/Sedan/2014 Toyota Corolla (8).webp",
-            "imagenes/Sedan/2014 Toyota Corolla (9).webp",
-          ]
-        },
-         {
-          title: "2014 Toyota Corolla S",
-          cash: "$6,500",
-          down: "$1,500",
-          financing: "$10,500",
-          mileage: "124,932",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2014 Toyota Corolla S (1).webp",
-            "imagenes/Sedan/2014 Toyota Corolla S (2).webp",
-            "imagenes/Sedan/2014 Toyota Corolla S (3).webp",
-            "imagenes/Sedan/2014 Toyota Corolla S (4).webp",
-            "imagenes/Sedan/2014 Toyota Corolla S (5).webp",
-            "imagenes/Sedan/2014 Toyota Corolla S (6).webp",
-            "imagenes/Sedan/2014 Toyota Corolla S (7).webp",
           ]
         },
          {
