@@ -706,6 +706,65 @@ const cars = [
             "imagenes/Sedan/Toyota Yaris 2018 2 (6).webp",
           ]
         },
+        {
+          title: "2010 Toyota 4runner",
+          cash: "$10,500",
+          down: "$3,500",
+          financing: "$15,500",
+          mileage: "210.000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2010 Toyota 4runner (1).webp",
+            "imagenes/Suv/2010 Toyota 4runner (2).webp",
+            "imagenes/Suv/2010 Toyota 4runner (3).webp",
+            "imagenes/Suv/2010 Toyota 4runner (4).webp",
+            "imagenes/Suv/2010 Toyota 4runner (5).webp",
+            "imagenes/Suv/2010 Toyota 4runner (6).webp",
+            "imagenes/Suv/2010 Toyota 4runner (7).webp",
+            "imagenes/Suv/2010 Toyota 4runner (8).webp",
+            "imagenes/Suv/2010 Toyota 4runner (9).webp",
+            "imagenes/Suv/2010 Toyota 4runner (10).webp",
+          ]
+        },
+        {
+          title: "2011 honda odyseey",
+          cash: "$4,700",
+          down: "$1,500",
+          financing: "$9,000",
+          mileage: "150.000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2011 honda odyseey (1).webp",
+            "imagenes/Suv/2011 honda odyseey (2).webp",
+            "imagenes/Suv/2011 honda odyseey (3).webp",
+            "imagenes/Suv/2011 honda odyseey (4).webp",
+            "imagenes/Suv/2011 honda odyseey (5).webp",
+            "imagenes/Suv/2011 honda odyseey (6).webp",
+            "imagenes/Suv/2011 honda odyseey (7).webp",
+            "imagenes/Suv/2011 honda odyseey (8).webp",
+          ]
+        },
+        {
+          title: "2018 BMW x2",
+          cash: "$8,000",
+          down: "$3,000",
+          financing: "$14,500",
+          mileage: "167.000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2018 BMW x2 (1).webp",
+            "imagenes/Suv/2018 BMW x2 (2).webp",
+            "imagenes/Suv/2018 BMW x2 (3).webp",
+            "imagenes/Suv/2018 BMW x2 (4).webp",
+            "imagenes/Suv/2018 BMW x2 (5).webp",
+            "imagenes/Suv/2018 BMW x2 (6).webp",
+            "imagenes/Suv/2018 BMW x2 (7).webp",
+            "imagenes/Suv/2018 BMW x2 (8).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
