@@ -765,6 +765,44 @@ const cars = [
             "imagenes/Suv/2018 BMW x2 (8).webp",
           ]
         },
+         {
+          title: "2020 Toyota Corolla SE",
+          cash: "$11,000",
+          down: "$2,800",
+          financing: "$15,500",
+          mileage: "129,848",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2020 Toyota Corolla SE (1).webp",
+            "imagenes/Sedan/2020 Toyota Corolla SE (2).webp",
+            "imagenes/Sedan/2020 Toyota Corolla SE (3).webp",
+            "imagenes/Sedan/2020 Toyota Corolla SE (4).webp",
+            "imagenes/Sedan/2020 Toyota Corolla SE (5).webp",
+            "imagenes/Sedan/2020 Toyota Corolla SE (6).webp",
+            "imagenes/Sedan/2020 Toyota Corolla SE (7).webp",
+            "imagenes/Sedan/2020 Toyota Corolla SE (8).webp",
+          ]
+        },
+         {
+          title: "2018 Chevrolet Silverado 2500HD",
+          cash: "$9,500",
+          down: "$3,000",
+          financing: "$14,000",
+          mileage: "189.290",
+          make: "Truck",
+          description: "Clean Title",
+          images: [
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (1).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (2).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (3).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (4).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (5).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (6).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (7).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (8).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
