@@ -803,6 +803,25 @@ const cars = [
             "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (8).webp",
           ]
         },
+         {
+          title: "2014 Ford F150",
+          cash: "$9,000",
+          down: "",
+          financing: "",
+          mileage: "222.500",
+          make: "Truck",
+          description: "Clean Title",
+          images: [
+            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (1).webp",
+            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (2).webp",
+            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (3).webp",
+            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (4).webp",
+            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (5).webp",
+            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (6).webp",
+            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (7).webp",
+            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (8).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
