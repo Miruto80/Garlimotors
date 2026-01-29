@@ -822,6 +822,24 @@ const cars = [
             "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (8).webp",
           ]
         },
+         {
+          title: "2019 Toyota Highlander LE",
+          cash: "$11,000",
+          down: "$3,000",
+          financing: "$16,500",
+          mileage: "192.168",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2019 Toyota Highlander LE (1).webp",
+            "imagenes/Suv/2019 Toyota Highlander LE (4).webp",
+            "imagenes/Suv/2019 Toyota Highlander LE (2).webp",
+            "imagenes/Suv/2019 Toyota Highlander LE (3).webp",
+            "imagenes/Suv/2019 Toyota Highlander LE (5).webp",
+            "imagenes/Suv/2019 Toyota Highlander LE (6).webp",
+            "imagenes/Suv/2019 Toyota Highlander LE (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
