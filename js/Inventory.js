@@ -1,21 +1,4 @@
 const cars = [
-    {
-        title: "2019 Volkswagen Jetta",
-        cash: "$7,300",
-        down: "$1,500 (Negotiable)",
-        financing: "$10,500 (Negotiable)",
-        mileage: "166,000",
-        make: "Sedan",
-        description: "Clean Title",
-        images: [
-            "imagenes/Sedan/2019 volkswagen jetta (1) N.webp",
-            "imagenes/Sedan/2019 volkswagen jetta (2) N.webp",
-            "imagenes/Sedan/2019 volkswagen jetta (3) N.webp",
-            "imagenes/Sedan/2019 volkswagen jetta (4) N.webp",
-            "imagenes/Sedan/2019 volkswagen jetta (5) N.webp",
-            "imagenes/Sedan/2019 volkswagen jetta (6) N.webp"
-        ]
-    },
         {
           title: "2006 LEXUS RX",
           cash: "$4,500",
@@ -175,26 +158,6 @@ const cars = [
             ],
              Rented:true
         },
-    {
-        title: "Toyota 4runner 2008",
-        cash: "$8,500",
-        down: "$5,000 (Negotiable)",
-        financing: "$14,000 (Negotiable)",
-        mileage: "103.000",
-        make: "Suv",
-        description: "Clean Title",
-        images: [
-            "imagenes/Suv/Toyota 4runner 2008 (1).webp",
-            "imagenes/Suv/Toyota 4runner 2008 (2).webp",
-            "imagenes/Suv/Toyota 4runner 2008 (3).webp",
-            "imagenes/Suv/Toyota 4runner 2008 (4).webp",
-            "imagenes/Suv/Toyota 4runner 2008 (5).webp",
-            "imagenes/Suv/Toyota 4runner 2008 (6).webp",
-            "imagenes/Suv/Toyota 4runner 2008 (7).webp",
-            "imagenes/Suv/Toyota 4runner 2008 (8).webp",
-            "imagenes/Suv/Toyota 4runner 2008 (9).webp"
-        ]
-    },
      {
           title: "2012 Subaru forester",
           cash: "$5,000",
@@ -214,7 +177,7 @@ const cars = [
             "imagenes/Suv/2012 Subaru forester (7).webp",
             "imagenes/Suv/2012 Subaru forester (8).webp"
           ],
-          Rented: false
+          Rented: true
         },
         {
           title: "Honda Pilot 2009",
@@ -611,6 +574,23 @@ const cars = [
             "imagenes/Sedan/2020 Toyota Camry SE (4).webp",
             "imagenes/Sedan/2020 Toyota Camry SE (5).webp",
             "imagenes/Sedan/2020 Toyota Camry SE (6).webp",
+          ]
+        },
+        {
+          title: "2022 Honda Civic LX",
+          cash: "$12,500",
+          down: "$4,000",
+          financing: "$16,000",
+          mileage: "71,272",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2022 Honda Civic LX (1).webp",
+            "imagenes/Sedan/2022 Honda Civic LX (2).webp",
+            "imagenes/Sedan/2022 Honda Civic LX (3).webp",
+            "imagenes/Sedan/2022 Honda Civic LX (4).webp",
+            "imagenes/Sedan/2022 Honda Civic LX (5).webp",
+            "imagenes/Sedan/2022 Honda Civic LX (6).webp",
           ]
         },
 ];
