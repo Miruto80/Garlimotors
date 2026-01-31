@@ -236,25 +236,6 @@ const cars = [
         ],
           Rented: false
         },
-     {
-          title: "2008 Toyota 4Runner SR5",
-          cash: "$7,500",
-          down: "$2,000 (Negotiable)",
-          financing: "$11,000 (Negotiable)",
-          mileage: "194,608",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2008 Toyota 4Runner SR5 (1).webp",
-            "imagenes/Suv/2008 Toyota 4Runner SR5 (2).webp",
-            "imagenes/Suv/2008 Toyota 4Runner SR5 (3).webp",
-            "imagenes/Suv/2008 Toyota 4Runner SR5 (4).webp",
-            "imagenes/Suv/2008 Toyota 4Runner SR5 (5).webp",
-            "imagenes/Suv/2008 Toyota 4Runner SR5 (6).webp",
-            "imagenes/Suv/2008 Toyota 4Runner SR5 (7).webp",
-        ],
-          Rented: false
-        },
          {
           title: "2021 Kia rio",
           cash: "$8,000",
@@ -357,59 +338,6 @@ const cars = [
           Rented: false
         },
          {
-          title: "2012 Toyota Corolla",
-          cash: "$5,500",
-          down: "$1,500 (Negotiable)",
-          financing: "$8,000 (Negotiable)",
-          mileage: "190,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2012 Toyota Corolla (1).webp",
-            "imagenes/Sedan/2012 Toyota Corolla (6).webp",
-            "imagenes/Sedan/2012 Toyota Corolla (2).webp",
-            "imagenes/Sedan/2012 Toyota Corolla (3).webp",
-            "imagenes/Sedan/2012 Toyota Corolla (4).webp",
-            "imagenes/Sedan/2012 Toyota Corolla (5).webp",
-          ],
-          Rented: false
-        },
-         {
-          title: "2012 Toyota Corolla Sport",
-          cash: "$6,500",
-          down: "",
-          financing: "$11,000",
-          mileage: "160,000",
-          make: "Sedan",
-          description: "",
-          images: [
-            "imagenes/Sedan/2012 Toyota Corolla Sport (1).webp",
-            "imagenes/Sedan/2012 Toyota Corolla Sport (2).webp",
-            "imagenes/Sedan/2012 Toyota Corolla Sport (3).webp",
-            "imagenes/Sedan/2012 Toyota Corolla Sport (4).webp",
-            "imagenes/Sedan/2012 Toyota Corolla Sport (5).webp",
-            "imagenes/Sedan/2012 Toyota Corolla Sport (6).webp",
-          ]
-        },
-         {
-          title: "2013 Toyota Corolla Le2",
-          cash: "$6,000",
-          down: "",
-          financing: "$10,500",
-          mileage: "182,000",
-          make: "Sedan",
-          description: "",
-          images: [
-            "imagenes/Sedan/2013 Toyota Corolla Le2 (1).webp",
-            "imagenes/Sedan/2013 Toyota Corolla Le2 (2).webp",
-            "imagenes/Sedan/2013 Toyota Corolla Le2 (3).webp",
-            "imagenes/Sedan/2013 Toyota Corolla Le2 (4).webp",
-            "imagenes/Sedan/2013 Toyota Corolla Le2 (5).webp",
-            "imagenes/Sedan/2013 Toyota Corolla Le2 (6).webp",
-            "imagenes/Sedan/2013 Toyota Corolla Le2 (7).webp",
-          ]
-        },
-         {
           title: "2013 Toyota Corolla S",
           cash: "$7,500",
           down: "$1,600",
@@ -426,45 +354,6 @@ const cars = [
             "imagenes/Sedan/2013 Toyota Corolla S (6).webp",
             "imagenes/Sedan/2013 Toyota Corolla S (7).webp",
             "imagenes/Sedan/2013 Toyota Corolla S (8).webp",
-          ]
-        },
-         {
-          title: "2017 Toyota Camry LE",
-          cash: "$7,500",
-          down: "$1,800",
-          financing: "$10,500",
-          mileage: "181.000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2017 Toyota Camry LE (1).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (2).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (3).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (4).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (5).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (6).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (7).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (8).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE (9).webp",
-          ]
-        },
-         {
-          title: "2017 Toyota Camry LE",
-          cash: "$8,000",
-          down: "$2,000",
-          financing: "$11,000",
-          mileage: "159,395",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2017 Toyota Camry LE 2 (1).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE 2 (2).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE 2 (3).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE 2 (4).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE 2 (5).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE 2 (6).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE 2 (7).webp",
-            "imagenes/Sedan/2017 Toyota Camry LE 2 (8).webp",
           ]
         },
         {
@@ -507,25 +396,6 @@ const cars = [
           ]
         },
         {
-          title: "2016 Scion iM",
-          cash: "$7,000",
-          down: "$1,800",
-          financing: "$11,000",
-          mileage: "162,579",
-          make: "Suv",
-          description: "",
-          images: [
-            "imagenes/Suv/2016 Scion iM (1).webp",
-            "imagenes/Suv/2016 Scion iM (2).webp",
-            "imagenes/Suv/2016 Scion iM (3).webp",
-            "imagenes/Suv/2016 Scion iM (4).webp",
-            "imagenes/Suv/2016 Scion iM (5).webp",
-            "imagenes/Suv/2016 Scion iM (6).webp",
-            "imagenes/Suv/2016 Scion iM (7).webp",
-            "imagenes/Suv/2016 Scion iM (8).webp",
-          ]
-        },
-        {
           title: "2019 Toyota RAV4 LE",
           cash: "$12,000",
           down: "$3,500",
@@ -541,41 +411,6 @@ const cars = [
             "imagenes/Suv/2019 Toyota RAV4 LE (5).webp",
             "imagenes/Suv/2019 Toyota RAV4 LE (6).webp",
             "imagenes/Suv/2019 Toyota RAV4 LE (7).webp",
-          ]
-        },
-         {
-          title: "2014 Toyota Camry SE",
-          cash: "$6,000",
-          down: "$1,500",
-          financing: "$10,500",
-          mileage: "178.000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2014 Toyota Camry SE (1).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE (2).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE (3).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE (4).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE (5).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE (6).webp",
-            "imagenes/Sedan/2014 Toyota Camry SE (7).webp",
-          ]
-        },
-         {
-          title: "1997 jaguar XJ6",
-          cash: "$1,800",
-          down: "",
-          financing: "",
-          mileage: "147,121",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/1997 jaguar XJ6 (1).webp",
-            "imagenes/Sedan/1997 jaguar XJ6 (2).webp",
-            "imagenes/Sedan/1997 jaguar XJ6 (3).webp",
-            "imagenes/Sedan/1997 jaguar XJ6 (4).webp",
-            "imagenes/Sedan/1997 jaguar XJ6 (5).webp",
-            "imagenes/Sedan/1997 jaguar XJ6 (6).webp",
           ]
         },
          {
@@ -651,45 +486,6 @@ const cars = [
           ]
         },
          {
-          title: "2016 Toyota Camry SE",
-          cash: "$7,000",
-          down: "$1,800",
-          financing: "$11,000",
-          mileage: "164,019",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2016 Toyota Camry SE (1).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (2).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (3).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (4).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (5).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (6).webp",
-            "imagenes/Sedan/2016 Toyota Camry SE (7).webp",
-          ]
-        },
-         {
-          title: "Toyota Camrry 2013",
-          cash: "$5,000",
-          down: "$1,500",
-          financing: "$9,500",
-          mileage: "194.000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/Toyota Camrry 2013 (1).webp",
-            "imagenes/Sedan/Toyota Camrry 2013 (2).webp",
-            "imagenes/Sedan/Toyota Camrry 2013 (3).webp",
-            "imagenes/Sedan/Toyota Camrry 2013 (4).webp",
-            "imagenes/Sedan/Toyota Camrry 2013 (5).webp",
-            "imagenes/Sedan/Toyota Camrry 2013 (6).webp",
-            "imagenes/Sedan/Toyota Camrry 2013 (7).webp",
-            "imagenes/Sedan/Toyota Camrry 2013 (8).webp",
-            "imagenes/Sedan/Toyota Camrry 2013 (9).webp",
-            "imagenes/Sedan/Toyota Camrry 2013 (10).webp",
-          ]
-        },
-         {
           title: "Toyota Yaris 2018",
           cash: "$6,500",
           down: "$1,600",
@@ -704,27 +500,6 @@ const cars = [
             "imagenes/Sedan/Toyota Yaris 2018 2 (4).webp",
             "imagenes/Sedan/Toyota Yaris 2018 2 (5).webp",
             "imagenes/Sedan/Toyota Yaris 2018 2 (6).webp",
-          ]
-        },
-        {
-          title: "2010 Toyota 4runner",
-          cash: "$10,500",
-          down: "$3,500",
-          financing: "$15,500",
-          mileage: "210.000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2010 Toyota 4runner (1).webp",
-            "imagenes/Suv/2010 Toyota 4runner (2).webp",
-            "imagenes/Suv/2010 Toyota 4runner (3).webp",
-            "imagenes/Suv/2010 Toyota 4runner (4).webp",
-            "imagenes/Suv/2010 Toyota 4runner (5).webp",
-            "imagenes/Suv/2010 Toyota 4runner (6).webp",
-            "imagenes/Suv/2010 Toyota 4runner (7).webp",
-            "imagenes/Suv/2010 Toyota 4runner (8).webp",
-            "imagenes/Suv/2010 Toyota 4runner (9).webp",
-            "imagenes/Suv/2010 Toyota 4runner (10).webp",
           ]
         },
         {
@@ -763,25 +538,6 @@ const cars = [
             "imagenes/Suv/2018 BMW x2 (6).webp",
             "imagenes/Suv/2018 BMW x2 (7).webp",
             "imagenes/Suv/2018 BMW x2 (8).webp",
-          ]
-        },
-         {
-          title: "2020 Toyota Corolla SE",
-          cash: "$11,000",
-          down: "$2,800",
-          financing: "$15,500",
-          mileage: "129,848",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2020 Toyota Corolla SE (1).webp",
-            "imagenes/Sedan/2020 Toyota Corolla SE (2).webp",
-            "imagenes/Sedan/2020 Toyota Corolla SE (3).webp",
-            "imagenes/Sedan/2020 Toyota Corolla SE (4).webp",
-            "imagenes/Sedan/2020 Toyota Corolla SE (5).webp",
-            "imagenes/Sedan/2020 Toyota Corolla SE (6).webp",
-            "imagenes/Sedan/2020 Toyota Corolla SE (7).webp",
-            "imagenes/Sedan/2020 Toyota Corolla SE (8).webp",
           ]
         },
          {
@@ -838,6 +594,23 @@ const cars = [
             "imagenes/Suv/2019 Toyota Highlander LE (5).webp",
             "imagenes/Suv/2019 Toyota Highlander LE (6).webp",
             "imagenes/Suv/2019 Toyota Highlander LE (7).webp",
+          ]
+        },
+        {
+          title: "2020 Toyota Camry SE",
+          cash: "$10,000",
+          down: "$3,000",
+          financing: "$16,000",
+          mileage: "172,026",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2020 Toyota Camry SE (1).webp",
+            "imagenes/Sedan/2020 Toyota Camry SE (2).webp",
+            "imagenes/Sedan/2020 Toyota Camry SE (3).webp",
+            "imagenes/Sedan/2020 Toyota Camry SE (4).webp",
+            "imagenes/Sedan/2020 Toyota Camry SE (5).webp",
+            "imagenes/Sedan/2020 Toyota Camry SE (6).webp",
           ]
         },
 ];
