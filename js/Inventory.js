@@ -593,6 +593,59 @@ const cars = [
             "imagenes/Sedan/2022 Honda Civic LX (6).webp",
           ]
         },
+        {
+          title: "2011 Toyota Corolla S",
+          cash: "$5,500",
+          down: "$1,500",
+          financing: "$8,500",
+          mileage: "170,210",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2011 Toyota Corolla S (1).webp",
+            "imagenes/Sedan/2011 Toyota Corolla S (2).webp",
+            "imagenes/Sedan/2011 Toyota Corolla S (3).webp",
+            "imagenes/Sedan/2011 Toyota Corolla S (4).webp",
+            "imagenes/Sedan/2011 Toyota Corolla S (5).webp",
+            "imagenes/Sedan/2011 Toyota Corolla S (6).webp",
+          ]
+        },
+        {
+          title: "2012 Toyota Corolla S",
+          cash: "$5,800",
+          down: "$1,800",
+          financing: "$9,500",
+          mileage: "200,588",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2012 Toyota Corolla S (1).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (2).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (3).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (4).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (5).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (6).webp",
+            "imagenes/Sedan/2012 Toyota Corolla S (7).webp",
+          ]
+        },
+         {
+          title: "2013 Toyota 4runner",
+          cash: "$10,000",
+          down: "$3,000",
+          financing: "$15,000",
+          mileage: "230,000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2013 Toyota 4runner (1).webp",
+            "imagenes/Suv/2013 Toyota 4runner (2).webp",
+            "imagenes/Suv/2013 Toyota 4runner (3).webp",
+            "imagenes/Suv/2013 Toyota 4runner (4).webp",
+            "imagenes/Suv/2013 Toyota 4runner (5).webp",
+            "imagenes/Suv/2013 Toyota 4runner (6).webp",
+            "imagenes/Suv/2013 Toyota 4runner (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
