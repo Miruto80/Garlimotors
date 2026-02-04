@@ -646,6 +646,60 @@ const cars = [
             "imagenes/Suv/2013 Toyota 4runner (7).webp",
           ]
         },
+         {
+          title: "2008 Suzuki serio",
+          cash: "$2,500",
+          down: "",
+          financing: "",
+          mileage: "94,000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2008 Suzuki serio (1).webp",
+            "imagenes/Suv/2008 Suzuki serio (2).webp",
+            "imagenes/Suv/2008 Suzuki serio (3).webp",
+            "imagenes/Suv/2008 Suzuki serio (4).webp",
+            "imagenes/Suv/2008 Suzuki serio (5).webp",
+          ]
+        },
+         {
+          title: "2014 Subaru Forester",
+          cash: "$2,000",
+          down: "",
+          financing: "",
+          mileage: "194,000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/Subaru forester 2014 (1).webp",
+            "imagenes/Suv/Subaru forester 2014 (2).webp",
+            "imagenes/Suv/Subaru forester 2014 (3).webp",
+            "imagenes/Suv/Subaru forester 2014 (4).webp",
+            "imagenes/Suv/Subaru forester 2014 (5).webp",
+            "imagenes/Suv/Subaru forester 2014 (6).webp",
+            "imagenes/Suv/Subaru forester 2014 (7).webp",
+            "imagenes/Suv/Subaru forester 2014 (8).webp",
+          ]
+        },
+         {
+          title: "2007 honda accord",
+          cash: "$3,500",
+          down: "$1,200",
+          financing: "$7,000",
+          mileage: "115,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2007 honda accord (1).webp",
+            "imagenes/Sedan/2007 honda accord (2).webp",
+            "imagenes/Sedan/2007 honda accord (3).webp",
+            "imagenes/Sedan/2007 honda accord (4).webp",
+            "imagenes/Sedan/2007 honda accord (5).webp",
+            "imagenes/Sedan/2007 honda accord (6).webp",
+            "imagenes/Sedan/2007 honda accord (7).webp",
+            "imagenes/Sedan/2007 honda accord (8).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
