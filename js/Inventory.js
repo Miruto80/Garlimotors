@@ -700,6 +700,40 @@ const cars = [
             "imagenes/Sedan/2007 honda accord (8).webp",
           ]
         },
+         {
+          title: "2017 Hyundai Elantra se2",
+          cash: "$5,800",
+          down: "$1,800",
+          financing: "$10,000",
+          mileage: "105,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2017 Hyundai Elantra se2 (1).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se2 (2).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se2 (3).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se2 (4).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se2 (5).webp",
+          ]
+        },
+         {
+          title: "2021 honda accord",
+          cash: "$10,000",
+          down: "$3,000",
+          financing: "$15,000",
+          mileage: "171,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2021 honda accord (1).webp",
+            "imagenes/Sedan/2021 honda accord (2).webp",
+            "imagenes/Sedan/2021 honda accord (3).webp",
+            "imagenes/Sedan/2021 honda accord (4).webp",
+            "imagenes/Sedan/2021 honda accord (5).webp",
+            "imagenes/Sedan/2021 honda accord (6).webp",
+            "imagenes/Sedan/2021 honda accord (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
