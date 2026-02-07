@@ -300,25 +300,6 @@ const cars = [
           ],
           Rented: false
         },
-         {
-          title: "2013 Toyota Corolla S",
-          cash: "$7,500",
-          down: "$1,600",
-          financing: "$10,500",
-          mileage: "170,556",
-          make: "Sedan",
-          description: "",
-          images: [
-            "imagenes/Sedan/2013 Toyota Corolla S (1).webp",
-            "imagenes/Sedan/2013 Toyota Corolla S (2).webp",
-            "imagenes/Sedan/2013 Toyota Corolla S (3).webp",
-            "imagenes/Sedan/2013 Toyota Corolla S (4).webp",
-            "imagenes/Sedan/2013 Toyota Corolla S (5).webp",
-            "imagenes/Sedan/2013 Toyota Corolla S (6).webp",
-            "imagenes/Sedan/2013 Toyota Corolla S (7).webp",
-            "imagenes/Sedan/2013 Toyota Corolla S (8).webp",
-          ]
-        },
         {
           title: "2019 KIA SORENTO LX",
           cash: "$7,500",
@@ -411,23 +392,6 @@ const cars = [
             "imagenes/Sedan/2013 Lexus 200h (6).webp",
             "imagenes/Sedan/2013 Lexus 200h (7).webp",
             "imagenes/Sedan/2013 Lexus 200h (8).webp",
-          ]
-        },
-         {
-          title: "2018 Toyota higlander",
-          cash: "$13,000",
-          down: "$4,000",
-          financing: "$18,000",
-          mileage: "167.000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2018 Toyota higlander (1).webp",
-            "imagenes/Suv/2018 Toyota higlander (2).webp",
-            "imagenes/Suv/2018 Toyota higlander (3).webp",
-            "imagenes/Suv/2018 Toyota higlander (4).webp",
-            "imagenes/Suv/2018 Toyota higlander (5).webp",
-            "imagenes/Suv/2018 Toyota higlander (6).webp",
           ]
         },
          {
@@ -539,24 +503,6 @@ const cars = [
             "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (6).webp",
             "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (7).webp",
             "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (8).webp",
-          ]
-        },
-         {
-          title: "2019 Toyota Highlander LE",
-          cash: "$11,000",
-          down: "$3,000",
-          financing: "$16,500",
-          mileage: "192.168",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2019 Toyota Highlander LE (1).webp",
-            "imagenes/Suv/2019 Toyota Highlander LE (4).webp",
-            "imagenes/Suv/2019 Toyota Highlander LE (2).webp",
-            "imagenes/Suv/2019 Toyota Highlander LE (3).webp",
-            "imagenes/Suv/2019 Toyota Highlander LE (5).webp",
-            "imagenes/Suv/2019 Toyota Highlander LE (6).webp",
-            "imagenes/Suv/2019 Toyota Highlander LE (7).webp",
           ]
         },
         {
@@ -732,6 +678,58 @@ const cars = [
             "imagenes/Sedan/2021 honda accord (5).webp",
             "imagenes/Sedan/2021 honda accord (6).webp",
             "imagenes/Sedan/2021 honda accord (7).webp",
+          ]
+        },
+         {
+          title: "2015 Toyota Corolla",
+          cash: "$7,000",
+          down: "$1,800",
+          financing: "$10,500",
+          mileage: "85,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2015 Toyota Corolla (1).webp",
+            "imagenes/Sedan/2015 Toyota Corolla (2).webp",
+            "imagenes/Sedan/2015 Toyota Corolla (3).webp",
+            "imagenes/Sedan/2015 Toyota Corolla (4).webp",
+            "imagenes/Sedan/2015 Toyota Corolla (5).webp",
+            "imagenes/Sedan/2015 Toyota Corolla (6).webp",
+          ]
+        },
+         {
+          title: "2016 Toyota Corolla",
+          cash: "$8,500",
+          down: "$2,500",
+          financing: "$11,500",
+          mileage: "136,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2016 Toyota Corolla (1).webp",
+            "imagenes/Sedan/2016 Toyota Corolla (2).webp",
+            "imagenes/Sedan/2016 Toyota Corolla (3).webp",
+            "imagenes/Sedan/2016 Toyota Corolla (4).webp",
+            "imagenes/Sedan/2016 Toyota Corolla (5).webp",
+            "imagenes/Sedan/2016 Toyota Corolla (6).webp",
+          ]
+        },
+         {
+          title: "Toyota Corolla 2016",
+          cash: "$7,000",
+          down: "$2,000",
+          financing: "$11,000",
+          mileage: "153,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2016 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 (7).webp",
           ]
         },
 ];
