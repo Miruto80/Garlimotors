@@ -282,24 +282,6 @@ const cars = [
           ],
           Rented: false
         },
-         {
-          title: "Toyota corola 2008",
-          cash: "$5,000",
-          down: "$1,300 (Negotiable)",
-          financing: "$8,500 (Negotiable)",
-          mileage: "117,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/Toyota corola 2008 (1).webp",
-            "imagenes/Sedan/Toyota corola 2008 (2).webp",
-            "imagenes/Sedan/Toyota corola 2008 (3).webp",
-            "imagenes/Sedan/Toyota corola 2008 (4).webp",
-            "imagenes/Sedan/Toyota corola 2008 (5).webp",
-            "imagenes/Sedan/Toyota corola 2008 (6).webp",
-          ],
-          Rented: false
-        },
         {
           title: "2019 KIA SORENTO LX",
           cash: "$7,500",
@@ -606,25 +588,6 @@ const cars = [
             "imagenes/Suv/2008 Suzuki serio (3).webp",
             "imagenes/Suv/2008 Suzuki serio (4).webp",
             "imagenes/Suv/2008 Suzuki serio (5).webp",
-          ]
-        },
-         {
-          title: "2014 Subaru Forester",
-          cash: "$2,000",
-          down: "",
-          financing: "",
-          mileage: "194,000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/Subaru forester 2014 (1).webp",
-            "imagenes/Suv/Subaru forester 2014 (2).webp",
-            "imagenes/Suv/Subaru forester 2014 (3).webp",
-            "imagenes/Suv/Subaru forester 2014 (4).webp",
-            "imagenes/Suv/Subaru forester 2014 (5).webp",
-            "imagenes/Suv/Subaru forester 2014 (6).webp",
-            "imagenes/Suv/Subaru forester 2014 (7).webp",
-            "imagenes/Suv/Subaru forester 2014 (8).webp",
           ]
         },
          {
