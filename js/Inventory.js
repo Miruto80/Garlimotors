@@ -695,6 +695,47 @@ const cars = [
             "imagenes/Sedan/Toyota Corolla 2016 (7).webp",
           ]
         },
+         {
+          title: "2017 Toyota sport",
+          cash: "$8,000",
+          down: "$2,500",
+          financing: "$12,000",
+          mileage: "130,000",
+          make: "Sedan",
+          description: "Rebuild Title",
+          images: [
+            "imagenes/Sedan/2017 Toyota sport (2).webp",
+            "imagenes/Sedan/2017 Toyota sport (1).webp",
+            "imagenes/Sedan/2017 Toyota sport (3).webp",
+            "imagenes/Sedan/2017 Toyota sport (4).webp",
+            "imagenes/Sedan/2017 Toyota sport (5).webp",
+            "imagenes/Sedan/2017 Toyota sport (6).webp",
+            "imagenes/Sedan/2017 Toyota sport (7).webp",
+            "imagenes/Sedan/2017 Toyota sport (8).webp",
+            "imagenes/Sedan/2017 Toyota sport (9).webp",
+            "imagenes/Sedan/2017 Toyota sport (10).webp",
+            "imagenes/Sedan/2017 Toyota sport (11).webp",
+          ]
+        },
+         {
+          title: "2019 Hyundai Elantra",
+          cash: "$5,500",
+          down: "$1,500",
+          financing: "$9,500",
+          mileage: "140,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2019 Hyundai Elantra (1).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (2).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (3).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (4).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (5).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (6).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (8).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
