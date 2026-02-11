@@ -736,6 +736,61 @@ const cars = [
             "imagenes/Sedan/2019 Hyundai Elantra (8).webp",
           ]
         },
+         {
+          title: "2014 Mercedez e350 v6",
+          cash: "$8,000",
+          down: "$2,000",
+          financing: "$12,000",
+          mileage: "144,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2014 Mercedez e350 v6 (1).webp",
+            "imagenes/Sedan/2014 Mercedez e350 v6 (2).webp",
+            "imagenes/Sedan/2014 Mercedez e350 v6 (3).webp",
+            "imagenes/Sedan/2014 Mercedez e350 v6 (4).webp",
+            "imagenes/Sedan/2014 Mercedez e350 v6 (5).webp",
+            "imagenes/Sedan/2014 Mercedez e350 v6 (6).webp",
+            "imagenes/Sedan/2014 Mercedez e350 v6 (7).webp",
+            "imagenes/Sedan/2014 Mercedez e350 v6 (8).webp",
+          ]
+        },
+         {
+          title: "2020 Kia forte",
+          cash: "$6,500",
+          down: "$1,800",
+          financing: "$11,000",
+          mileage: "98,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2020 Kia forte (1).webp",
+            "imagenes/Sedan/2020 Kia forte (2).webp",
+            "imagenes/Sedan/2020 Kia forte (3).webp",
+            "imagenes/Sedan/2020 Kia forte (4).webp",
+            "imagenes/Sedan/2020 Kia forte (5).webp",
+            "imagenes/Sedan/2020 Kia forte (6).webp",
+            "imagenes/Sedan/2020 Kia forte (7).webp",
+          ]
+        },
+         {
+          title: "Subaru Impreza 2012",
+          cash: "$4,500",
+          down: "$1,300",
+          financing: "$8,500",
+          mileage: "140,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Subaru Impreza 2012 (1).webp",
+            "imagenes/Sedan/Subaru Impreza 2012 (2).webp",
+            "imagenes/Sedan/Subaru Impreza 2012 (3).webp",
+            "imagenes/Sedan/Subaru Impreza 2012 (4).webp",
+            "imagenes/Sedan/Subaru Impreza 2012 (5).webp",
+            "imagenes/Sedan/Subaru Impreza 2012 (6).webp",
+            "imagenes/Sedan/Subaru Impreza 2012 (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
