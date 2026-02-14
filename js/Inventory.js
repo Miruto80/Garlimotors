@@ -557,24 +557,6 @@ const cars = [
           ]
         },
          {
-          title: "2013 Toyota 4runner",
-          cash: "$10,000",
-          down: "$3,000",
-          financing: "$15,000",
-          mileage: "230,000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2013 Toyota 4runner (1).webp",
-            "imagenes/Suv/2013 Toyota 4runner (2).webp",
-            "imagenes/Suv/2013 Toyota 4runner (3).webp",
-            "imagenes/Suv/2013 Toyota 4runner (4).webp",
-            "imagenes/Suv/2013 Toyota 4runner (5).webp",
-            "imagenes/Suv/2013 Toyota 4runner (6).webp",
-            "imagenes/Suv/2013 Toyota 4runner (7).webp",
-          ]
-        },
-         {
           title: "2008 Suzuki serio",
           cash: "$2,500",
           down: "",
@@ -826,26 +808,6 @@ const cars = [
             "imagenes/Sedan/2013 Hyundai Elantra GLS (6).webp",
             "imagenes/Sedan/2013 Hyundai Elantra GLS (7).webp",
             "imagenes/Sedan/2013 Hyundai Elantra GLS (8).webp",
-          ]
-        },
-         {
-          title: "2013 Toyota Corolla L",
-          cash: "$7,000",
-          down: "$2,000",
-          financing: "$11,000",
-          mileage: "88,179",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2013 Toyota Corolla L (1).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (9).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (2).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (3).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (4).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (5).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (6).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (7).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (8).webp",
           ]
         },
 ];
