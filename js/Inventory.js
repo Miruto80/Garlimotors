@@ -791,6 +791,63 @@ const cars = [
             "imagenes/Sedan/Subaru Impreza 2012 (7).webp",
           ]
         },
+         {
+          title: "2010 Toyota Corolla",
+          cash: "$5,000",
+          down: "$1,300",
+          financing: "$9,000",
+          mileage: "180,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2010 Toyota Corolla1 (1).webp",
+            "imagenes/Sedan/2010 Toyota Corolla1 (2).webp",
+            "imagenes/Sedan/2010 Toyota Corolla1 (3).webp",
+            "imagenes/Sedan/2010 Toyota Corolla1 (4).webp",
+            "imagenes/Sedan/2010 Toyota Corolla1 (5).webp",
+            "imagenes/Sedan/2010 Toyota Corolla1 (6).webp",
+            "imagenes/Sedan/2010 Toyota Corolla1 (7).webp",
+          ]
+        },
+         {
+          title: "2013 Hyundai Elantra GLS",
+          cash: "$4,500",
+          down: "$1,300",
+          financing: "$8,500",
+          mileage: "182,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (1).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (2).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (3).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (4).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (5).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (6).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (7).webp",
+            "imagenes/Sedan/2013 Hyundai Elantra GLS (8).webp",
+          ]
+        },
+         {
+          title: "2013 Toyota Corolla L",
+          cash: "$7,000",
+          down: "$2,000",
+          financing: "$11,000",
+          mileage: "88,179",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2013 Toyota Corolla L (1).webp",
+            "imagenes/Sedan/2013 Toyota Corolla L (9).webp",
+            "imagenes/Sedan/2013 Toyota Corolla L (2).webp",
+            "imagenes/Sedan/2013 Toyota Corolla L (3).webp",
+            "imagenes/Sedan/2013 Toyota Corolla L (4).webp",
+            "imagenes/Sedan/2013 Toyota Corolla L (5).webp",
+            "imagenes/Sedan/2013 Toyota Corolla L (6).webp",
+            "imagenes/Sedan/2013 Toyota Corolla L (7).webp",
+            "imagenes/Sedan/2013 Toyota Corolla L (8).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
