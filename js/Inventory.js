@@ -557,24 +557,6 @@ const cars = [
           ]
         },
          {
-          title: "2013 Toyota 4runner",
-          cash: "$10,000",
-          down: "$3,000",
-          financing: "$15,000",
-          mileage: "230,000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2013 Toyota 4runner (1).webp",
-            "imagenes/Suv/2013 Toyota 4runner (2).webp",
-            "imagenes/Suv/2013 Toyota 4runner (3).webp",
-            "imagenes/Suv/2013 Toyota 4runner (4).webp",
-            "imagenes/Suv/2013 Toyota 4runner (5).webp",
-            "imagenes/Suv/2013 Toyota 4runner (6).webp",
-            "imagenes/Suv/2013 Toyota 4runner (7).webp",
-          ]
-        },
-         {
           title: "2008 Suzuki serio",
           cash: "$2,500",
           down: "",
@@ -829,23 +811,39 @@ const cars = [
           ]
         },
          {
-          title: "2013 Toyota Corolla L",
-          cash: "$7,000",
+          title: "2024 Nissan Sentra",
+          cash: "$13,000",
           down: "$2,000",
-          financing: "$11,000",
-          mileage: "88,179",
+          financing: "$13,000",
+          mileage: "25,000",
           make: "Sedan",
           description: "Clean Title",
           images: [
-            "imagenes/Sedan/2013 Toyota Corolla L (1).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (9).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (2).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (3).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (4).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (5).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (6).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (7).webp",
-            "imagenes/Sedan/2013 Toyota Corolla L (8).webp",
+            "imagenes/Sedan/2024 Nissan Sentra (1).webp",
+            "imagenes/Sedan/2024 Nissan Sentra (2).webp",
+            "imagenes/Sedan/2024 Nissan Sentra (3).webp",
+            "imagenes/Sedan/2024 Nissan Sentra (4).webp",
+            "imagenes/Sedan/2024 Nissan Sentra (5).webp",
+            "imagenes/Sedan/2024 Nissan Sentra (6).webp",
+            "imagenes/Sedan/2024 Nissan Sentra (7).webp",
+            "imagenes/Sedan/2024 Nissan Sentra (8).webp",
+          ]
+        },
+         {
+          title: "2019 Toyota Corolla le",
+          cash: "$9,000",
+          down: "$2,500",
+          financing: "$13,500",
+          mileage: "81,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2019 Toyota Corolla le (1).webp",
+            "imagenes/Sedan/2019 Toyota Corolla le (2).webp",
+            "imagenes/Sedan/2019 Toyota Corolla le (3).webp",
+            "imagenes/Sedan/2019 Toyota Corolla le (4).webp",
+            "imagenes/Sedan/2019 Toyota Corolla le (5).webp",
+            "imagenes/Sedan/2019 Toyota Corolla le (6).webp",
           ]
         },
          {
