@@ -848,6 +848,39 @@ const cars = [
             "imagenes/Sedan/2013 Toyota Corolla L (8).webp",
           ]
         },
+         {
+          title: "Toyota Corolla 2016 le",
+          cash: "$7,000",
+          down: "$1,700",
+          financing: "$11,000",
+          mileage: "126,000",
+          make: "Sedan",
+          description: "Rebuild Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2016 le (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 le (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 le (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 le (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 le (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2016 le (6).webp",
+          ]
+        },
+         {
+          title: "2018 Toyota Corolla se",
+          cash: "$7,500",
+          down: "$2,500",
+          financing: "$12,500",
+          mileage: "187,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2018 Toyota Corolla se (1).webp",
+            "imagenes/Sedan/2018 Toyota Corolla se (2).webp",
+            "imagenes/Sedan/2018 Toyota Corolla se (3).webp",
+            "imagenes/Sedan/2018 Toyota Corolla se (4).webp",
+            "imagenes/Sedan/2018 Toyota Corolla se (5).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
