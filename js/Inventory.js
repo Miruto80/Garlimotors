@@ -394,23 +394,6 @@ const cars = [
             "imagenes/Trucks/2012 Chevrolet silverado 2500 (7).webp",
           ]
         },
-         {
-          title: "Toyota Yaris 2018",
-          cash: "$6,500",
-          down: "$1,600",
-          financing: "$10,500",
-          mileage: "210.000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/Toyota Yaris 2018 2 (1).webp",
-            "imagenes/Sedan/Toyota Yaris 2018 2 (2).webp",
-            "imagenes/Sedan/Toyota Yaris 2018 2 (3).webp",
-            "imagenes/Sedan/Toyota Yaris 2018 2 (4).webp",
-            "imagenes/Sedan/Toyota Yaris 2018 2 (5).webp",
-            "imagenes/Sedan/Toyota Yaris 2018 2 (6).webp",
-          ]
-        },
         {
           title: "2011 honda odyseey",
           cash: "$4,700",
@@ -428,25 +411,6 @@ const cars = [
             "imagenes/Suv/2011 honda odyseey (6).webp",
             "imagenes/Suv/2011 honda odyseey (7).webp",
             "imagenes/Suv/2011 honda odyseey (8).webp",
-          ]
-        },
-        {
-          title: "2018 BMW x2",
-          cash: "$8,000",
-          down: "$3,000",
-          financing: "$14,500",
-          mileage: "167.000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2018 BMW x2 (1).webp",
-            "imagenes/Suv/2018 BMW x2 (2).webp",
-            "imagenes/Suv/2018 BMW x2 (3).webp",
-            "imagenes/Suv/2018 BMW x2 (4).webp",
-            "imagenes/Suv/2018 BMW x2 (5).webp",
-            "imagenes/Suv/2018 BMW x2 (6).webp",
-            "imagenes/Suv/2018 BMW x2 (7).webp",
-            "imagenes/Suv/2018 BMW x2 (8).webp",
           ]
         },
          {
@@ -756,24 +720,6 @@ const cars = [
           ]
         },
          {
-          title: "Subaru Impreza 2012",
-          cash: "$4,500",
-          down: "$1,300",
-          financing: "$8,500",
-          mileage: "140,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/Subaru Impreza 2012 (1).webp",
-            "imagenes/Sedan/Subaru Impreza 2012 (2).webp",
-            "imagenes/Sedan/Subaru Impreza 2012 (3).webp",
-            "imagenes/Sedan/Subaru Impreza 2012 (4).webp",
-            "imagenes/Sedan/Subaru Impreza 2012 (5).webp",
-            "imagenes/Sedan/Subaru Impreza 2012 (6).webp",
-            "imagenes/Sedan/Subaru Impreza 2012 (7).webp",
-          ]
-        },
-         {
           title: "2010 Toyota Corolla",
           cash: "$5,000",
           down: "$1,300",
@@ -789,25 +735,6 @@ const cars = [
             "imagenes/Sedan/2010 Toyota Corolla1 (5).webp",
             "imagenes/Sedan/2010 Toyota Corolla1 (6).webp",
             "imagenes/Sedan/2010 Toyota Corolla1 (7).webp",
-          ]
-        },
-         {
-          title: "2013 Hyundai Elantra GLS",
-          cash: "$4,500",
-          down: "$1,300",
-          financing: "$8,500",
-          mileage: "182,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (1).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (2).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (3).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (4).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (5).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (6).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (7).webp",
-            "imagenes/Sedan/2013 Hyundai Elantra GLS (8).webp",
           ]
         },
          {
