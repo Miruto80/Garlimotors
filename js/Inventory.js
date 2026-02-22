@@ -340,24 +340,6 @@ const cars = [
           ]
         },
          {
-          title: "2017 Hyundai Sonata",
-          cash: "$5,000",
-          down: "",
-          financing: "",
-          mileage: "178.000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2017 Hyundai Sonata (1).webp",
-            "imagenes/Sedan/2017 Hyundai Sonata (2).webp",
-            "imagenes/Sedan/2017 Hyundai Sonata (3).webp",
-            "imagenes/Sedan/2017 Hyundai Sonata (4).webp",
-            "imagenes/Sedan/2017 Hyundai Sonata (5).webp",
-            "imagenes/Sedan/2017 Hyundai Sonata (6).webp",
-            "imagenes/Sedan/2017 Hyundai Sonata (7).webp",
-          ]
-        },
-         {
           title: "2013 Lexus 200h",
           cash: "$5,000",
           down: "$1,500",
@@ -624,24 +606,6 @@ const cars = [
           ]
         },
          {
-          title: "Toyota Corolla 2016",
-          cash: "$7,000",
-          down: "$2,000",
-          financing: "$11,000",
-          mileage: "153,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/Toyota Corolla 2016 (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 (7).webp",
-          ]
-        },
-         {
           title: "2017 Toyota sport",
           cash: "$8,000",
           down: "$2,500",
@@ -699,24 +663,6 @@ const cars = [
             "imagenes/Sedan/2014 Mercedez e350 v6 (6).webp",
             "imagenes/Sedan/2014 Mercedez e350 v6 (7).webp",
             "imagenes/Sedan/2014 Mercedez e350 v6 (8).webp",
-          ]
-        },
-         {
-          title: "2020 Kia forte",
-          cash: "$6,500",
-          down: "$1,800",
-          financing: "$11,000",
-          mileage: "98,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2020 Kia forte (1).webp",
-            "imagenes/Sedan/2020 Kia forte (2).webp",
-            "imagenes/Sedan/2020 Kia forte (3).webp",
-            "imagenes/Sedan/2020 Kia forte (4).webp",
-            "imagenes/Sedan/2020 Kia forte (5).webp",
-            "imagenes/Sedan/2020 Kia forte (6).webp",
-            "imagenes/Sedan/2020 Kia forte (7).webp",
           ]
         },
          {
