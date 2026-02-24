@@ -752,6 +752,24 @@ const cars = [
             "imagenes/Sedan/2018 Toyota Corolla se (5).webp",
           ]
         },
+         {
+          title: "2022 Toyota Corolla se",
+          cash: "$12,000",
+          down: "$2,500",
+          financing: "$13,000",
+          mileage: "75,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2022 Toyota Corolla se (1).webp",
+            "imagenes/Sedan/2022 Toyota Corolla se (2).webp",
+            "imagenes/Sedan/2022 Toyota Corolla se (3).webp",
+            "imagenes/Sedan/2022 Toyota Corolla se (4).webp",
+            "imagenes/Sedan/2022 Toyota Corolla se (5).webp",
+            "imagenes/Sedan/2022 Toyota Corolla se (6).webp",
+            "imagenes/Sedan/2022 Toyota Corolla se (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
