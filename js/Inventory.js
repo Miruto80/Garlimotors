@@ -395,44 +395,6 @@ const cars = [
             "imagenes/Suv/2011 honda odyseey (8).webp",
           ]
         },
-         {
-          title: "2018 Chevrolet Silverado 2500HD",
-          cash: "$9,500",
-          down: "$3,000",
-          financing: "$14,000",
-          mileage: "189.290",
-          make: "Truck",
-          description: "Clean Title",
-          images: [
-            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (1).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (2).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (3).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (4).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (5).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (6).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (7).webp",
-            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (8).webp",
-          ]
-        },
-         {
-          title: "2014 Ford F150",
-          cash: "$9,000",
-          down: "",
-          financing: "",
-          mileage: "222.500",
-          make: "Truck",
-          description: "Clean Title",
-          images: [
-            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (1).webp",
-            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (2).webp",
-            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (3).webp",
-            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (4).webp",
-            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (5).webp",
-            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (6).webp",
-            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (7).webp",
-            "imagenes/Trucks/Ford F150- 2014 - 4X4 - V8 (8).webp",
-          ]
-        },
         {
           title: "2020 Toyota Camry SE",
           cash: "$10,000",
@@ -717,39 +679,6 @@ const cars = [
             "imagenes/Sedan/2019 Toyota Corolla le (4).webp",
             "imagenes/Sedan/2019 Toyota Corolla le (5).webp",
             "imagenes/Sedan/2019 Toyota Corolla le (6).webp",
-          ]
-        },
-         {
-          title: "Toyota Corolla 2016 le",
-          cash: "$7,000",
-          down: "$1,700",
-          financing: "$11,000",
-          mileage: "126,000",
-          make: "Sedan",
-          description: "Rebuild Title",
-          images: [
-            "imagenes/Sedan/Toyota Corolla 2016 le (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 le (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 le (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 le (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 le (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2016 le (6).webp",
-          ]
-        },
-         {
-          title: "2018 Toyota Corolla se",
-          cash: "$7,500",
-          down: "$2,500",
-          financing: "$12,500",
-          mileage: "187,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2018 Toyota Corolla se (1).webp",
-            "imagenes/Sedan/2018 Toyota Corolla se (2).webp",
-            "imagenes/Sedan/2018 Toyota Corolla se (3).webp",
-            "imagenes/Sedan/2018 Toyota Corolla se (4).webp",
-            "imagenes/Sedan/2018 Toyota Corolla se (5).webp",
           ]
         },
          {
