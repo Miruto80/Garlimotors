@@ -258,30 +258,6 @@ const cars = [
         ],
           Rented: false
         },
-         {
-          title: "2016 Mercedes-Benz C-Class C300",
-          cash: "$9,000",
-          down: "$2,500 (Negotiable)",
-          financing: "$13,500 (Negotiable)",
-          mileage: "126,426",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (1).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (3).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (4).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (2).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (5).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (6).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (7).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (8).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (9).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (10).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (11).webp",
-            "imagenes/Sedan/2016 Mercedes-Benz C-Class C300 (12).webp",
-          ],
-          Rented: false
-        },
         {
           title: "2019 KIA SORENTO LX",
           cash: "$7,500",
@@ -429,92 +405,6 @@ const cars = [
             "imagenes/Sedan/2022 Honda Civic LX (6).webp",
           ]
         },
-        {
-          title: "2011 Toyota Corolla S",
-          cash: "$5,500",
-          down: "$1,500",
-          financing: "$8,500",
-          mileage: "170,210",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2011 Toyota Corolla S (1).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (2).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (3).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (4).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (5).webp",
-            "imagenes/Sedan/2011 Toyota Corolla S (6).webp",
-          ]
-        },
-        {
-          title: "2012 Toyota Corolla S",
-          cash: "$5,800",
-          down: "$1,800",
-          financing: "$9,500",
-          mileage: "200,588",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2012 Toyota Corolla S (1).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (2).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (3).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (4).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (5).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (6).webp",
-            "imagenes/Sedan/2012 Toyota Corolla S (7).webp",
-          ]
-        },
-         {
-          title: "2008 Suzuki serio",
-          cash: "$2,500",
-          down: "",
-          financing: "",
-          mileage: "94,000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2008 Suzuki serio (1).webp",
-            "imagenes/Suv/2008 Suzuki serio (2).webp",
-            "imagenes/Suv/2008 Suzuki serio (3).webp",
-            "imagenes/Suv/2008 Suzuki serio (4).webp",
-            "imagenes/Suv/2008 Suzuki serio (5).webp",
-          ]
-        },
-         {
-          title: "2007 honda accord",
-          cash: "$3,500",
-          down: "$1,200",
-          financing: "$7,000",
-          mileage: "115,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2007 honda accord (1).webp",
-            "imagenes/Sedan/2007 honda accord (2).webp",
-            "imagenes/Sedan/2007 honda accord (3).webp",
-            "imagenes/Sedan/2007 honda accord (4).webp",
-            "imagenes/Sedan/2007 honda accord (5).webp",
-            "imagenes/Sedan/2007 honda accord (6).webp",
-            "imagenes/Sedan/2007 honda accord (7).webp",
-            "imagenes/Sedan/2007 honda accord (8).webp",
-          ]
-        },
-         {
-          title: "2017 Hyundai Elantra se2",
-          cash: "$5,800",
-          down: "$1,800",
-          financing: "$10,000",
-          mileage: "105,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2017 Hyundai Elantra se2 (1).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra se2 (2).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra se2 (3).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra se2 (4).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra se2 (5).webp",
-          ]
-        },
          {
           title: "2021 honda accord",
           cash: "$10,000",
@@ -590,62 +480,6 @@ const cars = [
           ]
         },
          {
-          title: "2019 Hyundai Elantra",
-          cash: "$5,500",
-          down: "$1,500",
-          financing: "$9,500",
-          mileage: "140,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2019 Hyundai Elantra (1).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (2).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (3).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (4).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (5).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (6).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
-            "imagenes/Sedan/2019 Hyundai Elantra (8).webp",
-          ]
-        },
-         {
-          title: "2014 Mercedez e350 v6",
-          cash: "$8,000",
-          down: "$2,000",
-          financing: "$12,000",
-          mileage: "144,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2014 Mercedez e350 v6 (1).webp",
-            "imagenes/Sedan/2014 Mercedez e350 v6 (2).webp",
-            "imagenes/Sedan/2014 Mercedez e350 v6 (3).webp",
-            "imagenes/Sedan/2014 Mercedez e350 v6 (4).webp",
-            "imagenes/Sedan/2014 Mercedez e350 v6 (5).webp",
-            "imagenes/Sedan/2014 Mercedez e350 v6 (6).webp",
-            "imagenes/Sedan/2014 Mercedez e350 v6 (7).webp",
-            "imagenes/Sedan/2014 Mercedez e350 v6 (8).webp",
-          ]
-        },
-         {
-          title: "2010 Toyota Corolla",
-          cash: "$5,000",
-          down: "$1,300",
-          financing: "$9,000",
-          mileage: "180,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2010 Toyota Corolla1 (1).webp",
-            "imagenes/Sedan/2010 Toyota Corolla1 (2).webp",
-            "imagenes/Sedan/2010 Toyota Corolla1 (3).webp",
-            "imagenes/Sedan/2010 Toyota Corolla1 (4).webp",
-            "imagenes/Sedan/2010 Toyota Corolla1 (5).webp",
-            "imagenes/Sedan/2010 Toyota Corolla1 (6).webp",
-            "imagenes/Sedan/2010 Toyota Corolla1 (7).webp",
-          ]
-        },
-         {
           title: "2024 Nissan Sentra",
           cash: "$13,000",
           down: "$2,000",
@@ -662,23 +496,6 @@ const cars = [
             "imagenes/Sedan/2024 Nissan Sentra (6).webp",
             "imagenes/Sedan/2024 Nissan Sentra (7).webp",
             "imagenes/Sedan/2024 Nissan Sentra (8).webp",
-          ]
-        },
-         {
-          title: "2019 Toyota Corolla le",
-          cash: "$9,000",
-          down: "$2,500",
-          financing: "$13,500",
-          mileage: "81,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2019 Toyota Corolla le (1).webp",
-            "imagenes/Sedan/2019 Toyota Corolla le (2).webp",
-            "imagenes/Sedan/2019 Toyota Corolla le (3).webp",
-            "imagenes/Sedan/2019 Toyota Corolla le (4).webp",
-            "imagenes/Sedan/2019 Toyota Corolla le (5).webp",
-            "imagenes/Sedan/2019 Toyota Corolla le (6).webp",
           ]
         },
          {
