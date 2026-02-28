@@ -516,6 +516,58 @@ const cars = [
             "imagenes/Sedan/2022 Toyota Corolla se (7).webp",
           ]
         },
+         {
+          title: "2019 Hyundai Elantra",
+          cash: "$7,000",
+          down: "$1,700",
+          financing: "$11,500",
+          mileage: "95,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2019 Hyundai Elantra (1).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (2).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (3).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (4).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (5).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (6).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
+          ]
+        },
+          {
+          title: "2013 Toyota 4runner",
+          cash: "$10,000",
+          down: "$3,500",
+          financing: "$15,000",
+          mileage: "230.000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2013 Toyota 4runner (1).webp",
+            "imagenes/Suv/2013 Toyota 4runner (2).webp",
+            "imagenes/Suv/2013 Toyota 4runner (3).webp",
+            "imagenes/Suv/2013 Toyota 4runner (4).webp",
+            "imagenes/Suv/2013 Toyota 4runner (5).webp",
+            "imagenes/Suv/2013 Toyota 4runner (6).webp",
+          ]
+        },
+          {
+          title: "2018 Ford explorer",
+          cash: "$8,000",
+          down: "$2,300",
+          financing: "$13,000",
+          mileage: "187.000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2018 Ford explorer (1).webp",
+            "imagenes/Suv/2018 Ford explorer (2).webp",
+            "imagenes/Suv/2018 Ford explorer (3).webp",
+            "imagenes/Suv/2018 Ford explorer (4).webp",
+            "imagenes/Suv/2018 Ford explorer (5).webp",
+            "imagenes/Suv/2018 Ford explorer (6).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
