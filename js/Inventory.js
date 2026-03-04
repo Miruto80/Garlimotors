@@ -568,6 +568,59 @@ const cars = [
             "imagenes/Suv/2018 Ford explorer (6).webp",
           ]
         },
+         {
+          title: "2018 Hyundai Elantra SEL",
+          cash: "$6,500",
+          down: "$2,000",
+          financing: "$11,000",
+          mileage: "144,259",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2018 Hyundai Elantra SEL (1).webp",
+            "imagenes/Sedan/2018 Hyundai Elantra SEL (2).webp",
+            "imagenes/Sedan/2018 Hyundai Elantra SEL (3).webp",
+            "imagenes/Sedan/2018 Hyundai Elantra SEL (4).webp",
+            "imagenes/Sedan/2018 Hyundai Elantra SEL (5).webp",
+            "imagenes/Sedan/2018 Hyundai Elantra SEL (6).webp",
+          ]
+        },
+         {
+          title: "2022 Hyundai Elantra",
+          cash: "$9,000",
+          down: "$3,500",
+          financing: "$15,000",
+          mileage: "45,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2022 Hyundai Elantra (1).webp",
+            "imagenes/Sedan/2022 Hyundai Elantra (2).webp",
+            "imagenes/Sedan/2022 Hyundai Elantra (3).webp",
+            "imagenes/Sedan/2022 Hyundai Elantra (4).webp",
+            "imagenes/Sedan/2022 Hyundai Elantra (5).webp",
+            "imagenes/Sedan/2022 Hyundai Elantra (6).webp",
+          ]
+        },
+         {
+          title: "2018 Chevrolet Silverado 2500HD",
+          cash: "$9,500",
+          down: "$3,000",
+          financing: "$14,000",
+          mileage: "189.290",
+          make: "Truck",
+          description: "Clean Title",
+          images: [
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (1).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (2).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (3).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (4).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (5).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (6).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (7).webp",
+            "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (8).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
