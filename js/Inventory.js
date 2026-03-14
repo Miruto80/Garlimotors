@@ -621,6 +621,95 @@ const cars = [
             "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (8).webp",
           ]
         },
+        {
+          title: "Toyota 4runner 2004",
+          cash: "$7,500",
+          down: "$3,000",
+          financing: "$11,500",
+          mileage: "190.000 ",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/Toyota 4runner 2004 (1).webp",
+            "imagenes/Suv/Toyota 4runner 2004 (2).webp",
+            "imagenes/Suv/Toyota 4runner 2004 (3).webp",
+            "imagenes/Suv/Toyota 4runner 2004 (4).webp",
+            "imagenes/Suv/Toyota 4runner 2004 (5).webp",
+            "imagenes/Suv/Toyota 4runner 2004 (6).webp",
+            "imagenes/Suv/Toyota 4runner 2004 (7).webp",
+          ]
+        },
+         {
+          title: "2013 Toyota corola",
+          cash: "$6,500",
+          down: "$1,700",
+          financing: "$10,500",
+          mileage: "133.000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2013 Toyota corola (1).webp",
+            "imagenes/Sedan/2013 Toyota corola (2).webp",
+            "imagenes/Sedan/2013 Toyota corola (3).webp",
+            "imagenes/Sedan/2013 Toyota corola (4).webp",
+            "imagenes/Sedan/2013 Toyota corola (5).webp",
+            "imagenes/Sedan/2013 Toyota corola (6).webp",
+          ]
+        },
+         {
+          title: "2016 Corolla sport",
+          cash: "$8,500",
+          down: "$2,000",
+          financing: "$12,500",
+          mileage: "99,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2016 Corolla sport (1).webp",
+            "imagenes/Sedan/2016 Corolla sport (2).webp",
+            "imagenes/Sedan/2016 Corolla sport (3).webp",
+            "imagenes/Sedan/2016 Corolla sport (4).webp",
+            "imagenes/Sedan/2016 Corolla sport (5).webp",
+            "imagenes/Sedan/2016 Corolla sport (6).webp",
+            "imagenes/Sedan/2016 Corolla sport (7).webp",
+          ]
+        },
+         {
+          title: "2020 honda civic",
+          cash: "$11,500",
+          down: "$4,000",
+          financing: "$16,000",
+          mileage: "43,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2020 honda civic (1).webp",
+            "imagenes/Sedan/2020 honda civic (2).webp",
+            "imagenes/Sedan/2020 honda civic (3).webp",
+            "imagenes/Sedan/2020 honda civic (4).webp",
+            "imagenes/Sedan/2020 honda civic (5).webp",
+            "imagenes/Sedan/2020 honda civic (6).webp",
+            "imagenes/Sedan/2020 honda civic (7).webp",
+            "imagenes/Sedan/2020 honda civic (8).webp",
+          ]
+        },
+         {
+          title: "2021 Hyundai Elantra",
+          cash: "$11,000",
+          down: "$3,500",
+          financing: "$16,000",
+          mileage: "44,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2021 Hyundai Elantra (1).webp",
+            "imagenes/Sedan/2021 Hyundai Elantra (2).webp",
+            "imagenes/Sedan/2021 Hyundai Elantra (3).webp",
+            "imagenes/Sedan/2021 Hyundai Elantra (4).webp",
+            "imagenes/Sedan/2021 Hyundai Elantra (5).webp",
+            "imagenes/Sedan/2021 Hyundai Elantra (6).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
