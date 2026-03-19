@@ -258,63 +258,6 @@ const cars = [
         ],
           Rented: false
         },
-        {
-          title: "2019 KIA SORENTO LX",
-          cash: "$7,500",
-          down: "$2,000",
-          financing: "$12,000",
-          mileage: "156.000",
-          make: "Suv",
-          description: "",
-          images: [
-            "imagenes/Suv/2019 KIA SORENTO LX (6).webp",
-            "imagenes/Suv/2019 KIA SORENTO LX (1).webp",
-            "imagenes/Suv/2019 KIA SORENTO LX (2).webp",
-            "imagenes/Suv/2019 KIA SORENTO LX (3).webp",
-            "imagenes/Suv/2019 KIA SORENTO LX (4).webp",
-            "imagenes/Suv/2019 KIA SORENTO LX (5).webp",
-            "imagenes/Suv/2019 KIA SORENTO LX (7).webp",
-            "imagenes/Suv/2019 KIA SORENTO LX (8).webp",
-            "imagenes/Suv/2019 KIA SORENTO LX (9).webp",
-            "imagenes/Suv/2019 KIA SORENTO LX (10).webp",
-          ]
-        },
-        {
-          title: "2013 Mercedes-Benz GLK-Class GLK350",
-          cash: "$6,500",
-          down: "$2,000",
-          financing: "$10,000",
-          mileage: "144,910",
-          make: "Suv",
-          description: "",
-          images: [
-            "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (1).webp",
-            "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (2).webp",
-            "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (3).webp",
-            "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (4).webp",
-            "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (5).webp",
-            "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (6).webp",
-            "imagenes/Suv/2013 Mercedes-Benz GLK-Class GLK350 (7).webp",
-          ]
-        },
-        {
-          title: "2019 Toyota RAV4 LE",
-          cash: "$12,000",
-          down: "$3,500",
-          financing: "$17,500",
-          mileage: "190.000",
-          make: "Suv",
-          description: "",
-          images: [
-            "imagenes/Suv/2019 Toyota RAV4 LE (1).webp",
-            "imagenes/Suv/2019 Toyota RAV4 LE (2).webp",
-            "imagenes/Suv/2019 Toyota RAV4 LE (3).webp",
-            "imagenes/Suv/2019 Toyota RAV4 LE (4).webp",
-            "imagenes/Suv/2019 Toyota RAV4 LE (5).webp",
-            "imagenes/Suv/2019 Toyota RAV4 LE (6).webp",
-            "imagenes/Suv/2019 Toyota RAV4 LE (7).webp",
-          ]
-        },
          {
           title: "2013 Lexus 200h",
           cash: "$5,000",
@@ -332,24 +275,6 @@ const cars = [
             "imagenes/Sedan/2013 Lexus 200h (6).webp",
             "imagenes/Sedan/2013 Lexus 200h (7).webp",
             "imagenes/Sedan/2013 Lexus 200h (8).webp",
-          ]
-        },
-         {
-          title: "2012 Chevrolet silverado 2500",
-          cash: "$9,000",
-          down: "$3,500",
-          financing: "$15,000",
-          mileage: "135.000",
-          make: "Truck",
-          description: "Clean Title",
-          images: [
-            "imagenes/Trucks/2012 Chevrolet silverado 2500 (1).webp",
-            "imagenes/Trucks/2012 Chevrolet silverado 2500 (2).webp",
-            "imagenes/Trucks/2012 Chevrolet silverado 2500 (3).webp",
-            "imagenes/Trucks/2012 Chevrolet silverado 2500 (4).webp",
-            "imagenes/Trucks/2012 Chevrolet silverado 2500 (5).webp",
-            "imagenes/Trucks/2012 Chevrolet silverado 2500 (6).webp",
-            "imagenes/Trucks/2012 Chevrolet silverado 2500 (7).webp",
           ]
         },
         {
@@ -406,117 +331,6 @@ const cars = [
           ]
         },
          {
-          title: "2021 honda accord",
-          cash: "$10,000",
-          down: "$3,000",
-          financing: "$15,000",
-          mileage: "171,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2021 honda accord (1).webp",
-            "imagenes/Sedan/2021 honda accord (2).webp",
-            "imagenes/Sedan/2021 honda accord (3).webp",
-            "imagenes/Sedan/2021 honda accord (4).webp",
-            "imagenes/Sedan/2021 honda accord (5).webp",
-            "imagenes/Sedan/2021 honda accord (6).webp",
-            "imagenes/Sedan/2021 honda accord (7).webp",
-          ]
-        },
-         {
-          title: "2015 Toyota Corolla",
-          cash: "$7,000",
-          down: "$1,800",
-          financing: "$10,500",
-          mileage: "85,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2015 Toyota Corolla (1).webp",
-            "imagenes/Sedan/2015 Toyota Corolla (2).webp",
-            "imagenes/Sedan/2015 Toyota Corolla (3).webp",
-            "imagenes/Sedan/2015 Toyota Corolla (4).webp",
-            "imagenes/Sedan/2015 Toyota Corolla (5).webp",
-            "imagenes/Sedan/2015 Toyota Corolla (6).webp",
-          ]
-        },
-         {
-          title: "2016 Toyota Corolla",
-          cash: "$8,500",
-          down: "$2,500",
-          financing: "$11,500",
-          mileage: "136,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2016 Toyota Corolla (1).webp",
-            "imagenes/Sedan/2016 Toyota Corolla (2).webp",
-            "imagenes/Sedan/2016 Toyota Corolla (3).webp",
-            "imagenes/Sedan/2016 Toyota Corolla (4).webp",
-            "imagenes/Sedan/2016 Toyota Corolla (5).webp",
-            "imagenes/Sedan/2016 Toyota Corolla (6).webp",
-          ]
-        },
-         {
-          title: "2017 Toyota sport",
-          cash: "$8,000",
-          down: "$2,500",
-          financing: "$12,000",
-          mileage: "130,000",
-          make: "Sedan",
-          description: "Rebuild Title",
-          images: [
-            "imagenes/Sedan/2017 Toyota sport (2).webp",
-            "imagenes/Sedan/2017 Toyota sport (1).webp",
-            "imagenes/Sedan/2017 Toyota sport (3).webp",
-            "imagenes/Sedan/2017 Toyota sport (4).webp",
-            "imagenes/Sedan/2017 Toyota sport (5).webp",
-            "imagenes/Sedan/2017 Toyota sport (6).webp",
-            "imagenes/Sedan/2017 Toyota sport (7).webp",
-            "imagenes/Sedan/2017 Toyota sport (8).webp",
-            "imagenes/Sedan/2017 Toyota sport (9).webp",
-            "imagenes/Sedan/2017 Toyota sport (10).webp",
-            "imagenes/Sedan/2017 Toyota sport (11).webp",
-          ]
-        },
-         {
-          title: "2024 Nissan Sentra",
-          cash: "$13,000",
-          down: "$2,000",
-          financing: "$13,000",
-          mileage: "25,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2024 Nissan Sentra (1).webp",
-            "imagenes/Sedan/2024 Nissan Sentra (2).webp",
-            "imagenes/Sedan/2024 Nissan Sentra (3).webp",
-            "imagenes/Sedan/2024 Nissan Sentra (4).webp",
-            "imagenes/Sedan/2024 Nissan Sentra (5).webp",
-            "imagenes/Sedan/2024 Nissan Sentra (6).webp",
-            "imagenes/Sedan/2024 Nissan Sentra (7).webp",
-            "imagenes/Sedan/2024 Nissan Sentra (8).webp",
-          ]
-        },
-         {
-          title: "2022 Toyota Corolla se",
-          cash: "$12,000",
-          down: "$2,500",
-          financing: "$13,000",
-          mileage: "75,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2022 Toyota Corolla se (1).webp",
-            "imagenes/Sedan/2022 Toyota Corolla se (2).webp",
-            "imagenes/Sedan/2022 Toyota Corolla se (3).webp",
-            "imagenes/Sedan/2022 Toyota Corolla se (4).webp",
-            "imagenes/Sedan/2022 Toyota Corolla se (5).webp",
-            "imagenes/Sedan/2022 Toyota Corolla se (6).webp",
-            "imagenes/Sedan/2022 Toyota Corolla se (7).webp",
-          ]
-        },
-         {
           title: "2019 Hyundai Elantra",
           cash: "$7,000",
           down: "$1,700",
@@ -549,40 +363,6 @@ const cars = [
             "imagenes/Suv/2013 Toyota 4runner (4).webp",
             "imagenes/Suv/2013 Toyota 4runner (5).webp",
             "imagenes/Suv/2013 Toyota 4runner (6).webp",
-          ]
-        },
-          {
-          title: "2018 Ford explorer",
-          cash: "$8,000",
-          down: "$2,300",
-          financing: "$13,000",
-          mileage: "187.000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2018 Ford explorer (1).webp",
-            "imagenes/Suv/2018 Ford explorer (2).webp",
-            "imagenes/Suv/2018 Ford explorer (3).webp",
-            "imagenes/Suv/2018 Ford explorer (4).webp",
-            "imagenes/Suv/2018 Ford explorer (5).webp",
-            "imagenes/Suv/2018 Ford explorer (6).webp",
-          ]
-        },
-         {
-          title: "2018 Hyundai Elantra SEL",
-          cash: "$6,500",
-          down: "$2,000",
-          financing: "$11,000",
-          mileage: "144,259",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (1).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (2).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (3).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (4).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (5).webp",
-            "imagenes/Sedan/2018 Hyundai Elantra SEL (6).webp",
           ]
         },
          {
@@ -621,24 +401,6 @@ const cars = [
             "imagenes/Trucks/2018 Chevrolet Silverado 2500HD (8).webp",
           ]
         },
-        {
-          title: "Toyota 4runner 2004",
-          cash: "$7,500",
-          down: "$3,000",
-          financing: "$11,500",
-          mileage: "190.000 ",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/Toyota 4runner 2004 (1).webp",
-            "imagenes/Suv/Toyota 4runner 2004 (2).webp",
-            "imagenes/Suv/Toyota 4runner 2004 (3).webp",
-            "imagenes/Suv/Toyota 4runner 2004 (4).webp",
-            "imagenes/Suv/Toyota 4runner 2004 (5).webp",
-            "imagenes/Suv/Toyota 4runner 2004 (6).webp",
-            "imagenes/Suv/Toyota 4runner 2004 (7).webp",
-          ]
-        },
          {
           title: "2013 Toyota corola",
           cash: "$6,500",
@@ -654,24 +416,6 @@ const cars = [
             "imagenes/Sedan/2013 Toyota corola (4).webp",
             "imagenes/Sedan/2013 Toyota corola (5).webp",
             "imagenes/Sedan/2013 Toyota corola (6).webp",
-          ]
-        },
-         {
-          title: "2016 Corolla sport",
-          cash: "$8,500",
-          down: "$2,000",
-          financing: "$12,500",
-          mileage: "99,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2016 Corolla sport (1).webp",
-            "imagenes/Sedan/2016 Corolla sport (2).webp",
-            "imagenes/Sedan/2016 Corolla sport (3).webp",
-            "imagenes/Sedan/2016 Corolla sport (4).webp",
-            "imagenes/Sedan/2016 Corolla sport (5).webp",
-            "imagenes/Sedan/2016 Corolla sport (6).webp",
-            "imagenes/Sedan/2016 Corolla sport (7).webp",
           ]
         },
          {
@@ -708,42 +452,6 @@ const cars = [
             "imagenes/Sedan/2021 Hyundai Elantra (4).webp",
             "imagenes/Sedan/2021 Hyundai Elantra (5).webp",
             "imagenes/Sedan/2021 Hyundai Elantra (6).webp",
-          ]
-        },
-         {
-          title: "2016 Toyota Corolla LE",
-          cash: "$9,000",
-          down: "$2,500",
-          financing: "$14,000",
-          mileage: "126,980",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2016 Toyota Corolla LE (1).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (2).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (3).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (4).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (5).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (6).webp",
-            "imagenes/Sedan/2016 Toyota Corolla LE (7).webp",
-          ]
-        },
-         {
-          title: "Toyota Corolla 2020",
-          cash: "$9,000",
-          down: "$2,500",
-          financing: "$14,000",
-          mileage: "183,389",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/Toyota Corolla 2020 (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2020 (7).webp",
           ]
         },
          {
