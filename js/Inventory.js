@@ -710,6 +710,78 @@ const cars = [
             "imagenes/Sedan/2021 Hyundai Elantra (6).webp",
           ]
         },
+         {
+          title: "2016 Toyota Corolla LE",
+          cash: "$9,000",
+          down: "$2,500",
+          financing: "$14,000",
+          mileage: "126,980",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2016 Toyota Corolla LE (1).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (2).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (3).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (4).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (5).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (6).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (7).webp",
+          ]
+        },
+         {
+          title: "Toyota Corolla 2020",
+          cash: "$9,000",
+          down: "$2,500",
+          financing: "$14,000",
+          mileage: "183,389",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2020 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (7).webp",
+          ]
+        },
+         {
+          title: "Toyota Corolla 2021",
+          cash: "$9,000",
+          down: "$2,500",
+          financing: "$14,500",
+          mileage: "167,431",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2021  2 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2021  2 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2021  2 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2021  2 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2021  2 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2021  2 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2021  2 (7).webp",
+          ]
+        },
+         {
+          title: "Toyota Corolla 2021",
+          cash: "$10,000",
+          down: "$3,000",
+          financing: "$15,500",
+          mileage: "123,544",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2021 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2021 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2021 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2021 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2021 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2021 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2021 (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
