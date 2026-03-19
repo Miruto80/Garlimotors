@@ -490,6 +490,24 @@ const cars = [
             "imagenes/Sedan/Toyota Corolla 2021 (7).webp",
           ]
         },
+         {
+          title: "Hyundai Elantra 2020",
+          cash: "$7,500",
+          down: "$2,000",
+          financing: "$13,000",
+          mileage: "109,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Hyundai Elantra 2020 (1).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (2).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (3).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (4).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (5).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (6).webp",
+            "imagenes/Sedan/Hyundai Elantra 2020 (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
