@@ -366,8 +366,8 @@ const cars = [
           ]
         },
          {
-          title: "2022 Hyundai Elantra",
-          cash: "$9,000",
+          title: "2021 Hyundai Elantra",
+          cash: "$10,500",
           down: "$3,500",
           financing: "$15,000",
           mileage: "45,000",
