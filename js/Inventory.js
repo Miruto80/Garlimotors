@@ -366,8 +366,8 @@ const cars = [
           ]
         },
          {
-          title: "2022 Hyundai Elantra",
-          cash: "$9,000",
+          title: "2021 Hyundai Elantra",
+          cash: "$10,500",
           down: "$3,500",
           financing: "$15,000",
           mileage: "45,000",
@@ -630,6 +630,62 @@ const cars = [
             "imagenes/Suv/Toyota runner 2006 (5).webp",
             "imagenes/Suv/Toyota runner 2006 (6).webp",
             "imagenes/Suv/Toyota runner 2006 (7).webp",
+            ]
+          },
+          
+         {
+          title: "Toyota Camry 2017",
+          cash: "$7,600",
+          down: "$2,500",
+          financing: "$12,500",
+          mileage: "167,199",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota camrry 2017 (1).webp",
+            "imagenes/Sedan/Toyota camrry 2017 (2).webp",
+            "imagenes/Sedan/Toyota camrry 2017 (3).webp",
+            "imagenes/Sedan/Toyota camrry 2017 (4).webp",
+            "imagenes/Sedan/Toyota camrry 2017 (5).webp",
+            "imagenes/Sedan/Toyota camrry 2017 (6).webp",
+          ]
+        },
+          {
+          title: "2014 Chevrolet Tahoe",
+          cash: "$6,000",
+          down: "$2,000",
+          financing: "$10,500",
+          mileage: "148,291",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2014 Chevrolet Tahoe (1).webp",
+            "imagenes/Suv/2014 Chevrolet Tahoe (2).webp",
+            "imagenes/Suv/2014 Chevrolet Tahoe (3).webp",
+            "imagenes/Suv/2014 Chevrolet Tahoe (4).webp",
+            "imagenes/Suv/2014 Chevrolet Tahoe (5).webp",
+            "imagenes/Suv/2014 Chevrolet Tahoe (6).webp",
+            "imagenes/Suv/2014 Chevrolet Tahoe (7).webp",
+            "imagenes/Suv/2014 Chevrolet Tahoe (8).webp",
+            "imagenes/Suv/2014 Chevrolet Tahoe (9).webp",
+            "imagenes/Suv/2014 Chevrolet Tahoe (10).webp",
+          ]
+        },
+          {
+          title: "2018 Subaru Forester",
+          cash: "$8,500",
+          down: "$2,500",
+          financing: "$12,500",
+          mileage: "107,000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2018 Subaru - Forests (1).webp",
+            "imagenes/Suv/2018 Subaru - Forests (2).webp",
+            "imagenes/Suv/2018 Subaru - Forests (3).webp",
+            "imagenes/Suv/2018 Subaru - Forests (4).webp",
+            "imagenes/Suv/2018 Subaru - Forests (5).webp",
+            "imagenes/Suv/2018 Subaru - Forests (6).webp",
           ]
         },
 ];
