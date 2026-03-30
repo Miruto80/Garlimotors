@@ -508,6 +508,130 @@ const cars = [
             "imagenes/Sedan/Hyundai Elantra 2020 (7).webp",
           ]
         },
+         {
+          title: "2016 Toyota Corolla LE",
+          cash: "$9,000",
+          down: "$2,500",
+          financing: "$14,000",
+          mileage: "126,980",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2016 Toyota Corolla LE (1).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (2).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (3).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (4).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (5).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (6).webp",
+            "imagenes/Sedan/2016 Toyota Corolla LE (7).webp",
+          ]
+        },
+         {
+          title: "2017 Hyundai Elantra se",
+          cash: "$5,800",
+          down: "$1,800",
+          financing: "$10,000",
+          mileage: "105,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2017 Hyundai Elantra se (1).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se (2).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se (3).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se (4).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se (5).webp",
+          ]
+        },
+         {
+          title: "2019 Kia Forte S",
+          cash: "$7,000",
+          down: "$2,000",
+          financing: "$11,500",
+          mileage: "95,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2019 Kia Forte S (3).webp",
+            "imagenes/Sedan/2019 Kia Forte S (1).webp",
+            "imagenes/Sedan/2019 Kia Forte S (4).webp",
+            "imagenes/Sedan/2019 Kia Forte S (5).webp",
+            "imagenes/Sedan/2019 Kia Forte S (6).webp",
+            "imagenes/Sedan/2019 Kia Forte S (7).webp",
+            "imagenes/Sedan/2019 Kia Forte S (8).webp",
+            "imagenes/Sedan/2019 Kia Forte S (9).webp",
+            "imagenes/Sedan/2019 Kia Forte S (10).webp",
+          ]
+        },
+         {
+          title: "Kia rio 2009",
+          cash: "$5,000",
+          down: "$1,500",
+          financing: "$7,500",
+          mileage: "130,283 ",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Kia rio 2009 (1).webp",
+            "imagenes/Sedan/Kia rio 2009 (2).webp",
+            "imagenes/Sedan/Kia rio 2009 (3).webp",
+            "imagenes/Sedan/Kia rio 2009 (4).webp",
+            "imagenes/Sedan/Kia rio 2009 (5).webp",
+          ]
+        },
+         {
+          title: "Toyota Corolla 2013",
+          cash: "$6,500",
+          down: "$2,000",
+          financing: "$11,000",
+          mileage: "94,432",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2013 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2013 (7).webp",
+          ]
+        },
+         {
+          title: "Toyota Corolla 2020",
+          cash: "$7,500",
+          down: "$2,000",
+          financing: "$13,000",
+          mileage: "109,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2020 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2020 (7).webp",
+          ]
+        },
+        {
+          title: "Toyota runner 2006",
+          cash: "$7,500",
+          down: "$2,500 (Negotiable)",
+          financing: "$12,000 (Negotiable)",
+          mileage: "224,761",
+          make: "Suv",
+          description: "",
+          images: [
+            "imagenes/Suv/Toyota runner 2006 (1).webp",
+            "imagenes/Suv/Toyota runner 2006 (2).webp",
+            "imagenes/Suv/Toyota runner 2006 (3).webp",
+            "imagenes/Suv/Toyota runner 2006 (4).webp",
+            "imagenes/Suv/Toyota runner 2006 (5).webp",
+            "imagenes/Suv/Toyota runner 2006 (6).webp",
+            "imagenes/Suv/Toyota runner 2006 (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
