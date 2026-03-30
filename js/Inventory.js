@@ -535,11 +535,11 @@ const cars = [
           make: "Sedan",
           description: "Clean Title",
           images: [
-            "imagenes/Sedan/2017 Hyundai Elantra se (1).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra se (2).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra se (3).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra se (4).webp",
-            "imagenes/Sedan/2017 Hyundai Elantra se (5).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se 1(1).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se 1(2).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se 1(3).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se 1(4).webp",
+            "imagenes/Sedan/2017 Hyundai Elantra se 1(5).webp",
           ]
         },
          {
@@ -632,7 +632,7 @@ const cars = [
             "imagenes/Suv/Toyota runner 2006 (7).webp",
             ]
           },
-          
+
          {
           title: "Toyota Camry 2017",
           cash: "$7,600",
