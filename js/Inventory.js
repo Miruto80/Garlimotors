@@ -598,10 +598,10 @@ const cars = [
         },
          {
           title: "Toyota Corolla 2020",
-          cash: "$7,500",
-          down: "$2,000",
-          financing: "$13,000",
-          mileage: "109,000",
+          cash: "$9,000",
+          down: "$2,500",
+          financing: "$14,000",
+          mileage: "183,389",
           make: "Sedan",
           description: "Clean Title",
           images: [
