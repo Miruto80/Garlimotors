@@ -200,26 +200,6 @@ const cars = [
           Rented: false
         },
          {
-          title: "2021 Kia rio",
-          cash: "$8,000",
-          down: "$2,000 (Negotiable)",
-          financing: "$11,500 (Negotiable)",
-          mileage: "73,000",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2021 Kia rio (1).webp",
-            "imagenes/Sedan/2021 Kia rio (2).webp",
-            "imagenes/Sedan/2021 Kia rio (3).webp",
-            "imagenes/Sedan/2021 Kia rio (4).webp",
-            "imagenes/Sedan/2021 Kia rio (5).webp",
-            "imagenes/Sedan/2021 Kia rio (6).webp",
-            "imagenes/Sedan/2021 Kia rio (7).webp",
-            "imagenes/Sedan/2021 Kia rio (8).webp",
-          ],
-          Rented: false
-        },
-         {
           title: "2022 honda Civic",
           cash: "$14,000 financing",
           down: "$1,500 (Negotiable)",
@@ -296,40 +276,6 @@ const cars = [
             "imagenes/Suv/2011 honda odyseey (8).webp",
           ]
         },
-        {
-          title: "2020 Toyota Camry SE",
-          cash: "$10,000",
-          down: "$3,000",
-          financing: "$16,000",
-          mileage: "172,026",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2020 Toyota Camry SE (1).webp",
-            "imagenes/Sedan/2020 Toyota Camry SE (2).webp",
-            "imagenes/Sedan/2020 Toyota Camry SE (3).webp",
-            "imagenes/Sedan/2020 Toyota Camry SE (4).webp",
-            "imagenes/Sedan/2020 Toyota Camry SE (5).webp",
-            "imagenes/Sedan/2020 Toyota Camry SE (6).webp",
-          ]
-        },
-        {
-          title: "2022 Honda Civic LX",
-          cash: "$12,500",
-          down: "$4,000",
-          financing: "$16,000",
-          mileage: "71,272",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/2022 Honda Civic LX (1).webp",
-            "imagenes/Sedan/2022 Honda Civic LX (2).webp",
-            "imagenes/Sedan/2022 Honda Civic LX (3).webp",
-            "imagenes/Sedan/2022 Honda Civic LX (4).webp",
-            "imagenes/Sedan/2022 Honda Civic LX (5).webp",
-            "imagenes/Sedan/2022 Honda Civic LX (6).webp",
-          ]
-        },
          {
           title: "2019 Hyundai Elantra",
           cash: "$7,000",
@@ -346,23 +292,6 @@ const cars = [
             "imagenes/Sedan/2019 Hyundai Elantra (5).webp",
             "imagenes/Sedan/2019 Hyundai Elantra (6).webp",
             "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
-          ]
-        },
-          {
-          title: "2013 Toyota 4runner",
-          cash: "$10,000",
-          down: "$3,500",
-          financing: "$15,000",
-          mileage: "230.000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2013 Toyota 4runner (1).webp",
-            "imagenes/Suv/2013 Toyota 4runner (2).webp",
-            "imagenes/Suv/2013 Toyota 4runner (3).webp",
-            "imagenes/Suv/2013 Toyota 4runner (4).webp",
-            "imagenes/Suv/2013 Toyota 4runner (5).webp",
-            "imagenes/Suv/2013 Toyota 4runner (6).webp",
           ]
         },
          {
@@ -632,45 +561,6 @@ const cars = [
             "imagenes/Suv/Toyota runner 2006 (7).webp",
             ]
           },
-
-         {
-          title: "Toyota Camry 2017",
-          cash: "$7,600",
-          down: "$2,500",
-          financing: "$12,500",
-          mileage: "167,199",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/Toyota camrry 2017 (1).webp",
-            "imagenes/Sedan/Toyota camrry 2017 (2).webp",
-            "imagenes/Sedan/Toyota camrry 2017 (3).webp",
-            "imagenes/Sedan/Toyota camrry 2017 (4).webp",
-            "imagenes/Sedan/Toyota camrry 2017 (5).webp",
-            "imagenes/Sedan/Toyota camrry 2017 (6).webp",
-          ]
-        },
-          {
-          title: "2014 Chevrolet Tahoe",
-          cash: "$6,000",
-          down: "$2,000",
-          financing: "$10,500",
-          mileage: "148,291",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2014 Chevrolet Tahoe (1).webp",
-            "imagenes/Suv/2014 Chevrolet Tahoe (2).webp",
-            "imagenes/Suv/2014 Chevrolet Tahoe (3).webp",
-            "imagenes/Suv/2014 Chevrolet Tahoe (4).webp",
-            "imagenes/Suv/2014 Chevrolet Tahoe (5).webp",
-            "imagenes/Suv/2014 Chevrolet Tahoe (6).webp",
-            "imagenes/Suv/2014 Chevrolet Tahoe (7).webp",
-            "imagenes/Suv/2014 Chevrolet Tahoe (8).webp",
-            "imagenes/Suv/2014 Chevrolet Tahoe (9).webp",
-            "imagenes/Suv/2014 Chevrolet Tahoe (10).webp",
-          ]
-        },
           {
           title: "2018 Subaru Forester",
           cash: "$8,500",
