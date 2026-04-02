@@ -544,6 +544,24 @@ const cars = [
           ]
         },
         {
+          title: "2019 Hyundai Elantra",
+          cash: "$6,500",
+          down: "$1,700",
+          financing: "$11,000",
+          mileage: "125,900",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2019 Hyundai Elantra1 (13).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra1 (7).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra1 (8).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra1 (9).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra1 (10).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra1 (11).webp",
+            "imagenes/Sedan/2019 Hyundai Elantra1 (12).webp",
+          ]
+        },
+        {
           title: "Toyota runner 2006",
           cash: "$7,500",
           down: "$2,500 (Negotiable)",
@@ -576,6 +594,23 @@ const cars = [
             "imagenes/Suv/2018 Subaru - Forests (4).webp",
             "imagenes/Suv/2018 Subaru - Forests (5).webp",
             "imagenes/Suv/2018 Subaru - Forests (6).webp",
+          ]
+        },
+          {
+          title: "2007 Toyota 4 runner",
+          cash: "$8,500",
+          down: "$2,000",
+          financing: "$12,000",
+          mileage: "208,000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/2007 Toyota 4 runner (1).webp",
+            "imagenes/Suv/2007 Toyota 4 runner (2).webp",
+            "imagenes/Suv/2007 Toyota 4 runner (3).webp",
+            "imagenes/Suv/2007 Toyota 4 runner (4).webp",
+            "imagenes/Suv/2007 Toyota 4 runner (5).webp",
+            "imagenes/Suv/2007 Toyota 4 runner (6).webp",
           ]
         },
 ];
