@@ -613,6 +613,83 @@ const cars = [
             "imagenes/Suv/2007 Toyota 4 runner (6).webp",
           ]
         },
+          {
+          title: "Toyota 4runner 2007",
+          cash: "$8,000",
+          down: "$2,000",
+          financing: "$11,000",
+          mileage: "208,000",
+          make: "Suv",
+          description: "Clean Title",
+          images: [
+            "imagenes/Suv/Toyota 4runner 2007 (1).webp",
+            "imagenes/Suv/Toyota 4runner 2007 (2).webp",
+            "imagenes/Suv/Toyota 4runner 2007 (3).webp",
+            "imagenes/Suv/Toyota 4runner 2007 (4).webp",
+            "imagenes/Suv/Toyota 4runner 2007 (5).webp",
+            "imagenes/Suv/Toyota 4runner 2007 (6).webp",
+            "imagenes/Suv/Toyota 4runner 2007 (7).webp",
+            "imagenes/Suv/Toyota 4runner 2007 (8).webp",
+            "imagenes/Suv/Toyota 4runner 2007 (9).webp",
+            "imagenes/Suv/Toyota 4runner 2007 (10).webp",
+          ]
+        },
+        {
+          title: "2012 Toyota Corolla",
+          cash: "$6,500",
+          down: "$1,700",
+          financing: "$10,500",
+          mileage: "158,009",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2012 Toyota Corolla (1).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (2).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (3).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (4).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (5).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (6).webp",
+            "imagenes/Sedan/2012 Toyota Corolla (7).webp",
+          ]
+        },
+        {
+          title: "Toyota Corolla 2009",
+          cash: "$6,000",
+          down: "$1,500",
+          financing: "$9,500",
+          mileage: "136,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2009 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2009 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2009 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2009 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2009 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2009 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2009 (7).webp",
+          ]
+        },
+        {
+          title: "Toyota Corolla 2012",
+          cash: "$5,000",
+          down: "$1,500",
+          financing: "$8,500",
+          mileage: "208,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2012 1(1).webp",
+            "imagenes/Sedan/Toyota Corolla 2012 1(2).webp",
+            "imagenes/Sedan/Toyota Corolla 2012 1(3).webp",
+            "imagenes/Sedan/Toyota Corolla 2012 1(4).webp",
+            "imagenes/Sedan/Toyota Corolla 2012 1(5).webp",
+            "imagenes/Sedan/Toyota Corolla 2012 1(6).webp",
+            "imagenes/Sedan/Toyota Corolla 2012 1(7).webp",
+            "imagenes/Sedan/Toyota Corolla 2012 1(8).webp",
+            "imagenes/Sedan/Toyota Corolla 2012 1(9).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
