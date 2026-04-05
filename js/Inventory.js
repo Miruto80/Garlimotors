@@ -690,6 +690,26 @@ const cars = [
             "imagenes/Sedan/Toyota Corolla 2012 1(9).webp",
           ]
         },
+        {
+          title: "2009 Toyota Corolla S",
+          cash: "$7,500",
+          down: "$2,000",
+          financing: "$11,000",
+          mileage: "120,308",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2009 Toyota Corolla S (1).webp",
+            "imagenes/Sedan/2009 Toyota Corolla S (2).webp",
+            "imagenes/Sedan/2009 Toyota Corolla S (3).webp",
+            "imagenes/Sedan/2009 Toyota Corolla S (4).webp",
+            "imagenes/Sedan/2009 Toyota Corolla S (5).webp",
+            "imagenes/Sedan/2009 Toyota Corolla S (6).webp",
+            "imagenes/Sedan/2009 Toyota Corolla S (7).webp",
+            "imagenes/Sedan/2009 Toyota Corolla S (8).webp",
+            "imagenes/Sedan/2009 Toyota Corolla S (9).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
