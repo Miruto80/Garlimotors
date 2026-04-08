@@ -710,6 +710,44 @@ const cars = [
             "imagenes/Sedan/2009 Toyota Corolla S (9).webp",
           ]
         },
+        {
+          title: "Toyota Corolla 2019",
+          cash: "$9,000",
+          down: "$2,500",
+          financing: "$13,500",
+          mileage: "115,774",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2019 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2019 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2019 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2019 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2019 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2019 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2019 (7).webp",
+            "imagenes/Sedan/Toyota Corolla 2019 (8).webp",
+            "imagenes/Sedan/Toyota Corolla 2019 (9).webp",
+          ]
+        },
+        {
+          title: "Toyota Corolla 2018",
+          cash: "$8,500",
+          down: "$2,000",
+          financing: "$13,000",
+          mileage: "149,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2018 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
