@@ -766,6 +766,42 @@ const cars = [
             "imagenes/Sedan/Toyota camrry 2017 Sport Edition (7).webp",
           ]
         },
+        {
+          title: "Toyota Corolla 2014",
+          cash: "$6,000",
+          down: "$1,800",
+          financing: "$10,500",
+          mileage: "191,278",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2014 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2014 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2014 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2014 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2014 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2014 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2014 (7).webp",
+          ]
+        },
+        {
+          title: "Toyota Camry 2017 Sport Edition",
+          cash: "$8,500",
+          down: "$2,000",
+          financing: "$13,000",
+          mileage: "155,160",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota camrry 2017 Sport Edition 1(1).webp",
+            "imagenes/Sedan/Toyota camrry 2017 Sport Edition 1(2).webp",
+            "imagenes/Sedan/Toyota camrry 2017 Sport Edition 1(3).webp",
+            "imagenes/Sedan/Toyota camrry 2017 Sport Edition 1(4).webp",
+            "imagenes/Sedan/Toyota camrry 2017 Sport Edition 1(5).webp",
+            "imagenes/Sedan/Toyota camrry 2017 Sport Edition 1(6).webp",
+            "imagenes/Sedan/Toyota camrry 2017 Sport Edition 1(7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
