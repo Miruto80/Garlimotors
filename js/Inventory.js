@@ -839,6 +839,27 @@ const cars = [
             "imagenes/Suv/2024 Ford bronco (8).webp",
           ]
         },
+        {
+          title: "2018 Kia Forte LX",
+          cash: "$6,500",
+          down: "$1,700",
+          financing: "$11,000",
+          mileage: "103,961",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2018 Kia Forte LX (1).webp",
+            "imagenes/Sedan/2018 Kia Forte LX (2).webp",
+            "imagenes/Sedan/2018 Kia Forte LX (3).webp",
+            "imagenes/Sedan/2018 Kia Forte LX (4).webp",
+            "imagenes/Sedan/2018 Kia Forte LX (5).webp",
+            "imagenes/Sedan/2018 Kia Forte LX (6).webp",
+            "imagenes/Sedan/2018 Kia Forte LX (7).webp",
+            "imagenes/Sedan/2018 Kia Forte LX (8).webp",
+            "imagenes/Sedan/2018 Kia Forte LX (9).webp",
+            "imagenes/Sedan/2018 Kia Forte LX (10).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
