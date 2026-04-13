@@ -802,6 +802,43 @@ const cars = [
             "imagenes/Sedan/Toyota camrry 2017 Sport Edition 1(7).webp",
           ]
         },
+        {
+          title: "2025 honda accord",
+          cash: "$21,000",
+          down: "$3,500",
+          financing: "$21,000",
+          mileage: "5,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2025 honda accord (1).webp",
+            "imagenes/Sedan/2025 honda accord (2).webp",
+            "imagenes/Sedan/2025 honda accord (3).webp",
+            "imagenes/Sedan/2025 honda accord (4).webp",
+            "imagenes/Sedan/2025 honda accord (5).webp",
+            "imagenes/Sedan/2025 honda accord (6).webp",
+            "imagenes/Sedan/2025 honda accord (7).webp",
+          ]
+        },
+        {
+          title: "2024 Ford bronco",
+          cash: "$20,000",
+          down: "$8,000 (Negotiable)",
+          financing: "$20,000 (Negotiable)",
+          mileage: "7,000",
+          make: "Suv",
+          description: "",
+          images: [
+            "imagenes/Suv/2024 Ford bronco (1).webp",
+            "imagenes/Suv/2024 Ford bronco (2).webp",
+            "imagenes/Suv/2024 Ford bronco (3).webp",
+            "imagenes/Suv/2024 Ford bronco (4).webp",
+            "imagenes/Suv/2024 Ford bronco (5).webp",
+            "imagenes/Suv/2024 Ford bronco (6).webp",
+            "imagenes/Suv/2024 Ford bronco (7).webp",
+            "imagenes/Suv/2024 Ford bronco (8).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
