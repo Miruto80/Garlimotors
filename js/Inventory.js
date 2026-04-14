@@ -1,25 +1,5 @@
 const cars = [
         {
-          title: "2006 LEXUS RX",
-          cash: "$4,500",
-          down: "$1,300 (Negotiable)",
-          financing: "$8,500 (Negotiable)",
-          mileage: "201,040",
-          make: "Suv",
-          description: "",
-          images: [
-            "imagenes/Suv/2006 LEXUS RX (1).webp",
-            "imagenes/Suv/2006 LEXUS RX (2).webp",
-            "imagenes/Suv/2006 LEXUS RX (3).webp",
-            "imagenes/Suv/2006 LEXUS RX (4).webp",
-            "imagenes/Suv/2006 LEXUS RX (5).webp",
-            "imagenes/Suv/2006 LEXUS RX (6).webp",
-            "imagenes/Suv/2006 LEXUS RX (7).webp",
-            "imagenes/Suv/2006 LEXUS RX (8).webp",
-            "imagenes/Suv/2006 LEXUS RX (9).webp"
-          ]
-        },
-        {
             title: "2018 Subaru brz límite",
             cash: "$11.500",
             down: "",
@@ -179,26 +159,6 @@ const cars = [
           ],
           Rented: true
         },
-        {
-          title: "Honda Pilot 2009",
-          cash: "$4,000",
-          down: "$1,500 (Negotiable)",
-          financing: "$9,000 (Negotiable)",
-          mileage: "201,600",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/Honda Pilot 2009 (8).webp",
-            "imagenes/Suv/Honda Pilot 2009 (1).webp",
-            "imagenes/Suv/Honda Pilot 2009 (5).webp",
-            "imagenes/Suv/Honda Pilot 2009 (2).webp",
-            "imagenes/Suv/Honda Pilot 2009 (3).webp",
-            "imagenes/Suv/Honda Pilot 2009 (4).webp",
-            "imagenes/Suv/Honda Pilot 2009 (6).webp",
-            "imagenes/Suv/Honda Pilot 2009 (7).webp",
-        ],
-          Rented: false
-        },
          {
           title: "2022 honda Civic",
           cash: "$14,000 financing",
@@ -255,25 +215,6 @@ const cars = [
             "imagenes/Sedan/2013 Lexus 200h (6).webp",
             "imagenes/Sedan/2013 Lexus 200h (7).webp",
             "imagenes/Sedan/2013 Lexus 200h (8).webp",
-          ]
-        },
-        {
-          title: "2011 honda odyseey",
-          cash: "$4,700",
-          down: "$1,500",
-          financing: "$9,000",
-          mileage: "150.000",
-          make: "Suv",
-          description: "Clean Title",
-          images: [
-            "imagenes/Suv/2011 honda odyseey (1).webp",
-            "imagenes/Suv/2011 honda odyseey (2).webp",
-            "imagenes/Suv/2011 honda odyseey (3).webp",
-            "imagenes/Suv/2011 honda odyseey (4).webp",
-            "imagenes/Suv/2011 honda odyseey (5).webp",
-            "imagenes/Suv/2011 honda odyseey (6).webp",
-            "imagenes/Suv/2011 honda odyseey (7).webp",
-            "imagenes/Suv/2011 honda odyseey (8).webp",
           ]
         },
          {
@@ -381,24 +322,6 @@ const cars = [
             "imagenes/Sedan/2021 Hyundai Elantra (4).webp",
             "imagenes/Sedan/2021 Hyundai Elantra (5).webp",
             "imagenes/Sedan/2021 Hyundai Elantra (6).webp",
-          ]
-        },
-         {
-          title: "Toyota Corolla 2021",
-          cash: "$9,000",
-          down: "$2,500",
-          financing: "$14,500",
-          mileage: "167,431",
-          make: "Sedan",
-          description: "Clean Title",
-          images: [
-            "imagenes/Sedan/Toyota Corolla 2021  2 (1).webp",
-            "imagenes/Sedan/Toyota Corolla 2021  2 (2).webp",
-            "imagenes/Sedan/Toyota Corolla 2021  2 (3).webp",
-            "imagenes/Sedan/Toyota Corolla 2021  2 (4).webp",
-            "imagenes/Sedan/Toyota Corolla 2021  2 (5).webp",
-            "imagenes/Sedan/Toyota Corolla 2021  2 (6).webp",
-            "imagenes/Sedan/Toyota Corolla 2021  2 (7).webp",
           ]
         },
          {
