@@ -783,6 +783,24 @@ const cars = [
             "imagenes/Sedan/2018 Kia Forte LX (10).webp",
           ]
         },
+        {
+          title: "Toyota Corolla 2018",
+          cash: "$9,000",
+          down: "$2,000",
+          financing: "$13,000",
+          mileage: "138,757",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2018 1(1).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 1(2).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 1(3).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 1(4).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 1(5).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 1(6).webp",
+            "imagenes/Sedan/Toyota Corolla 2018 1(7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
