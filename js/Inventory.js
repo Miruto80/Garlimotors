@@ -801,6 +801,44 @@ const cars = [
             "imagenes/Sedan/Toyota Corolla 2018 1(7).webp",
           ]
         },
+        {
+          title: "2018 Toyota Corolla",
+          cash: "$8,500",
+          down: "$2,500",
+          financing: "$12,500",
+          mileage: "151,068",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2018 Toyota Corolla (1).webp",
+            "imagenes/Sedan/2018 Toyota Corolla (2).webp",
+            "imagenes/Sedan/2018 Toyota Corolla (3).webp",
+            "imagenes/Sedan/2018 Toyota Corolla (4).webp",
+            "imagenes/Sedan/2018 Toyota Corolla (5).webp",
+            "imagenes/Sedan/2018 Toyota Corolla (6).webp",
+          ]
+        },
+        {
+          title: "Toyota corolla 2008",
+          cash: "$4,500",
+          down: "$1,300",
+          financing: "$7,500",
+          mileage: "244,223",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota corolla 2008 (1).webp",
+            "imagenes/Sedan/Toyota corolla 2008 (2).webp",
+            "imagenes/Sedan/Toyota corolla 2008 (3).webp",
+            "imagenes/Sedan/Toyota corolla 2008 (4).webp",
+            "imagenes/Sedan/Toyota corolla 2008 (5).webp",
+            "imagenes/Sedan/Toyota corolla 2008 (6).webp",
+            "imagenes/Sedan/Toyota corolla 2008 (7).webp",
+            "imagenes/Sedan/Toyota corolla 2008 (8).webp",
+            "imagenes/Sedan/Toyota corolla 2008 (9).webp",
+            "imagenes/Sedan/Toyota corolla 2008 (10).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
