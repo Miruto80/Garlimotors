@@ -839,6 +839,81 @@ const cars = [
             "imagenes/Sedan/Toyota corolla 2008 (10).webp",
           ]
         },
+        {
+          title: "2006 Toyota Corolla",
+          cash: "$5,000",
+          down: "$1,500",
+          financing: "$8,500",
+          mileage: "134,785",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2006 Toyota Corolla (1).webp",
+            "imagenes/Sedan/2006 Toyota Corolla (2).webp",
+            "imagenes/Sedan/2006 Toyota Corolla (3).webp",
+            "imagenes/Sedan/2006 Toyota Corolla (4).webp",
+            "imagenes/Sedan/2006 Toyota Corolla (5).webp",
+            "imagenes/Sedan/2006 Toyota Corolla (6).webp",
+            "imagenes/Sedan/2006 Toyota Corolla (7).webp",
+          ]
+        },
+        {
+          title: "2020 Hyundai Elantra SEL",
+          cash: "$8,500",
+          down: "$2,000",
+          financing: "$12,500",
+          mileage: "132,426",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2020 Hyundai Elantra SEL (1).webp",
+            "imagenes/Sedan/2020 Hyundai Elantra SEL (2).webp",
+            "imagenes/Sedan/2020 Hyundai Elantra SEL (3).webp",
+            "imagenes/Sedan/2020 Hyundai Elantra SEL (4).webp",
+            "imagenes/Sedan/2020 Hyundai Elantra SEL (5).webp",
+            "imagenes/Sedan/2020 Hyundai Elantra SEL (6).webp",
+            "imagenes/Sedan/2020 Hyundai Elantra SEL (7).webp",
+            "imagenes/Sedan/2020 Hyundai Elantra SEL (8).webp",
+            "imagenes/Sedan/2020 Hyundai Elantra SEL (9).webp",
+          ]
+        },
+        {
+          title: "Toyota Corolla 2010",
+          cash: "$5,500",
+          down: "$1,500",
+          financing: "$9,000",
+          mileage: "195,018",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2010 1(1).webp",
+            "imagenes/Sedan/Toyota Corolla 2010 1(2).webp",
+            "imagenes/Sedan/Toyota Corolla 2010 1(3).webp",
+            "imagenes/Sedan/Toyota Corolla 2010 1(4).webp",
+            "imagenes/Sedan/Toyota Corolla 2010 1(5).webp",
+            "imagenes/Sedan/Toyota Corolla 2010 1(6).webp",
+            "imagenes/Sedan/Toyota Corolla 2010 1(7).webp",
+          ]
+        },
+        {
+            title: "Mitsubishi outlander 2018",
+            cash: "8.000$",
+            down: "2.000$",
+            financing: "12.500$",
+            mileage: "144,071",
+            make: "Suv",
+            description: "Clean Title",
+            images: [
+                "imagenes/Suv/Mitsubishi outlander 2018 (1).webp",
+                "imagenes/Suv/Mitsubishi outlander 2018 (2).webp",
+                "imagenes/Suv/Mitsubishi outlander 2018 (3).webp",
+                "imagenes/Suv/Mitsubishi outlander 2018 (4).webp",
+                "imagenes/Suv/Mitsubishi outlander 2018 (5).webp",
+                "imagenes/Suv/Mitsubishi outlander 2018 (6).webp",
+                "imagenes/Suv/Mitsubishi outlander 2018 (7).webp",
+            ],
+             Rented:false
+        },
 ];
 
 const itemsPerPage = 12;
