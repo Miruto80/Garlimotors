@@ -914,6 +914,23 @@ const cars = [
             ],
              Rented:false
         },
+         {
+          title: "Toyota camry 2014 ",
+          cash: "$7,500",
+          down: "$1,800",
+          financing: "$11,000",
+          mileage: "151,873",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota camry 2014  (1).webp",
+            "imagenes/Sedan/Toyota camry 2014  (2).webp",
+            "imagenes/Sedan/Toyota camry 2014  (3).webp",
+            "imagenes/Sedan/Toyota camry 2014  (4).webp",
+            "imagenes/Sedan/Toyota camry 2014  (5).webp",
+            "imagenes/Sedan/Toyota camry 2014  (6).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
