@@ -931,6 +931,39 @@ const cars = [
             "imagenes/Sedan/Toyota camry 2014  (6).webp",
           ]
         },
+         {
+          title: "Hyundai Elantra 2024",
+          cash: "$15,500",
+          down: "$5,000",
+          financing: "$21,500",
+          mileage: "16,493 ",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Hyundai Elantra 2024 (1).webp",
+            "imagenes/Sedan/Hyundai Elantra 2024 (2).webp",
+            "imagenes/Sedan/Hyundai Elantra 2024 (3).webp",
+            "imagenes/Sedan/Hyundai Elantra 2024 (4).webp",
+            "imagenes/Sedan/Hyundai Elantra 2024 (5).webp",
+            "imagenes/Sedan/Hyundai Elantra 2024 (6).webp",
+            "imagenes/Sedan/Hyundai Elantra 2024 (7).webp",
+          ]
+        },
+         {
+          title: "Subaru legacy 2012",
+          cash: "$4,700",
+          down: "$1,500",
+          financing: "$8,000",
+          mileage: "171,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Subaru legacy 2012 (1).webp",
+            "imagenes/Sedan/Subaru legacy 2012 (2).webp",
+            "imagenes/Sedan/Subaru legacy 2012 (3).webp",
+            "imagenes/Sedan/Subaru legacy 2012 (4).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
