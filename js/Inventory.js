@@ -950,6 +950,26 @@ const cars = [
           ]
         },
          {
+          title: "2019 Toyota Camry LE",
+          cash: "$10,000",
+          down: "$3,500",
+          financing: "$15,000",
+          mileage: "163,887",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2019 Toyota Camry LE (9).webp",
+            "imagenes/Sedan/2019 Toyota Camry LE (1).webp",
+            "imagenes/Sedan/2019 Toyota Camry LE (2).webp",
+            "imagenes/Sedan/2019 Toyota Camry LE (3).webp",
+            "imagenes/Sedan/2019 Toyota Camry LE (4).webp",
+            "imagenes/Sedan/2019 Toyota Camry LE (5).webp",
+            "imagenes/Sedan/2019 Toyota Camry LE (6).webp",
+            "imagenes/Sedan/2019 Toyota Camry LE (7).webp",
+            "imagenes/Sedan/2019 Toyota Camry LE (8).webp",
+          ]
+        },
+         {
           title: "Subaru legacy 2012",
           cash: "$4,700",
           down: "$1,500",
