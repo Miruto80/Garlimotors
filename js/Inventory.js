@@ -970,6 +970,25 @@ const cars = [
           ]
         },
          {
+          title: "Kia forte 2019",
+          cash: "$6,500",
+          down: "$1,500",
+          financing: "$11,500",
+          mileage: "163,887",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Kia forte 2019 (1).webp",
+            "imagenes/Sedan/Kia forte 2019 (2).webp",
+            "imagenes/Sedan/Kia forte 2019 (3).webp",
+            "imagenes/Sedan/Kia forte 2019 (4).webp",
+            "imagenes/Sedan/Kia forte 2019 (5).webp",
+            "imagenes/Sedan/Kia forte 2019 (6).webp",
+            "imagenes/Sedan/Kia forte 2019 (7).webp",
+            "imagenes/Sedan/Kia forte 2019 (8).webp",
+          ]
+        },
+         {
           title: "Subaru legacy 2012",
           cash: "$4,700",
           down: "$1,500",
@@ -982,6 +1001,23 @@ const cars = [
             "imagenes/Sedan/Subaru legacy 2012 (2).webp",
             "imagenes/Sedan/Subaru legacy 2012 (3).webp",
             "imagenes/Sedan/Subaru legacy 2012 (4).webp",
+          ]
+        },
+          {
+          title: "Chevrolet Silverado 1500 2011",
+          cash: "$7,500",
+          down: "$2,500",
+          financing: "$12,500",
+          mileage: "244,476",
+          make: "Truck",
+          description: "Clean Title",
+          images: [
+            "imagenes/Trucks/Chevrolet Silverado 1500 2011 (1).webp",
+            "imagenes/Trucks/Chevrolet Silverado 1500 2011 (2).webp",
+            "imagenes/Trucks/Chevrolet Silverado 1500 2011 (3).webp",
+            "imagenes/Trucks/Chevrolet Silverado 1500 2011 (4).webp",
+            "imagenes/Trucks/Chevrolet Silverado 1500 2011 (5).webp",
+            "imagenes/Trucks/Chevrolet Silverado 1500 2011 (6).webp",
           ]
         },
 ];
