@@ -1020,6 +1020,61 @@ const cars = [
             "imagenes/Trucks/Chevrolet Silverado 1500 2011 (6).webp",
           ]
         },
+        {
+          title: "2014 Toyota Corolla",
+          cash: "$8,000",
+          down: "$2,000",
+          financing: "$12,500",
+          mileage: "165,850",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/2014 Toyota Corolla (1).webp",
+            "imagenes/Sedan/2014 Toyota Corolla (2).webp",
+            "imagenes/Sedan/2014 Toyota Corolla (3).webp",
+            "imagenes/Sedan/2014 Toyota Corolla (4).webp",
+            "imagenes/Sedan/2014 Toyota Corolla (5).webp",
+            "imagenes/Sedan/2014 Toyota Corolla (6).webp",
+            "imagenes/Sedan/2014 Toyota Corolla (7).webp",
+          ]
+        },
+        {
+          title: "Toyota Corolla 2022",
+          cash: "$12,000",
+          down: "$3,500",
+          financing: "$18,000",
+          mileage: "108,186",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla 2022 (1).webp",
+            "imagenes/Sedan/Toyota Corolla 2022 (2).webp",
+            "imagenes/Sedan/Toyota Corolla 2022 (3).webp",
+            "imagenes/Sedan/Toyota Corolla 2022 (4).webp",
+            "imagenes/Sedan/Toyota Corolla 2022 (5).webp",
+            "imagenes/Sedan/Toyota Corolla 2022 (6).webp",
+            "imagenes/Sedan/Toyota Corolla 2022 (7).webp",
+            "imagenes/Sedan/Toyota Corolla 2022 (8).webp",
+          ]
+        },
+        {
+          title: "Toyota Corolla sport 2016",
+          cash: "$4,700",
+          down: "$1,500",
+          financing: "$8,000",
+          mileage: "171,000",
+          make: "Sedan",
+          description: "Clean Title",
+          images: [
+            "imagenes/Sedan/Toyota Corolla sport 2016 (1).webp",
+            "imagenes/Sedan/Toyota Corolla sport 2016 (2).webp",
+            "imagenes/Sedan/Toyota Corolla sport 2016 (3).webp",
+            "imagenes/Sedan/Toyota Corolla sport 2016 (4).webp",
+            "imagenes/Sedan/Toyota Corolla sport 2016 (5).webp",
+            "imagenes/Sedan/Toyota Corolla sport 2016 (6).webp",
+            "imagenes/Sedan/Toyota Corolla sport 2016 (7).webp",
+          ]
+        },
 ];
 
 const itemsPerPage = 12;
