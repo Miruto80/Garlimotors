@@ -1059,10 +1059,10 @@ const cars = [
         },
         {
           title: "Toyota Corolla sport 2016",
-          cash: "$4,700",
-          down: "$1,500",
-          financing: "$8,000",
-          mileage: "171,000",
+          cash: "$6,500",
+          down: "$1,800",
+          financing: "$11,500",
+          mileage: "131,564",
           make: "Sedan",
           description: "Clean Title",
           images: [
