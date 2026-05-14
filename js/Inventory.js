@@ -412,6 +412,68 @@ const cars = [
             ],
              Rented: false
         },
+        {
+            "title": "2017 Toyota Corolla SE",
+            "cash": "$7.200",
+            "down": "$2.000",
+            "financing": "$11.000",
+            "mileage": "195,078",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2017 Toyota Corolla SE (1).webp",
+                "imagenes/Sedan/2017 Toyota Corolla SE (2).webp",
+                "imagenes/Sedan/2017 Toyota Corolla SE (3).webp",
+                "imagenes/Sedan/2017 Toyota Corolla SE (4).webp",
+                "imagenes/Sedan/2017 Toyota Corolla SE (5).webp",
+                "imagenes/Sedan/2017 Toyota Corolla SE (6).webp",
+                "imagenes/Sedan/2017 Toyota Corolla SE (7).webp",
+                "imagenes/Sedan/2017 Toyota Corolla SE (8).webp",
+                "imagenes/Sedan/2017 Toyota Corolla SE (9).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "2019 Mitsubishi Mirage RF",
+            "cash": "$5.500",
+            "down": "$1.500$",
+            "financing": "$10,000",
+            "mileage": "90,481",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2019 Mitsubishi Mirage RF (1).webp",
+                "imagenes/Suv/2019 Mitsubishi Mirage RF (2).webp",
+                "imagenes/Suv/2019 Mitsubishi Mirage RF (3).webp",
+                "imagenes/Suv/2019 Mitsubishi Mirage RF (4).webp",
+                "imagenes/Suv/2019 Mitsubishi Mirage RF (5).webp",
+                "imagenes/Suv/2019 Mitsubishi Mirage RF (6).webp",
+                "imagenes/Suv/2019 Mitsubishi Mirage RF (7).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "2019 Nissan Versa Note SV",
+            "cash": "$6.000",
+            "down": "$1.500$",
+            "financing": "$10.500",
+            "mileage": "90,481",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2019 Nissan Versa Note SV (1).webp",
+                "imagenes/Suv/2019 Nissan Versa Note SV (2).webp",
+                "imagenes/Suv/2019 Nissan Versa Note SV (3).webp",
+                "imagenes/Suv/2019 Nissan Versa Note SV (4).webp",
+                "imagenes/Suv/2019 Nissan Versa Note SV (5).webp",
+                "imagenes/Suv/2019 Nissan Versa Note SV (6).webp",
+                "imagenes/Suv/2019 Nissan Versa Note SV (8).webp",
+                "imagenes/Suv/2019 Nissan Versa Note SV (8).webp",
+                "imagenes/Suv/2019 Nissan Versa Note SV (9).webp",
+                "imagenes/Suv/2019 Nissan Versa Note SV (10).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
