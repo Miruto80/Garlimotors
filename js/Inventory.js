@@ -512,6 +512,50 @@ const cars = [
             ],
              Rented: false
         },
+           {
+            "title": "2007 Toyota Corolla",
+            "cash": "$5.000",
+            "down": "$1.500",
+            "financing": "$9.000",
+            "mileage": "170,886",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2007 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (6).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (7).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (8).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (9).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (10).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (11).webp",
+                "imagenes/Sedan/2007 Toyota Corolla (12).webp",
+            ],
+             Rented: false
+        },
+           {
+            "title": "Toyota Corolla 2016",
+            "cash": "$8.000",
+            "down": "$2.000",
+            "financing": "$12.500",
+            "mileage": "95,274",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2016 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (7).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (8).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
