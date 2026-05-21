@@ -404,6 +404,70 @@ const cars = [
             ],
              Rented: false
         },
+           {
+            "title": "2014 Toyota Corolla",
+            "cash": "$7.500",
+            "down": "$2.000",
+            "financing": "$11.500",
+            "mileage": "202,090",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2014 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2014 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2014 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2014 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2014 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2014 Toyota Corolla (6).webp",
+                "imagenes/Sedan/2014 Toyota Corolla (7).webp",
+            ],
+             Rented: false
+        },
+           {
+            "title": "2020 Kia Forte",
+            "cash": "$7.000",
+            "down": "$2.000",
+            "financing": "$11.500",
+            "mileage": "116,415",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2020 Kia Forte (1).webp",
+                "imagenes/Sedan/2020 Kia Forte (2).webp",
+                "imagenes/Sedan/2020 Kia Forte (3).webp",
+                "imagenes/Sedan/2020 Kia Forte (4).webp",
+                "imagenes/Sedan/2020 Kia Forte (5).webp",
+                "imagenes/Sedan/2020 Kia Forte (6).webp",
+                "imagenes/Sedan/2020 Kia Forte (7).webp",
+                "imagenes/Sedan/2020 Kia Forte (8).webp",
+                "imagenes/Sedan/2020 Kia Forte (9).webp",
+                "imagenes/Sedan/2020 Kia Forte (10).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "2007 Toyota 4Runner",
+            "cash": "$7.000",
+            "down": "$2.000$",
+            "financing": "$11,500",
+            "mileage": "222,000",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2007 Toyota 4Runner 1 (1).webp",
+                "imagenes/Suv/2007 Toyota 4Runner 1 (2).webp",
+                "imagenes/Suv/2007 Toyota 4Runner 1 (3).webp",
+                "imagenes/Suv/2007 Toyota 4Runner 1 (4).webp",
+                "imagenes/Suv/2007 Toyota 4Runner 1 (5).webp",
+                "imagenes/Suv/2007 Toyota 4Runner 1 (6).webp",
+                "imagenes/Suv/2007 Toyota 4Runner 1 (7).webp",
+                "imagenes/Suv/2007 Toyota 4Runner 1 (8).webp",
+                "imagenes/Suv/2007 Toyota 4Runner 1 (9).webp",
+                "imagenes/Suv/2007 Toyota 4Runner 1 (10).webp",
+                "imagenes/Suv/2007 Toyota 4Runner 1 (11).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
