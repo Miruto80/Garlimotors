@@ -19,44 +19,6 @@ const cars = [
              Rented: false
         },
         {
-            "title": "2006 Toyota Corolla",
-            "cash": "$5.000",
-            "down": "$1.500",
-            "financing": "$8.500",
-            "mileage": "134,785 ",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2006 Toyota Corolla (1).webp",
-                "imagenes/Sedan/2006 Toyota Corolla (2).webp",
-                "imagenes/Sedan/2006 Toyota Corolla (3).webp",
-                "imagenes/Sedan/2006 Toyota Corolla (4).webp",
-                "imagenes/Sedan/2006 Toyota Corolla (5).webp",
-                "imagenes/Sedan/2006 Toyota Corolla (6).webp",
-                "imagenes/Sedan/2006 Toyota Corolla (7).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "2014 Toyota Corolla",
-            "cash": "$8.000",
-            "down": "$2.000",
-            "financing": "$12.500",
-            "mileage": "165,850 ",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2014 Toyota Corolla (1).webp",
-                "imagenes/Sedan/2014 Toyota Corolla (2).webp",
-                "imagenes/Sedan/2014 Toyota Corolla (3).webp",
-                "imagenes/Sedan/2014 Toyota Corolla (4).webp",
-                "imagenes/Sedan/2014 Toyota Corolla (5).webp",
-                "imagenes/Sedan/2014 Toyota Corolla (6).webp",
-                "imagenes/Sedan/2014 Toyota Corolla (7).webp",
-            ],
-             Rented: false
-        },
-        {
             "title": "2016 toyota corolla",
             "cash": "$8.500",
             "down": "$2.000",
@@ -76,26 +38,6 @@ const cars = [
              Rented: false
         },
         {
-            "title": "2016 Toyota Corolla S",
-            "cash": "$9.000",
-            "down": "$2.500",
-            "financing": "$14.000",
-            "mileage": "145.430",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2016 Toyota Corolla S (1).webp",
-                "imagenes/Sedan/2016 Toyota Corolla S (2).webp",
-                "imagenes/Sedan/2016 Toyota Corolla S (3).webp",
-                "imagenes/Sedan/2016 Toyota Corolla S (4).webp",
-                "imagenes/Sedan/2016 Toyota Corolla S (5).webp",
-                "imagenes/Sedan/2016 Toyota Corolla S (6).webp",
-                "imagenes/Sedan/2016 Toyota Corolla S (7).webp",
-                "imagenes/Sedan/2016 Toyota Corolla S (8).webp",
-            ],
-             Rented: false
-        },
-        {
             "title": "2018 Toyota Corolla",
             "cash": "$9.000",
             "down": "$2.000",
@@ -111,25 +53,6 @@ const cars = [
                 "imagenes/Sedan/2018 Toyota Corolla (5).webp",
                 "imagenes/Sedan/2018 Toyota Corolla (6).webp",
                 "imagenes/Sedan/2018 Toyota Corolla (7).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "2019 Hyundai Elantra",
-            "cash": "$7.500",
-            "down": "$1.800",
-            "financing": "$12.000",
-            "mileage": "113,000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2019 Hyundai Elantra (1).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (2).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (3).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (4).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (5).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (6).webp",
-                "imagenes/Sedan/2019 Hyundai Elantra (7).webp",
             ],
              Rented: false
         },
@@ -169,26 +92,6 @@ const cars = [
                 "imagenes/Sedan/2019 Toyota Corolla (4).webp",
                 "imagenes/Sedan/2019 Toyota Corolla (5).webp",
                 "imagenes/Sedan/2019 Toyota Corolla (6).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "2020 honda civic",
-            "cash": "$12.800",
-            "down": "$4.000",
-            "financing": "$17.000",
-            "mileage": "43.000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2020 honda civic (1).webp",
-                "imagenes/Sedan/2020 honda civic (2).webp",
-                "imagenes/Sedan/2020 honda civic (3).webp",
-                "imagenes/Sedan/2020 honda civic (4).webp",
-                "imagenes/Sedan/2020 honda civic (5).webp",
-                "imagenes/Sedan/2020 honda civic (6).webp",
-                "imagenes/Sedan/2020 honda civic (7).webp",
-                "imagenes/Sedan/2020 honda civic (8).webp",
             ],
              Rented: false
         },
@@ -324,42 +227,6 @@ const cars = [
              Rented: false
         },
         {
-            "title": "Toyota Corolla 2018",
-            "cash": "$8.000",
-            "down": "$2.000",
-            "financing": "$12.000",
-            "mileage": "168,974",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2018 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2018 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2018 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2018 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2018 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2018 (6).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "Toyota Corolla 2020",
-            "cash": "$9.000",
-            "down": "$2.000",
-            "financing": "$13.000",
-            "mileage": "183,389 ",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2020 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (6).webp",
-            ],
-             Rented: false
-        },
-        {
             "title": "Toyota Corolla 2022",
             "cash": "$12.000",
             "down": "$3.000",
@@ -490,25 +357,6 @@ const cars = [
                 "imagenes/Suv/2007 Toyota 4Runner (5).webp",
                 "imagenes/Suv/2007 Toyota 4Runner (6).webp",
                 "imagenes/Suv/2007 Toyota 4Runner (7).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "2011 Toyota 4Runner",
-            "cash": "$12.000",
-            "down": "$3.000$",
-            "financing": "$16,500",
-            "mileage": "256,561",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2011 Toyota 4Runner (1).webp",
-                "imagenes/Suv/2011 Toyota 4Runner (2).webp",
-                "imagenes/Suv/2011 Toyota 4Runner (3).webp",
-                "imagenes/Suv/2011 Toyota 4Runner (4).webp",
-                "imagenes/Suv/2011 Toyota 4Runner (5).webp",
-                "imagenes/Suv/2011 Toyota 4Runner (6).webp",
-                "imagenes/Suv/2011 Toyota 4Runner (7).webp",
             ],
              Rented: false
         },
