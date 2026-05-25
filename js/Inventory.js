@@ -367,6 +367,48 @@ const cars = [
             ],
              Rented: false
         },
+         {
+            "title": "2015 Land Rover Range Rover Evoque PURE PLUS",
+            "cash": "$9.000",
+            "down": "$2.500$",
+            "financing": "$14,000",
+            "mileage": "131,108",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (1).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (2).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (3).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (5).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (4).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (6).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (7).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (8).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (9).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "2021 Mitsubishi Outlander Sport S",
+            "cash": "$10.500",
+            "down": "$2.500$",
+            "financing": "$15,000",
+            "mileage": "111,794",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2021 Mitsubishi Outlander Sport S (1).webp",
+                "imagenes/Suv/2021 Mitsubishi Outlander Sport S (2).webp",
+                "imagenes/Suv/2021 Mitsubishi Outlander Sport S (3).webp",
+                "imagenes/Suv/2021 Mitsubishi Outlander Sport S (5).webp",
+                "imagenes/Suv/2021 Mitsubishi Outlander Sport S (4).webp",
+                "imagenes/Suv/2021 Mitsubishi Outlander Sport S (6).webp",
+                "imagenes/Suv/2021 Mitsubishi Outlander Sport S (7).webp",
+                "imagenes/Suv/2021 Mitsubishi Outlander Sport S (8).webp",
+                "imagenes/Suv/2021 Mitsubishi Outlander Sport S (9).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
