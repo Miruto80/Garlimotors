@@ -276,6 +276,44 @@ const cars = [
             ],
              Rented: false
         },
+         {
+            "title": "Toyota Corolla 2017",
+            "cash": "$9.500",
+            "down": "$2.000",
+            "financing": "$13.500",
+            "mileage": "122,816",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2017 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (7).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "Mercedes cla 2017 CLA-250",
+            "cash": "$9.000",
+            "down": "$2.000",
+            "financing": "$13.000",
+            "mileage": "120,268",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (1).webp",
+                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (2).webp",
+                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (3).webp",
+                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (4).webp",
+                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (5).webp",
+                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (6).webp",
+                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (7).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
