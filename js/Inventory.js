@@ -152,28 +152,6 @@ const cars = [
             ],
              Rented: false
         },
-         {
-            "title": "2019 Nissan Versa Note SV",
-            "cash": "$6.000",
-            "down": "$1.500$",
-            "financing": "$10.500",
-            "mileage": "90,481",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2019 Nissan Versa Note SV (1).webp",
-                "imagenes/Suv/2019 Nissan Versa Note SV (2).webp",
-                "imagenes/Suv/2019 Nissan Versa Note SV (3).webp",
-                "imagenes/Suv/2019 Nissan Versa Note SV (4).webp",
-                "imagenes/Suv/2019 Nissan Versa Note SV (5).webp",
-                "imagenes/Suv/2019 Nissan Versa Note SV (6).webp",
-                "imagenes/Suv/2019 Nissan Versa Note SV (8).webp",
-                "imagenes/Suv/2019 Nissan Versa Note SV (8).webp",
-                "imagenes/Suv/2019 Nissan Versa Note SV (9).webp",
-                "imagenes/Suv/2019 Nissan Versa Note SV (10).webp",
-            ],
-             Rented: false
-        },
         {
             "title": "Toyota Highlander 2015",
             "cash": "$10.000",
