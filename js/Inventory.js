@@ -311,6 +311,97 @@ const cars = [
             ],
              Rented: false
         },
+         {
+            "title": "Toyota rav4 2016",
+            "cash": "$10.000",
+            "down": "$2.000$",
+            "financing": "$14,500",
+            "mileage": "183,885",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Toyota rav4 2016 (1).webp",
+                "imagenes/Suv/Toyota rav4 2016 (2).webp",
+                "imagenes/Suv/Toyota rav4 2016 (3).webp",
+                "imagenes/Suv/Toyota rav4 2016 (5).webp",
+                "imagenes/Suv/Toyota rav4 2016 (4).webp",
+                "imagenes/Suv/Toyota rav4 2016 (6).webp",
+                "imagenes/Suv/Toyota rav4 2016 (7).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "Lexus es 350 2015",
+            "cash": "$9.000",
+            "down": "$2.000",
+            "financing": "$12.500",
+            "mileage": "171,479",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Lexus es 350 2015 (1).webp",
+                "imagenes/Sedan/Lexus es 350 2015 (2).webp",
+                "imagenes/Sedan/Lexus es 350 2015 (3).webp",
+                "imagenes/Sedan/Lexus es 350 2015 (4).webp",
+                "imagenes/Sedan/Lexus es 350 2015 (5).webp",
+                "imagenes/Sedan/Lexus es 350 2015 (6).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "Mercedes benz cla 250",
+            "cash": "$8.000",
+            "down": "$2.000",
+            "financing": "$12.000",
+            "mileage": "126,825",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Mercedes benz cla 250 (1).webp",
+                "imagenes/Sedan/Mercedes benz cla 250 (2).webp",
+                "imagenes/Sedan/Mercedes benz cla 250 (3).webp",
+                "imagenes/Sedan/Mercedes benz cla 250 (4).webp",
+                "imagenes/Sedan/Mercedes benz cla 250 (5).webp",
+                "imagenes/Sedan/Mercedes benz cla 250 (6).webp",
+                "imagenes/Sedan/Mercedes benz cla 250 (7).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "Toyota camrry 2017 ",
+            "cash": "$8.000",
+            "down": "$2.000",
+            "financing": "$12.500",
+            "mileage": "163,446 ",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota camrry 2017  (1).webp",
+                "imagenes/Sedan/Toyota camrry 2017  (2).webp",
+                "imagenes/Sedan/Toyota camrry 2017  (3).webp",
+                "imagenes/Sedan/Toyota camrry 2017  (4).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "Toyota Corolla 2009",
+            "cash": "$4.000",
+            "down": "$1.500",
+            "financing": "$8.000",
+            "mileage": "228,921 ",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2009 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2009 (7).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
