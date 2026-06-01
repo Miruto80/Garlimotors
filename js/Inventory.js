@@ -402,6 +402,25 @@ const cars = [
             ],
              Rented: false
         },
+        {
+            "title": "Toyota camrry 2016",
+            "cash": "$7.850",
+            "down": "$1.700",
+            "financing": "$11.500",
+            "mileage": "217,115",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota camrry 2016 (1).webp",
+                "imagenes/Sedan/Toyota camrry 2016 (2).webp",
+                "imagenes/Sedan/Toyota camrry 2016 (3).webp",
+                "imagenes/Sedan/Toyota camrry 2016 (4).webp",
+                "imagenes/Sedan/Toyota camrry 2016 (5).webp",
+                "imagenes/Sedan/Toyota camrry 2016 (6).webp",
+                "imagenes/Sedan/Toyota camrry 2016 (7).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
