@@ -9,6 +9,7 @@
 </head>
 <body>
    <?php require_once("comunes/nav.php")?>
+    <?php require_once("comunes/Ws.php")?>
    <section class="Inicio">
     <div class="text-center">
         <h2>Best price in town</h2>

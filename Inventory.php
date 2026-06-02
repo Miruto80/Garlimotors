@@ -7,6 +7,8 @@
 </head>
 <body>
 <?php require_once("comunes/nav.php")?>
+<?php require_once("comunes/Ws.php")?>
+
 <div class="title-select-container">
     <h1 id="header">Car Inventory</h1>
 </div>

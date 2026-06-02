@@ -10,6 +10,8 @@
 </head>
 <body>
 <?php require_once("comunes/nav.php")?>
+<?php require_once("comunes/Ws.php")?>
+
 
 <section class="mechanic-services container py-5">
     <h2 class="text-center text-light mb-4">Mechanical Services</h2>

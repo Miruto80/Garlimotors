@@ -26,6 +26,8 @@
 </head>
 <body>
 <?php require_once("comunes/nav.php") ?>
+<?php require_once("comunes/Ws.php")?>
+
 
 <section id="reviews" class="text-center">
   <h2>Customer Reviews</h2>
