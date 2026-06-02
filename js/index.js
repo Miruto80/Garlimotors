@@ -1,6 +1,6 @@
 let currentImageIndex = 0;
 const images = [
-    "imagenes/Last adds/Last add (1).webp", // La primera imagen no tendrá lazy loading
+    "imagenes/Last adds/Last addd (1).webp",
     "imagenes/Last adds/Last add (4).webp",
     "imagenes/Last adds/Last add (2).webp",
     "imagenes/Last adds/Last add (3).webp"
