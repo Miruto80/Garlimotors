@@ -421,6 +421,48 @@ const cars = [
             ],
              Rented: false
         },
+        {
+            "title": "Toyota Corolla 2022 SE",
+            "cash": "$14.550",
+            "down": "$4.000",
+            "financing": "$18.500",
+            "mileage": "117,526",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2022 SE (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 SE (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 SE (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 SE (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 SE (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 SE (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 SE (7).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 SE (8).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 SE (9).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 SE (10).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 SE (11).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "Ford f-150 2019",
+            "cash": "$12.000",
+            "down": "$2.500",
+            "financing": "$16.000",
+            "mileage": "188,004",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Ford f-150 2019 (1).webp",
+                "imagenes/Sedan/Ford f-150 2019 (2).webp",
+                "imagenes/Sedan/Ford f-150 2019 (3).webp",
+                "imagenes/Sedan/Ford f-150 2019 (4).webp",
+                "imagenes/Sedan/Ford f-150 2019 (5).webp",
+                "imagenes/Sedan/Ford f-150 2019 (6).webp",
+                "imagenes/Sedan/Ford f-150 2019 (7).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
