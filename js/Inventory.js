@@ -76,44 +76,6 @@ const cars = [
              Rented: false
         },
         {
-            "title": "Hyundai Elantra 2024",
-            "cash": "$15.000",
-            "down": "$4.500",
-            "financing": "$20.000",
-            "mileage": "16,493 ",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Hyundai Elantra 2024 (1).webp",
-                "imagenes/Sedan/Hyundai Elantra 2024 (2).webp",
-                "imagenes/Sedan/Hyundai Elantra 2024 (3).webp",
-                "imagenes/Sedan/Hyundai Elantra 2024 (4).webp",
-                "imagenes/Sedan/Hyundai Elantra 2024 (5).webp",
-                "imagenes/Sedan/Hyundai Elantra 2024 (6).webp",
-                "imagenes/Sedan/Hyundai Elantra 2024 (7).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "Toyota Corolla 2010",
-            "cash": "$5.500",
-            "down": "$1.500",
-            "financing": "$9.000",
-            "mileage": "195.018",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2010 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2010 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2010 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2010 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2010 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2010 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2010 (7).webp",
-            ],
-             Rented: false
-        },
-        {
             "title": "Toyota Corolla 2012",
             "cash": "$5.000",
             "down": "$1.500",
@@ -255,44 +217,6 @@ const cars = [
              Rented: false
         },
          {
-            "title": "Toyota Corolla 2017",
-            "cash": "$9.500",
-            "down": "$2.000",
-            "financing": "$13.500",
-            "mileage": "122,816",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2017 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2017 (7).webp",
-            ],
-             Rented: false
-        },
-         {
-            "title": "Mercedes cla 2017 CLA-250",
-            "cash": "$9.000",
-            "down": "$2.000",
-            "financing": "$13.000",
-            "mileage": "120,268",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (1).webp",
-                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (2).webp",
-                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (3).webp",
-                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (4).webp",
-                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (5).webp",
-                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (6).webp",
-                "imagenes/Sedan/Mercedes cla 2017 CLA-250 (7).webp",
-            ],
-             Rented: false
-        },
-         {
             "title": "2022 Toyota camrry",
             "cash": "$12.000",
             "down": "$3.000",
@@ -308,25 +232,6 @@ const cars = [
                 "imagenes/Sedan/2022 Toyota camrry (5).webp",
                 "imagenes/Sedan/2022 Toyota camrry (6).webp",
                 "imagenes/Sedan/2022 Toyota camrry (7).webp",
-            ],
-             Rented: false
-        },
-         {
-            "title": "Toyota rav4 2016",
-            "cash": "$10.000",
-            "down": "$2.000$",
-            "financing": "$14,500",
-            "mileage": "183,885",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/Toyota rav4 2016 (1).webp",
-                "imagenes/Suv/Toyota rav4 2016 (2).webp",
-                "imagenes/Suv/Toyota rav4 2016 (3).webp",
-                "imagenes/Suv/Toyota rav4 2016 (5).webp",
-                "imagenes/Suv/Toyota rav4 2016 (4).webp",
-                "imagenes/Suv/Toyota rav4 2016 (6).webp",
-                "imagenes/Suv/Toyota rav4 2016 (7).webp",
             ],
              Rented: false
         },
@@ -380,25 +285,6 @@ const cars = [
                 "imagenes/Sedan/Toyota camrry 2017  (2).webp",
                 "imagenes/Sedan/Toyota camrry 2017  (3).webp",
                 "imagenes/Sedan/Toyota camrry 2017  (4).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "Toyota Corolla 2009",
-            "cash": "$4.000",
-            "down": "$1.500",
-            "financing": "$8.000",
-            "mileage": "228,921 ",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2009 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2009 (7).webp",
             ],
              Rented: false
         },
