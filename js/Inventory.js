@@ -349,6 +349,29 @@ const cars = [
             ],
              Rented: false
         },
+        {
+            "title": "TToyota Corolla 2014",
+            "cash": "$7.000",
+            "down": "$1.500",
+            "financing": "$10.500",
+            "mileage": "174,075",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/TToyota Corolla 2014 (1).webp",
+                "imagenes/Sedan/TToyota Corolla 2014 (2).webp",
+                "imagenes/Sedan/TToyota Corolla 2014 (3).webp",
+                "imagenes/Sedan/TToyota Corolla 2014 (4).webp",
+                "imagenes/Sedan/TToyota Corolla 2014 (5).webp",
+                "imagenes/Sedan/TToyota Corolla 2014 (6).webp",
+                "imagenes/Sedan/TToyota Corolla 2014 (7).webp",
+                "imagenes/Sedan/TToyota Corolla 2014 (8).webp",
+                "imagenes/Sedan/TToyota Corolla 2014 (9).webp",
+                "imagenes/Sedan/TToyota Corolla 2014 (10).webp",
+                "imagenes/Sedan/TToyota Corolla 2014 (11).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
