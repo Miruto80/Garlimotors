@@ -116,7 +116,7 @@ padding: 5px;
             <a target="_blank" href="https://www.tiktok.com/@garli.motors">
             <i class="fa-brands fa-tiktok"></i>
             </a>
-            <i><i class="fa-solid fa-phone"></i><a href="tel:469-639-9404"> 469-639-9404 </a></i>
+            <i><i class="fa-solid fa-phone"></i><a href="tel:469-635-0519"> 469-635-0519 </a></i>
             <i>Garlimotorsllc@gmail.com<i class="fa-solid fa-envelope"></i></i>
 
         </div>
