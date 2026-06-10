@@ -372,6 +372,68 @@ const cars = [
             ],
              Rented: false
         },
+        {
+            "title": "2019 Kia Forte LXS",
+            "cash": "$8.000",
+            "down": "$2.500",
+            "financing": "$13.000",
+            "mileage": "87,427",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2019 Kia Forte LXS (1).webp",
+                "imagenes/Sedan/2019 Kia Forte LXS (2).webp",
+                "imagenes/Sedan/2019 Kia Forte LXS (3).webp",
+                "imagenes/Sedan/2019 Kia Forte LXS (4).webp",
+                "imagenes/Sedan/2019 Kia Forte LXS (5).webp",
+                "imagenes/Sedan/2019 Kia Forte LXS (6).webp",
+                "imagenes/Sedan/2019 Kia Forte LXS (7).webp",
+                "imagenes/Sedan/2019 Kia Forte LXS (8).webp",
+                "imagenes/Sedan/2019 Kia Forte LXS (9).webp",
+                "imagenes/Sedan/2019 Kia Forte LXS (10).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "2010 Toyota Corolla",
+            "cash": "$5.000",
+            "down": "$1.500",
+            "financing": "$9.500",
+            "mileage": "201,702",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2010 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2010 Toyota Corolla (7).webp",
+                "imagenes/Sedan/2010 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2010 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2010 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2010 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2010 Toyota Corolla (6).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "2009 Toyota RAV4 LIMITED",
+            "cash": "$5.200",
+            "down": "$1.500$",
+            "financing": "$9,500",
+            "mileage": "169,091",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2009 Toyota RAV4 LIMITED (6).webp",
+                "imagenes/Suv/2009 Toyota RAV4 LIMITED (1).webp",
+                "imagenes/Suv/2009 Toyota RAV4 LIMITED (2).webp",
+                "imagenes/Suv/2009 Toyota RAV4 LIMITED (3).webp",
+                "imagenes/Suv/2009 Toyota RAV4 LIMITED (5).webp",
+                "imagenes/Suv/2009 Toyota RAV4 LIMITED (4).webp",
+                "imagenes/Suv/2009 Toyota RAV4 LIMITED (7).webp",
+                "imagenes/Suv/2009 Toyota RAV4 LIMITED (8).webp",
+                "imagenes/Suv/2009 Toyota RAV4 LIMITED (9).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
