@@ -236,24 +236,6 @@ const cars = [
              Rented: false
         },
         {
-            "title": "Lexus es 350 2015",
-            "cash": "$9.000",
-            "down": "$2.000",
-            "financing": "$12.500",
-            "mileage": "171,479",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Lexus es 350 2015 (1).webp",
-                "imagenes/Sedan/Lexus es 350 2015 (2).webp",
-                "imagenes/Sedan/Lexus es 350 2015 (3).webp",
-                "imagenes/Sedan/Lexus es 350 2015 (4).webp",
-                "imagenes/Sedan/Lexus es 350 2015 (5).webp",
-                "imagenes/Sedan/Lexus es 350 2015 (6).webp",
-            ],
-             Rented: false
-        },
-        {
             "title": "Mercedes benz cla 250",
             "cash": "$8.000",
             "down": "$2.000",
@@ -330,25 +312,25 @@ const cars = [
             ],
              Rented: false
         },
-        {
-            "title": "Ford f-150 2019",
-            "cash": "$12.000",
-            "down": "$2.500",
-            "financing": "$16.000",
-            "mileage": "188,004",
-            "make": "Truck",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Truck/Ford f-150 2019 (1).webp",
-                "imagenes/Truck/Ford f-150 2019 (2).webp",
-                "imagenes/Truck/Ford f-150 2019 (3).webp",
-                "imagenes/Truck/Ford f-150 2019 (4).webp",
-                "imagenes/Truck/Ford f-150 2019 (5).webp",
-                "imagenes/Truck/Ford f-150 2019 (6).webp",
-                "imagenes/Truck/Ford f-150 2019 (7).webp",
-            ],
-             Rented: false
-        },
+        // {
+        //     "title": "Ford f-150 2019",
+        //     "cash": "$12.000",
+        //     "down": "$2.500",
+        //     "financing": "$16.000",
+        //     "mileage": "188,004",
+        //     "make": "Truck",
+        //     "description": "Clean Title",
+        //     "images": [
+        //         "imagenes/Truck/Ford f-150 2019 (1).webp",
+        //         "imagenes/Truck/Ford f-150 2019 (2).webp",
+        //         "imagenes/Truck/Ford f-150 2019 (3).webp",
+        //         "imagenes/Truck/Ford f-150 2019 (4).webp",
+        //         "imagenes/Truck/Ford f-150 2019 (5).webp",
+        //         "imagenes/Truck/Ford f-150 2019 (6).webp",
+        //         "imagenes/Truck/Ford f-150 2019 (7).webp",
+        //     ],
+        //      Rented: false
+        // },
         {
             "title": "Toyota Corolla 2014",
             "cash": "$7.000",
@@ -431,6 +413,25 @@ const cars = [
                 "imagenes/Suv/2009 Toyota RAV4 LIMITED (7).webp",
                 "imagenes/Suv/2009 Toyota RAV4 LIMITED (8).webp",
                 "imagenes/Suv/2009 Toyota RAV4 LIMITED (9).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "Ford escape 2025",
+            "cash": "$15.800",
+            "down": "$1.500$",
+            "financing": "$15,800",
+            "mileage": "4568.0",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Ford escape 2025 (6).webp",
+                "imagenes/Suv/Ford escape 2025 (1).webp",
+                "imagenes/Suv/Ford escape 2025 (2).webp",
+                "imagenes/Suv/Ford escape 2025 (3).webp",
+                "imagenes/Suv/Ford escape 2025 (5).webp",
+                "imagenes/Suv/Ford escape 2025 (4).webp",
+                "imagenes/Suv/Ford escape 2025 (7).webp",
             ],
              Rented: false
         },
