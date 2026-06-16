@@ -174,25 +174,6 @@ const cars = [
             ],
              Rented: false
         },
-         {
-            "title": "2022 Toyota camrry",
-            "cash": "$12.000",
-            "down": "$3.000",
-            "financing": "$18.000",
-            "mileage": "204,515",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2022 Toyota camrry (1).webp",
-                "imagenes/Sedan/2022 Toyota camrry (2).webp",
-                "imagenes/Sedan/2022 Toyota camrry (3).webp",
-                "imagenes/Sedan/2022 Toyota camrry (4).webp",
-                "imagenes/Sedan/2022 Toyota camrry (5).webp",
-                "imagenes/Sedan/2022 Toyota camrry (6).webp",
-                "imagenes/Sedan/2022 Toyota camrry (7).webp",
-            ],
-             Rented: false
-        },
         {
             "title": "Toyota camrry 2017 ",
             "cash": "$8.000",
@@ -367,28 +348,6 @@ const cars = [
                 "imagenes/Truck/Toyota Tacoma 2018 (5).webp",
                 "imagenes/Truck/Toyota Tacoma 2018 (6).webp",
                 "imagenes/Truck/Toyota Tacoma 2018 (7).webp",
-            ],
-             Rented: false
-        },
-          {
-            "title": "Lexus RX 2008",
-            "cash": "$2.500",
-            "down": "$1.500$",
-            "financing": "$2,500",
-            "mileage": "201,117",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/Lexus RX 2008 (1).webp",
-                "imagenes/Suv/Lexus RX 2008 (2).webp",
-                "imagenes/Suv/Lexus RX 2008 (3).webp",
-                "imagenes/Suv/Lexus RX 2008 (4).webp",
-                "imagenes/Suv/Lexus RX 2008 (5).webp",
-                "imagenes/Suv/Lexus RX 2008 (6).webp",
-                "imagenes/Suv/Lexus RX 2008 (7).webp",
-                "imagenes/Suv/Lexus RX 2008 (8).webp",
-                "imagenes/Suv/Lexus RX 2008 (9).webp",
-                "imagenes/Suv/Lexus RX 2008 (10).webp",
             ],
              Rented: false
         },
