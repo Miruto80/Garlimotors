@@ -106,7 +106,7 @@
         <span id="sname" class="errorform"></span>
 
         <label for="contact">Contact</label>
-        <input type="text" name="contact" id="contact" placeholder="Your email or phone number" required>
+        <input type="text" name="contact" id="contact" placeholder="Your phone number" required>
         <span id="scontact" class="errorform"></span>
 
         <h6>Mechanic service</h6>
