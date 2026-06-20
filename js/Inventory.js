@@ -313,25 +313,6 @@ const cars = [
             ],
              Rented: false
         },
-         {
-            "title": "Ford escape 2025",
-            "cash": "$16.000",
-            "down": "$5.000$",
-            "financing": "$21,000",
-            "mileage": "4568.0",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/Ford escape 2025 (1).webp",
-                "imagenes/Suv/Ford escape 2025 (6).webp",
-                "imagenes/Suv/Ford escape 2025 (2).webp",
-                "imagenes/Suv/Ford escape 2025 (3).webp",
-                "imagenes/Suv/Ford escape 2025 (5).webp",
-                "imagenes/Suv/Ford escape 2025 (4).webp",
-                "imagenes/Suv/Ford escape 2025 (7).webp",
-            ],
-             Rented: false
-        },
         {
             "title": "Toyota Tacoma 2018",
             "cash": "$16.000",
@@ -367,27 +348,6 @@ const cars = [
                 "imagenes/Sedan/2015 Lexus es 350 (5).webp",
                 "imagenes/Sedan/2015 Lexus es 350 (6).webp",
                 "imagenes/Sedan/2015 Lexus es 350 (7).webp",
-            ],
-             Rented: false
-        },
-         {
-            "title": "2018 Toyota Corolla SE",
-            "cash": "$9.000",
-            "down": "$2.500",
-            "financing": "$13.000",
-            "mileage": "170,520",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2018 Toyota Corolla SE (1).webp",
-                "imagenes/Sedan/2018 Toyota Corolla SE (2).webp",
-                "imagenes/Sedan/2018 Toyota Corolla SE (3).webp",
-                "imagenes/Sedan/2018 Toyota Corolla SE (4).webp",
-                "imagenes/Sedan/2018 Toyota Corolla SE (5).webp",
-                "imagenes/Sedan/2018 Toyota Corolla SE (6).webp",
-                "imagenes/Sedan/2018 Toyota Corolla SE (7).webp",
-                "imagenes/Sedan/2018 Toyota Corolla SE (8).webp",
-                "imagenes/Sedan/2018 Toyota Corolla SE (9).webp",
             ],
              Rented: false
         },
