@@ -154,7 +154,7 @@ const cars = [
         },
         {
             "title": "2020 Toyota Corolla LE",
-            "cash": "$11.500",
+            "cash": "$11.000",
             "down": "$3.000",
             "financing": "$16.500",
             "mileage": "119,289",
