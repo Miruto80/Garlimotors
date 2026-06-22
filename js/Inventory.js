@@ -351,6 +351,44 @@ const cars = [
             ],
              Rented: false
         },
+         {
+            "title": "Toyota Corolla 2021",
+            "cash": "$12.000",
+            "down": "$2.500",
+            "financing": "$16.500",
+            "mileage": "113,345",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2021 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 (7).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 (8).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 (9).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "Toyota 4Runner 2016",
+            "cash": "$15.000",
+            "down": "$4.500$",
+            "financing": "$19,000",
+            "mileage": "203,944",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Toyota 4Runner 2016 (1).webp",
+                "imagenes/Suv/Toyota 4Runner 2016 (2).webp",
+                "imagenes/Suv/Toyota 4Runner 2016 (3).webp",
+                "imagenes/Suv/Toyota 4Runner 2016 (4).webp",
+                "imagenes/Suv/Toyota 4Runner 2016 (5).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
