@@ -389,6 +389,23 @@ const cars = [
             ],
              Rented: false
         },
+        {
+            "title": "Toyota Tacoma 2018",
+            "cash": "$12.000",
+            "down": "$2.500",
+            "financing": "$16.000",
+            "mileage": "265,851",
+            "make": "Truck",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Truck/Toyota Tacoma 2018 2 (1).webp",
+                "imagenes/Truck/Toyota Tacoma 2018 2 (2).webp",
+                "imagenes/Truck/Toyota Tacoma 2018 2 (3).webp",
+                "imagenes/Truck/Toyota Tacoma 2018 2 (4).webp",
+                "imagenes/Truck/Toyota Tacoma 2018 2 (5).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
