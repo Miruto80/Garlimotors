@@ -316,8 +316,8 @@ const cars = [
         {
             "title": "Toyota Tacoma 2018",
             "cash": "$16.000",
-            "down": "$5.000",
-            "financing": "$21.000",
+            "down": "$3.800",
+            "financing": "$19.500",
             "mileage": "218,932",
             "make": "Truck",
             "description": "Clean Title",
@@ -403,6 +403,41 @@ const cars = [
                 "imagenes/Truck/Toyota Tacoma 2018 2 (3).webp",
                 "imagenes/Truck/Toyota Tacoma 2018 2 (4).webp",
                 "imagenes/Truck/Toyota Tacoma 2018 2 (5).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "2014 Toyota Corolla",
+            "cash": "$7.500",
+            "down": "$2.000",
+            "financing": "$11.500",
+            "mileage": "202,090",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2014 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2014 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2014 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2014 Toyota Corolla (4).webp",
+            ],
+             Rented: false
+        },
+          {
+            "title": "Toyota Corolla 2022 ",
+            "cash": "$15.500",
+            "down": "$2.000",
+            "financing": "$15.500",
+            "mileage": "54,062",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2022  (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2022  (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2022  (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2022  (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2022  (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2022  (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2022  (7).webp",
             ],
              Rented: false
         },
