@@ -1,9 +1,9 @@
 const cars = [
         {
             "title": "2006 Toyota 4Runner SR5",
-            "cash": "$7.500",
+            "cash": "$7.000",
             "down": "$2.000$",
-            "financing": "$12.000",
+            "financing": "$10.500",
             "mileage": "156,975",
             "make": "Suv",
             "description": "Clean Title",
@@ -408,9 +408,9 @@ const cars = [
         },
          {
             "title": "2014 Toyota Corolla",
-            "cash": "$7.500",
-            "down": "$2.000",
-            "financing": "$11.500",
+            "cash": "$6.000",
+            "down": "$1.500",
+            "financing": "$10.500",
             "mileage": "202,090",
             "make": "Sedan",
             "description": "Clean Title",
