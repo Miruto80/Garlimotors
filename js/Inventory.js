@@ -441,6 +441,25 @@ const cars = [
             ],
              Rented: false
         },
+        {
+            "title": "2007 Toyota 4Runner",
+            "cash": "$6.500",
+            "down": "$2.000$",
+            "financing": "$10,000",
+            "mileage": "272,238",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2007 Toyota 4Runner (1).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (2).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (3).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (4).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (5).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (6).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (7).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
