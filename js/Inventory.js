@@ -1,9 +1,9 @@
 const cars = [
         {
             "title": "2006 Toyota 4Runner SR5",
-            "cash": "$7.500",
+            "cash": "$7.000",
             "down": "$2.000$",
-            "financing": "$12.000",
+            "financing": "$10.500",
             "mileage": "156,975",
             "make": "Suv",
             "description": "Clean Title",
@@ -408,9 +408,9 @@ const cars = [
         },
          {
             "title": "2014 Toyota Corolla",
-            "cash": "$7.500",
-            "down": "$2.000",
-            "financing": "$11.500",
+            "cash": "$6.000",
+            "down": "$1.500",
+            "financing": "$10.500",
             "mileage": "202,090",
             "make": "Sedan",
             "description": "Clean Title",
@@ -473,6 +473,25 @@ const cars = [
                 "imagenes/Sedan/Toyota camry 2014  (3).webp",
                 "imagenes/Sedan/Toyota camry 2014  (4).webp",
                 "imagenes/Sedan/Toyota camry 2014  (5).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "2007 Toyota 4Runner",
+            "cash": "$6.500",
+            "down": "$2.000$",
+            "financing": "$10,000",
+            "mileage": "272,238",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2007 Toyota 4Runner (1).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (2).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (3).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (4).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (5).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (6).webp",
+                "imagenes/Suv/2007 Toyota 4Runner (7).webp",
             ],
              Rented: false
         },
