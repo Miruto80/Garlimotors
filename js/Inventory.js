@@ -441,6 +441,41 @@ const cars = [
             ],
              Rented: false
         },
+          {
+            "title": "2018 Toyota Corolla",
+            "cash": "$7.500",
+            "down": "$2.000",
+            "financing": "$11.500",
+            "mileage": "175,327",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2018 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (6).webp",
+            ],
+             Rented: false
+        },
+          {
+            "title": "Toyota camry 2014",
+            "cash": "$7.500",
+            "down": "$2.000",
+            "financing": "$10.500",
+            "mileage": "151,873 ",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota camry 2014  (1).webp",
+                "imagenes/Sedan/Toyota camry 2014  (2).webp",
+                "imagenes/Sedan/Toyota camry 2014  (3).webp",
+                "imagenes/Sedan/Toyota camry 2014  (4).webp",
+                "imagenes/Sedan/Toyota camry 2014  (5).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
