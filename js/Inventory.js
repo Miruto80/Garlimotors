@@ -495,6 +495,45 @@ const cars = [
             ],
              Rented: false
         },
+        {
+            "title": "Toyota rav4 2018",
+            "cash": "$14.500",
+            "down": "$2.000$",
+            "financing": "$14,500",
+            "mileage": "127,693",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Toyota rav4 2018 (1).webp",
+                "imagenes/Suv/Toyota rav4 2018 (2).webp",
+                "imagenes/Suv/Toyota rav4 2018 (3).webp",
+                "imagenes/Suv/Toyota rav4 2018 (4).webp",
+                "imagenes/Suv/Toyota rav4 2018 (5).webp",
+                "imagenes/Suv/Toyota rav4 2018 (6).webp",
+                "imagenes/Suv/Toyota rav4 2018 (7).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "Toyota 4Runner 2008",
+            "cash": "$7.000",
+            "down": "$2.000$",
+            "financing": "$11,000",
+            "mileage": "213,879",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Toyota 4Runner 2008 (1).webp",
+                "imagenes/Suv/Toyota 4Runner 2008 (2).webp",
+                "imagenes/Suv/Toyota 4Runner 2008 (3).webp",
+                "imagenes/Suv/Toyota 4Runner 2008 (4).webp",
+                "imagenes/Suv/Toyota 4Runner 2008 (5).webp",
+                "imagenes/Suv/Toyota 4Runner 2008 (6).webp",
+                "imagenes/Suv/Toyota 4Runner 2008 (7).webp",
+                "imagenes/Suv/Toyota 4Runner 2008 (8).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
