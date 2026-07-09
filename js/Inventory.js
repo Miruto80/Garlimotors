@@ -357,6 +357,78 @@ const cars = [
             ],
              Rented: false
         },
+        {
+            "title": "Toyota Corolla 2020",
+            "cash": "$10.000",
+            "down": "$3.000",
+            "financing": "$15.000",
+            "mileage": "166,276",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2020 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 (6).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "Toyota Corolla 2020",
+            "cash": "$9.000",
+            "down": "$2.500",
+            "financing": "$14.000",
+            "mileage": "162,082",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2020 1(7).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 1(8).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 1(9).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 1(10).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 1(11).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 1(12).webp",
+                "imagenes/Sedan/Toyota Corolla 2020 1(13).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "2017 honda accord",
+            "cash": "$8.500",
+            "down": "$2.500",
+            "financing": "$13.000",
+            "mileage": "174,947",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2017 honda accord (5).webp",
+                "imagenes/Sedan/2017 honda accord (1).webp",
+                "imagenes/Sedan/2017 honda accord (2).webp",
+                "imagenes/Sedan/2017 honda accord (3).webp",
+                "imagenes/Sedan/2017 honda accord (4).webp",
+                "imagenes/Sedan/2017 honda accord (6).webp",
+            ],
+             Rented: false
+        },
+          {
+            "title": "2007 Toyota Corolla LE",
+            "cash": "$3.000",
+            "down": "$1.500",
+            "financing": "$6.500",
+            "mileage": "243,000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2007 Toyota Corolla LE (1).webp",
+                "imagenes/Sedan/2007 Toyota Corolla LE (2).webp",
+                "imagenes/Sedan/2007 Toyota Corolla LE (3).webp",
+                "imagenes/Sedan/2007 Toyota Corolla LE (4).webp",
+                "imagenes/Sedan/2007 Toyota Corolla LE (5).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
