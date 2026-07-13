@@ -548,6 +548,48 @@ const cars = [
             ],
              Rented: false
         },
+         {
+            "title": "2014 Toyota corolla S",
+            "cash": "$7.500",
+            "down": "$1.800",
+            "financing": "$11.500",
+            "mileage": "167,101",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2014 Toyota corolla S (1).webp",
+                "imagenes/Sedan/2014 Toyota corolla S (2).webp",
+                "imagenes/Sedan/2014 Toyota corolla S (3).webp",
+                "imagenes/Sedan/2014 Toyota corolla S (4).webp",
+                "imagenes/Sedan/2014 Toyota corolla S (5).webp",
+                "imagenes/Sedan/2014 Toyota corolla S (6).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "2019 Toyota Corolla LE",
+            "cash": "$8.000",
+            "down": "$2.000",
+            "financing": "$12.000",
+            "mileage": "185,449",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2019 Toyota Corolla LE (1).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (2).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (3).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (4).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (5).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (6).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (7).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (8).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (9).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (10).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (11).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE (12).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
