@@ -590,6 +590,46 @@ const cars = [
             ],
              Rented: false
         },
+         {
+            "title": "Honda civic 2015",
+            "cash": "$7.000",
+            "down": "$1.800",
+            "financing": "$11.000",
+            "mileage": "143,091",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Honda civic 2015 (1).webp",
+                "imagenes/Sedan/Honda civic 2015 (2).webp",
+                "imagenes/Sedan/Honda civic 2015 (3).webp",
+                "imagenes/Sedan/Honda civic 2015 (4).webp",
+                "imagenes/Sedan/Honda civic 2015 (5).webp",
+                "imagenes/Sedan/Honda civic 2015 (6).webp",
+                "imagenes/Sedan/Honda civic 2015 (7).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "2014 Range Rover Evoque",
+            "cash": "$18.500",
+            "down": "$2.000$",
+            "financing": "$18,500",
+            "mileage": "183,725",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2014 Range Rover Evoque (1).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (2).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (3).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (4).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (5).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (6).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (7).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (8).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (9).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
