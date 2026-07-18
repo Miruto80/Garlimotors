@@ -588,13 +588,21 @@ const cars = [
                 "imagenes/Sedan/2019 Toyota Corolla LE (11).webp",
                 "imagenes/Sedan/2019 Toyota Corolla LE (12).webp",
             ],
-             Rented: false
+             Rented: false,
+             bankInventory: true
         },
 ];
 
 const itemsPerPage = 12;
 let currentPage = 1;
-let currentFilteredCars = cars; // Nuevo: guarda el arreglo filtrado actual
+
+const carListContainer = document.getElementById("car-list");
+const isBankPage = carListContainer && carListContainer.getAttribute("data-page") === "bank";
+
+// Si es la página del banco, nuestra base inicial de datos cambia
+const baseCars = isBankPage ? cars.filter(car => car.bankInventory === true) : cars;
+
+let currentFilteredCars = baseCars;
 
 function renderCars(page, filteredCars = currentFilteredCars) {
     currentFilteredCars = filteredCars;
@@ -611,17 +619,27 @@ function renderCars(page, filteredCars = currentFilteredCars) {
     const carList = document.getElementById("car-list");
     carList.innerHTML = "";
 
+    const isBankPage = carList && carList.getAttribute("data-page") === "bank";
+
     carsToShow.forEach(car => {
         const carDiv = document.createElement("div");
         carDiv.className = "col-md-4 mb-4";
         carDiv.innerHTML = `
             <div class="card text-dark" style="height: 100%;">
+                <!-- La foto mantiene el modal intacto en ambas vistas -->
                 <img src="${car.images[0]}" class="card-img-top" alt="${car.title}" title="Click in the image to see more" data-bs-toggle="modal" data-bs-target="#carModal" onclick="openModal(${cars.indexOf(car)})">
                 ${car.Rented ? `<div class="sold-out-banner">Rented-Alquilado</div>` : ""}
                 <div class="card-body">
                     <h6 class="card-title">${car.title}</h6>
                     <p class="card-text">Cash: ${car.cash}</p>
-                    <button class="Request-btn" onclick="openForm('${car.title}')">Request Information</button>
+                    
+                    ${isBankPage ? `
+                        <a href="bank-approval.php?car=${encodeURIComponent(car.title)}" class="btn Request-btn text-center text-white d-block" style="text-decoration: none;">
+                            Apply for Financing
+                        </a>
+                    ` : `
+                        <button class="Request-btn" onclick="openForm('${car.title}')">Request Information</button>
+                    `}
                 </div>
             </div>
         `;
@@ -680,7 +698,7 @@ function goToPage(page) {
 
 function filterCars() {
     const selectedMakes = Array.from(document.querySelectorAll('input[name="make"]:checked')).map(cb => cb.value);
-    const filteredCars = cars.filter(car => selectedMakes.length === 0 || selectedMakes.includes(car.make));
+    const filteredCars = baseCars.filter(car => selectedMakes.length === 0 || selectedMakes.includes(car.make));
     currentPage = 1; // Reinicia a la primera página
     renderCars(currentPage, filteredCars);
 }
@@ -691,7 +709,7 @@ document.querySelectorAll('input[name="make"]').forEach(checkbox => {
 
 
 // Renderizar la primera página al cargar
-renderCars(1);
+renderCars(1, baseCars);
 
  
 function openForm(carTitle) {

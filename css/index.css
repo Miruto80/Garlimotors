@@ -68,8 +68,8 @@ h1, h2, h3, h4, h5, h6 {
   align-items: center;
 }
 
-.Inicio h2{
-   font-size: 80px;
+.Inicio h1{
+   font-size: 60px;
    color: white;
    margin-bottom: 30px;
 }
@@ -115,8 +115,8 @@ h1, h2, h3, h4, h5, h6 {
       .Inicio{
           height: auto;
       }
-      .Inicio h2{
-        font-size: 60px;
+      .Inicio h1{
+        font-size: 40px;
         color: white;
      }
      
@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6 {
         margin-bottom: 15px;
     }
 
-    .Inicio h2{
+    .Inicio h1{
         margin-top: 10px;
         font-size: 40px;
         margin-bottom: 10px;

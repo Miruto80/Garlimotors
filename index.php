@@ -12,7 +12,7 @@
     <?php require_once("comunes/Ws.php")?>
    <section class="Inicio">
     <div class="text-center">
-        <h2>Best price in town</h2>
+        <h1>Best Cars at Great Prices</h1>
         <br>
         <h3>0% interest Warranty Included</h3>
         <div class="button-container">
