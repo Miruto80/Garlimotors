@@ -115,25 +115,6 @@ const cars = [
         //      Rented: false
         // },
         {
-            "title": "Toyota Corolla 2022 ",
-            "cash": "$12.000",
-            "down": "$3.500$",
-            "financing": "$18,000",
-            "mileage": "125,474",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2022  (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (7).webp",
-            ],
-             Rented: false
-        },
-        {
             "title": "Toyota camrry 2017 ",
             "cash": "$8.000",
             "down": "$2.000",
@@ -228,25 +209,6 @@ const cars = [
              Rented: false,
              bankInventory: true
         },
-         {
-            "title": "2015 Lexus es 350",
-            "cash": "$8.000",
-            "down": "$2.000",
-            "financing": "$11.500",
-            "mileage": "199,835",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2015 Lexus es 350 (1).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (2).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (3).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (4).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (5).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (6).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (7).webp",
-            ],
-             Rented: false
-        },
         {
             "title": "Toyota Tacoma 2018",
             "cash": "$12.000",
@@ -280,23 +242,6 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2022  (5).webp",
                 "imagenes/Sedan/Toyota Corolla 2022  (6).webp",
                 "imagenes/Sedan/Toyota Corolla 2022  (7).webp",
-            ],
-             Rented: false
-        },
-          {
-            "title": "Toyota camry 2014",
-            "cash": "$7.500",
-            "down": "$2.000",
-            "financing": "$10.500",
-            "mileage": "151,873 ",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota camry 2014  (1).webp",
-                "imagenes/Sedan/Toyota camry 2014  (2).webp",
-                "imagenes/Sedan/Toyota camry 2014  (3).webp",
-                "imagenes/Sedan/Toyota camry 2014  (4).webp",
-                "imagenes/Sedan/Toyota camry 2014  (5).webp",
             ],
              Rented: false
         },
@@ -359,43 +304,6 @@ const cars = [
              Rented: false
         },
         {
-            "title": "Toyota Corolla 2020",
-            "cash": "$10.000",
-            "down": "$3.000",
-            "financing": "$15.000",
-            "mileage": "166,276",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2020 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (6).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "Toyota Corolla 2020",
-            "cash": "$9.000",
-            "down": "$2.500",
-            "financing": "$14.000",
-            "mileage": "162,082",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2020 1(7).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(8).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(9).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(10).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(11).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(12).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(13).webp",
-            ],
-             Rented: false
-        },
-        {
             "title": "2017 honda accord",
             "cash": "$8.500",
             "down": "$2.500",
@@ -410,23 +318,6 @@ const cars = [
                 "imagenes/Sedan/2017 honda accord (3).webp",
                 "imagenes/Sedan/2017 honda accord (4).webp",
                 "imagenes/Sedan/2017 honda accord (6).webp",
-            ],
-             Rented: false
-        },
-          {
-            "title": "2007 Toyota Corolla LE",
-            "cash": "$3.000",
-            "down": "$1.500",
-            "financing": "$6.500",
-            "mileage": "243,000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2007 Toyota Corolla LE (1).webp",
-                "imagenes/Sedan/2007 Toyota Corolla LE (2).webp",
-                "imagenes/Sedan/2007 Toyota Corolla LE (3).webp",
-                "imagenes/Sedan/2007 Toyota Corolla LE (4).webp",
-                "imagenes/Sedan/2007 Toyota Corolla LE (5).webp",
             ],
              Rented: false
         },
@@ -494,26 +385,6 @@ const cars = [
              bankInventory: true
         },
         {
-            "title": "2018 Toyota Corolla LE",
-            "cash": "$8.000",
-            "down": "$2.000",
-            "financing": "$12.500",
-            "mileage": "168,711",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2018 Toyota Corolla LE (1).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (2).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (3).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (4).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (5).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (6).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (7).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (8).webp",
-            ],
-             Rented: false
-        },
-        {
             "title": "Toyota Corolla 2016 sport",
             "cash": "$6.500",
             "down": "$1.800",
@@ -532,68 +403,6 @@ const cars = [
             ],
              Rented: false
             },
-            {
-               "title": "2014 Toyota corolla S",
-               "cash": "$7.500",
-               "down": "$1.800",
-               "financing": "$11.500",
-               "mileage": "167,101",
-               "make": "Sedan",
-               "description": "Clean Title",
-               "images": [
-                   "imagenes/Sedan/2014 Toyota corolla S (1).webp",
-                   "imagenes/Sedan/2014 Toyota corolla S (2).webp",
-                   "imagenes/Sedan/2014 Toyota corolla S (3).webp",
-                   "imagenes/Sedan/2014 Toyota corolla S (4).webp",
-                   "imagenes/Sedan/2014 Toyota corolla S (5).webp",
-                   "imagenes/Sedan/2014 Toyota corolla S (6).webp",
-               ],
-                Rented: false
-           },
-         {
-            "title": "Toyota Corolla 2017 ",
-            "cash": "$6.500",
-            "down": "$1.800",
-            "financing": "$11.000",
-            "mileage": "235,750",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2017  (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (7).webp",
-            ],
-             Rented: false
-        },
-         {
-            "title": "2019 Toyota Corolla LE",
-            "cash": "$8.000",
-            "down": "$2.000",
-            "financing": "$12.000",
-            "mileage": "185,449",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2019 Toyota Corolla LE (1).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (2).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (3).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (4).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (5).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (6).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (7).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (8).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (9).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (10).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (11).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (12).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
         {
            "title": "2018 Mercedes Benz CLA",
            "cash": "$13.500",
