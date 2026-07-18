@@ -225,7 +225,8 @@ const cars = [
                 "imagenes/Truck/Toyota Tacoma 2018 (6).webp",
                 "imagenes/Truck/Toyota Tacoma 2018 (7).webp",
             ],
-             Rented: false
+             Rented: false,
+             bankInventory: true
         },
          {
             "title": "2015 Lexus es 350",
@@ -446,7 +447,8 @@ const cars = [
                  "imagenes/Truck/2019 Chevrolet Silverado 1500 (6).webp",
                  "imagenes/Truck/2019 Chevrolet Silverado 1500 (7).webp",
              ],
-              Rented: false
+              Rented: false,
+              bankInventory: true
          },
          {
             "title": "2005 Toyota 4runner",
@@ -488,7 +490,8 @@ const cars = [
                 "imagenes/Suv/2014 Lexus GX LUXURY (8).webp",
                 "imagenes/Suv/2014 Lexus GX LUXURY (9).webp",
             ],
-             Rented: false
+             Rented: false,
+             bankInventory: true
         },
         {
             "title": "2018 Toyota Corolla LE",
@@ -589,7 +592,7 @@ const cars = [
                 "imagenes/Sedan/2019 Toyota Corolla LE (12).webp",
             ],
              Rented: false,
-             bankInventory: true
+             bankInventory: false
         },
 ];
 
