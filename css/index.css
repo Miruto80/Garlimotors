@@ -122,7 +122,135 @@ h1, h2, h3, h4, h5, h6 {
      
   }
 
-  /* Estilo para la sección de la empresa */
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 32px; /* Aumentamos el espacio para dar aire */
+    padding: 80px 40px;
+    background: linear-gradient(135deg, #1A1B1E 0%, #111215 100%);
+    box-shadow: inset 0 0 60px rgba(0, 0, 0, 0.4);
+    position: relative;
+}
+
+.service-card {
+    background: linear-gradient(145deg, #232529 0%, #1B1C1F 100%);
+    border: 1px solid rgba(255, 255, 255, 0.04);
+    border-radius: 24px;
+    padding: 45px 30px;
+    text-align: center;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.3);
+    transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1), 
+                box-shadow 0.4s cubic-bezier(0.165, 0.84, 0.44, 1),
+                border-color 0.4s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Destello de fondo decorativo */
+.service-card::before {
+    content: "";
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(106, 75, 47, 0.05) 0%, transparent 70%);
+    pointer-events: none;
+    transition: transform 0.6s ease;
+}
+
+.service-card:hover {
+    transform: translateY(-12px);
+    box-shadow: 0 24px 48px rgba(0, 0, 0, 0.5);
+    border-color: rgba(106, 75, 79, 0.4); /* Brillo con el color insignia */
+}
+
+.service-card:hover::before {
+    transform: scale(1.1);
+}
+
+/* Estilo para los títulos */
+.service-card h3 {
+    color: #FFFFFF;
+    margin-bottom: 16px;
+    font-size: 1.8rem;
+    font-weight: 700;
+    font-family: 'Avenir Next', sans-serif;
+    position: relative;
+    z-index: 1;
+}
+
+/* Línea decorativa inferior en el título */
+.service-card h3::after {
+    content: "";
+    display: block;
+    width: 40px;
+    height: 3px;
+    background-color: #6A4B4F;
+    margin: 12px auto 0 auto;
+    border-radius: 2px;
+    transition: width 0.3s ease;
+}
+
+.service-card:hover h3::after {
+    width: 65px;
+}
+
+/* Textos descriptivos */
+.service-card p {
+    color: #A0A5B0;
+    margin-bottom: 30px;
+    line-height: 1.8;
+    font-size: 15px;
+    position: relative;
+    z-index: 1;
+}
+
+/* Botones Premium */
+.service-card a {
+    display: inline-block;
+    background: #6A4B4F;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 14px 32px;
+    border-radius: 12px; /* Cambiado a esquinas suavizadas en vez de píldora pura */
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+    transition: all 0.3s ease;
+    position: relative;
+    z-index: 1;
+    border: 1px solid transparent;
+}
+
+.service-card a:hover {
+    background: transparent;
+    color: #FFFFFF;
+    border-color: #6A4B4F;
+    box-shadow: 0 8px 20px rgba(106, 75, 79, 0.25);
+}
+
+/* Responsivo */
+@media (max-width: 992px) {
+    .services-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 24px;
+        padding: 60px 20px;
+    }
+}
+
+@media (max-width: 768px) {
+    .services-grid {
+        grid-template-columns: 1fr;
+        padding: 50px 20px;
+    }
+
+    .service-card {
+        padding: 35px 24px;
+    }
+}
+
+/* Estilo para la sección de la empresa */
 /* Estilo para la sección de la empresa */
 /* Estilo para la sección de la empresa */
 /* Estilo para la sección de la empresa */
