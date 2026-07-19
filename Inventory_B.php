@@ -10,7 +10,7 @@
 <?php require_once("comunes/Ws.php")?>
 
 <div class="title-select-container">
-    <h1 id="header">Car Inventory</h1>
+    <h1 id="header">Bank financing cars</h1>
 </div>
 
 <div class="container mt-5">
@@ -36,7 +36,7 @@
                     </nav>
                 </div>
             
-                <div class="row g-2" id="car-list" data-page="general">
+                <div class="row g-2" id="car-list" data-page="bank">
                     <!-- Aquí se generarán los autos dinámicamente -->
                 </div>
                 <div class="d-flex justify-content-end mt-3">

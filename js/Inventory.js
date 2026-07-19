@@ -115,25 +115,6 @@ const cars = [
         //      Rented: false
         // },
         {
-            "title": "Toyota Corolla 2022 ",
-            "cash": "$12.000",
-            "down": "$3.500$",
-            "financing": "$18,000",
-            "mileage": "125,474",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2022  (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2022  (7).webp",
-            ],
-             Rented: false
-        },
-        {
             "title": "Toyota camrry 2017 ",
             "cash": "$8.000",
             "down": "$2.000",
@@ -225,26 +206,8 @@ const cars = [
                 "imagenes/Truck/Toyota Tacoma 2018 (6).webp",
                 "imagenes/Truck/Toyota Tacoma 2018 (7).webp",
             ],
-             Rented: false
-        },
-         {
-            "title": "2015 Lexus es 350",
-            "cash": "$8.000",
-            "down": "$2.000",
-            "financing": "$11.500",
-            "mileage": "199,835",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2015 Lexus es 350 (1).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (2).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (3).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (4).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (5).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (6).webp",
-                "imagenes/Sedan/2015 Lexus es 350 (7).webp",
-            ],
-             Rented: false
+             Rented: false,
+             bankInventory: true
         },
         {
             "title": "Toyota Tacoma 2018",
@@ -279,23 +242,6 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2022  (5).webp",
                 "imagenes/Sedan/Toyota Corolla 2022  (6).webp",
                 "imagenes/Sedan/Toyota Corolla 2022  (7).webp",
-            ],
-             Rented: false
-        },
-          {
-            "title": "Toyota camry 2014",
-            "cash": "$7.500",
-            "down": "$2.000",
-            "financing": "$10.500",
-            "mileage": "151,873 ",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota camry 2014  (1).webp",
-                "imagenes/Sedan/Toyota camry 2014  (2).webp",
-                "imagenes/Sedan/Toyota camry 2014  (3).webp",
-                "imagenes/Sedan/Toyota camry 2014  (4).webp",
-                "imagenes/Sedan/Toyota camry 2014  (5).webp",
             ],
              Rented: false
         },
@@ -358,43 +304,6 @@ const cars = [
              Rented: false
         },
         {
-            "title": "Toyota Corolla 2020",
-            "cash": "$10.000",
-            "down": "$3.000",
-            "financing": "$15.000",
-            "mileage": "166,276",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2020 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 (6).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "Toyota Corolla 2020",
-            "cash": "$9.000",
-            "down": "$2.500",
-            "financing": "$14.000",
-            "mileage": "162,082",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2020 1(7).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(8).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(9).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(10).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(11).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(12).webp",
-                "imagenes/Sedan/Toyota Corolla 2020 1(13).webp",
-            ],
-             Rented: false
-        },
-        {
             "title": "2017 honda accord",
             "cash": "$8.500",
             "down": "$2.500",
@@ -409,23 +318,6 @@ const cars = [
                 "imagenes/Sedan/2017 honda accord (3).webp",
                 "imagenes/Sedan/2017 honda accord (4).webp",
                 "imagenes/Sedan/2017 honda accord (6).webp",
-            ],
-             Rented: false
-        },
-          {
-            "title": "2007 Toyota Corolla LE",
-            "cash": "$3.000",
-            "down": "$1.500",
-            "financing": "$6.500",
-            "mileage": "243,000",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2007 Toyota Corolla LE (1).webp",
-                "imagenes/Sedan/2007 Toyota Corolla LE (2).webp",
-                "imagenes/Sedan/2007 Toyota Corolla LE (3).webp",
-                "imagenes/Sedan/2007 Toyota Corolla LE (4).webp",
-                "imagenes/Sedan/2007 Toyota Corolla LE (5).webp",
             ],
              Rented: false
         },
@@ -446,7 +338,8 @@ const cars = [
                  "imagenes/Truck/2019 Chevrolet Silverado 1500 (6).webp",
                  "imagenes/Truck/2019 Chevrolet Silverado 1500 (7).webp",
              ],
-              Rented: false
+              Rented: false,
+              bankInventory: true
          },
          {
             "title": "2005 Toyota 4runner",
@@ -488,27 +381,8 @@ const cars = [
                 "imagenes/Suv/2014 Lexus GX LUXURY (8).webp",
                 "imagenes/Suv/2014 Lexus GX LUXURY (9).webp",
             ],
-             Rented: false
-        },
-        {
-            "title": "2018 Toyota Corolla LE",
-            "cash": "$8.000",
-            "down": "$2.000",
-            "financing": "$12.500",
-            "mileage": "168,711",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2018 Toyota Corolla LE (1).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (2).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (3).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (4).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (5).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (6).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (7).webp",
-                "imagenes/Sedan/2018 Toyota Corolla LE (8).webp",
-            ],
-             Rented: false
+             Rented: false,
+             bankInventory: true
         },
         {
             "title": "Toyota Corolla 2016 sport",
@@ -528,67 +402,250 @@ const cars = [
                 "imagenes/Sedan/Toyota Corolla 2016 sport (7).webp",
             ],
              Rented: false
+            },
+        {
+           "title": "2018 Mercedes Benz CLA",
+           "cash": "$13.500",
+           "down": "$2.500",
+           "financing": "$13.500",
+           "mileage": "113,659",
+           "make": "Sedan",
+           "description": "Clean Title",
+           "images": [
+               "imagenes/Sedan/2018 Mercedes Benz CLA (1).webp",
+               "imagenes/Sedan/2018 Mercedes Benz CLA (2).webp",
+               "imagenes/Sedan/2018 Mercedes Benz CLA (3).webp",
+               "imagenes/Sedan/2018 Mercedes Benz CLA (4).webp",
+               "imagenes/Sedan/2018 Mercedes Benz CLA (5).webp",
+               "imagenes/Sedan/2018 Mercedes Benz CLA (6).webp",
+               "imagenes/Sedan/2018 Mercedes Benz CLA (7).webp",
+           ],
+            Rented: false,
+            bankInventory: true
+       },
+         {
+            "title": "2017 Toyota Corolla",
+            "cash": "$8.500",
+            "down": "$2.500",
+            "financing": "$13.000",
+            "mileage": "163,399",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2017 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (6).webp",
+                "imagenes/Sedan/2017 Toyota Corolla (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
         },
          {
-            "title": "Toyota Corolla 2017 ",
-            "cash": "$6.500",
+            "title": "2020 Chevrolet Malibú",
+            "cash": "$6.000",
+            "down": "$2.000",
+            "financing": "$11.000",
+            "mileage": "136,711",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2020 Chevrolet Malibú (1).webp",
+                "imagenes/Sedan/2020 Chevrolet Malibú (2).webp",
+                "imagenes/Sedan/2020 Chevrolet Malibú (3).webp",
+                "imagenes/Sedan/2020 Chevrolet Malibú (4).webp",
+                "imagenes/Sedan/2020 Chevrolet Malibú (5).webp",
+                "imagenes/Sedan/2020 Chevrolet Malibú (6).webp",
+                "imagenes/Sedan/2020 Chevrolet Malibú (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+         {
+            "title": "Honda civic 2015",
+            "cash": "$7.000",
             "down": "$1.800",
             "financing": "$11.000",
-            "mileage": "235,750",
+            "mileage": "143,091",
             "make": "Sedan",
             "description": "Clean Title",
             "images": [
-                "imagenes/Sedan/Toyota Corolla 2017  (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2017  (7).webp",
+                "imagenes/Sedan/Honda civic 2015 (1).webp",
+                "imagenes/Sedan/Honda civic 2015 (2).webp",
+                "imagenes/Sedan/Honda civic 2015 (3).webp",
+                "imagenes/Sedan/Honda civic 2015 (4).webp",
+                "imagenes/Sedan/Honda civic 2015 (5).webp",
+                "imagenes/Sedan/Honda civic 2015 (6).webp",
+                "imagenes/Sedan/Honda civic 2015 (7).webp",
             ],
-             Rented: false
+             Rented: false,
+             bankInventory: false
         },
-         {
-            "title": "2014 Toyota corolla S",
+        {
+             "title": "2022 Chevrolet Silverado",
+             "cash": "$19.500",
+             "down": "$3.000",
+             "financing": "$19.500",
+             "mileage": "111,861",
+             "make": "Truck",
+             "description": "Clean Title",
+             "images": [
+                 "imagenes/Truck/2022 Chevrolet Silverado (1).webp",
+                 "imagenes/Truck/2022 Chevrolet Silverado (2).webp",
+                 "imagenes/Truck/2022 Chevrolet Silverado (3).webp",
+                 "imagenes/Truck/2022 Chevrolet Silverado (4).webp",
+                 "imagenes/Truck/2022 Chevrolet Silverado (5).webp",
+                 "imagenes/Truck/2022 Chevrolet Silverado (6).webp",
+                 "imagenes/Truck/2022 Chevrolet Silverado (7).webp",
+                 "imagenes/Truck/2022 Chevrolet Silverado (8).webp",
+                 "imagenes/Truck/2022 Chevrolet Silverado (9).webp",
+             ],
+              Rented: false,
+              bankInventory: true
+         },
+          {
+            "title": "2014 Range Rover Evoque",
             "cash": "$7.500",
-            "down": "$1.800",
-            "financing": "$11.500",
-            "mileage": "167,101",
-            "make": "Sedan",
+            "down": "$2.000$",
+            "financing": "$7,500",
+            "mileage": "152,169",
+            "make": "Suv",
             "description": "Clean Title",
             "images": [
-                "imagenes/Sedan/2014 Toyota corolla S (1).webp",
-                "imagenes/Sedan/2014 Toyota corolla S (2).webp",
-                "imagenes/Sedan/2014 Toyota corolla S (3).webp",
-                "imagenes/Sedan/2014 Toyota corolla S (4).webp",
-                "imagenes/Sedan/2014 Toyota corolla S (5).webp",
-                "imagenes/Sedan/2014 Toyota corolla S (6).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (1).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (2).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (3).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (4).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (5).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (6).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (7).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (8).webp",
+                "imagenes/Suv/2014 Range Rover Evoque (9).webp",
             ],
-             Rented: false
+             Rented: false,
+             bankInventory: false
         },
-         {
-            "title": "2019 Toyota Corolla LE",
-            "cash": "$8.000",
-            "down": "$2.000",
-            "financing": "$12.000",
-            "mileage": "185,449",
-            "make": "Sedan",
+           {
+            "title": "2018 Toyota c-HR",
+            "cash": "$15.500",
+            "down": "$2.000$",
+            "financing": "$15,500",
+            "mileage": "78,840",
+            "make": "Suv",
             "description": "Clean Title",
             "images": [
-                "imagenes/Sedan/2019 Toyota Corolla LE (1).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (2).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (3).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (4).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (5).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (6).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (7).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (8).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (9).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (10).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (11).webp",
-                "imagenes/Sedan/2019 Toyota Corolla LE (12).webp",
+                "imagenes/Suv/2018 Toyota c-HR (1).webp",
+                "imagenes/Suv/2018 Toyota c-HR (2).webp",
+                "imagenes/Suv/2018 Toyota c-HR (3).webp",
+                "imagenes/Suv/2018 Toyota c-HR (4).webp",
+                "imagenes/Suv/2018 Toyota c-HR (5).webp",
+                "imagenes/Suv/2018 Toyota c-HR (6).webp",
+                "imagenes/Suv/2018 Toyota c-HR (7).webp",
             ],
-             Rented: false
+             Rented: false,
+             bankInventory: true
+        },
+        {
+            "title": "Mazda cx-3 2017",
+            "cash": "$14.500",
+            "down": "$2.000$",
+            "financing": "$14,500",
+            "mileage": "96,602",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Mazda cx-3 2017 (1).webp",
+                "imagenes/Suv/Mazda cx-3 2017 (2).webp",
+                "imagenes/Suv/Mazda cx-3 2017 (3).webp",
+                "imagenes/Suv/Mazda cx-3 2017 (4).webp",
+                "imagenes/Suv/Mazda cx-3 2017 (5).webp",
+                "imagenes/Suv/Mazda cx-3 2017 (6).webp",
+                "imagenes/Suv/Mazda cx-3 2017 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: true
+        },
+        {
+            "title": "2020 Mitsubishi outlander",
+            "cash": "$14.500",
+            "down": "$2.000$",
+            "financing": "$14,500",
+            "mileage": "87,973",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2020 Mitsubishi outlander (1).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (2).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (3).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (4).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (5).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (6).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (7).webp",
+            ],
+             Rented: false,
+             bankInventory: true
+        },
+        {
+            "title": "2020 Subaru ascent",
+            "cash": "$19.500",
+            "down": "$2.500$",
+            "financing": "$19,500",
+            "mileage": "91,083",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2020 Subaru ascent (1).webp",
+                "imagenes/Suv/2020 Subaru ascent (2).webp",
+                "imagenes/Suv/2020 Subaru ascent (3).webp",
+                "imagenes/Suv/2020 Subaru ascent (4).webp",
+                "imagenes/Suv/2020 Subaru ascent (5).webp",
+                "imagenes/Suv/2020 Subaru ascent (6).webp",
+                "imagenes/Suv/2020 Subaru ascent (7).webp",
+                "imagenes/Suv/2020 Subaru ascent (8).webp",
+            ],
+             Rented: false,
+             bankInventory: true
+        },
+        {
+            "title": "2020 jeep rubicon",
+            "cash": "$34.500",
+            "down": "$5.000$",
+            "financing": "$34,500",
+            "mileage": "90,045",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2020 jeep rubicon (1).webp",
+                "imagenes/Suv/2020 jeep rubicon (2).webp",
+                "imagenes/Suv/2020 jeep rubicon (3).webp",
+                "imagenes/Suv/2020 jeep rubicon (4).webp",
+                "imagenes/Suv/2020 jeep rubicon (5).webp",
+                "imagenes/Suv/2020 jeep rubicon (6).webp",
+            ],
+             Rented: false,
+             bankInventory: true
+        },
+        {
+            "title": "2012 Toyota 4runner Sr5",
+            "cash": "$12.000",
+            "down": "$4.000$",
+            "financing": "$16,500",
+            "mileage": "246,573",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (1).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (2).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (3).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (4).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (5).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (6).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
         },
          {
             "title": "Honda civic 2015",
@@ -634,7 +691,14 @@ const cars = [
 
 const itemsPerPage = 12;
 let currentPage = 1;
-let currentFilteredCars = cars; // Nuevo: guarda el arreglo filtrado actual
+
+const carListContainer = document.getElementById("car-list");
+const isBankPage = carListContainer && carListContainer.getAttribute("data-page") === "bank";
+
+// Si es la página del banco, nuestra base inicial de datos cambia
+const baseCars = isBankPage ? cars.filter(car => car.bankInventory === true) : cars;
+
+let currentFilteredCars = baseCars;
 
 function renderCars(page, filteredCars = currentFilteredCars) {
     currentFilteredCars = filteredCars;
@@ -651,17 +715,27 @@ function renderCars(page, filteredCars = currentFilteredCars) {
     const carList = document.getElementById("car-list");
     carList.innerHTML = "";
 
+    const isBankPage = carList && carList.getAttribute("data-page") === "bank";
+
     carsToShow.forEach(car => {
         const carDiv = document.createElement("div");
         carDiv.className = "col-md-4 mb-4";
         carDiv.innerHTML = `
             <div class="card text-dark" style="height: 100%;">
+                <!-- La foto mantiene el modal intacto en ambas vistas -->
                 <img src="${car.images[0]}" class="card-img-top" alt="${car.title}" title="Click in the image to see more" data-bs-toggle="modal" data-bs-target="#carModal" onclick="openModal(${cars.indexOf(car)})">
                 ${car.Rented ? `<div class="sold-out-banner">Rented-Alquilado</div>` : ""}
                 <div class="card-body">
                     <h6 class="card-title">${car.title}</h6>
                     <p class="card-text">Cash: ${car.cash}</p>
-                    <button class="Request-btn" onclick="openForm('${car.title}')">Request Information</button>
+                    
+                    ${isBankPage ? `
+                        <a href="bank-approval.php?car=${encodeURIComponent(car.title)}" class="btn Request-btn text-center text-white d-block" style="text-decoration: none;">
+                            Apply for Financing
+                        </a>
+                    ` : `
+                        <button class="Request-btn" onclick="openForm('${car.title}')">Request Information</button>
+                    `}
                 </div>
             </div>
         `;
@@ -720,7 +794,7 @@ function goToPage(page) {
 
 function filterCars() {
     const selectedMakes = Array.from(document.querySelectorAll('input[name="make"]:checked')).map(cb => cb.value);
-    const filteredCars = cars.filter(car => selectedMakes.length === 0 || selectedMakes.includes(car.make));
+    const filteredCars = baseCars.filter(car => selectedMakes.length === 0 || selectedMakes.includes(car.make));
     currentPage = 1; // Reinicia a la primera página
     renderCars(currentPage, filteredCars);
 }
@@ -731,7 +805,7 @@ document.querySelectorAll('input[name="make"]').forEach(checkbox => {
 
 
 // Renderizar la primera página al cargar
-renderCars(1);
+renderCars(1, baseCars);
 
  
 function openForm(carTitle) {

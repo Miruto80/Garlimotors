@@ -12,16 +12,36 @@
     <?php require_once("comunes/Ws.php")?>
    <section class="Inicio">
     <div class="text-center">
-        <h2>Best price in town</h2>
+        <h1>Best Cars at Great Prices</h1>
         <br>
         <h3>0% interest Warranty Included</h3>
-        <div class="button-container">
+        <!-- <div class="button-container">
             <button onclick="location.href='Inventory.php'">View inventory</button>
             <button onclick="location.href='Mechanics.php'">Mechanic Service</button>
-        </div>
+        </div> -->
     </div>
 </section>
 
+<section class="services-grid">
+    <div class="service-card">
+        <h3>Inventory</h3>
+        <p>Explore our curated selection of quality vehicles with transparent pricing and house financing options.</p>
+        <a href="Inventory.php">View inventory</a>
+    </div>
+
+    <div class="service-card">
+        <h3>Bank Financing</h3>
+        <p>Find flexible financing solutions designed to fit your budget with simple approval steps.</p>
+        <a href="Bank-approval.php">Apply now</a>
+    </div>
+    
+    <div class="service-card">
+        <h3>Mechanic Service</h3>
+        <p>Keep your vehicle in top condition with expert maintenance and repair support.</p>
+        <a href="Mechanics.php">Book service</a>
+    </div>
+
+</section>
 
   <section class="about-us">
     <div class="container">

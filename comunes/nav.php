@@ -16,8 +16,9 @@ header h1 {
     font-weight: bold;
 }
 
-header nav ul li a {
-    color: white; /* Color de los enlaces */
+header nav ul li a, 
+header nav .dropdown-toggle {
+    color: white !important; /* Color de los enlaces */
     text-decoration: none;
     font-weight: bold;
     transition: color 0.5s ease;
@@ -25,22 +26,42 @@ header nav ul li a {
     margin-left: 5px;
     font-family:'Avenir Next', sans-serif;
 }
-header nav ul li a:hover {
-    color: #6A4B4F; /* Color de los enlaces */
+
+header nav ul li a:hover,
+header nav .dropdown-toggle:hover {
+    color: #6A4B4F !important; /* Color de los enlaces al hacer hover */
+}
+
+/* Estilos para el menú desplegable */
+.dropdown-menu {
+    background-color: #1F2023;
+    border: 1px solid #6A4B4F;
+}
+
+.dropdown-item {
+    color: white !important;
+    font-family:'Avenir Next', sans-serif;
+    font-size: 16px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dropdown-item:hover {
+    background-color: #6A4B4F !important;
+    color: white !important;
 }
 
 #Link-I{
     background-color: #6A4B4F;
     border-radius: 15px;
     padding: 12px;
-    color: white;
+    color: white !important;
     transition: background-color 0.5s ease;
     text-align: center;
 }
 
 #Link-I:hover{
-    background-color: white;
-    color:black;
+    background-color: white !important;
+    color: black !important;
 }
 
 .navbar-toggler i {
@@ -58,6 +79,7 @@ header nav ul li a:hover {
     background: rgba(255, 255, 255, 0.1); /* Fondo sutil al hacer hover */
     transform: scale(1.05); /* Pequeño efecto de agrandamiento */
 }
+
 @media (max-width: 768px) {
   #logo{
     width: 150px;
@@ -67,42 +89,56 @@ header nav ul li a:hover {
 </style>
 <body>
 <header>
-        <nav class="navbar navbar-expand-lg">
-          <div class="container-fluid">
-            <a class="navbar-brand" href="index.php">
-              <img src="imagenes/Imgcom/GARLI MOTORS-11 (2).webp" id="logo"alt="Logo Garlimotors" width="250" height="100" class="d-inline-block align-text-top">
-            </a>
-            <h1 class="navbar-brand fs-4 d-none d-sm-inline d-lg-inline fs-lg-2 text-white">
-              <b>Buy and Finance cars</b>
-            </h1>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="fa-solid fa-bars text-white"></i>
-            </button>
-            
-            <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-              <ul class="navbar-nav mb-2 mb-lg-0">
-                <li class="nav-item">
-                  <a class="nav-link" href="index.php">Home</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="Pre-approval.php">Pre-Approval</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="Mechanics.php">Mechanics</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="#contact">Contact us</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" href="Reviews.php">Reviews</a>
-                </li>
-                <li class="nav-item">
-                  <a class="nav-link" id="Link-I" href="Inventory.php">View inventory</a>
-                </li>
+    <nav class="navbar navbar-expand-lg">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.php">
+          <img src="imagenes/Imgcom/GARLI MOTORS-11 (2).webp" id="logo" alt="Logo Garlimotors" width="200" height="80" class="d-inline-block align-text-top">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="fa-solid fa-bars text-white"></i>
+        </button>
+        
+        <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+          <ul class="navbar-nav mb-2 mb-lg-0 align-items-lg-center">
+            <li class="nav-item">
+              <a class="nav-link" href="index.php">Home</a>
+            </li>
+
+            <!-- 🏛️ DROPDOWN: Approvals -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="approvalsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Approvals
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="approvalsDropdown">
+                <li><a class="dropdown-item" href="Pre-approval.php">Pre-Approval</a></li>
+                <li><a class="dropdown-item" href="Bank-approval.php">Bank-Approval</a></li>
               </ul>
-            </div>
-          </div>
-        </nav>
-      </header>  
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="Mechanics.php">Mechanics</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contact">Contact us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="Reviews.php">Reviews</a>
+            </li>
+
+            <!-- 🚗 DROPDOWN: Inventories -->
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" id="Link-I" href="#" id="inventoryDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                View Inventory
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="inventoryDropdown">
+                <li><a class="dropdown-item" href="Inventory.php">General Inventory</a></li>
+                <li><a class="dropdown-item" href="Inventory_B.php">Bank Inventory</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>  
 </body>
 </html>
