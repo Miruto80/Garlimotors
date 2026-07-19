@@ -174,7 +174,7 @@ option {
 /* Botón de Envío / Simulación */
 form input[type="submit"],
 form button[type="submit"] {
-    background-color: #0782fa;
+    background-color: #6A4B4F;
     color: white;
     padding: 16px 30px;
     border: none;
@@ -198,6 +198,9 @@ form button[type="submit"]:hover {
     transform: translateY(-1px); /* Efecto leve de elevación */
 }
 
+#btnNext {
+     background-color: #6A4B4F;
+}
 
 
 /* Mensajes de Error de Validación */
