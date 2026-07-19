@@ -219,3 +219,100 @@ form button[type="submit"]:hover {
         .step { opacity: 0.7; transition: all 0.3s ease; padding: 0.65rem 0.95rem; border-radius: 999px; background: rgba(255, 255, 255, 0.08); color: #f3f3f3; border: 1px solid rgba(255,255,255,0.08); font-weight: 600; text-align: center; min-width: 95px; }
         .step.active { opacity: 1; background: linear-gradient(135deg, #6A4B4F, #c79a67); box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25); }
         @keyframes fadeIn { from { opacity: 0; transform: translateX(20px); } to { opacity: 1; transform: translateX(0); } }
+
+@media (max-width: 1024px) {
+    .form-wrapper {
+        width: 100%;
+        max-width: 100%;
+        padding: 0 12px;
+    }
+
+    form {
+        padding: 34px 22px;
+        margin: 20px auto;
+        max-width: 100%;
+        box-sizing: border-box;
+    }
+
+    .preapproval-steps {
+        justify-content: center;
+        gap: 0.55rem;
+        padding: 0;
+        margin-bottom: 1.25rem;
+    }
+
+    .preapproval-steps .step {
+        flex: 1 1 calc(50% - 0.55rem);
+        min-width: 0;
+        padding: 0.55rem 0.75rem;
+        font-size: 0.95rem;
+    }
+
+    .d-flex.gap-2 {
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .d-flex.gap-2 button,
+    form input[type="submit"],
+    form button[type="submit"] {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .preapproval-steps .step {
+        flex: 1 1 calc(50% - 0.45rem);
+        min-width: 0;
+    }
+
+    .preapproval-steps {
+        gap: 0.45rem;
+    }
+
+    form {
+        padding: 28px 18px;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 575px) {
+    .form-wrapper {
+        padding: 0 8px;
+    }
+
+    form {
+        padding: 20px 14px;
+        margin: 16px auto;
+    }
+
+    .preapproval-steps {
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 0.35rem;
+    }
+
+    .preapproval-steps .step {
+        flex: 1 1 100%;
+        width: 100%;
+        min-width: 0;
+        padding: 0.55rem 0.65rem;
+        font-size: 0.86rem;
+    }
+
+    .progress-track {
+        margin-bottom: 16px;
+    }
+
+    form input[type="text"],
+    form input[type="number"],
+    form input[type="email"],
+    form select {
+        padding: 12px 10px;
+    }
+}
+
