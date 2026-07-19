@@ -226,25 +226,6 @@ const cars = [
             ],
              Rented: false
         },
-          {
-            "title": "Toyota Corolla 2022 ",
-            "cash": "$15.500",
-            "down": "$2.000",
-            "financing": "$15.500",
-            "mileage": "54,062",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2022 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2022 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2022 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2022 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2022 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2022 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2022 (7).webp",
-            ],
-             Rented: false
-        },
         {
             "title": "2007 Toyota 4Runner",
             "cash": "$6.500",
