@@ -627,6 +627,26 @@ const cars = [
              Rented: false,
              bankInventory: true
         },
+        {
+            "title": "2012 Toyota 4runner Sr5",
+            "cash": "$12.000",
+            "down": "$4.000$",
+            "financing": "$16,500",
+            "mileage": "246,573",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (1).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (2).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (3).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (4).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (5).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (6).webp",
+                "imagenes/Suv/2012 Toyota 4runner Sr5 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
