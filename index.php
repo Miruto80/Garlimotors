@@ -1,5 +1,6 @@
 <!DOCTYPE html> <!-- prueba -->
-<html lang="en">
+<?php require_once("comunes/language.php"); ?>
+<html lang="<?php echo $_SESSION['lang']; ?>">
 <head>
     <meta name="description" content="Discover the best car deals in Texas with GARLI MOTORS. Offering 0% interest financing, warranty included, and a wide range of reliable vehicles. Drive with confidence today!">
     <meta name="keywords" content="buy used cars in Texas, car dealership in Texas, 0% interest car financing, GARLI MOTORS, affordable cars Texas, car sales with warranty">
@@ -12,9 +13,9 @@
     <?php require_once("comunes/Ws.php")?>
    <section class="Inicio">
     <div class="text-center">
-        <h1>Best Cars at Great Prices</h1>
+        <h1><?php echo $text['title']; ?></h1>
         <br>
-        <h3>0% interest Warranty Included</h3>
+        <h3><?php echo $text['subtitle']; ?></h3>
         <!-- <div class="button-container">
             <button onclick="location.href='Inventory.php'">View inventory</button>
             <button onclick="location.href='Mechanics.php'">Mechanic Service</button>
@@ -24,36 +25,36 @@
 
 <section class="services-grid">
     <div class="service-card">
-        <h3>Inventory</h3>
-        <p>Explore our curated selection of quality vehicles with transparent pricing and house financing options.</p>
-        <a href="Inventory.php">View inventory</a>
+        <h3><?php echo $text['inventory']; ?></h3>
+        <p><?php echo $text['inventory_text']; ?></p>
+        <a href="Inventory.php"><?php echo $text['view_inventory']; ?></a>
     </div>
 
     <div class="service-card">
-        <h3>Bank Financing</h3>
-        <p>Find flexible financing solutions designed to fit your budget with simple approval steps.</p>
-        <a href="Bank-approval.php">Apply now</a>
+        <h3><?php echo $text['bank']; ?></h3>
+        <p><?php echo $text['bank_text']; ?></p>
+        <a href="Bank-approval.php"><?php echo $text['apply']; ?></a>
     </div>
     
     <div class="service-card">
-        <h3>Mechanic Service</h3>
-        <p>Keep your vehicle in top condition with expert maintenance and repair support.</p>
-        <a href="Mechanics.php">Book service</a>
+        <h3><?php echo $text['mechanic']; ?></h3>
+        <p><?php echo $text['mechanic_text']; ?></p>
+        <a href="Mechanics.php"><?php echo $text['book']; ?></a>
     </div>
 
 </section>
 
   <section class="about-us">
     <div class="container">
-        <h2>About GARLI MOTORS</h2>
-        <p>GARLI MOTORS is a company dedicated to the buying and selling of cars, financing, and vehicle rentals. We focus on offering our customers accessible, reliable, and modern options to meet their mobility needs.</p>
-        <p>We provide 0% interest financing options and comprehensive warranties with every purchase, ensuring you drive with confidence and peace of mind.</p>
-        <h3>Why Choose Us?</h3>
+        <h2><?php echo $text['about']; ?></h2>
+        <p><?php echo $text['about_text1']; ?></p>
+        <p><?php echo $text['about_text2']; ?></p>
+        <h3><?php echo $text['why']; ?></h3>
         <ul>
-            <li><strong>Extensive Inventory:</strong> From sports cars to family SUVs, we have something for everyone.</li>
-            <li><strong>Trusted Service:</strong> Our team is dedicated to making your car-buying experience as smooth as possible.</li>
-            <li><strong>Flexible Financing:</strong> We offer 0% interest financing with no hidden fees.</li>
-            <li><strong>Warranty Included:</strong> Every car comes with a warranty, so you can drive with confidence.</li>
+            <li><strong><?php echo $text['inventory2']; ?>:</strong> <?php echo $text['inventory2_text']; ?></li>
+            <li><strong><?php echo $text['trusted_service']; ?>:</strong> <?php echo $text['trusted_service_text']; ?></li>
+            <li><strong><?php echo $text['flexible_financing']; ?>:</strong> <?php echo $text['flexible_financing_text']; ?></li>
+            <li><strong><?php echo $text['warranty']; ?>:</strong> <?php echo $text['warranty_text']; ?></li>
         </ul>
     </div>
 </section>
@@ -61,7 +62,7 @@
 
 <section class="car-carousel">
   <div class="carousel-container">
-      <h2 class="carousel-title">Last adds</h2>
+      <h2 class="carousel-title"><?php echo $text['last_adds']; ?></h2>
       <button class="carousel-arrow left-arrow" onclick="previousImage()">&#8249;</button>
       <div class="carousel-image">
           <img id="carousel-bg" src="imagenes/Last adds/Last addd (1).webp" alt="Car 1">
@@ -71,7 +72,7 @@
 </section>
 
 <section id="reviewsList">
-  <h3 class="text-center">Recent Reviews</h3>
+  <h3 class="text-center"><?php echo $text['reviews']; ?></h3>
   <?php
   $conn = new mysqli('localhost', 'u417714339_Garlimotors', 'Basededatos15.', 'u417714339_reviewsGarli');
   if ($conn->connect_error) {
@@ -88,15 +89,15 @@
               echo "<div>
                       <strong>" . htmlspecialchars($row['name']) . " <span class='star-rating'>($stars)</span></strong>
                       <p>" . htmlspecialchars($row['review']) . "</p>
-                      <small>Reviewed on: $created_at</small>
+                      <small>" . $text['reviewed_on'] . " $created_at</small>
                     </div>";
             }
           } else {
-            echo "<p>No reviews yet. Be the first to leave one!</p>";
+            echo "<p>" . $text['no_reviews'] . "</p>";
           }
           $conn->close();
           ?>
-<button onclick="location.href='Reviews.php'">Leave a review here</button>
+<button onclick="location.href='Reviews.php'"><?php echo $text['leave_review']; ?></button>
 </section>
   
 <div style="width: 100%; margin: 0;">
