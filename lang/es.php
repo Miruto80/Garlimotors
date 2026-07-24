@@ -209,6 +209,26 @@ return [
 
 'back' => 'Atrás',
 'next' => 'Siguiente',
-'submit_application' => 'Enviar Solicitud'
+'submit_application' => 'Enviar Solicitud',
+
+'ws' => 'Escribenos',
+
+'home' => 'Inicio',
+
+'approvals' => 'Aprobaciones',
+'pre_approval' => 'Pre-Aprobación',
+'bank_approval' => 'Aprobación Bancaria',
+
+'mechanics' => 'Mecánica',
+'contact_us' => 'Contáctanos',
+'reviews' => 'Reseñas',
+
+'view_inventory' => 'Ver Inventario',
+'general_inventory' => 'Inventario General',
+'bank_inventory' => 'Inventario Bancario',
+
+'toggle_navigation' => 'Abrir navegación',
+
+'social_media' => 'Redes Sociales',
 
 ];

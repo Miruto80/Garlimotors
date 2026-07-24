@@ -108,7 +108,7 @@ padding: 5px;
 </style>
 <body>
 <footer>
-        <h4>Social Media</h4>
+        <h4><?php echo $text['social_media']; ?></h4>
         <div class="redes-sociales" id="contact">
             <a target="_blank" href="https://www.instagram.com/garli_motorsllc/">
                 <i class="fa-brands fa-instagram"></i>

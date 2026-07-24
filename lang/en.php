@@ -108,10 +108,8 @@ return [
 'recent_reviews' => 'Recent Reviews:',
 
 'leave_a_review' => 'Leave a Review',
-
 'name_label' => 'Name:',
 'put_your_name' => 'Put your name here',
-
 'rating' => 'Rating (1-5):',
 
 'review_label' => 'Review:',
@@ -204,6 +202,27 @@ return [
 
 'back' => 'Back',
 'next' => 'Next',
-'submit_application' => 'Submit Application'
+'submit_application' => 'Submit Application',
+
+'ws' => 'Text us',
+
+'home' => 'Home',
+
+'approvals' => 'Approvals',
+'pre_approval' => 'Pre-Approval',
+'bank_approval' => 'Bank Approval',
+
+'mechanics' => 'Mechanics',
+'contact_us' => 'Contact Us',
+'reviews' => 'Reviews',
+
+'view_inventory' => 'View Inventory',
+'general_inventory' => 'General Inventory',
+'bank_inventory' => 'Bank Inventory',
+
+'toggle_navigation' => 'Toggle navigation',
+
+'social_media' => 'Social Media',
+
     
 ];

@@ -40,4 +40,4 @@ $url_whatsapp = "https://wa.me/{$telefono}?text={$mensaje}";
 <a href="<?php echo $url_whatsapp; ?>" class="btn-whatsapp-flotante" target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-whatsapp"></i>
     
-Text us</a>
+  <?php echo $text['ws']; ?></a>
