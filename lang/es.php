@@ -102,9 +102,59 @@ return [
 'yes' => 'Sí',
 'no' => 'No',
 
-'phone_error' => 'El formato debe tener entre 10 y 11 dígitos',
-'name_error' => 'Solo letras entre 3 y 30 caracteres',
+'reviews_title' => 'Reseñas',
+'customer_reviews' => 'Reseñas de Clientes',
+'leave_review_now' => 'Dejar una Reseña Ahora',
+'recent_reviews' => 'Reseñas Recientes:',
 
-'error_phone' => 'Error en el número de teléfono',
-'error_name' => 'Error en el nombre'
+'leave_a_review' => 'Deja una Reseña',
+
+'name_label' => 'Nombre:',
+'put_your_name' => 'Escribe tu nombre aquí',
+
+'rating' => 'Calificación (1-5):',
+
+'review_label' => 'Reseña:',
+
+'submit_review' => 'Enviar Reseña',
+
+'no_reviews' => '¡Aún no hay reseñas! ¡Sé el primero en dejar una!',
+
+'reviewed_on' => 'Reseñado el:',
+
+'only_letters' => 'Solo letras entre 3 y 30 caracteres',
+'error_name' => 'Error en el nombre',
+
+'inventory_title' => 'Inventario',
+'car_inventory' => 'Inventario de Vehículos',
+
+'filters' => 'Filtros',
+'type' => 'Tipo',
+
+'sedan' => 'Sedán',
+'suv' => 'SUV',
+'truck' => 'Camioneta',
+'luxury' => 'Lujo',
+'boat' => 'Bote',
+
+'showing_results' => 'Mostrando %s resultados',
+
+'cash' => 'Precio en efectivo',
+'down' => 'Inicial',
+'financing' => 'Financiamiento',
+'mileage' => 'Millas',
+'description' => 'Descripción',
+
+'request_information' => 'Solicitar Información',
+
+'car_of_interest' => 'Vehículo de Interés',
+
+'send' => 'Enviar',
+
+'back_to_home' => 'Volver al Inicio',
+
+'InventoryB' => 'Inventario de financiamiento bancario',
+
+'BankFinancing' => 'Financiamiento Bancario',
+
 ];

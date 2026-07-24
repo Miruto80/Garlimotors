@@ -101,5 +101,55 @@ return [
 'no' => 'No',
 
 'send' => 'Send',
+
+'reviews_title' => 'Reviews',
+'customer_reviews' => 'Customer Reviews',
+'leave_review_now' => 'Leave a Review Now',
+'recent_reviews' => 'Recent Reviews:',
+
+'leave_a_review' => 'Leave a Review',
+
+'name_label' => 'Name:',
+'put_your_name' => 'Put your name here',
+
+'rating' => 'Rating (1-5):',
+
+'review_label' => 'Review:',
+
+'submit_review' => 'Submit Review',
+
+'no_reviews' => 'No reviews yet. Be the first to leave one!',
+
+'reviewed_on' => 'Reviewed on:',
+
+'inventory_title' => 'Inventory',
+'car_inventory' => 'Car Inventory',
+
+'filters' => 'Filters',
+'type' => 'Type',
+
+'sedan' => 'Sedan',
+'suv' => 'SUV',
+'truck' => 'Truck',
+'luxury' => 'Luxury',
+'boat' => 'Boat',
+
+'showing_results' => 'Showing %s results',
+
+'cash' => 'Cash',
+'down' => 'Down',
+'financing' => 'Financing',
+'mileage' => 'Mileage',
+'description' => 'Description',
+
+'request_information' => 'Request Information',
+
+'car_of_interest' => 'Car of Interest',
+
+'back_to_home' => 'Back to Home',
+
+'InventoryB' => 'Inventario de financiamiento bancario',
+
+'BankFinancing' => 'Bank financing cars',
     
 ];
