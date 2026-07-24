@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <?php require_once("comunes/head.php") ?>
     <link rel="stylesheet" href="css/Mechanics.css">
-    <title>Mechanical Services</title>
+    <title><?php echo $text['mechanical_services']; ?></title>
 </head>
 <body>
 <?php require_once("comunes/nav.php")?>
