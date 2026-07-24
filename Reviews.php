@@ -20,8 +20,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Reviews</title>
-    <?php require_once("comunes/head.php") ?>
+  <?php require_once("comunes/head.php") ?>
+  <title><?php echo $text['reviews_title']; ?></title>
     <link rel="stylesheet" href="css/reviews.css">
 </head>
 <body>
@@ -30,12 +30,12 @@
 
 
 <section id="reviews" class="text-center">
-  <h2>Customer Reviews</h2>
-  <button id="open-modal">Leave a Review Now</button>
+  <h2><?php echo $text['customer_reviews']; ?></h2>
+  <button id="open-modal"><?php echo $text['leave_review']; ?></button>
 </section>
 
 <section id="reviewsList">
-  <h3 class="text-center">Recent Reviews:</h3>
+  <h3 class="text-center"><?php echo $text['recent_reviews']; ?>:</h3>
   <?php
           $result = $conn->query("SELECT name, rating, review, created_at FROM reviews ORDER BY created_at DESC");
           if ($result->num_rows > 0) {
@@ -48,11 +48,11 @@
               echo "<div>
                       <strong>" . htmlspecialchars($row['name']) . " <span class='star-rating'>($stars)</span></strong>
                       <p>" . htmlspecialchars($row['review']) . "</p>
-                      <small>Reviewed on: $created_at</small>
+                      <small>" . htmlspecialchars($text['reviewed_on']) . " $created_at</small>
                     </div>";
             }
           } else {
-            echo "<p>No reviews yet. Be the first to leave one!</p>";
+            echo "<p>" . htmlspecialchars($text['no_reviews']) . "</p>";
           }
           $conn->close();
           ?>
@@ -63,29 +63,28 @@
 <div id="modal">
   <div id="modal-content">
     <button id="close-modal">✖</button>
-    <h3>Leave a Review</h3>
+    <h3><?php echo $text['leave_a_review']; ?></h3>
     <form method="POST" onsubmit="return validarenvio()">
-              <label for="name">Name:</label>
-                <input type="text" name="name" placeholder="Put your name here" id="name" required><br>
-								<span id="sname" class="errorform"></span>
-							
-              <label for="rating">Rating (1-5):</label>
+              <label for="name"><?php echo $text['name_label']; ?></label>
+                <input type="text" name="name" placeholder="<?php echo $text['put_your_name']; ?>" id="name" required><br>
+					<span id="sname" class="errorform"></span>
+					
+              <label for="rating"><?php echo $text['rating']; ?></label>
               <br>
               <select class="form-select" id="rating" name="rating">
-										<option value="1">1</option>
-										<option value="2">2</option>
-										<option value="3">3</option>
-										<option value="4">4</option>
-										<option value="5">5</option>
-									</select>
-              <label for="review">Review:</label>
+							<option value="1">1</option>
+							<option value="2">2</option>
+							<option value="3">3</option>
+							<option value="4">4</option>
+							<option value="5">5</option>
+						</select>
+              <label for="review"><?php echo $text['review_label']; ?></label>
                 <textarea name="review" id="review" required></textarea><br>
-								<span id="sreview" class="form-text text-muted"></span>
-       <button type="submit" class="text-center">Submit Review</button>
+					<span id="sreview" class="form-text text-muted"></span>
+       <button type="submit" class="text-center"><?php echo $text['submit_review']; ?></button>
     </form>
   </div>
 </div>
-
 <?php require_once("comunes/footer.php") ?>
 
 <script>

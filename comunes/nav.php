@@ -101,38 +101,38 @@ header nav .dropdown-toggle:hover {
         <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
           <ul class="navbar-nav mb-2 mb-lg-0 align-items-lg-center">
             <li class="nav-item">
-              <a class="nav-link" href="index.php">Home</a>
+              <a class="nav-link" href="index.php"><?php echo $text['home']; ?></a>
             </li>
 
             <!-- 🏛️ DROPDOWN: Approvals -->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="approvalsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Approvals
+                <?php echo $text['approvals']; ?>
               </a>
               <ul class="dropdown-menu" aria-labelledby="approvalsDropdown">
-                <li><a class="dropdown-item" href="Pre-approval.php">Pre-Approval</a></li>
-                <li><a class="dropdown-item" href="Bank-approval.php">Bank-Approval</a></li>
+                <li><a class="dropdown-item" href="Pre-approval.php"><?php echo $text['pre_approval']; ?></a></li>
+                <li><a class="dropdown-item" href="Bank-approval.php"><?php echo $text['bank_approval']; ?></a></li>
               </ul>
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="Mechanics.php">Mechanics</a>
+              <a class="nav-link" href="Mechanics.php"><?php echo $text['mechanics']; ?></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#contact">Contact us</a>
+              <a class="nav-link" href="#contact"><?php echo $text['contact_us']; ?></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Reviews.php">Reviews</a>
+              <a class="nav-link" href="Reviews.php"><?php echo $text['reviews']; ?></a>
             </li>
 
             <!-- 🚗 DROPDOWN: Inventories -->
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" id="Link-I" href="#" id="inventoryDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                View Inventory
+                <?php echo $text['view_inventory']; ?>
               </a>
               <ul class="dropdown-menu" aria-labelledby="inventoryDropdown">
-                <li><a class="dropdown-item" href="Inventory.php">General Inventory</a></li>
-                <li><a class="dropdown-item" href="Inventory_B.php">Bank Inventory</a></li>
+                <li><a class="dropdown-item" href="Inventory.php"><?php echo $text['general_inventory']; ?></a></li>
+                <li><a class="dropdown-item" href="Inventory_B.php"><?php echo $text['bank_inventory']; ?></a></li>
               </ul>
             </li>
           </ul>

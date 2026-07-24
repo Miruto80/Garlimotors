@@ -1,52 +1,52 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo $_SESSION['lang']; ?>">
 <head>
-    <title>Pre-approval</title>
     <?php require_once("comunes/head.php") ?>
     <link rel="stylesheet" href="css/Pre-approval.css">
+    <title><?php echo $text['preapproval_title']; ?></title>
 </head>
 <body>
 <?php require_once("comunes/nav.php") ?>
 <?php require_once("comunes/Ws.php")?>
 
 <form action="https://formspree.io/f/xpwpzkgp" method="POST" onsubmit="return validarenvio()">
-        <label for="financing">Are you looking for in-house financing?</label>
+        <label for="financing"><?php echo $text['looking_inhouse_financing']; ?></label>
         <select id="financing" name="financing">
-            <option value="yes">Yes</option>
-            <option value="no">No</option>
+            <option value="yes"><?php echo $text['yes']; ?></option>
+            <option value="no"><?php echo $text['no']; ?></option>
         </select>
 
-        <label for="carType">What type of car are you looking for?</label>
-        <input type="text" id="carType" name="carType" placeholder="Type of car" required>
+        <label for="carType"><?php echo $text['what_type_car']; ?></label>
+        <input type="text" id="carType" name="carType" placeholder="<?php echo $text['type_of_car']; ?>" required>
         <span id="scarType" class="errorform"></span>
 
-        <label for="inTexas">Are you in Texas?</label>
+        <label for="inTexas"><?php echo $text['are_you_texas']; ?></label>
         <select id="inTexas" name="inTexas">
-            <option value="yes">Yes</option>
-            <option value="no">No</option>
+            <option value="yes"><?php echo $text['yes']; ?></option>
+            <option value="no"><?php echo $text['no']; ?></option>
         </select>
 
-        <label for="name">Name</label>
-        <input type="text" name="name" id="name" placeholder="Your name" required>
+        <label for="name"><?php echo $text['name']; ?></label>
+        <input type="text" name="name" id="name" placeholder="<?php echo $text['your_name']; ?>" required>
         <span id="sname" class="errorform"></span>
 
-        <label for="phone">Phone Number</label>
-        <input type="text" name="phone" id="phone" placeholder="Your phone number" required>
+        <label for="phone"><?php echo $text['phone_number']; ?></label>
+        <input type="text" name="phone" id="phone" placeholder="<?php echo $text['your_phone_number']; ?>" required>
         <span id="sphone" class="errorform"></span>
 
-        <label for="tradeIn">Do you have a Trade-in?</label>
+        <label for="tradeIn"><?php echo $text['trade_in']; ?></label>
         <select id="tradeIn" name="tradeIn">
-            <option value="yes">Yes</option>
-            <option value="no">No</option>
+            <option value="yes"><?php echo $text['yes']; ?></option>
+            <option value="no"><?php echo $text['no']; ?></option>
         </select>
 
-        <label for="title">If yes, do you have the title?</label>
+        <label for="title"><?php echo $text['has_title']; ?></label>
         <select id="title" name="title">
-            <option value="yes">Yes</option>
-            <option value="no">No</option>
+            <option value="yes"><?php echo $text['yes']; ?></option>
+            <option value="no"><?php echo $text['no']; ?></option>
         </select>
 
-        <input type="submit" value="Send">
+        <input type="submit" value="<?php echo $text['send']; ?>">
     </form>
 <?php require_once("comunes/footer.php") ?>
 

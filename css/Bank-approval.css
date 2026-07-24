@@ -176,19 +176,34 @@ form input[type="submit"],
 form button[type="submit"] {
     background-color: #6A4B4F;
     color: white;
-    padding: 16px 30px;
+    padding: 16px 24px;
     border: none;
     border-radius: 6px;
     cursor: pointer;
     font-size: 18px;
-    display: block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     margin: 40px auto 0;
-    width: 40%; /* Reducido un poco el porcentaje para que no sea un botón gigante a lo ancho */
-    max-width: 300px; /* Límite para que se mantenga estilizado en pantallas enormes */
+    width: auto;
+    min-width: 180px;
+    max-width: 100%;
+    white-space: normal !important;
+    overflow-wrap: anywhere;
+    word-break: break-word;
     text-align: center;
     transition: all 0.3s ease-in-out;
     font-family: 'Lt Aspire', sans-serif;
     font-weight: bold;
+}
+
+#btnSubmit,
+form button[type="submit"].btn.btn-success {
+    max-width: 240px;
+    padding: 14px 18px;
+    white-space: normal !important;
+    overflow-wrap: anywhere;
+    word-break: break-word;
 }
 
 form input[type="submit"]:hover,
