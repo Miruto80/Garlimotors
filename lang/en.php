@@ -43,5 +43,44 @@ return [
     'warranty_text' => 'Every car comes with a warranty, so you can drive with confidence.',
 
     'no_reviews' => 'No reviews yet. Be the first to leave one!',
-    'reviewed_on' => 'Reviewed on:'
+    'reviewed_on' => 'Reviewed on:',
+
+    'mechanical_services' => 'Mechanical Services',
+
+'computerized_diagnostics' => 'Computerized Diagnostics',
+'computerized_diagnostics_text' => "Detailed analysis of the vehicle's electronic system.",
+
+'air_conditioning_diagnostics' => 'Air Conditioning Diagnostics',
+'air_conditioning_diagnostics_text' => 'Inspection and maintenance of the air conditioning system.',
+
+'complete_front_end_service' => 'Complete Front End Service',
+'complete_front_end_service_text' => 'Maintenance and repair of suspension components.',
+
+'transmission_replacement' => 'Transmission Replacement',
+'transmission_replacement_text' => "Inspection and replacement of the vehicle's transmission.",
+
+'oil_change' => 'Oil Change',
+'oil_change_text' => 'Oil and filter replacement for better performance.',
+
+'engine_support' => 'Engine Support',
+'engine_support_text' => 'Inspection and replacement of worn engine mounts.',
+
+'engine_replacement_repair' => 'Engine Replacement and Repair',
+'engine_replacement_repair_text' => 'Repair or replacement of faulty engines.',
+
+'brake_replacement' => 'Brake Replacement',
+'brake_replacement_text' => 'Replacement of front and rear brakes.',
+
+'request_mechanic_service' => 'Request Mechanic Service',
+'request_information' => 'Request Information',
+
+'name' => 'Name',
+'your_name' => 'Your name',
+
+'contact' => 'Contact',
+'your_phone_number' => 'Your phone number',
+
+'mechanic_service' => 'Mechanic Service',
+'send' => 'Send'
+    
 ];
