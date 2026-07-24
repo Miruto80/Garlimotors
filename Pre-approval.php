@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="<?php echo $_SESSION['lang']; ?>">
 <head>
-    <title>Pre-approval</title>
     <?php require_once("comunes/head.php") ?>
     <link rel="stylesheet" href="css/Pre-approval.css">
+    <title><?php echo $text['preapproval_title']; ?></title>
 </head>
 <body>
 <?php require_once("comunes/nav.php") ?>
