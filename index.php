@@ -32,7 +32,7 @@
     <div class="service-card">
         <h3><?php echo $text['bank']; ?></h3>
         <p><?php echo $text['bank_text']; ?></p>
-        <a href="Bank-approval.php"><?php echo $text['apply']; ?></a>
+        <a href="Inventory_B.php"><?php echo $text['apply']; ?></a>
     </div>
     
     <div class="service-card">
