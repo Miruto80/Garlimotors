@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<?php echo $_SESSION['lang']; ?>">
 <head>
     <link rel="stylesheet" href="css/Inventory.css">
     <?php require_once("comunes/head.php")?>

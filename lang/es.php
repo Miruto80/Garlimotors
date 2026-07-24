@@ -157,4 +157,58 @@ return [
 
 'BankFinancing' => 'Financiamiento Bancario',
 
+'bank_approval' => 'Aprobación Bancaria',
+
+'all_required' => 'Todos los campos marcados con * son obligatorios.',
+
+'personal' => 'Información Personal',
+'residence' => 'Residencia',
+'employment' => 'Empleo',
+'vehicle' => 'Vehículo',
+
+'personal_information' => 'Información Personal',
+'first_name' => 'Nombre',
+'middle_name' => 'Segundo Nombre',
+'last_name' => 'Apellido',
+
+'email' => 'Correo Electrónico',
+'phone' => 'Teléfono',
+'date_of_birth' => 'Fecha de Nacimiento',
+
+'ssn_or_itin' => 'SSN o ITIN',
+'drivers_license_number' => 'Número de Licencia de Conducir',
+'drivers_license_state' => 'Estado de la Licencia de Conducir',
+
+'loading_states' => 'Cargando estados...',
+
+'residential_address' => 'Dirección Residencial',
+'address' => 'Dirección',
+'state' => 'Estado',
+'city' => 'Ciudad',
+'select_city' => 'Seleccionar Ciudad',
+'zip_code' => 'Código Postal',
+'time_at_address' => 'Tiempo en la Dirección',
+
+'employment_information' => 'Información Laboral',
+'employment_type' => 'Tipo de Empleo',
+'select_option' => 'Seleccionar opción',
+'self_employed' => 'Trabajador Independiente',
+'employed_full_time' => 'Empleado a Tiempo Completo',
+'employed_part_time' => 'Empleado a Tiempo Parcial',
+'other' => 'Otro',
+
+'company_name' => 'Nombre de la Empresa',
+'occupation' => 'Ocupación',
+'monthly_income' => 'Ingreso Mensual',
+'additional_income' => 'Ingreso Adicional',
+'time_at_job' => 'Tiempo en el Trabajo',
+
+'vehicle_details' => 'Detalles del Vehículo',
+'vehicle_type_interest' => 'Tipo de Vehículo de Interés',
+'down_payment' => 'Pago Inicial',
+
+'back' => 'Atrás',
+'next' => 'Siguiente',
+'submit_application' => 'Enviar Solicitud'
+
 ];

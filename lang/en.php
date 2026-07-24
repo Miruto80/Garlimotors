@@ -151,5 +151,59 @@ return [
 'InventoryB' => 'Inventario de financiamiento bancario',
 
 'BankFinancing' => 'Bank financing cars',
+
+'bank_approval' => 'Bank Approval',
+
+'all_required' => 'All fields marked with * are required.',
+
+'personal' => 'Personal',
+'residence' => 'Residence',
+'employment' => 'Employment',
+'vehicle' => 'Vehicle',
+
+'personal_information' => 'Personal Information',
+'first_name' => 'First Name',
+'middle_name' => 'Middle Name',
+'last_name' => 'Last Name',
+
+'email' => 'Email',
+'phone' => 'Phone',
+'date_of_birth' => 'Date of Birth',
+
+'ssn_or_itin' => 'SSN or ITIN',
+'drivers_license_number' => "Driver's License Number",
+'drivers_license_state' => "Driver's License State",
+
+'loading_states' => 'Loading states...',
+
+'residential_address' => 'Residential Address',
+'address' => 'Address',
+'state' => 'State',
+'city' => 'City',
+'select_city' => 'Select City',
+'zip_code' => 'Zip Code',
+'time_at_address' => 'Time at Address',
+
+'employment_information' => 'Employment Information',
+'employment_type' => 'Employment Type',
+'select_option' => 'Select option',
+'self_employed' => 'Self Employed',
+'employed_full_time' => 'Employed Full Time',
+'employed_part_time' => 'Employed Part Time',
+'other' => 'Other',
+
+'company_name' => 'Company Name',
+'occupation' => 'Occupation',
+'monthly_income' => 'Monthly Income',
+'additional_income' => 'Additional Income',
+'time_at_job' => 'Time at Job',
+
+'vehicle_details' => 'Vehicle Details',
+'vehicle_type_interest' => 'Vehicle Type of Interest',
+'down_payment' => 'Down Payment',
+
+'back' => 'Back',
+'next' => 'Next',
+'submit_application' => 'Submit Application'
     
 ];
