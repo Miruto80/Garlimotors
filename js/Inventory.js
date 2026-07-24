@@ -704,18 +704,18 @@ function renderCars(page, filteredCars = currentFilteredCars) {
         carDiv.innerHTML = `
             <div class="card text-dark" style="height: 100%;">
                 <!-- La foto mantiene el modal intacto en ambas vistas -->
-                <img src="${car.images[0]}" class="card-img-top" alt="${car.title}" title="Click in the image to see more" data-bs-toggle="modal" data-bs-target="#carModal" onclick="openModal(${cars.indexOf(car)})">
-                ${car.Rented ? `<div class="sold-out-banner">Rented-Alquilado</div>` : ""}
+                <img src="${car.images[0]}" class="card-img-top" alt="${car.title}" title="${translations.click_image}" data-bs-toggle="modal" data-bs-target="#carModal" onclick="openModal(${cars.indexOf(car)})">
+                ${car.Rented ? `<div class="sold-out-banner">${translations.rented}</div>` : ""}
                 <div class="card-body">
                     <h6 class="card-title">${car.title}</h6>
                     <p class="card-text">Cash: ${car.cash}</p>
                     
                     ${isBankPage ? `
                         <a href="bank-approval.php?car=${encodeURIComponent(car.title)}" class="btn Request-btn text-center text-white d-block" style="text-decoration: none;">
-                            Apply for Financing
+                            ${translations.apply_financing}
                         </a>
                     ` : `
-                        <button class="Request-btn" onclick="openForm('${car.title}')">Request Information</button>
+                        <button class="Request-btn" onclick="openForm('${car.title}')">${translations.request_information}</button>
                     `}
                 </div>
             </div>

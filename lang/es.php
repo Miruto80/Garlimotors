@@ -231,4 +231,9 @@ return [
 
 'social_media' => 'Redes Sociales',
 
+'rented' => 'Alquilado',
+'click_image' => 'Haz clic en la imagen para ver más',
+'apply_financing' => 'Solicitar Financiamiento',
+'request_information' => 'Solicitar Información',
+
 ];

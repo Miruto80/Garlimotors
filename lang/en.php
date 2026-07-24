@@ -224,5 +224,10 @@ return [
 
 'social_media' => 'Social Media',
 
+'rented' => 'Rented',
+'click_image' => 'Click on the image to see more',
+'apply_financing' => 'Apply for Financing',
+'request_information' => 'Request Information',
+
     
 ];

@@ -109,6 +109,16 @@
     </div>
 
 <?php require_once("comunes/footer.php")?>
+<script>
+    const translations = <?= json_encode([
+        'cash' => $text['cash'],
+        'rented' => $text['rented'],
+        'click_image' => $text['click_image'],
+        'apply_financing' => $text['apply_financing'],
+        'request_information' => $text['request_information']
+    ], JSON_UNESCAPED_UNICODE) ?>;
+</script>
+
 <script src="js/Inventory.js?v=<?= filemtime('js/Inventory.js') ?>"></script>
 </body>
 </html>
