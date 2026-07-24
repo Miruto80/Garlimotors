@@ -82,5 +82,29 @@ return [
 'your_phone_number' => 'Tu número de teléfono',
 
 'mechanic_service' => 'Servicio Mecánico',
-'send' => 'Enviar'
+'send' => 'Enviar',
+
+'preapproval_title' => 'Pre-aprobación',
+
+'looking_inhouse_financing' => '¿Está buscando financiamiento en casa?',
+'what_type_car' => '¿Qué tipo de vehículo está buscando?',
+'type_of_car' => 'Tipo de vehículo',
+
+'are_you_texas' => '¿Está en Texas?',
+
+'phone_number' => 'Número de teléfono',
+'your_phone_number' => 'Tu número de teléfono',
+
+'trade_in' => '¿Tiene un vehículo para entregar como parte de pago?',
+
+'has_title' => 'Si es así, ¿tiene el título del vehículo?',
+
+'yes' => 'Sí',
+'no' => 'No',
+
+'phone_error' => 'El formato debe tener entre 10 y 11 dígitos',
+'name_error' => 'Solo letras entre 3 y 30 caracteres',
+
+'error_phone' => 'Error en el número de teléfono',
+'error_name' => 'Error en el nombre'
 ];

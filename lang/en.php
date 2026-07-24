@@ -81,6 +81,25 @@ return [
 'your_phone_number' => 'Your phone number',
 
 'mechanic_service' => 'Mechanic Service',
-'send' => 'Send'
+'send' => 'Send',
+
+'preapproval_title' => 'Pre-approval',
+
+'looking_inhouse_financing' => 'Are you looking for in-house financing?',
+'what_type_car' => 'What type of car are you looking for?',
+'type_of_car' => 'Type of car',
+
+'are_you_texas' => 'Are you in Texas?',
+
+'phone_number' => 'Phone Number',
+
+'trade_in' => 'Do you have a Trade-in?',
+
+'has_title' => 'If yes, do you have the title?',
+
+'yes' => 'Yes',
+'no' => 'No',
+
+'send' => 'Send',
     
 ];
