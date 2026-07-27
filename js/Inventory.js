@@ -872,6 +872,26 @@ const cars = [
               Rented: false,
               bankInventory: true
          },
+          {
+            "title": "2022 Toyota camry",
+            "cash": "$10.000",
+            "down": "$3.500",
+            "financing": "$16.000",
+            "mileage": "208,515",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2022 Toyota camry (1).webp",
+                "imagenes/Sedan/2022 Toyota camry (2).webp",
+                "imagenes/Sedan/2022 Toyota camry (3).webp",
+                "imagenes/Sedan/2022 Toyota camry (4).webp",
+                "imagenes/Sedan/2022 Toyota camry (5).webp",
+                "imagenes/Sedan/2022 Toyota camry (6).webp",
+                "imagenes/Sedan/2022 Toyota camry (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
