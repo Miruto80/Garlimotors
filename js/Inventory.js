@@ -892,6 +892,87 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+          {
+            "title": "2019 Toyota Corolla LE",
+            "cash": "$9.000",
+            "down": "$2.500",
+            "financing": "$13.000",
+            "mileage": "142,467",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2019 Toyota Corolla LE 1 (1).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE 1 (2).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE 1 (3).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE 1 (4).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE 1 (5).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE 1 (6).webp",
+                "imagenes/Sedan/2019 Toyota Corolla LE 1 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "2016 Toyota Corolla",
+            "cash": "$8.500",
+            "down": "$2.000",
+            "financing": "$12.500",
+            "mileage": "177.000 ",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2016 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2016 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2016 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2016 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2016 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2016 Toyota Corolla (6).webp",
+                "imagenes/Sedan/2016 Toyota Corolla (7).webp",
+                "imagenes/Sedan/2016 Toyota Corolla (8).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "2018 Mercedez Class S 450",
+            "cash": "$17.800",
+            "down": "$3.500",
+            "financing": "$17.800",
+            "mileage": "134,723",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2018 Mercedez Class S 450 (1).webp",
+                "imagenes/Sedan/2018 Mercedez Class S 450 (2).webp",
+                "imagenes/Sedan/2018 Mercedez Class S 450 (3).webp",
+                "imagenes/Sedan/2018 Mercedez Class S 450 (4).webp",
+                "imagenes/Sedan/2018 Mercedez Class S 450 (5).webp",
+                "imagenes/Sedan/2018 Mercedez Class S 450 (6).webp",
+                "imagenes/Sedan/2018 Mercedez Class S 450 (7).webp",
+                "imagenes/Sedan/2018 Mercedez Class S 450 (8).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+        {
+             "title": "Ford f-150 2015",
+             "cash": "$8.000",
+             "down": "$2.500",
+             "financing": "$13.000",
+             "mileage": "184,881",
+             "make": "Truck",
+             "description": "Clean Title",
+             "images": [
+                 "imagenes/Truck/Ford f-150 2015 (1).webp",
+                 "imagenes/Truck/Ford f-150 2015 (2).webp",
+                 "imagenes/Truck/Ford f-150 2015 (3).webp",
+                 "imagenes/Truck/Ford f-150 2015 (4).webp",
+                 "imagenes/Truck/Ford f-150 2015 (5).webp",
+                 "imagenes/Truck/Ford f-150 2015 (6).webp",
+             ],
+              Rented: false,
+              bankInventory: false
+         },
 ];
 
 const itemsPerPage = 12;
