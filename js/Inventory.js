@@ -653,6 +653,87 @@ const cars = [
               Rented: false,
               bankInventory: false
          },
+           {
+            "title": "2020 Toyota Corolla LE",
+            "cash": "$16.000",
+            "down": "$2.500",
+            "financing": "$9.500",
+            "mileage": "149,750",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2020 Toyota Corolla LE (1).webp",
+                "imagenes/Sedan/2020 Toyota Corolla LE (2).webp",
+                "imagenes/Sedan/2020 Toyota Corolla LE (3).webp",
+                "imagenes/Sedan/2020 Toyota Corolla LE (4).webp",
+                "imagenes/Sedan/2020 Toyota Corolla LE (5).webp",
+                "imagenes/Sedan/2020 Toyota Corolla LE (6).webp",
+                "imagenes/Sedan/2020 Toyota Corolla LE (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+           {
+            "title": "Toyota Corolla 2019",
+            "cash": "$8.500",
+            "down": "$2.500",
+            "financing": "$13.000",
+            "mileage": "157,193",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2019 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+        {
+            "title": "2011 Lexus 200h",
+            "cash": "$4.000",
+            "down": "$2.000$",
+            "financing": "$4,000",
+            "mileage": "187.900",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2011 Lexus 200h (1).webp",
+                "imagenes/Suv/2011 Lexus 200h (2).webp",
+                "imagenes/Suv/2011 Lexus 200h (3).webp",
+                "imagenes/Suv/2011 Lexus 200h (4).webp",
+                "imagenes/Suv/2011 Lexus 200h (5).webp",
+                "imagenes/Suv/2011 Lexus 200h (6).webp",
+                "imagenes/Suv/2011 Lexus 200h (7).webp",
+                "imagenes/Suv/2011 Lexus 200h (8).webp",
+                "imagenes/Suv/2011 Lexus 200h (9).webp",
+            ],
+             Rented: false
+        },
+        {
+            "title": "2021 Toyota CH-R Negra",
+            "cash": "$11.000",
+            "down": "$3.500$",
+            "financing": "$16,000",
+            "mileage": "101,200",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2021 Toyota CH-R Negra (1).webp",
+                "imagenes/Suv/2021 Toyota CH-R Negra (2).webp",
+                "imagenes/Suv/2021 Toyota CH-R Negra (3).webp",
+                "imagenes/Suv/2021 Toyota CH-R Negra (4).webp",
+                "imagenes/Suv/2021 Toyota CH-R Negra (5).webp",
+                "imagenes/Suv/2021 Toyota CH-R Negra (6).webp",
+                "imagenes/Suv/2021 Toyota CH-R Negra (7).webp",
+                "imagenes/Suv/2021 Toyota CH-R Negra (8).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
