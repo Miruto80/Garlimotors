@@ -734,6 +734,46 @@ const cars = [
             ],
              Rented: false
         },
+          {
+            "title": "2020 Toyota Corolla",
+            "cash": "$10.000",
+            "down": "$3.000",
+            "financing": "$16.000",
+            "mileage": "157,293",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2020 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2020 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2020 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2020 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2020 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2020 Toyota Corolla (6).webp",
+                "imagenes/Sedan/2020 Toyota Corolla (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "Toyota Corolla 2018",
+            "cash": "$11.000",
+            "down": "$3.500",
+            "financing": "$17.000",
+            "mileage": "121,153",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2018  (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2018  (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2018  (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2018  (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2018  (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2018  (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2018  (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
