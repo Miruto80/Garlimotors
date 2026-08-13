@@ -774,6 +774,48 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+          {
+             "title": "2019 Chevrolet Silverado 1500",
+             "cash": "$25.000",
+             "down": "$3.500",
+             "financing": "$25.000",
+             "mileage": "119,721",
+             "make": "Truck",
+             "description": "Clean Title",
+             "images": [
+                 "imagenes/Truck/2019 Chevrolet Silverado 1500 1 (1).webp",
+                 "imagenes/Truck/2019 Chevrolet Silverado 1500 1 (2).webp",
+                 "imagenes/Truck/2019 Chevrolet Silverado 1500 1 (3).webp",
+                 "imagenes/Truck/2019 Chevrolet Silverado 1500 1 (4).webp",
+                 "imagenes/Truck/2019 Chevrolet Silverado 1500 1 (5).webp",
+                 "imagenes/Truck/2019 Chevrolet Silverado 1500 1 (6).webp",
+                 "imagenes/Truck/2019 Chevrolet Silverado 1500 1 (7).webp",
+             ],
+              Rented: false,
+              bankInventory: false
+         },
+         {
+            "title": "2017 Toyota 4Runner LIMITED",
+            "cash": "$11.000",
+            "down": "$3.500$",
+            "financing": "$16,000",
+            "mileage": "101,200",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2017 Toyota 4Runner LIMITED (1).webp",
+                "imagenes/Suv/2017 Toyota 4Runner LIMITED (2).webp",
+                "imagenes/Suv/2017 Toyota 4Runner LIMITED (3).webp",
+                "imagenes/Suv/2017 Toyota 4Runner LIMITED (4).webp",
+                "imagenes/Suv/2017 Toyota 4Runner LIMITED (5).webp",
+                "imagenes/Suv/2017 Toyota 4Runner LIMITED (6).webp",
+                "imagenes/Suv/2017 Toyota 4Runner LIMITED (7).webp",
+                "imagenes/Suv/2017 Toyota 4Runner LIMITED (8).webp",
+                "imagenes/Suv/2017 Toyota 4Runner LIMITED (9).webp",
+                "imagenes/Suv/2017 Toyota 4Runner LIMITED (10).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
