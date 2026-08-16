@@ -701,6 +701,46 @@ const cars = [
             ],
              Rented: false
         },
+          {
+            "title": "2019 kia forte",
+            "cash": "$6.000",
+            "down": "$2.000",
+            "financing": "$11.500",
+            "mileage": "88,702 ",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2019 kia forte (1).webp",
+                "imagenes/Sedan/2019 kia forte (2).webp",
+                "imagenes/Sedan/2019 kia forte (3).webp",
+                "imagenes/Sedan/2019 kia forte (4).webp",
+                "imagenes/Sedan/2019 kia forte (5).webp",
+                "imagenes/Sedan/2019 kia forte (6).webp",
+                "imagenes/Sedan/2019 kia forte (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+           {
+            "title": "2020 Toyota corolla Le",
+            "cash": "$10.000",
+            "down": "$2.500",
+            "financing": "$16.000",
+            "mileage": "140,745",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2020 Toyota corolla Le 1(1).webp",
+                "imagenes/Sedan/2020 Toyota corolla Le 1(2).webp",
+                "imagenes/Sedan/2020 Toyota corolla Le 1(3).webp",
+                "imagenes/Sedan/2020 Toyota corolla Le 1(4).webp",
+                "imagenes/Sedan/2020 Toyota corolla Le 1(5).webp",
+                "imagenes/Sedan/2020 Toyota corolla Le 1(6).webp",
+                "imagenes/Sedan/2020 Toyota corolla Le 1(7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
