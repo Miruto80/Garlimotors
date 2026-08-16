@@ -1,24 +1,5 @@
 const cars = [
-        {
-            "title": "2006 Toyota 4Runner SR5",
-            "cash": "$7.000",
-            "down": "$2.000$",
-            "financing": "$10.500",
-            "mileage": "156,975",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2006 Toyota 4Runner SR5 (1).webp",
-                "imagenes/Suv/2006 Toyota 4Runner SR5 (2).webp",
-                "imagenes/Suv/2006 Toyota 4Runner SR5 (3).webp",
-                "imagenes/Suv/2006 Toyota 4Runner SR5 (4).webp",
-                "imagenes/Suv/2006 Toyota 4Runner SR5 (5).webp",
-                "imagenes/Suv/2006 Toyota 4Runner SR5 (6).webp",
-                "imagenes/Suv/2006 Toyota 4Runner SR5 (7).webp",
-            ],
-             Rented: false
-        },
-         {
+       {
             "title": "2019 Mitsubishi Mirage RF",
             "cash": "$5.500",
             "down": "$1.500$",
@@ -69,25 +50,6 @@ const cars = [
                 "imagenes/Sedan/Toyota camrry 2017  (2).webp",
                 "imagenes/Sedan/Toyota camrry 2017  (3).webp",
                 "imagenes/Sedan/Toyota camrry 2017  (4).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "Toyota camrry 2016",
-            "cash": "$7.850",
-            "down": "$1.700",
-            "financing": "$11.500",
-            "mileage": "217,115",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota camrry 2016 (1).webp",
-                "imagenes/Sedan/Toyota camrry 2016 (2).webp",
-                "imagenes/Sedan/Toyota camrry 2016 (3).webp",
-                "imagenes/Sedan/Toyota camrry 2016 (4).webp",
-                "imagenes/Sedan/Toyota camrry 2016 (5).webp",
-                "imagenes/Sedan/Toyota camrry 2016 (6).webp",
-                "imagenes/Sedan/Toyota camrry 2016 (7).webp",
             ],
              Rented: false
         },
@@ -206,24 +168,6 @@ const cars = [
             ],
              Rented: false
         },
-        {
-            "title": "2017 honda accord",
-            "cash": "$8.500",
-            "down": "$2.500",
-            "financing": "$13.000",
-            "mileage": "174,947",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2017 honda accord (5).webp",
-                "imagenes/Sedan/2017 honda accord (1).webp",
-                "imagenes/Sedan/2017 honda accord (2).webp",
-                "imagenes/Sedan/2017 honda accord (3).webp",
-                "imagenes/Sedan/2017 honda accord (4).webp",
-                "imagenes/Sedan/2017 honda accord (6).webp",
-            ],
-             Rented: false
-        },
           {
              "title": "2019 Chevrolet Silverado 1500",
              "cash": "$15.000",
@@ -287,25 +231,6 @@ const cars = [
              Rented: false,
              bankInventory: true
         },
-        {
-            "title": "Toyota Corolla 2016 sport",
-            "cash": "$6.500",
-            "down": "$1.800",
-            "financing": "$11.000",
-            "mileage": "235,750",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2016 sport (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2016 sport (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2016 sport (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2016 sport (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2016 sport (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2016 sport (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2016 sport (7).webp",
-            ],
-             Rented: false
-            },
         {
            "title": "2018 Mercedes Benz CLA",
            "cash": "$13.500",
@@ -594,26 +519,6 @@ const cars = [
               bankInventory: true
          },
           {
-            "title": "2022 Toyota camry",
-            "cash": "$10.000",
-            "down": "$3.500",
-            "financing": "$16.000",
-            "mileage": "208,515",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2022 Toyota camry (1).webp",
-                "imagenes/Sedan/2022 Toyota camry (2).webp",
-                "imagenes/Sedan/2022 Toyota camry (3).webp",
-                "imagenes/Sedan/2022 Toyota camry (4).webp",
-                "imagenes/Sedan/2022 Toyota camry (5).webp",
-                "imagenes/Sedan/2022 Toyota camry (6).webp",
-                "imagenes/Sedan/2022 Toyota camry (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-          {
             "title": "2018 Mercedez Class S 450",
             "cash": "$17.800",
             "down": "$3.500",
@@ -711,26 +616,6 @@ const cars = [
                 "imagenes/Suv/2011 Lexus 200h (7).webp",
                 "imagenes/Suv/2011 Lexus 200h (8).webp",
                 "imagenes/Suv/2011 Lexus 200h (9).webp",
-            ],
-             Rented: false
-        },
-        {
-            "title": "2021 Toyota CH-R Negra",
-            "cash": "$11.000",
-            "down": "$3.500$",
-            "financing": "$16,000",
-            "mileage": "101,200",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2021 Toyota CH-R Negra (1).webp",
-                "imagenes/Suv/2021 Toyota CH-R Negra (2).webp",
-                "imagenes/Suv/2021 Toyota CH-R Negra (3).webp",
-                "imagenes/Suv/2021 Toyota CH-R Negra (4).webp",
-                "imagenes/Suv/2021 Toyota CH-R Negra (5).webp",
-                "imagenes/Suv/2021 Toyota CH-R Negra (6).webp",
-                "imagenes/Suv/2021 Toyota CH-R Negra (7).webp",
-                "imagenes/Suv/2021 Toyota CH-R Negra (8).webp",
             ],
              Rented: false
         },
