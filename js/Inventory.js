@@ -796,9 +796,9 @@ const cars = [
          },
          {
             "title": "2017 Toyota 4Runner LIMITED",
-            "cash": "$11.000",
-            "down": "$3.500$",
-            "financing": "$16,000",
+            "cash": "$17.000",
+            "down": "$8.000$",
+            "financing": "$24,000",
             "mileage": "101,200",
             "make": "Suv",
             "description": "Clean Title",
