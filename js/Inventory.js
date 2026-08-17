@@ -520,7 +520,7 @@ const cars = [
          },
           {
             "title": "2018 Mercedez Class S 450",
-            "cash": "$17.800",
+            "cash": "$15.500",
             "down": "$3.500",
             "financing": "$17.800",
             "mileage": "134,723",
