@@ -741,6 +741,65 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+           {
+            "title": "2016 Toyota corolla Sport",
+            "cash": "$9.500",
+            "down": "$2.000",
+            "financing": "$14.000",
+            "mileage": "118,585",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2016 Toyota corolla Sport  (1).webp",
+                "imagenes/Sedan/2016 Toyota corolla Sport  (2).webp",
+                "imagenes/Sedan/2016 Toyota corolla Sport  (3).webp",
+                "imagenes/Sedan/2016 Toyota corolla Sport  (4).webp",
+                "imagenes/Sedan/2016 Toyota corolla Sport  (5).webp",
+                "imagenes/Sedan/2016 Toyota corolla Sport  (6).webp",
+                "imagenes/Sedan/2016 Toyota corolla Sport  (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+           {
+            "title": "2022 kia forte",
+            "cash": "$9.000",
+            "down": "$2.000",
+            "financing": "$14.500",
+            "mileage": "117,543",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2022 kia forte (1).webp",
+                "imagenes/Sedan/2022 kia forte (2).webp",
+                "imagenes/Sedan/2022 kia forte (3).webp",
+                "imagenes/Sedan/2022 kia forte (4).webp",
+                "imagenes/Sedan/2022 kia forte (5).webp",
+                "imagenes/Sedan/2022 kia forte (6).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+           {
+            "title": "Audi a3 premium 2016",
+            "cash": "$7.000",
+            "down": "$2.500",
+            "financing": "$10.000",
+            "mileage": "160,379",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Audi a3 premium 2016 (1).webp",
+                "imagenes/Sedan/Audi a3 premium 2016 (2).webp",
+                "imagenes/Sedan/Audi a3 premium 2016 (3).webp",
+                "imagenes/Sedan/Audi a3 premium 2016 (4).webp",
+                "imagenes/Sedan/Audi a3 premium 2016 (5).webp",
+                "imagenes/Sedan/Audi a3 premium 2016 (6).webp",
+                "imagenes/Sedan/Audi a3 premium 2016 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
