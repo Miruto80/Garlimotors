@@ -800,6 +800,64 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+         {
+            "title": "2018 Toyota Camry XSE",
+            "cash": "$11.500",
+            "down": "$3.500",
+            "financing": "$17.500",
+            "mileage": "191,050",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2018 Toyota Camry XSE (1).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (2).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (3).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (4).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (5).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (6).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+         {
+            "title": "2014 Toyota 4runner Limited 4x4",
+            "cash": "$17.500",
+            "down": "$6.000$",
+            "financing": "$23,500",
+            "mileage": "162,461",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (1).webp",
+                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (2).webp",
+                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (3).webp",
+                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (4).webp",
+                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (5).webp",
+                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (6).webp",
+                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (7).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "2017 Toyota 4Runner Limited 4x2",
+            "cash": "$17.000",
+            "down": "$6.000$",
+            "financing": "$23,000",
+            "mileage": "230,797",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2017 Toyota 4Runner Limited 4x2 (1).webp",
+                "imagenes/Suv/2017 Toyota 4Runner Limited 4x2 (2).webp",
+                "imagenes/Suv/2017 Toyota 4Runner Limited 4x2 (3).webp",
+                "imagenes/Suv/2017 Toyota 4Runner Limited 4x2 (4).webp",
+                "imagenes/Suv/2017 Toyota 4Runner Limited 4x2 (5).webp",
+                "imagenes/Suv/2017 Toyota 4Runner Limited 4x2 (6).webp",
+                "imagenes/Suv/2017 Toyota 4Runner Limited 4x2 (7).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
