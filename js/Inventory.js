@@ -72,27 +72,6 @@ const cars = [
         //     ],
         //      Rented: false
         // },
-         {
-            "title": "2009 Toyota RAV4 LIMITED",
-            "cash": "$5.200",
-            "down": "$1.500$",
-            "financing": "$9,500",
-            "mileage": "169,091",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2009 Toyota RAV4 LIMITED (6).webp",
-                "imagenes/Suv/2009 Toyota RAV4 LIMITED (1).webp",
-                "imagenes/Suv/2009 Toyota RAV4 LIMITED (2).webp",
-                "imagenes/Suv/2009 Toyota RAV4 LIMITED (3).webp",
-                "imagenes/Suv/2009 Toyota RAV4 LIMITED (5).webp",
-                "imagenes/Suv/2009 Toyota RAV4 LIMITED (4).webp",
-                "imagenes/Suv/2009 Toyota RAV4 LIMITED (7).webp",
-                "imagenes/Suv/2009 Toyota RAV4 LIMITED (8).webp",
-                "imagenes/Suv/2009 Toyota RAV4 LIMITED (9).webp",
-            ],
-             Rented: false
-        },
         {
             "title": "Toyota Tacoma 2018",
             "cash": "$12.000",
@@ -188,27 +167,6 @@ const cars = [
               Rented: false,
               bankInventory: true
          },
-         {
-            "title": "2005 Toyota 4runner",
-            "cash": "$5.500",
-            "down": "$2.000$",
-            "financing": "$9,500",
-            "mileage": "248,540",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2005 Toyota 4runner (1).webp",
-                "imagenes/Suv/2005 Toyota 4runner (2).webp",
-                "imagenes/Suv/2005 Toyota 4runner (3).webp",
-                "imagenes/Suv/2005 Toyota 4runner (4).webp",
-                "imagenes/Suv/2005 Toyota 4runner (5).webp",
-                "imagenes/Suv/2005 Toyota 4runner (6).webp",
-                "imagenes/Suv/2005 Toyota 4runner (7).webp",
-                "imagenes/Suv/2005 Toyota 4runner (8).webp",
-                "imagenes/Suv/2005 Toyota 4runner (9).webp",
-            ],
-             Rented: false
-        },
         {
             "title": "2014 Lexus GX LUXURY",
             "cash": "$18.500",
@@ -294,26 +252,6 @@ const cars = [
             ],
              Rented: false,
              bankInventory: false
-        },
-           {
-            "title": "2018 Toyota c-HR",
-            "cash": "$15.500",
-            "down": "$2.000$",
-            "financing": "$15,500",
-            "mileage": "78,840",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2018 Toyota c-HR (1).webp",
-                "imagenes/Suv/2018 Toyota c-HR (2).webp",
-                "imagenes/Suv/2018 Toyota c-HR (3).webp",
-                "imagenes/Suv/2018 Toyota c-HR (4).webp",
-                "imagenes/Suv/2018 Toyota c-HR (5).webp",
-                "imagenes/Suv/2018 Toyota c-HR (6).webp",
-                "imagenes/Suv/2018 Toyota c-HR (7).webp",
-            ],
-             Rented: false,
-             bankInventory: true
         },
         {
             "title": "Mazda cx-3 2017",
@@ -578,26 +516,6 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
-           {
-            "title": "Toyota Corolla 2019",
-            "cash": "$8.500",
-            "down": "$2.500",
-            "financing": "$13.000",
-            "mileage": "157,193",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2019 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2019 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2019 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2019 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2019 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2019 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2019 (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
         {
             "title": "2011 Lexus 200h",
             "cash": "$4.000",
@@ -635,26 +553,6 @@ const cars = [
                 "imagenes/Sedan/2020 Toyota Corolla (5).webp",
                 "imagenes/Sedan/2020 Toyota Corolla (6).webp",
                 "imagenes/Sedan/2020 Toyota Corolla (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-          {
-            "title": "Toyota Corolla 2018",
-            "cash": "$11.000",
-            "down": "$3.500",
-            "financing": "$17.000",
-            "mileage": "121,153",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2018  (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2018  (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2018  (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2018  (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2018  (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2018  (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2018  (7).webp",
             ],
              Rented: false,
              bankInventory: false
@@ -762,25 +660,6 @@ const cars = [
              bankInventory: false
         },
            {
-            "title": "2022 kia forte",
-            "cash": "$9.000",
-            "down": "$2.000",
-            "financing": "$14.500",
-            "mileage": "117,543",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2022 kia forte (1).webp",
-                "imagenes/Sedan/2022 kia forte (2).webp",
-                "imagenes/Sedan/2022 kia forte (3).webp",
-                "imagenes/Sedan/2022 kia forte (4).webp",
-                "imagenes/Sedan/2022 kia forte (5).webp",
-                "imagenes/Sedan/2022 kia forte (6).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-           {
             "title": "Audi a3 premium 2016",
             "cash": "$7.000",
             "down": "$2.500",
@@ -819,25 +698,6 @@ const cars = [
             ],
              Rented: false,
              bankInventory: false
-        },
-         {
-            "title": "2014 Toyota 4runner Limited 4x4",
-            "cash": "$17.500",
-            "down": "$6.000$",
-            "financing": "$23,500",
-            "mileage": "162,461",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (1).webp",
-                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (2).webp",
-                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (3).webp",
-                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (4).webp",
-                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (5).webp",
-                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (6).webp",
-                "imagenes/Suv/2014 Toyota 4runner Limited 4x4 (7).webp",
-            ],
-             Rented: false
         },
          {
             "title": "2017 Toyota 4Runner Limited 4x2",
