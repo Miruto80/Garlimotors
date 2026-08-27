@@ -718,6 +718,83 @@ const cars = [
             ],
              Rented: false
         },
+          {
+            "title": "2021 Kia Forte LXS",
+            "cash": "$9.000",
+            "down": "$2.000",
+            "financing": "$14.000",
+            "mileage": "97,461",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2021 Kia Forte LXS (5).webp",
+                "imagenes/Sedan/2021 Kia Forte LXS (1).webp",
+                "imagenes/Sedan/2021 Kia Forte LXS (2).webp",
+                "imagenes/Sedan/2021 Kia Forte LXS (3).webp",
+                "imagenes/Sedan/2021 Kia Forte LXS (4).webp",
+                "imagenes/Sedan/2021 Kia Forte LXS (6).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "Toyota Corolla 2016",
+            "cash": "$8.000",
+            "down": "$2.000",
+            "financing": "$13.000",
+            "mileage": "146,280",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2016 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2016 (6).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "2017 Toyota 4Runner SR5",
+            "cash": "$15.000",
+            "down": "$4.000$",
+            "financing": "$20,000",
+            "mileage": "165,000",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2017 Toyota 4Runner SR5 (1).webp",
+                "imagenes/Suv/2017 Toyota 4Runner SR5 (2).webp",
+                "imagenes/Suv/2017 Toyota 4Runner SR5 (3).webp",
+                "imagenes/Suv/2017 Toyota 4Runner SR5 (4).webp",
+                "imagenes/Suv/2017 Toyota 4Runner SR5 (5).webp",
+                "imagenes/Suv/2017 Toyota 4Runner SR5 (6).webp",
+                "imagenes/Suv/2017 Toyota 4Runner SR5 (7).webp",
+                "imagenes/Suv/2017 Toyota 4Runner SR5 (8).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "Toyota runner 2012",
+            "cash": "$11.500",
+            "down": "$3.500$",
+            "financing": "$17,500",
+            "mileage": "216,639",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Toyota runner 2012 (1).webp",
+                "imagenes/Suv/Toyota runner 2012 (2).webp",
+                "imagenes/Suv/Toyota runner 2012 (3).webp",
+                "imagenes/Suv/Toyota runner 2012 (4).webp",
+                "imagenes/Suv/Toyota runner 2012 (5).webp",
+                "imagenes/Suv/Toyota runner 2012 (6).webp",
+                "imagenes/Suv/Toyota runner 2012 (7).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
