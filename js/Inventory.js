@@ -599,25 +599,6 @@ const cars = [
              bankInventory: false
         },
          {
-            "title": "Toyota runner 2012",
-            "cash": "$11.500",
-            "down": "$3.500$",
-            "financing": "$17,500",
-            "mileage": "216,639",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/Toyota runner 2012 (1).webp",
-                "imagenes/Suv/Toyota runner 2012 (2).webp",
-                "imagenes/Suv/Toyota runner 2012 (3).webp",
-                "imagenes/Suv/Toyota runner 2012 (4).webp",
-                "imagenes/Suv/Toyota runner 2012 (5).webp",
-                "imagenes/Suv/Toyota runner 2012 (6).webp",
-                "imagenes/Suv/Toyota runner 2012 (7).webp",
-            ],
-             Rented: false
-        },
-         {
             "title": "2019 Toyota C-HR",
             "cash": "$9.500",
             "down": "$2.500$",
@@ -705,13 +686,13 @@ const cars = [
             "make": "Sedan",
             "description": "Clean Title",
             "images": [
-                "imagenes/Sedan/Toyota Corolla 2014 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 (6).webp",
-                "imagenes/Sedan/Toyota Corolla 2014 (7).webp",
+                "imagenes/Sedan/Toyota Corolla 2014  (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2014  (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2014  (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2014  (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2014  (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2014  (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2014  (7).webp",
             ],
              Rented: false,
              bankInventory: false
