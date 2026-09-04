@@ -697,6 +697,66 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+         {
+            "title": "2018 Toyota c-hr",
+            "cash": "$11.000",
+            "down": "$2.500$",
+            "financing": "$16,500",
+            "mileage": "86,120",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2018 Toyota c-hr (4).webp",
+                "imagenes/Suv/2018 Toyota c-hr (1).webp",
+                "imagenes/Suv/2018 Toyota c-hr (2).webp",
+                "imagenes/Suv/2018 Toyota c-hr (3).webp",
+                "imagenes/Suv/2018 Toyota c-hr (5).webp",
+                "imagenes/Suv/2018 Toyota c-hr (6).webp",
+                "imagenes/Suv/2018 Toyota c-hr (7).webp",
+            ],
+             Rented: false
+        },
+         {
+            "title": "2015 Land Rover Range Rover Evoque",
+            "cash": "$8.000",
+            "down": "$2.500$",
+            "financing": "$12,500",
+            "mileage": "131,108",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (1).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (2).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (3).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (4).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (5).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (6).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (7).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (8).webp",
+                "imagenes/Suv/2015 Land Rover Range Rover Evoque PURE PLUS (9).webp",
+            ],
+             Rented: false
+        },
+         {
+             "title": "2023 Chevrolet Silverado 1500",
+             "cash": "$16.000",
+             "down": "$8.000",
+             "financing": "$22.000",
+             "mileage": "221,317",
+             "make": "Truck",
+             "description": "Clean Title",
+             "images": [
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (1).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (2).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (3).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (4).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (5).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (6).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (7).webp",
+             ],
+              Rented: false,
+              bankInventory: false
+         },
 ];
 
 const itemsPerPage = 12;
