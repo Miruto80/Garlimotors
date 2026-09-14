@@ -482,6 +482,26 @@ const cars = [
               Rented: false,
               bankInventory: false
          },
+          {
+            "title": "Toyota c-hr 2018",
+            "cash": "$9.500",
+            "down": "$2.500$",
+            "financing": "$14,500",
+            "mileage": "117,209",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Toyota c-hr 2018 (1).webp",
+                "imagenes/Suv/Toyota c-hr 2018 (2).webp",
+                "imagenes/Suv/Toyota c-hr 2018 (3).webp",
+                "imagenes/Suv/Toyota c-hr 2018 (4).webp",
+                "imagenes/Suv/Toyota c-hr 2018 (5).webp",
+                "imagenes/Suv/Toyota c-hr 2018 (6).webp",
+                "imagenes/Suv/Toyota c-hr 2018 (7).webp",
+                "imagenes/Suv/Toyota c-hr 2018 (8).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
