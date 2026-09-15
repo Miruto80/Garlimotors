@@ -502,6 +502,25 @@ const cars = [
             ],
              Rented: false
         },
+          {
+            "title": "2020 Mitsubishi outlander",
+            "cash": "$10.000",
+            "down": "$3.000$",
+            "financing": "$16,500",
+            "mileage": "87,973",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2020 Mitsubishi outlander (1).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (2).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (3).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (4).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (5).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (6).webp",
+                "imagenes/Suv/2020 Mitsubishi outlander (7).webp",
+            ],
+             Rented: false
+        },
 ];
 
 const itemsPerPage = 12;
