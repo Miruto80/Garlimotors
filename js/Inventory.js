@@ -521,6 +521,86 @@ const cars = [
             ],
              Rented: false
         },
+          {
+             "title": "2023 Chevrolet Silverado",
+             "cash": "$15.500",
+             "down": "$6.000",
+             "financing": "$21.000",
+             "mileage": "174,791",
+             "make": "Truck",
+             "description": "Clean Title",
+             "images": [
+                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (5).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (1).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (2).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (3).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (4).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (6).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (7).webp",
+             ],
+              Rented: false,
+              bankInventory: false
+         },
+         {
+            "title": "2015 Toyota Corolla S Plus",
+            "cash": "$8.000",
+            "down": "$2.500",
+            "financing": "$12.500",
+            "mileage": "181,301",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2015 Toyota Corolla S Plus (1).webp",
+                "imagenes/Sedan/2015 Toyota Corolla S Plus (2).webp",
+                "imagenes/Sedan/2015 Toyota Corolla S Plus (3).webp",
+                "imagenes/Sedan/2015 Toyota Corolla S Plus (4).webp",
+                "imagenes/Sedan/2015 Toyota Corolla S Plus (5).webp",
+                "imagenes/Sedan/2015 Toyota Corolla S Plus (6).webp",
+                "imagenes/Sedan/2015 Toyota Corolla S Plus (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+        {
+            "title": "Toyota Corolla 2014",
+            "cash": "$7.000",
+            "down": "$2.500",
+            "financing": "$12.000",
+            "mileage": "93,855",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2014 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2014 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+        {
+            "title": "2021 Toyota Corolla NIGHTSHADE",
+            "cash": "$14.000",
+            "down": "$4.000",
+            "financing": "$19.000",
+            "mileage": "58,743",
+            "make": "Sedan",
+            "description": "Rebuilt Title",
+            "images": [
+                "imagenes/Sedan/2021 Toyota Corolla NIGHTSHADE (1).webp",
+                "imagenes/Sedan/2021 Toyota Corolla NIGHTSHADE (2).webp",
+                "imagenes/Sedan/2021 Toyota Corolla NIGHTSHADE (3).webp",
+                "imagenes/Sedan/2021 Toyota Corolla NIGHTSHADE (4).webp",
+                "imagenes/Sedan/2021 Toyota Corolla NIGHTSHADE (5).webp",
+                "imagenes/Sedan/2021 Toyota Corolla NIGHTSHADE (6).webp",
+                "imagenes/Sedan/2021 Toyota Corolla NIGHTSHADE (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
