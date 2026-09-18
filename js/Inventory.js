@@ -601,6 +601,66 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+        {
+            "title": "2017 Toyota camry Se",
+            "cash": "$7.000",
+            "down": "$2.000",
+            "financing": "$12.500",
+            "mileage": "158,743",
+            "make": "Sedan",
+            "description": "Rebuilt Title",
+            "images": [
+                "imagenes/Sedan/2017 Toyota camry Se Blanco (1).webp",
+                "imagenes/Sedan/2017 Toyota camry Se Blanco (2).webp",
+                "imagenes/Sedan/2017 Toyota camry Se Blanco (3).webp",
+                "imagenes/Sedan/2017 Toyota camry Se Blanco (4).webp",
+                "imagenes/Sedan/2017 Toyota camry Se Blanco (5).webp",
+                "imagenes/Sedan/2017 Toyota camry Se Blanco (6).webp",
+                "imagenes/Sedan/2017 Toyota camry Se Blanco (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+        {
+            "title": "Honda civic 2013",
+            "cash": "$6.500",
+            "down": "$2.000",
+            "financing": "$11.000",
+            "mileage": "183,452 ",
+            "make": "Sedan",
+            "description": "Rebuilt Title",
+            "images": [
+                "imagenes/Sedan/Honda civic 2013 (1).webp",
+                "imagenes/Sedan/Honda civic 2013 (2).webp",
+                "imagenes/Sedan/Honda civic 2013 (3).webp",
+                "imagenes/Sedan/Honda civic 2013 (4).webp",
+                "imagenes/Sedan/Honda civic 2013 (5).webp",
+                "imagenes/Sedan/Honda civic 2013 (6).webp",
+                "imagenes/Sedan/Honda civic 2013 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+        {
+            "title": "2018 Toyota Corolla",
+            "cash": "$8.000",
+            "down": "$2.500",
+            "financing": "$13.500",
+            "mileage": "162,242",
+            "make": "Sedan",
+            "description": "Rebuilt Title",
+            "images": [
+                "imagenes/Sedan/2018 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (4).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (5).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (6).webp",
+                "imagenes/Sedan/2018 Toyota Corolla (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
