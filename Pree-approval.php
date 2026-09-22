@@ -2,7 +2,7 @@
 <html lang="<?php echo $_SESSION['lang']; ?>">
 <head>
     <?php require_once("comunes/head.php") ?>
-    <title><?php echo $text['bank_approval']; ?></title>
+    <title><?php echo $text['preapproval_title']; ?></title>
     <link rel="stylesheet" href="css/Bank-approval.css">
     <!-- SweetAlert2 for modern alert messages -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
@@ -13,7 +13,7 @@
 <div class="form-wrapper container my-5">
     <meta name="description" content="Get pre-approved for car financing at Motorvibes.">
 
-    <h2 class="text-center mb-4"><?php echo $text['bank_approval']; ?></h2>
+    <h2 class="text-center mb-4"><?php echo $text['preapproval_title']; ?></h2>
 
     <div class="progress-track mb-4">
         <div id="progressBar" class="progress-bar" style="width: 25%;"></div>
@@ -25,6 +25,9 @@
         <div id="badge-step-2" class="step"><?php echo $text['residence']; ?></div>
         <div id="badge-step-3" class="step"><?php echo $text['employment']; ?></div>
         <div id="badge-step-4" class="step"><?php echo $text['vehicle']; ?></div>
+         <div id="badge-step-5" class="step">
+        Additional Information
+    </div>
     </div>
 
     <!-- Formspree Integration Endpoint -->
@@ -192,6 +195,104 @@
                 </div>
             </div>
         </div>
+
+        <!-- STEP 5: Additional Information -->
+<div id="step-5" class="step-content">
+    <div class="form-section">
+        <h4><?php echo $text['additional_information']; ?></h4>
+        <!-- Trade In -->
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label>
+                 <?php echo $text['trade_in']; ?> *
+                </label>
+                <select
+                    name="tradeIn"
+                    id="tradeIn"
+                    class="form-select data-validate"
+                >
+                    <option value="">Select option</option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+                <span class="text-danger error-msg"></span>
+            </div>
+            <!-- Title -->
+            <div class="col-md-6 mb-3">
+                <label>
+                   <?php echo $text['has_title']; ?>
+                </label>
+                <select
+                    name="hasTitle"
+                    id="hasTitle"
+                    class="form-select"
+                >
+                    <option value="">Select option</option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+            </div>
+        </div>
+        <!-- Texas -->
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label>
+                   <?php echo $text['are_you_texas']; ?> *
+                </label>
+                <select
+                    name="inTexas"
+                    id="inTexas"
+                    class="form-select data-validate"
+                >
+                    <option value="">Select option</option>
+                    <option value="yes">Yes</option>
+                    <option value="no">No</option>
+                </select>
+
+                <span class="text-danger error-msg"></span>
+
+            </div>
+        </div>
+        <!-- How did you find us -->
+        <div class="row">
+            <div class="col-md-6 mb-3">
+                <label>
+                  <?php echo $text['how_did_you_hear']; ?> *
+                </label>
+                <select
+                    name="leadSource"
+                    id="leadSource"
+                    class="form-select data-validate"
+                >
+                    <option value="">Select option</option>
+                    <option value="Facebook">Facebook</option>
+                    <option value="Marketplace">Marketplace</option>
+                    <option value="Instagram">Instagram</option>
+                    <option value="Google">Google</option>
+                    <option value="Referral">Referral</option>
+                    <option value="Other">Other</option>
+                </select>
+
+                <span class="text-danger error-msg"></span>
+            </div>
+            <!-- Advisor -->
+            <div class="col-md-6 mb-3">
+
+                <label>
+                   <?php echo $text['sales_advisor']; ?>
+                </label>
+
+                <input
+                    type="text"
+                    name="salesAdvisor"
+                    id="salesAdvisor"
+                    class="form-control data-no-numbers"
+                    placeholder="Advisor name"
+                >
+            </div>
+        </div>
+    </div>
+</div>
 
         <!-- Step Controls Navigation -->
         <div class="d-flex justify-content-between align-items-center mt-4">

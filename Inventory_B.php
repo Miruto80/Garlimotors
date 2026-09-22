@@ -24,6 +24,8 @@
                     <label><input type="checkbox" name="make" value="Truck"> <?php echo $text['truck']; ?></label><br>
                     <label><input type="checkbox" name="make" value="Luxury"> <?php echo $text['luxury']; ?></label><br>
                     <label><input type="checkbox" name="make" value="Boat"> <?php echo $text['boat']; ?></label><br>
+                      <label><input type="checkbox" name="make" value="Van"> <?php echo $text['van']; ?></label><br>
+                    <label><input type="checkbox" name="make" value="Box-truck"> <?php echo $text['box-truck']; ?></label><br>
                 </form>
             </div>
             

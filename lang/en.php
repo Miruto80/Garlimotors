@@ -218,7 +218,7 @@ return [
 
 'view_inventory' => 'View Inventory',
 'general_inventory' => 'General Inventory',
-'bank_inventory' => 'Bank Inventory',
+'select_inventory' => 'Select Inventory',
 
 'toggle_navigation' => 'Toggle navigation',
 
@@ -228,6 +228,14 @@ return [
 'click_image' => 'Click on the image to see more',
 'apply_financing' => 'Apply for Financing',
 'request_information' => 'Request Information',
+
+'additional_information' => 'Additional Information',
+
+'how_did_you_hear' => 'How did you hear about us?',
+'sales_advisor' => 'Sales Advisor',
+'advisor_name' => 'Advisor name',
+
+'select_option' => 'Select option',
 
     
 ];

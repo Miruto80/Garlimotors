@@ -225,7 +225,7 @@ return [
 
 'view_inventory' => 'Ver Inventario',
 'general_inventory' => 'Inventario General',
-'bank_inventory' => 'Inventario Bancario',
+'select_inventory' => 'Inventario seleccionado',
 
 'toggle_navigation' => 'Abrir navegación',
 
@@ -235,5 +235,11 @@ return [
 'click_image' => 'Haz clic en la imagen para ver más',
 'apply_financing' => 'Solicitar Financiamiento',
 'request_information' => 'Solicitar Información',
+
+'additional_information' => 'Información Adicional',
+
+'how_did_you_hear' => '¿Cómo se enteró de nosotros?',
+'sales_advisor' => 'Asesor de Ventas',
+'advisor_name' => 'Nombre del asesor',
 
 ];

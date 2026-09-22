@@ -103,16 +103,9 @@ header nav .dropdown-toggle:hover {
             <li class="nav-item">
               <a class="nav-link" href="index.php"><?php echo $text['home']; ?></a>
             </li>
-
-            <!-- 🏛️ DROPDOWN: Approvals -->
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="approvalsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                <?php echo $text['approvals']; ?>
-              </a>
-              <ul class="dropdown-menu" aria-labelledby="approvalsDropdown">
-                <li><a class="dropdown-item" href="Pre-approval.php"><?php echo $text['pre_approval']; ?></a></li>
-                <li><a class="dropdown-item" href="Bank-approval.php"><?php echo $text['bank_approval']; ?></a></li>
-              </ul>
+            
+             <li class="nav-item">
+              <a class="nav-link" href="Pree-approval.php"><?php echo $text['pre_approval']; ?></a>
             </li>
 
             <li class="nav-item">
@@ -132,7 +125,7 @@ header nav .dropdown-toggle:hover {
               </a>
               <ul class="dropdown-menu" aria-labelledby="inventoryDropdown">
                 <li><a class="dropdown-item" href="Inventory.php"><?php echo $text['general_inventory']; ?></a></li>
-                <li><a class="dropdown-item" href="Inventory_B.php"><?php echo $text['bank_inventory']; ?></a></li>
+                <li><a class="dropdown-item" href="Inventory_B.php"><?php echo $text['select_inventory']; ?></a></li>
               </ul>
             </li>
           </ul>

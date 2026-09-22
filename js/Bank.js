@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     let currentStep = 1;
-    const totalSteps = 4;
+    const totalSteps = 5;
 
     // API Configurations
     const API_KEY = 'fcd4726fc4858a2b59f737afc60ef270377d2be3cc24c87c653f6106b8529c68';
@@ -22,9 +22,28 @@ document.addEventListener("DOMContentLoaded", () => {
         1: ['firstName', 'lastName', 'socialOrItin', 'licenseNumber', 'licenseState', 'phone', 'dob', 'email'],
         2: ['address', 'city', 'state', 'zip', 'timeAtAddress'],
         3: ['employmentType', 'CompanyName', 'occupation', 'income', 'timeAtJob'],
-        4: []
+        4: [],
+        5: ['tradeIn','inTexas', 'leadSource']
     };
 
+const tradeInSelect = document.getElementById('tradeIn');
+const hasTitleSelect = document.getElementById('hasTitle');
+
+function updateTitleField() {
+    if (tradeInSelect.value === 'yes') {
+        hasTitleSelect.disabled = false;
+        hasTitleSelect.required = true;
+    } else {
+        hasTitleSelect.value = '';
+        hasTitleSelect.disabled = true;
+        hasTitleSelect.required = false;
+        hasTitleSelect.classList.remove('is-valid', 'is-invalid');
+    }
+}
+
+tradeInSelect.addEventListener('change', updateTitleField);
+
+updateTitleField();
     // 1. Fetch States from CountryStateCity API
     async function fetchStates() {
         try {
@@ -140,59 +159,80 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // 5. Steps Complete Checker
-    function validateStep(step) {
-        const fieldsToValidate = stepFields[step];
-        let stepIsValid = true;
+   function validateStep(step) {
+    const fieldsToValidate = stepFields[step];
+    let stepIsValid = true;
 
-        fieldsToValidate.forEach(fieldName => {
-            const input = form.querySelector(`[name="${fieldName}"]`);
-            if (input) {
-                const isValid = validateInput(input);
-                if (!isValid) stepIsValid = false;
+    fieldsToValidate.forEach(fieldName => {
+        const input = form.querySelector(`[name="${fieldName}"]`);
+
+        if (input) {
+            const isValid = validateInput(input);
+
+            if (!isValid) {
+                stepIsValid = false;
             }
-        });
-
-        if (!stepIsValid) {
-            Swal.fire({ 
-                icon: 'warning', 
-                title: 'Missing Information', 
-                text: 'Please complete all required fields correctly before moving forward.' 
-            });
         }
-        return stepIsValid;
+    });
+    if (step === 5 && tradeInSelect.value === 'yes') {
+
+        if (!hasTitleSelect.value) {
+
+            hasTitleSelect.classList.remove('is-valid');
+            hasTitleSelect.classList.add('is-invalid');
+
+            stepIsValid = false;
+
+        } else {
+
+            hasTitleSelect.classList.remove('is-invalid');
+            hasTitleSelect.classList.add('is-valid');
+        }
     }
+    if (!stepIsValid) {
+        Swal.fire({
+            icon: 'warning',
+            title: 'Missing Information',
+            text: 'Please complete all required fields correctly before moving forward.'
+        });
+    }
+
+    return stepIsValid;
+}
 
     // 6. Step Views & Component Display Controller
     function updateStepUI() {
-        document.querySelectorAll('.step-content').forEach((el, index) => {
-            el.classList.toggle('active', index === (currentStep - 1));
-        });
-
-        document.querySelectorAll('.preapproval-steps .step').forEach((el, index) => {
-            el.classList.toggle('active', index < currentStep);
-        });
-
-        progressBar.style.width = `${(currentStep / totalSteps) * 100}%`;
-
-        btnBack.style.display = currentStep > 1 ? 'inline-block' : 'none';
-        
-        if (currentStep === totalSteps) {
-            btnNext.style.display = 'none';
-            btnSubmit.style.display = 'inline-block';
-        } else {
-            btnNext.style.display = 'inline-block';
-            btnSubmit.style.display = 'none';
-        }
-    }
-
-    // Event hooks for structural control
-    btnNext.addEventListener('click', () => {
-        if (validateStep(currentStep)) {
-            currentStep++;
-            updateStepUI();
-        }
+    document.querySelectorAll('.step-content').forEach((el, index) => {
+        el.classList.toggle('active', index === (currentStep - 1));
     });
 
+    document.querySelectorAll('.preapproval-steps .step').forEach((el, index) => {
+        el.classList.toggle('active', index < currentStep);
+    });
+
+    progressBar.style.width = `${(currentStep / totalSteps) * 100}%`;
+
+    btnBack.style.display = currentStep > 1 ? 'inline-block' : 'none';
+
+    if (currentStep >= totalSteps) {
+        btnNext.style.display = 'none';
+        btnSubmit.style.display = 'inline-block';
+    } else {
+        btnNext.style.display = 'inline-block';
+        btnSubmit.style.display = 'none';
+    }
+}
+
+
+updateStepUI();
+
+
+btnNext.addEventListener('click', () => {
+    if (validateStep(currentStep)) {
+        currentStep++;
+        updateStepUI();
+    }
+});
     btnBack.addEventListener('click', () => {
         currentStep--;
         updateStepUI();
