@@ -313,8 +313,7 @@
     </form>
 </div>
 
-<!-- JavaScript Engine Logic matching React's custom Hooks and Validations -->
-<script src="js/Bank.js"></script>
+<script src="js/Bank.js?v=<?= filemtime('js/Bank.js') ?>"></script>
 <?php require_once("comunes/Ws.php")?>
 </body>
 </html>
