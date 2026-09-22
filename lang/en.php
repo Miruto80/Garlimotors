@@ -131,6 +131,8 @@ return [
 'truck' => 'Truck',
 'luxury' => 'Luxury',
 'boat' => 'Boat',
+'van' => 'Van',
+'box-truck' => 'Box-truck',
 
 'showing_results' => 'Showing %s results',
 

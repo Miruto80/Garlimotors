@@ -136,6 +136,8 @@ return [
 'truck' => 'Camioneta',
 'luxury' => 'Lujo',
 'boat' => 'Bote',
+'van' => 'Van',
+'box-truck' => 'Camion',
 
 'showing_results' => 'Mostrando %s resultados',
 
