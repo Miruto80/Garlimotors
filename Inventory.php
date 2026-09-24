@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="<?php echo $_SESSION['lang']; ?>">
 <head>
-    <link rel="stylesheet" href="css/Inventory.css">
-    <?php require_once("comunes/head.php")?>
-    <title><?php echo $text['inventory_title']; ?></title>
+<link rel="stylesheet" href="css/Inventory.css?v=<?= filemtime('css/Inventory.css') ?>">    
+<?php require_once("comunes/head.php")?>
+<title><?php echo $text['inventory_title']; ?></title>
 </head>
 <body>
 <?php require_once("comunes/nav.php")?>
