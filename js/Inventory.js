@@ -769,6 +769,66 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+           {
+             "title": "2023 Chevrolet Silverado 1500",
+             "cash": "$16.500",
+             "down": "$7.500",
+             "financing": "$22.000",
+             "mileage": "159,150",
+             "make": "Truck",
+             "description": "Clean Title",
+             "images": [
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(4).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(1).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(2).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(3).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(6).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(5).webp",
+                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(7).webp",
+             ],
+              Rented: false,
+              bankInventory: false
+         },
+          {
+            "title": "2013 Toyota higlander",
+            "cash": "$7.000",
+            "down": "$2.500$",
+            "financing": "$12,500",
+            "mileage": "168,859",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2013 Toyota higlander (1).webp",
+                "imagenes/Suv/2013 Toyota higlander (2).webp",
+                "imagenes/Suv/2013 Toyota higlander (3).webp",
+                "imagenes/Suv/2013 Toyota higlander (4).webp",
+                "imagenes/Suv/2013 Toyota higlander (5).webp",
+                "imagenes/Suv/2013 Toyota higlander (6).webp",
+                "imagenes/Suv/2013 Toyota higlander (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+         {
+            "title": "2017 Mitsubishi outlander",
+            "cash": "$8.000",
+            "down": "$2.500$",
+            "financing": "$13,500",
+            "mileage": "138,019",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2017 Mitsubishi outlander (1).webp",
+                "imagenes/Suv/2017 Mitsubishi outlander (2).webp",
+                "imagenes/Suv/2017 Mitsubishi outlander (3).webp",
+                "imagenes/Suv/2017 Mitsubishi outlander (4).webp",
+                "imagenes/Suv/2017 Mitsubishi outlander (5).webp",
+                "imagenes/Suv/2017 Mitsubishi outlander (6).webp",
+                "imagenes/Suv/2017 Mitsubishi outlander (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
