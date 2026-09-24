@@ -9,7 +9,7 @@ $url_whatsapp = "https://wa.me/{$telefono}?text={$mensaje}";
         position: fixed;
         bottom: 20px;
         left: 20px; /* Esquina inferior izquierda */
-        z-index: 9999;
+        z-index: 999;
         background-color: #25d366;
         color: #fff !important; /* Forzamos el color blanco */
         border-radius: 50px;
@@ -39,5 +39,4 @@ $url_whatsapp = "https://wa.me/{$telefono}?text={$mensaje}";
 
 <a href="<?php echo $url_whatsapp; ?>" class="btn-whatsapp-flotante" target="_blank" rel="noopener noreferrer">
     <i class="fa-brands fa-whatsapp"></i>
-    
-  <?php echo $text['ws']; ?></a>
+    </a>

@@ -881,10 +881,18 @@ function filterCars() {
     renderCars(currentPage, filteredCars);
 }
 
-document.querySelectorAll('input[name="make"]').forEach(checkbox => {
-    checkbox.addEventListener('change', filterCars);
-});
+function closeFiltersOnMobile() {
+    if (window.matchMedia('(max-width: 767px)').matches) {
+        document.getElementById('filters').classList.remove('open');
+    }
+}
 
+document.querySelectorAll('input[name="make"]').forEach(checkbox => {
+    checkbox.addEventListener('change', () => {
+        filterCars();
+        closeFiltersOnMobile();
+    });
+});
 
 // Renderizar la primera página al cargar
 renderCars(1, baseCars);
@@ -908,7 +916,9 @@ function closeForm() {
 }
 
 
-
+function toggleFilters() {
+    document.getElementById('filters').classList.toggle('open');
+}
 
 // Validaciones para los campos de nombre y teléfono
 $("#contact").on("keypress", function (e) {
