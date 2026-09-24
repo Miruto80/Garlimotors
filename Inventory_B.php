@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="<?php echo $_SESSION['lang']; ?>">
 <head>
-    <link rel="stylesheet" href="css/Inventory.css">
+<link rel="stylesheet" href="css/Inventory.css?v=<?= filemtime('css/Inventory.css') ?>">    
     <?php require_once("comunes/head.php")?>
     <title><?php echo $text['InventoryB']; ?></title>
 </head>
@@ -14,9 +14,12 @@
 </div>
 
 <div class="container mt-5">
-        <div class="row">
-            <div class="col-md-2 d-none d-md-block" id="filters">
-                <h5><?php echo $text['filters']; ?></h5>
+       <div class="row">
+           <div class="col-md-2" id="filters">
+    <div class="d-flex justify-content-between align-items-center">
+        <h5><?php echo $text['filters']; ?></h5>
+        <button type="button" class="filters-close" onclick="toggleFilters()">✖</button>
+    </div>
                 <form>
                     <h6><?php echo $text['type']; ?></h6>
                     <label><input type="checkbox" name="make" value="Sedan"> <?php echo $text['sedan']; ?></label><br>
@@ -109,6 +112,12 @@
     <div class="centrar_texto">
         <h2><a href="#header"><?php echo $text['back_to_home']; ?></a></h2>
     </div>
+
+     <button type="button" class="filter-fab" onclick="toggleFilters()" aria-label="<?php echo $text['filters']; ?>">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+    </svg>
+</button>
 
 <?php require_once("comunes/footer.php")?>
 <script>
