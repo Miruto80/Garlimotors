@@ -221,9 +221,9 @@ const cars = [
         },
         {
             "title": "2016 Subaru Impreza 2",
-            "cash": "$18.500",
-            "down": "$2.000$",
-            "financing": "$18,500",
+            "cash": "$5.500",
+            "down": "$1.500$",
+            "financing": "$9,000",
             "mileage": "183,725",
             "make": "Suv",
             "description": "Clean Title",
