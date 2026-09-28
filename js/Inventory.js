@@ -528,6 +528,103 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+        {
+            "title": "2012 Toyota runner",
+            "cash": "$11.000",
+            "down": "$3.000$",
+            "financing": "$16,000",
+            "mileage": "216,639",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2012 Toyota runner (1).webp",
+                "imagenes/Suv/2012 Toyota runner (2).webp",
+                "imagenes/Suv/2012 Toyota runner (3).webp",
+                "imagenes/Suv/2012 Toyota runner (4).webp",
+                "imagenes/Suv/2012 Toyota runner (5).webp",
+                "imagenes/Suv/2012 Toyota runner (6).webp",
+                "imagenes/Suv/2012 Toyota runner (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+         {
+            "title": "2020 Subaru ascent",
+            "cash": "$15.000",
+            "down": "$3.500$",
+            "financing": "$19,500",
+            "mileage": "91,083",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2020 Subaru ascent (1).webp",
+                "imagenes/Suv/2020 Subaru ascent (2).webp",
+                "imagenes/Suv/2020 Subaru ascent (3).webp",
+                "imagenes/Suv/2020 Subaru ascent (4).webp",
+                "imagenes/Suv/2020 Subaru ascent (5).webp",
+                "imagenes/Suv/2020 Subaru ascent (6).webp",
+                "imagenes/Suv/2020 Subaru ascent (7).webp",
+                "imagenes/Suv/2020 Subaru ascent (8).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+         {
+            "title": "2011 Toyota Corolla",
+            "cash": "$5.000",
+            "down": "$1.700",
+            "financing": "$9.500",
+            "mileage": "170,679",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2011 Toyota Corolla (1).webp",
+                "imagenes/Sedan/2011 Toyota Corolla (2).webp",
+                "imagenes/Sedan/2011 Toyota Corolla (3).webp",
+                "imagenes/Sedan/2011 Toyota Corolla (4).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+        {
+            "title": "2018 Toyota Camry XSE",
+            "cash": "$11.500",
+            "down": "$3.000",
+            "financing": "$16.500",
+            "mileage": "191,050",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2018 Toyota Camry XSE (1).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (2).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (3).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (4).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (5).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (6).webp",
+                "imagenes/Sedan/2018 Toyota Camry XSE (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+        {
+            "title": "Toyota Corolla 2016",
+            "cash": "$8.000",
+            "down": "$2.000",
+            "financing": "$12.500",
+            "mileage": "93,245",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2016  (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2016  (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2016  (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2016  (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2016  (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2016  (6).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
