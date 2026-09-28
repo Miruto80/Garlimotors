@@ -244,4 +244,14 @@ return [
 'sales_advisor' => 'Asesor de Ventas',
 'advisor_name' => 'Nombre del asesor',
 
+'terms_agreement' => 'Acepto los',
+'terms_conditions' => 'Términos y Condiciones',
+'close' => 'Cerrar',
+
+'marketing_text_consent' => '-Quiero recibir mensajes de texto de marketing en el número de teléfono proporcionado.',
+'non_marketing_text_consent' => '-Quiero recibir mensajes que no sean de marketing, incluyendo actualizaciones y noticias, en el número de teléfono proporcionado.',
+'text_message_consent' => 'Al marcar las casillas anteriores, doy mi consentimiento para recibir mensajes de texto de marketing y/o que no sean de marketing de Garli Motors en el número de teléfono proporcionado. La frecuencia de los mensajes puede variar. Pueden aplicarse tarifas de mensajes y datos. Responda HELP para obtener ayuda o STOP para cancelar la suscripción.',
+'credit_authorization' => 'Yo, el abajo firmante, (a) con el propósito de obtener crédito, certifico que las declaraciones realizadas a continuación son correctas; (b) autorizo a las instituciones financieras, según lo consideren necesario y apropiado, a obtener periódicamente informes de crédito del consumidor sobre mí y a recopilar mi historial laboral; y (c) entiendo que nosotros, o cualquier institución financiera a la que se presente esta solicitud, conservaremos esta solicitud independientemente de que sea aprobada o no, y que es responsabilidad del solicitante notificar al acreedor cualquier cambio de nombre, dirección o empleo. Nosotros y cualquier institución financiera a la que se presente esta solicitud podemos compartir cierta información personal no pública sobre usted con su autorización o según lo permita la ley.',
+'privacy_policy_acceptance' => 'Al enviar esta solicitud, acepto la Política de Privacidad',
+
 ];
