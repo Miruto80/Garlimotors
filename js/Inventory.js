@@ -570,6 +570,26 @@ const cars = [
              bankInventory: false
         },
          {
+            "title": "Toyota Highlander 2015",
+            "cash": "$10.000",
+            "down": "$3.000$",
+            "financing": "$15,000",
+            "mileage": "202,780",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Toyota Highlander 2015 (1).webp",
+                "imagenes/Suv/Toyota Highlander 2015 (2).webp",
+                "imagenes/Suv/Toyota Highlander 2015 (3).webp",
+                "imagenes/Suv/Toyota Highlander 2015 (4).webp",
+                "imagenes/Suv/Toyota Highlander 2015 (5).webp",
+                "imagenes/Suv/Toyota Highlander 2015 (6).webp",
+                "imagenes/Suv/Toyota Highlander 2015 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+         {
             "title": "2011 Toyota Corolla",
             "cash": "$5.000",
             "down": "$1.700",
