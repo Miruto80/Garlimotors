@@ -76,9 +76,9 @@ const cars = [
          },
         {
             "title": "2014 Lexus GX LUXURY",
-            "cash": "$18.500",
-            "down": "$2.000$",
-            "financing": "$18,500",
+            "cash": "$16.000",
+            "down": "$4.000",
+            "financing": "$21,000",
             "mileage": "183,725",
             "make": "Suv",
             "description": "Clean Title",
@@ -120,8 +120,8 @@ const cars = [
          },
          {
             "title": "2025 Nissan Sentra SV",
-            "cash": "$18.500",
-            "down": "$2.500",
+            "cash": "$14.500",
+            "down": "$2.700",
             "financing": "$18.500",
             "mileage": "29.000",
             "make": "Sedan",
