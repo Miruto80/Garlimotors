@@ -241,7 +241,7 @@ return [
 
 'select_option' => 'Select option',
 
-'terms_agreement' => 'I agree to the',
+'terms_agreement' => 'I agree to the Terms and Conditions',
 'terms_conditions' => 'Terms and Conditions',
 'close' => 'Close',
 

@@ -25,9 +25,8 @@
         <div id="badge-step-2" class="step"><?php echo $text['residence']; ?></div>
         <div id="badge-step-3" class="step"><?php echo $text['employment']; ?></div>
         <div id="badge-step-4" class="step"><?php echo $text['vehicle']; ?></div>
-         <div id="badge-step-5" class="step">
-        Additional Information
-    </div>
+         <div id="badge-step-5" class="step"><?php echo $text['additional_information']; ?>    </div>
+      <div id="badge-step-6" class="step"> <?php echo $text['terms_conditions']; ?>  </div>
     </div>
 
     <!-- Formspree Integration Endpoint -->
@@ -83,7 +82,7 @@
                         <span class="text-danger error-msg"></span>
                     </div>
                     <div class="col-md-4 mb-3">
-                        <label><?php echo $text['drivers_license_state']; ?> *
+                        <label><?php echo $text['drivers_license_state']; ?> * </label>
                         <select name="licenseState" id="licenseState" class="form-select data-validate" disabled>
                             <option value="">Loading states...</option>
                         </select>
@@ -315,11 +314,56 @@
                 >
             </div>
         </div>
+    </div>
+</div>
 
-        <!-- Terms and Conditions -->
-<div class="row mt-3">
-    <div class="col-12">
-        <div class="form-check">
+<!-- STEP 6: Terms and Conditions -->
+<div id="step-6" class="step-content">
+    <div class="form-section">
+
+        <h4><?php echo $text['terms_conditions']; ?></h4>
+
+        <div class="form-check mb-2">
+            <input
+                class="form-check-input"
+                type="checkbox"
+                name="marketingTextConsent"
+                id="marketingTextConsent"
+                value="accepted"
+            >
+
+            <label class="form-check-label" for="marketingTextConsent">
+                <?php echo $text['marketing_text_consent']; ?>
+            </label>
+        </div>
+
+        <!-- Non-Marketing SMS -->
+        <div class="form-check mb-3">
+            <input
+                class="form-check-input"
+                type="checkbox"
+                name="nonMarketingTextConsent"
+                id="nonMarketingTextConsent"
+                value="accepted"
+            >
+
+            <label class="form-check-label" for="nonMarketingTextConsent">
+                <?php echo $text['non_marketing_text_consent']; ?>
+            </label>
+        </div>
+        <p>
+            <?php echo $text['text_message_consent']; ?>
+        </p>
+        <p>
+            <?php echo $text['credit_authorization']; ?>
+        </p>
+
+        <p>
+            <?php echo $text['privacy_policy_acceptance']; ?>
+        </p>
+
+        <div class="form-check mt-4">
+
             <input
                 class="form-check-input"
                 type="checkbox"
@@ -329,22 +373,16 @@
             >
 
             <label class="form-check-label" for="termsAgreement">
-                <?php echo $text['terms_agreement']; ?>
-                <a
-                    href="#"
-                    data-bs-toggle="modal"
-                    data-bs-target="#termsModal"
-                    class="text-decoration-underline"
-                >
-                    <?php echo $text['terms_conditions']; ?>
-                </a>
-                *
+                <?php echo $text['terms_agreement']; ?> *
             </label>
 
-            <div id="termsError" class="text-danger small mt-1"></div>
+            <div
+                id="termsError"
+                class="text-danger small mt-1"
+            ></div>
+
         </div>
-    </div>
-</div>
+
     </div>
 </div>
 
@@ -365,68 +403,6 @@
             </div>
         </div>
     </form>
-</div>
-
-<!-- Terms and Conditions Modal -->
-<div
-    class="modal fade"
-    id="termsModal"
-    tabindex="-1"
-    aria-labelledby="termsModalLabel"
-    aria-hidden="true"
->
-    <div class="modal-dialog modal-lg modal-dialog-scrollable">
-        <div class="modal-content">
-
-            <div class="modal-header">
-                <h5 class="modal-title" id="termsModalLabel">
-                    <?php echo $text['terms_conditions']; ?>
-                </h5>
-
-                <button
-                    type="button"
-                    class="btn-close"
-                    data-bs-dismiss="modal"
-                    aria-label="<?php echo $text['close']; ?>"
-                ></button>
-            </div>
-
-            <div class="modal-body">
-
-                <p>
-                    <?php echo $text['marketing_text_consent']; ?>
-                </p>
-
-                <p>
-                    <?php echo $text['non_marketing_text_consent']; ?>
-                </p>
-
-                <p>
-                    <?php echo $text['text_message_consent']; ?>
-                </p>
-
-                <p>
-                    <?php echo $text['credit_authorization']; ?>
-                </p>
-
-                <p>
-                    <?php echo $text['privacy_policy_acceptance']; ?>
-                </p>
-
-            </div>
-
-            <div class="modal-footer">
-                <button
-                    type="button"
-                    class="btn btn-secondary"
-                    data-bs-dismiss="modal"
-                >
-                    <?php echo $text['close']; ?>
-                </button>
-            </div>
-
-        </div>
-    </div>
 </div>
 
 <script src="js/Bank.js?v=<?= filemtime('js/Bank.js') ?>"></script>

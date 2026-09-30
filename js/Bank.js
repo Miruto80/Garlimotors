@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     let currentStep = 1;
-    const totalSteps = 5;
+    const totalSteps = 6;
 
     // API Configurations
     const API_KEY = 'fcd4726fc4858a2b59f737afc60ef270377d2be3cc24c87c653f6106b8529c68';
@@ -20,13 +20,20 @@ document.addEventListener("DOMContentLoaded", () => {
     const termsAgreement = document.getElementById('termsAgreement');
 const termsError = document.getElementById('termsError');
 
+  const marketingTextConsent =
+    document.getElementById('marketingTextConsent');
+
+const nonMarketingTextConsent =
+    document.getElementById('nonMarketingTextConsent');
+
     // Step field validation tracking mapping
     const stepFields = {
         1: ['firstName', 'lastName', 'socialOrItin', 'licenseNumber', 'licenseState', 'phone', 'dob', 'email'],
         2: ['address', 'city', 'state', 'zip', 'timeAtAddress'],
         3: ['employmentType', 'CompanyName', 'occupation', 'income', 'timeAtJob', 'workphone', 'workAddress'],
-        4: [],
-        5: ['tradeIn','inTexas', 'leadSource']
+        4: ['carType'],
+        5: ['tradeIn','inTexas', 'leadSource'],
+        6: []
     };
 
 const tradeInSelect = document.getElementById('tradeIn');
@@ -192,17 +199,21 @@ updateTitleField();
     }
 
     // Validación de términos y condiciones
-    if (step === 5) {
+    if (step === 6) {
 
-        if (!termsAgreement.checked) {
-            termsAgreement.classList.add('is-invalid');
-            termsError.textContent = 'You must accept the Terms and Conditions.';
-            stepIsValid = false;
-        } else {
-            termsAgreement.classList.remove('is-invalid');
-            termsError.textContent = '';
-        }
+    if (!termsAgreement.checked) {
+        termsAgreement.classList.add('is-invalid');
+
+        termsError.textContent =
+            'You must accept the Terms and Conditions.';
+
+        stepIsValid = false;
+    } else {
+        termsAgreement.classList.remove('is-invalid');
+
+        termsError.textContent = '';
     }
+}
 
     if (!stepIsValid) {
         Swal.fire({
@@ -222,24 +233,37 @@ termsAgreement.addEventListener('change', () => {
     }
 });
 
-    // 6. Step Views & Component Display Controller
-    function updateStepUI() {
+   function updateStepUI() {
+
     document.querySelectorAll('.step-content').forEach((el, index) => {
-        el.classList.toggle('active', index === (currentStep - 1));
+        el.classList.toggle(
+            'active',
+            index === currentStep - 1
+        );
     });
 
-    document.querySelectorAll('.preapproval-steps .step').forEach((el, index) => {
-        el.classList.toggle('active', index < currentStep);
-    });
+    document
+        .querySelectorAll('.preapproval-steps .step')
+        .forEach((el, index) => {
+            el.classList.toggle(
+                'active',
+                index < currentStep
+            );
+        });
 
-    progressBar.style.width = `${(currentStep / totalSteps) * 100}%`;
+    progressBar.style.width =
+        `${(currentStep / totalSteps) * 100}%`;
 
-    btnBack.style.display = currentStep > 1 ? 'inline-block' : 'none';
+    btnBack.style.display =
+        currentStep > 1 ? 'inline-block' : 'none';
 
     if (currentStep >= totalSteps) {
+
         btnNext.style.display = 'none';
         btnSubmit.style.display = 'inline-block';
+
     } else {
+
         btnNext.style.display = 'inline-block';
         btnSubmit.style.display = 'none';
     }

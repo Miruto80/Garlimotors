@@ -246,7 +246,7 @@ return [
 'sales_advisor' => 'Asesor de Ventas',
 'advisor_name' => 'Nombre del asesor',
 
-'terms_agreement' => 'Acepto los',
+'terms_agreement' => 'Acepto los Términos y Condiciones',
 'terms_conditions' => 'Términos y Condiciones',
 'close' => 'Cerrar',
 
