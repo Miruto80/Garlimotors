@@ -291,6 +291,36 @@
                 >
             </div>
         </div>
+
+        <!-- Terms and Conditions -->
+<div class="row mt-3">
+    <div class="col-12">
+        <div class="form-check">
+            <input
+                class="form-check-input"
+                type="checkbox"
+                name="termsAgreement"
+                id="termsAgreement"
+                value="accepted"
+            >
+
+            <label class="form-check-label" for="termsAgreement">
+                <?php echo $text['terms_agreement']; ?>
+                <a
+                    href="#"
+                    data-bs-toggle="modal"
+                    data-bs-target="#termsModal"
+                    class="text-decoration-underline"
+                >
+                    <?php echo $text['terms_conditions']; ?>
+                </a>
+                *
+            </label>
+
+            <div id="termsError" class="text-danger small mt-1"></div>
+        </div>
+    </div>
+</div>
     </div>
 </div>
 
@@ -311,6 +341,68 @@
             </div>
         </div>
     </form>
+</div>
+
+<!-- Terms and Conditions Modal -->
+<div
+    class="modal fade"
+    id="termsModal"
+    tabindex="-1"
+    aria-labelledby="termsModalLabel"
+    aria-hidden="true"
+>
+    <div class="modal-dialog modal-lg modal-dialog-scrollable">
+        <div class="modal-content">
+
+            <div class="modal-header">
+                <h5 class="modal-title" id="termsModalLabel">
+                    <?php echo $text['terms_conditions']; ?>
+                </h5>
+
+                <button
+                    type="button"
+                    class="btn-close"
+                    data-bs-dismiss="modal"
+                    aria-label="<?php echo $text['close']; ?>"
+                ></button>
+            </div>
+
+            <div class="modal-body">
+
+                <p>
+                    <?php echo $text['marketing_text_consent']; ?>
+                </p>
+
+                <p>
+                    <?php echo $text['non_marketing_text_consent']; ?>
+                </p>
+
+                <p>
+                    <?php echo $text['text_message_consent']; ?>
+                </p>
+
+                <p>
+                    <?php echo $text['credit_authorization']; ?>
+                </p>
+
+                <p>
+                    <?php echo $text['privacy_policy_acceptance']; ?>
+                </p>
+
+            </div>
+
+            <div class="modal-footer">
+                <button
+                    type="button"
+                    class="btn btn-secondary"
+                    data-bs-dismiss="modal"
+                >
+                    <?php echo $text['close']; ?>
+                </button>
+            </div>
+
+        </div>
+    </div>
 </div>
 
 <script src="js/Bank.js?v=<?= filemtime('js/Bank.js') ?>"></script>

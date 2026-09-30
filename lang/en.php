@@ -239,5 +239,14 @@ return [
 
 'select_option' => 'Select option',
 
+'terms_agreement' => 'I agree to the',
+'terms_conditions' => 'Terms and Conditions',
+'close' => 'Close',
+
+'marketing_text_consent' => '-I want to receive marketing text messages on the phone number provided.',
+'non_marketing_text_consent' => '-I want to receive non marketing messages, including updates and news, on the phone number provided.',
+'text_message_consent' => 'By checking the boxes above, I consent to receive marketing and/or non-marketing text messages from Garli Motors at the phone number provided. Message frequency may vary. Message and data rates may apply. Reply HELP for help or STOP to opt-out.',
+'credit_authorization' => "I, the undersigned, (a) for the purpose of securing credit, certify that the below representations to be correct; (b) authorize financial institutions, as they consider necessary and appropriate, to obtain consumer credit reports on me periodically and to gather employment history, and (c) understand that we, or any financial institution to whom this application is submitted, will retain this application whether or not it is approved, and that it is the applicant's responsibility to notify the creditor of any change of name, address, or employment. We and any financial institution to whom this application is submitted, may share certain non-public personal information about you with your authorization or as provided by law.",
+'privacy_policy_acceptance' => 'By submitting this request, I accept the Privacy Policy',
     
 ];

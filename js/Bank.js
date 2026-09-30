@@ -17,6 +17,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const mainStateSelect = document.getElementById('mainState');
     const mainCitySelect = document.getElementById('mainCity');
 
+    const termsAgreement = document.getElementById('termsAgreement');
+const termsError = document.getElementById('termsError');
+
     // Step field validation tracking mapping
     const stepFields = {
         1: ['firstName', 'lastName', 'socialOrItin', 'licenseNumber', 'licenseState', 'phone', 'dob', 'email'],
@@ -174,21 +177,33 @@ updateTitleField();
             }
         }
     });
+
+    // Validación del título cuando tiene trade-in
     if (step === 5 && tradeInSelect.value === 'yes') {
 
         if (!hasTitleSelect.value) {
-
             hasTitleSelect.classList.remove('is-valid');
             hasTitleSelect.classList.add('is-invalid');
-
             stepIsValid = false;
-
         } else {
-
             hasTitleSelect.classList.remove('is-invalid');
             hasTitleSelect.classList.add('is-valid');
         }
     }
+
+    // Validación de términos y condiciones
+    if (step === 5) {
+
+        if (!termsAgreement.checked) {
+            termsAgreement.classList.add('is-invalid');
+            termsError.textContent = 'You must accept the Terms and Conditions.';
+            stepIsValid = false;
+        } else {
+            termsAgreement.classList.remove('is-invalid');
+            termsError.textContent = '';
+        }
+    }
+
     if (!stepIsValid) {
         Swal.fire({
             icon: 'warning',
@@ -199,6 +214,13 @@ updateTitleField();
 
     return stepIsValid;
 }
+
+termsAgreement.addEventListener('change', () => {
+    if (termsAgreement.checked) {
+        termsAgreement.classList.remove('is-invalid');
+        termsError.textContent = '';
+    }
+});
 
     // 6. Step Views & Component Display Controller
     function updateStepUI() {
