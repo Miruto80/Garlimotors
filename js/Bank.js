@@ -24,7 +24,7 @@ const termsError = document.getElementById('termsError');
     const stepFields = {
         1: ['firstName', 'lastName', 'socialOrItin', 'licenseNumber', 'licenseState', 'phone', 'dob', 'email'],
         2: ['address', 'city', 'state', 'zip', 'timeAtAddress'],
-        3: ['employmentType', 'CompanyName', 'occupation', 'income', 'timeAtJob'],
+        3: ['employmentType', 'CompanyName', 'occupation', 'income', 'timeAtJob', 'workphone', 'workAddress'],
         4: [],
         5: ['tradeIn','inTexas', 'leadSource']
     };
@@ -127,7 +127,7 @@ updateTitleField();
             if (name === 'email' && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)) {
                 error = 'Please enter a valid email address.';
             }
-            if (name === 'phone' && value.length < 10) {
+           if ((name === 'phone' || name === 'workphone') && value.length < 10) {
                 error = 'Phone number must be at least 10 digits.';
             }
             if (name === 'income' && parseFloat(value) <= 0) {

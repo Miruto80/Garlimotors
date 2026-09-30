@@ -239,6 +239,8 @@ return [
 'request_information' => 'Solicitar Información',
 
 'additional_information' => 'Información Adicional',
+'Work_phone' => 'Teléfono del Trabajo',
+'Work_address' => 'Dirección del Trabajo',
 
 'how_did_you_hear' => '¿Cómo se enteró de nosotros?',
 'sales_advisor' => 'Asesor de Ventas',

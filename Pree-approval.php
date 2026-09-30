@@ -176,6 +176,30 @@
                         <span class="text-danger error-msg"></span>
                     </div>
                 </div>
+                <div class="row">
+    <div class="col-md-6 mb-3">
+        <label><?php echo $text['Work_phone']; ?> *</label>
+        <input
+            type="tel"
+            name="workphone"
+            class="form-control data-validate data-no-letters"
+            limit="10"
+            placeholder="10 digits"
+        >
+        <span class="text-danger error-msg"></span>
+    </div>
+
+    <div class="col-md-6 mb-3">
+        <label><?php echo $text['Work_address']; ?> *</label>
+        <input
+            type="text"
+            name="workAddress"
+            placeholder="Work address"
+            class="form-control data-validate"
+        >
+        <span class="text-danger error-msg"></span>
+    </div>
+</div>
             </div>
         </div>
 

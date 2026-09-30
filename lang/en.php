@@ -232,6 +232,8 @@ return [
 'request_information' => 'Request Information',
 
 'additional_information' => 'Additional Information',
+'Work_phone' => 'Work phone',
+'Work_address' => 'Work address',
 
 'how_did_you_hear' => 'How did you hear about us?',
 'sales_advisor' => 'Sales Advisor',
