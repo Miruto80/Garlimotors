@@ -138,29 +138,6 @@ const cars = [
              Rented: false,
              bankInventory: true
         },
-        {
-            "title": "2016 Subaru Impreza 2",
-            "cash": "$5.500",
-            "down": "$1.500$",
-            "financing": "$9,000",
-            "mileage": "183,725",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2016 Subaru Impreza 2 (1).webp",
-                "imagenes/Suv/2016 Subaru Impreza 2 (2).webp",
-                "imagenes/Suv/2016 Subaru Impreza 2 (3).webp",
-                "imagenes/Suv/2016 Subaru Impreza 2 (4).webp",
-                "imagenes/Suv/2016 Subaru Impreza 2 (5).webp",
-                "imagenes/Suv/2016 Subaru Impreza 2 (6).webp",
-                "imagenes/Suv/2016 Subaru Impreza 2 (7).webp",
-                "imagenes/Suv/2016 Subaru Impreza 2 (8).webp",
-                "imagenes/Suv/2016 Subaru Impreza 2 (9).webp",
-                "imagenes/Suv/2016 Subaru Impreza 2 (10).webp",
-                "imagenes/Suv/2016 Subaru Impreza 2 (11).webp",
-            ],
-             Rented: false
-        },
           {
              "title": "2019 Chevrolet Silverado 1500 4x4",
              "cash": "$28.500",
@@ -241,26 +218,6 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
-         {
-             "title": "2023 Chevrolet Silverado 1500",
-             "cash": "$16.000",
-             "down": "$8.000",
-             "financing": "$22.000",
-             "mileage": "221,317",
-             "make": "Truck",
-             "description": "Clean Title",
-             "images": [
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (1).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (2).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (3).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (4).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (5).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (6).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 1 (7).webp",
-             ],
-              Rented: false,
-              bankInventory: false
-         },
           {
             "title": "2020 Mitsubishi outlander",
             "cash": "$10.000",
@@ -280,26 +237,6 @@ const cars = [
             ],
              Rented: false
         },
-          {
-             "title": "2023 Chevrolet Silverado",
-             "cash": "$15.500",
-             "down": "$6.000",
-             "financing": "$21.000",
-             "mileage": "174,791",
-             "make": "Truck",
-             "description": "Clean Title",
-             "images": [
-                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (5).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (1).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (2).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (3).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (4).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (6).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado Blanca (7).webp",
-             ],
-              Rented: false,
-              bankInventory: false
-         },
          {
             "title": "2015 Toyota Corolla S Plus",
             "cash": "$8.000",
@@ -468,26 +405,6 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
-           {
-             "title": "2023 Chevrolet Silverado 1500",
-             "cash": "$16.500",
-             "down": "$7.500",
-             "financing": "$22.000",
-             "mileage": "159,150",
-             "make": "Truck",
-             "description": "Clean Title",
-             "images": [
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(4).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(1).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(2).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(3).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(6).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(5).webp",
-                 "imagenes/Truck/2023 Chevrolet Silverado 1500 3(7).webp",
-             ],
-              Rented: false,
-              bankInventory: false
-         },
           {
             "title": "2013 Toyota higlander",
             "cash": "$7.000",
@@ -585,23 +502,6 @@ const cars = [
                 "imagenes/Suv/Toyota Highlander 2015 (5).webp",
                 "imagenes/Suv/Toyota Highlander 2015 (6).webp",
                 "imagenes/Suv/Toyota Highlander 2015 (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-         {
-            "title": "2011 Toyota Corolla",
-            "cash": "$5.000",
-            "down": "$1.700",
-            "financing": "$9.500",
-            "mileage": "170,679",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2011 Toyota Corolla (1).webp",
-                "imagenes/Sedan/2011 Toyota Corolla (2).webp",
-                "imagenes/Sedan/2011 Toyota Corolla (3).webp",
-                "imagenes/Sedan/2011 Toyota Corolla (4).webp",
             ],
              Rented: false,
              bankInventory: false
