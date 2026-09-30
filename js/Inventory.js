@@ -645,6 +645,47 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+        {
+            "title": "Ford fiesta 2019",
+            "cash": "$6.500",
+            "down": "$2.000",
+            "financing": "$11.000",
+            "mileage": "75,790",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Ford fiesta 2019 (1).webp",
+                "imagenes/Sedan/Ford fiesta 2019 (2).webp",
+                "imagenes/Sedan/Ford fiesta 2019 (3).webp",
+                "imagenes/Sedan/Ford fiesta 2019 (4).webp",
+                "imagenes/Sedan/Ford fiesta 2019 (5).webp",
+                "imagenes/Sedan/Ford fiesta 2019 (6).webp",
+                "imagenes/Sedan/Ford fiesta 2019 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+         {
+            "title": "2010 Toyota rav4",
+            "cash": "$6.000",
+            "down": "$2.000$",
+            "financing": "$10,500",
+            "mileage": "230,000",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2010 Toyota rav4 Blanca (1).webp",
+                "imagenes/Suv/2010 Toyota rav4 Blanca (2).webp",
+                "imagenes/Suv/2010 Toyota rav4 Blanca (3).webp",
+                "imagenes/Suv/2010 Toyota rav4 Blanca (4).webp",
+                "imagenes/Suv/2010 Toyota rav4 Blanca (5).webp",
+                "imagenes/Suv/2010 Toyota rav4 Blanca (6).webp",
+                "imagenes/Suv/2010 Toyota rav4 Blanca (7).webp",
+                "imagenes/Suv/2010 Toyota rav4 Blanca (8).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
