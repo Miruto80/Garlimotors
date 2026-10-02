@@ -586,6 +586,66 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+         {
+            "title": "Toyota Corolla 2015",
+            "cash": "$7.000",
+            "down": "$2.000",
+            "financing": "$12.000",
+            "mileage": "183,196",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2015 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2015 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2015 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2015 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2015 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2015 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2015 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+         {
+            "title": "2017 Kia forte",
+            "cash": "$6.500",
+            "down": "$2.000",
+            "financing": "$11.000",
+            "mileage": "102,353",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2017 Kia forte (1).webp",
+                "imagenes/Sedan/2017 Kia forte (2).webp",
+                "imagenes/Sedan/2017 Kia forte (3).webp",
+                "imagenes/Sedan/2017 Kia forte (4).webp",
+                "imagenes/Sedan/2017 Kia forte (5).webp",
+                "imagenes/Sedan/2017 Kia forte (6).webp",
+                "imagenes/Sedan/2017 Kia forte (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+         {
+            "title": "2015 honda accord",
+            "cash": "$9.000",
+            "down": "$2.500",
+            "financing": "$13.500",
+            "mileage": "114,620",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2015 honda accord (1).webp",
+                "imagenes/Sedan/2015 honda accord (2).webp",
+                "imagenes/Sedan/2015 honda accord (3).webp",
+                "imagenes/Sedan/2015 honda accord (4).webp",
+                "imagenes/Sedan/2015 honda accord (5).webp",
+                "imagenes/Sedan/2015 honda accord (6).webp",
+                "imagenes/Sedan/2015 honda accord (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
