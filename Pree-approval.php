@@ -321,8 +321,6 @@
 <div id="step-6" class="step-content">
     <div class="form-section">
 
-        <h4><?php echo $text['terms_conditions']; ?></h4>
-
         <div class="form-check mb-2">
             <input
                 class="form-check-input"
@@ -373,7 +371,7 @@
             >
 
             <label class="form-check-label" for="termsAgreement">
-                <?php echo $text['terms_agreement']; ?> *
+                <?php echo $text['terms_agreement'];  ?> *
             </label>
 
             <div
