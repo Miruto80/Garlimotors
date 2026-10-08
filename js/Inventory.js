@@ -507,26 +507,6 @@ const cars = [
              bankInventory: false
         },
         {
-            "title": "2018 Toyota Camry XSE",
-            "cash": "$11.500",
-            "down": "$3.000",
-            "financing": "$16.500",
-            "mileage": "191,050",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2018 Toyota Camry XSE (1).webp",
-                "imagenes/Sedan/2018 Toyota Camry XSE (2).webp",
-                "imagenes/Sedan/2018 Toyota Camry XSE (3).webp",
-                "imagenes/Sedan/2018 Toyota Camry XSE (4).webp",
-                "imagenes/Sedan/2018 Toyota Camry XSE (5).webp",
-                "imagenes/Sedan/2018 Toyota Camry XSE (6).webp",
-                "imagenes/Sedan/2018 Toyota Camry XSE (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-        {
             "title": "Toyota Corolla 2016",
             "cash": "$8.000",
             "down": "$2.000",
@@ -647,26 +627,6 @@ const cars = [
              bankInventory: false
         },
          {
-            "title": "Toyota c-hr 2019",
-            "cash": "$9.000",
-            "down": "$2.000$",
-            "financing": "$13,500",
-            "mileage": "160,638",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/Toyota c-hr 2019 (1).webp",
-                "imagenes/Suv/Toyota c-hr 2019 (2).webp",
-                "imagenes/Suv/Toyota c-hr 2019 (3).webp",
-                "imagenes/Suv/Toyota c-hr 2019 (4).webp",
-                "imagenes/Suv/Toyota c-hr 2019 (5).webp",
-                "imagenes/Suv/Toyota c-hr 2019 (6).webp",
-                "imagenes/Suv/Toyota c-hr 2019 (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-         {
             "title": "Chevrolet Silverado 2023",
             "cash": "$16.500",
             "down": "$5.500",
@@ -684,25 +644,6 @@ const cars = [
                 "imagenes/Truck/Chevrolet Silverado 2023 (7).webp",
             ],
              Rented: false
-        },
-        {
-            "title": "Toyota Corolla 2012",
-            "cash": "$5.500",
-            "down": "$1.800$",
-            "financing": "$10,000",
-            "mileage": "181,584",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Toyota Corolla 2012 (1).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (2).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (3).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (4).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (5).webp",
-                "imagenes/Sedan/Toyota Corolla 2012 (6).webp",
-            ],
-             Rented: false,
-             bankInventory: false
         },
 ];
 
