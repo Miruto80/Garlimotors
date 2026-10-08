@@ -645,6 +645,84 @@ const cars = [
             ],
              Rented: false
         },
+          {
+            "title": "2016 Toyota corolla LE",
+            "cash": "$8.000",
+            "down": "$2.000",
+            "financing": "$13.500",
+            "mileage": "141,897",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2016 Toyota corolla LE 1(1).webp",
+                "imagenes/Sedan/2016 Toyota corolla LE 1(2).webp",
+                "imagenes/Sedan/2016 Toyota corolla LE 1(3).webp",
+                "imagenes/Sedan/2016 Toyota corolla LE 1(4).webp",
+                "imagenes/Sedan/2016 Toyota corolla LE 1(5).webp",
+                "imagenes/Sedan/2016 Toyota corolla LE (6).webp",
+                "imagenes/Sedan/2016 Toyota corolla LE (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "2020 Toyota camrry",
+            "cash": "$11.000",
+            "down": "$3.000",
+            "financing": "$17.000",
+            "mileage": "140,367",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2020 Toyota camrry (1).webp",
+                "imagenes/Sedan/2020 Toyota camrry (2).webp",
+                "imagenes/Sedan/2020 Toyota camrry (3).webp",
+                "imagenes/Sedan/2020 Toyota camrry (4).webp",
+                "imagenes/Sedan/2020 Toyota camrry (5).webp",
+                "imagenes/Sedan/2020 Toyota camrry (6).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "2016 Mercedes-Benz GLC GLC300 (1)",
+            "cash": "$9.000",
+            "down": "$2.500$",
+            "financing": "$15,000",
+            "mileage": "100,251",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (1).webp",
+                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (2).webp",
+                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (3).webp",
+                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (4).webp",
+                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (5).webp",
+                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (6).webp",
+                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "2016 Toyota Rav4",
+            "cash": "$9.500",
+            "down": "$2.500$",
+            "financing": "$15,500",
+            "mileage": "195,962",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2016 Toyota Rav4 (5).webp",
+                "imagenes/Suv/2016 Toyota Rav4 (1).webp",
+                "imagenes/Suv/2016 Toyota Rav4 (2).webp",
+                "imagenes/Suv/2016 Toyota Rav4 (3).webp",
+                "imagenes/Suv/2016 Toyota Rav4 (4).webp",
+                "imagenes/Suv/2016 Toyota Rav4 (6).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
