@@ -764,7 +764,8 @@ const cars = [
             ],
              Rented: false,
              bankInventory: false
-        },{
+        },
+        {
             "title": "2013 Subaru Forester X PREMIUM",
             "cash": "$5.500",
             "down": "$2.000",
@@ -780,6 +781,42 @@ const cars = [
                 "imagenes/Suv/2013 Subaru Forester X PREMIUM (4).webp",
                 "imagenes/Suv/2013 Subaru Forester X PREMIUM (6).webp",
                 "imagenes/Suv/2013 Subaru Forester X PREMIUM (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "2018 Toyota CHR",
+            "cash": "$12.000",
+            "down": "$3.000",
+            "financing": "$17,000",
+            "mileage": "101,706",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/2018 Toyota CHR (1).webp",
+                "imagenes/Suv/2018 Toyota CHR (2).webp",
+                "imagenes/Suv/2018 Toyota CHR (3).webp",
+                "imagenes/Suv/2018 Toyota CHR (4).webp",
+                "imagenes/Suv/2018 Toyota CHR (5).webp",
+                "imagenes/Suv/2018 Toyota CHR (6).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "2017 Ford Fusion",
+            "cash": "$8.500",
+            "down": "$2.000",
+            "financing": "$12.500",
+            "mileage": "91,264",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2017 Ford Fusion (1).webp",
+                "imagenes/Sedan/2017 Ford Fusion (2).webp",
+                "imagenes/Sedan/2017 Ford Fusion (3).webp",
+                "imagenes/Sedan/2017 Ford Fusion (4).webp",
             ],
              Rented: false,
              bankInventory: false
