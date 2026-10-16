@@ -865,7 +865,7 @@ const cars = [
             "cash": "$9.500",
             "down": "$2.500",
             "financing": "$15.000",
-            "mileage": "91,264",
+            "mileage": "117.819",
             "make": "Sedan",
             "description": "Clean Title",
             "images": [
