@@ -821,6 +821,65 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+          {
+            "title": "Toyota camrry 2009",
+            "cash": "$5.500",
+            "down": "$1.900",
+            "financing": "$9.500",
+            "mileage": "178,639",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota camrry 2009 (1).webp",
+                "imagenes/Sedan/Toyota camrry 2009 (2).webp",
+                "imagenes/Sedan/Toyota camrry 2009 (3).webp",
+                "imagenes/Sedan/Toyota camrry 2009 (4).webp",
+                "imagenes/Sedan/Toyota camrry 2009 (5).webp",
+                "imagenes/Sedan/Toyota camrry 2009 (6).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "Toyota Corolla 2017",
+            "cash": "$8.000",
+            "down": "$2.000",
+            "financing": "$12.500",
+            "mileage": "198,344",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2017 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "Toyota Corolla 2017 SE",
+            "cash": "$9.500",
+            "down": "$2.500",
+            "financing": "$15.000",
+            "mileage": "91,264",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2017 SE (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 SE (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 SE (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 SE (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 SE (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 SE (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2017 SE (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
