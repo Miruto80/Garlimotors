@@ -900,6 +900,26 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+          {
+            "title": "2020 Toyota Camrry LE",
+            "cash": "$9.000",
+            "down": "$2.000",
+            "financing": "$14.500",
+            "mileage": "188.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2020 Toyota Camrry LE (1).webp",
+                "imagenes/Sedan/2020 Toyota Camrry LE (2).webp",
+                "imagenes/Sedan/2020 Toyota Camrry LE (3).webp",
+                "imagenes/Sedan/2020 Toyota Camrry LE (4).webp",
+                "imagenes/Sedan/2020 Toyota Camrry LE (5).webp",
+                "imagenes/Sedan/2020 Toyota Camrry LE (6).webp",
+                "imagenes/Sedan/2020 Toyota Camrry LE (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
