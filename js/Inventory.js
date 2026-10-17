@@ -880,6 +880,26 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+          {
+            "title": "Toyota Corolla 2021 le",
+            "cash": "$10.500",
+            "down": "$3.000",
+            "financing": "$16.500",
+            "mileage": "136.000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2021 le (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 le (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 le (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 le (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 le (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 le (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2021 le (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
