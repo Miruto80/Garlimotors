@@ -119,14 +119,10 @@ header nav .dropdown-toggle:hover {
             </li>
 
             <!-- 🚗 DROPDOWN: Inventories -->
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" id="Link-I" href="#" id="inventoryDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            <li class="nav-item">
+              <a class="nav-link" id="Link-I" href="Inventory.php">
                 <?php echo $text['view_inventory']; ?>
               </a>
-              <ul class="dropdown-menu" aria-labelledby="inventoryDropdown">
-                <li><a class="dropdown-item" href="Inventory.php"><?php echo $text['general_inventory']; ?></a></li>
-                <li><a class="dropdown-item" href="Inventory_B.php"><?php echo $text['select_inventory']; ?></a></li>
-              </ul>
             </li>
           </ul>
         </div>
