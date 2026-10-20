@@ -920,6 +920,46 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+          {
+            "title": "Mitsubishi outlander 2017",
+            "cash": "$7.500",
+            "down": "$2.000",
+            "financing": "$11,500",
+            "mileage": "101,720",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Mitsubishi outlander 2017 (1).webp",
+                "imagenes/Suv/Mitsubishi outlander 2017 (2).webp",
+                "imagenes/Suv/Mitsubishi outlander 2017 (3).webp",
+                "imagenes/Suv/Mitsubishi outlander 2017 (4).webp",
+                "imagenes/Suv/Mitsubishi outlander 2017 (5).webp",
+                "imagenes/Suv/Mitsubishi outlander 2017 (6).webp",
+                "imagenes/Suv/Mitsubishi outlander 2017 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "Toyota rav4 2017",
+            "cash": "$11.000",
+            "down": "$3.000",
+            "financing": "$16,000",
+            "mileage": "110,171",
+            "make": "Suv",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Suv/Toyota rav4 2017 (1).webp",
+                "imagenes/Suv/Toyota rav4 2017 (2).webp",
+                "imagenes/Suv/Toyota rav4 2017 (3).webp",
+                "imagenes/Suv/Toyota rav4 2017 (4).webp",
+                "imagenes/Suv/Toyota rav4 2017 (5).webp",
+                "imagenes/Suv/Toyota rav4 2017 (6).webp",
+                "imagenes/Suv/Toyota rav4 2017 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
