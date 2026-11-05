@@ -318,25 +318,6 @@ const cars = [
              bankInventory: false
         },
           {
-            "title": "2018 Toyota CHR",
-            "cash": "$12.000",
-            "down": "$3.000",
-            "financing": "$17,000",
-            "mileage": "101,706",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2018 Toyota CHR (1).webp",
-                "imagenes/Suv/2018 Toyota CHR (2).webp",
-                "imagenes/Suv/2018 Toyota CHR (3).webp",
-                "imagenes/Suv/2018 Toyota CHR (4).webp",
-                "imagenes/Suv/2018 Toyota CHR (5).webp",
-                "imagenes/Suv/2018 Toyota CHR (6).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-          {
             "title": "2017 Ford Fusion",
             "cash": "$8.500",
             "down": "$2.000",
@@ -492,26 +473,6 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
-          {
-            "title": "Kia rio 2022",
-            "cash": "$8.000",
-            "down": "$2.000",
-            "financing": "$13.000",
-            "mileage": "87.200",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Kia rio 2022 (1).webp",
-                "imagenes/Sedan/Kia rio 2022 (2).webp",
-                "imagenes/Sedan/Kia rio 2022 (3).webp",
-                "imagenes/Sedan/Kia rio 2022 (4).webp",
-                "imagenes/Sedan/Kia rio 2022 (5).webp",
-                "imagenes/Sedan/Kia rio 2022 (6).webp",
-                "imagenes/Sedan/Kia rio 2022 (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
          {
             "title": "2018 Toyota CHR",
             "cash": "$9.500",
@@ -629,45 +590,6 @@ const cars = [
             ],
              Rented: false,
              bankInventory: false
-        },
-         {
-            "title": "Chevrolet Cruze 2017",
-            "cash": "$5.000",
-            "down": "$1.500",
-            "financing": "$9.500",
-            "mileage": "90,153",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/Chevrolet Cruze 2017 (1).webp",
-                "imagenes/Sedan/Chevrolet Cruze 2017 (2).webp",
-                "imagenes/Sedan/Chevrolet Cruze 2017 (3).webp",
-                "imagenes/Sedan/Chevrolet Cruze 2017 (4).webp",
-                "imagenes/Sedan/Chevrolet Cruze 2017 (5).webp",
-                "imagenes/Sedan/Chevrolet Cruze 2017 (6).webp",
-                "imagenes/Sedan/Chevrolet Cruze 2017 (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-        {
-            "title": "Toyota 4Runner 2011",
-            "cash": "$11.500",
-            "down": "$3.500$",
-            "financing": "$16,500",
-            "mileage": "175,442",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/Toyota 4Runner 2011 (1).webp",
-                "imagenes/Suv/Toyota 4Runner 2011 (2).webp",
-                "imagenes/Suv/Toyota 4Runner 2011 (3).webp",
-                "imagenes/Suv/Toyota 4Runner 2011 (4).webp",
-                "imagenes/Suv/Toyota 4Runner 2011 (5).webp",
-                "imagenes/Suv/Toyota 4Runner 2011 (6).webp",
-                "imagenes/Suv/Toyota 4Runner 2011 (7).webp",
-            ],
-             Rented: false
         },
         {
             "title": "Toyota runner 2011",
