@@ -610,6 +610,66 @@ const cars = [
             ],
              Rented: false
         },
+          {
+            "title": "2021 Toyota Corolla",
+            "cash": "$11.000",
+            "down": "$3.000",
+            "financing": "$17.000",
+            "mileage": "116,792",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2021 Toyota Corolla 1 (5).webp",
+                "imagenes/Sedan/2021 Toyota Corolla 1 (1).webp",
+                "imagenes/Sedan/2021 Toyota Corolla 1 (2).webp",
+                "imagenes/Sedan/2021 Toyota Corolla 1 (3).webp",
+                "imagenes/Sedan/2021 Toyota Corolla 1 (4).webp",
+                "imagenes/Sedan/2021 Toyota Corolla 1 (6).webp",
+                "imagenes/Sedan/2021 Toyota Corolla 1 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "2012 Toyota corolla",
+            "cash": "$6.500",
+            "down": "$1.500",
+            "financing": "$11.000",
+            "mileage": "122,112",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2012 Toyota corolla (4).webp",
+                "imagenes/Sedan/2012 Toyota corolla (1).webp",
+                "imagenes/Sedan/2012 Toyota corolla (2).webp",
+                "imagenes/Sedan/2012 Toyota corolla (3).webp",
+                "imagenes/Sedan/2012 Toyota corolla (5).webp",
+                "imagenes/Sedan/2012 Toyota corolla (6).webp",
+                "imagenes/Sedan/2012 Toyota corolla (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "2012 Toyota corolla Le",
+            "cash": "$6.500",
+            "down": "$1.500",
+            "financing": "$11.000",
+            "mileage": "133,462",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2012 Toyota corolla Le (1).webp",
+                "imagenes/Sedan/2012 Toyota corolla Le (2).webp",
+                "imagenes/Sedan/2012 Toyota corolla Le (3).webp",
+                "imagenes/Sedan/2012 Toyota corolla Le (4).webp",
+                "imagenes/Sedan/2012 Toyota corolla Le (5).webp",
+                "imagenes/Sedan/2012 Toyota corolla Le (6).webp",
+                "imagenes/Sedan/2012 Toyota corolla Le (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
