@@ -54,29 +54,6 @@ const cars = [
             ],
              Rented: false
         },
-        {
-            "title": "2014 Lexus GX LUXURY",
-            "cash": "$16.000",
-            "down": "$4.000",
-            "financing": "$21,000",
-            "mileage": "183,725",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2014 Lexus GX LUXURY (1).webp",
-                "imagenes/Suv/2014 Lexus GX LUXURY (2).webp",
-                "imagenes/Suv/2014 Lexus GX LUXURY (3).webp",
-                "imagenes/Suv/2014 Lexus GX LUXURY (4).webp",
-                "imagenes/Suv/2014 Lexus GX LUXURY (5).webp",
-                "imagenes/Suv/2014 Lexus GX LUXURY (6).webp",
-                "imagenes/Suv/2014 Lexus GX LUXURY (7).webp",
-                "imagenes/Suv/2014 Lexus GX LUXURY (8).webp",
-                "imagenes/Suv/2014 Lexus GX LUXURY (9).webp",
-            ],
-             Rented: false,
-             bankInventory: true
-        },
-
           {
             "title": "2019 kia forte",
             "cash": "$6.000",
@@ -318,23 +295,6 @@ const cars = [
              bankInventory: false
         },
           {
-            "title": "2017 Ford Fusion",
-            "cash": "$8.500",
-            "down": "$2.000",
-            "financing": "$12.500",
-            "mileage": "91,264",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2017 Ford Fusion (1).webp",
-                "imagenes/Sedan/2017 Ford Fusion (2).webp",
-                "imagenes/Sedan/2017 Ford Fusion (3).webp",
-                "imagenes/Sedan/2017 Ford Fusion (4).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-          {
             "title": "Toyota camrry 2009",
             "cash": "$5.500",
             "down": "$1.900",
@@ -474,24 +434,6 @@ const cars = [
              bankInventory: false
         },
          {
-            "title": "2018 Toyota CHR",
-            "cash": "$9.500",
-            "down": "$2.500",
-            "financing": "$14,500",
-            "mileage": "152,189",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2018 Toyota CHR 1 (1).webp",
-                "imagenes/Suv/2018 Toyota CHR 1 (2).webp",
-                "imagenes/Suv/2018 Toyota CHR 1 (3).webp",
-                "imagenes/Suv/2018 Toyota CHR 1 (4).webp",
-                "imagenes/Suv/2018 Toyota CHR 1 (5).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-         {
             "title": "Honda cr-v 2005",
             "cash": "$6.000",
             "down": "$2.000",
@@ -552,26 +494,6 @@ const cars = [
              Rented: false,
         },
          {
-            "title": "2021 Toyota corolla",
-            "cash": "$10.000",
-            "down": "$2.800",
-            "financing": "$16.000",
-            "mileage": "150,076",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2021 Toyota corolla (1).webp",
-                "imagenes/Sedan/2021 Toyota corolla (2).webp",
-                "imagenes/Sedan/2021 Toyota corolla (3).webp",
-                "imagenes/Sedan/2021 Toyota corolla (4).webp",
-                "imagenes/Sedan/2021 Toyota corolla (5).webp",
-                "imagenes/Sedan/2021 Toyota corolla (6).webp",
-                "imagenes/Sedan/2021 Toyota corolla (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-         {
             "title": "2021 Toyota Corolla",
             "cash": "$11.000",
             "down": "$3.000",
@@ -609,26 +531,6 @@ const cars = [
                 "imagenes/Suv/Toyota runner 2011 (7).webp",
             ],
              Rented: false
-        },
-          {
-            "title": "2021 Toyota Corolla",
-            "cash": "$11.000",
-            "down": "$3.000",
-            "financing": "$17.000",
-            "mileage": "116,792",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2021 Toyota Corolla 1 (5).webp",
-                "imagenes/Sedan/2021 Toyota Corolla 1 (1).webp",
-                "imagenes/Sedan/2021 Toyota Corolla 1 (2).webp",
-                "imagenes/Sedan/2021 Toyota Corolla 1 (3).webp",
-                "imagenes/Sedan/2021 Toyota Corolla 1 (4).webp",
-                "imagenes/Sedan/2021 Toyota Corolla 1 (6).webp",
-                "imagenes/Sedan/2021 Toyota Corolla 1 (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
         },
           {
             "title": "2012 Toyota corolla",
