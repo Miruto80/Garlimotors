@@ -1,59 +1,4 @@
 const cars = [
-        // {
-        //     "title": "Toyota Highlander 2015",
-        //     "cash": "$10.000",
-        //     "down": "$3.000$",
-        //     "financing": "$15,000",
-        //     "mileage": "202,780",
-        //     "make": "Suv",
-        //     "description": "Clean Title",
-        //     "images": [
-        //         "imagenes/Suv/Toyota Highlander 2015 (4).webp",
-        //         "imagenes/Suv/Toyota Highlander 2015 (1).webp",
-        //         "imagenes/Suv/Toyota Highlander 2015 (2).webp",
-        //         "imagenes/Suv/Toyota Highlander 2015 (3).webp",
-        //         "imagenes/Suv/Toyota Highlander 2015 (5).webp",
-        //         "imagenes/Suv/Toyota Highlander 2015 (6).webp",
-        //         "imagenes/Suv/Toyota Highlander 2015 (7).webp",
-        //     ],
-        //      Rented: false
-        // },
-        // {
-        //     "title": "Ford f-150 2019",
-        //     "cash": "$12.000",
-        //     "down": "$2.500",
-        //     "financing": "$16.000",
-        //     "mileage": "188,004",
-        //     "make": "Truck",
-        //     "description": "Clean Title",
-        //     "images": [
-        //         "imagenes/Truck/Ford f-150 2019 (1).webp",
-        //         "imagenes/Truck/Ford f-150 2019 (2).webp",
-        //         "imagenes/Truck/Ford f-150 2019 (3).webp",
-        //         "imagenes/Truck/Ford f-150 2019 (4).webp",
-        //         "imagenes/Truck/Ford f-150 2019 (5).webp",
-        //         "imagenes/Truck/Ford f-150 2019 (6).webp",
-        //         "imagenes/Truck/Ford f-150 2019 (7).webp",
-        //     ],
-        //      Rented: false
-        // },
-        {
-            "title": "Toyota Tacoma 2018",
-            "cash": "$12.000",
-            "down": "$2.500",
-            "financing": "$16.000",
-            "mileage": "265,851",
-            "make": "Truck",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Truck/Toyota Tacoma 2018 2 (1).webp",
-                "imagenes/Truck/Toyota Tacoma 2018 2 (2).webp",
-                "imagenes/Truck/Toyota Tacoma 2018 2 (3).webp",
-                "imagenes/Truck/Toyota Tacoma 2018 2 (4).webp",
-                "imagenes/Truck/Toyota Tacoma 2018 2 (5).webp",
-            ],
-             Rented: false
-        },
           {
             "title": "2019 kia forte",
             "cash": "$6.000",
@@ -154,26 +99,6 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
-         {
-            "title": "Toyota Highlander 2015",
-            "cash": "$10.000",
-            "down": "$3.000$",
-            "financing": "$15,000",
-            "mileage": "202,780",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/Toyota Highlander 2015 (1).webp",
-                "imagenes/Suv/Toyota Highlander 2015 (2).webp",
-                "imagenes/Suv/Toyota Highlander 2015 (3).webp",
-                "imagenes/Suv/Toyota Highlander 2015 (4).webp",
-                "imagenes/Suv/Toyota Highlander 2015 (5).webp",
-                "imagenes/Suv/Toyota Highlander 2015 (6).webp",
-                "imagenes/Suv/Toyota Highlander 2015 (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
         {
             "title": "Ford fiesta 2019",
             "cash": "$6.500",
@@ -210,26 +135,6 @@ const cars = [
                 "imagenes/Sedan/2017 Kia forte (5).webp",
                 "imagenes/Sedan/2017 Kia forte (6).webp",
                 "imagenes/Sedan/2017 Kia forte (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-          {
-            "title": "2016 Mercedes-Benz GLC GLC300 (1)",
-            "cash": "$9.000",
-            "down": "$2.500$",
-            "financing": "$15,000",
-            "mileage": "100,251",
-            "make": "Suv",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (1).webp",
-                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (2).webp",
-                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (3).webp",
-                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (4).webp",
-                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (5).webp",
-                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (6).webp",
-                "imagenes/Suv/2016 Mercedes-Benz GLC GLC300 (7).webp",
             ],
              Rented: false,
              bankInventory: false
@@ -473,26 +378,6 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
-        {
-            "title": "2019 Chevrolet Silverado 1500",
-            "cash": "$19.850",
-            "down": "$3.500",
-            "financing": "$22.000",
-            "mileage": "119.721",
-            "make": "Truck",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Truck/2019 Chevrolet Silverado 1500 (1).webp",
-                "imagenes/Truck/2019 Chevrolet Silverado 1500 (2).webp",
-                "imagenes/Truck/2019 Chevrolet Silverado 1500 (3).webp",
-                "imagenes/Truck/2019 Chevrolet Silverado 1500 (4).webp",
-                "imagenes/Truck/2019 Chevrolet Silverado 1500 (5).webp",
-                "imagenes/Truck/2019 Chevrolet Silverado 1500 (6).webp",
-                "imagenes/Truck/2019 Chevrolet Silverado 1500 (7).webp",
-                "imagenes/Truck/2019 Chevrolet Silverado 1500 (8).webp",
-            ],
-             Rented: false,
-        },
          {
             "title": "2021 Toyota Corolla",
             "cash": "$11.000",
@@ -548,26 +433,6 @@ const cars = [
                 "imagenes/Sedan/2012 Toyota corolla (5).webp",
                 "imagenes/Sedan/2012 Toyota corolla (6).webp",
                 "imagenes/Sedan/2012 Toyota corolla (7).webp",
-            ],
-             Rented: false,
-             bankInventory: false
-        },
-          {
-            "title": "2012 Toyota corolla Le",
-            "cash": "$6.500",
-            "down": "$1.500",
-            "financing": "$11.000",
-            "mileage": "133,462",
-            "make": "Sedan",
-            "description": "Clean Title",
-            "images": [
-                "imagenes/Sedan/2012 Toyota corolla Le (1).webp",
-                "imagenes/Sedan/2012 Toyota corolla Le (2).webp",
-                "imagenes/Sedan/2012 Toyota corolla Le (3).webp",
-                "imagenes/Sedan/2012 Toyota corolla Le (4).webp",
-                "imagenes/Sedan/2012 Toyota corolla Le (5).webp",
-                "imagenes/Sedan/2012 Toyota corolla Le (6).webp",
-                "imagenes/Sedan/2012 Toyota corolla Le (7).webp",
             ],
              Rented: false,
              bankInventory: false
