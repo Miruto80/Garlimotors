@@ -437,6 +437,45 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+          {
+            "title": "2023 Toyota Corolla SE",
+            "cash": "$13.500",
+            "down": "$4.000",
+            "financing": "$20.500",
+            "mileage": "118,000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/2023 Toyota Corolla SE (1).webp",
+                "imagenes/Sedan/2023 Toyota Corolla SE (2).webp",
+                "imagenes/Sedan/2023 Toyota Corolla SE (3).webp",
+                "imagenes/Sedan/2023 Toyota Corolla SE (4).webp",
+                "imagenes/Sedan/2023 Toyota Corolla SE (5).webp",
+                "imagenes/Sedan/2023 Toyota Corolla SE (6).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
+          {
+            "title": "Toyota Corolla 2022",
+            "cash": "$10.500",
+            "down": "$3.000",
+            "financing": "$17.000",
+            "mileage": "178,000",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2022 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2022 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
