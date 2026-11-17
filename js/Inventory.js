@@ -476,6 +476,26 @@ const cars = [
              Rented: false,
              bankInventory: false
         },
+          {
+            "title": "Toyota Corolla 2019",
+            "cash": "$8.500",
+            "down": "$2.500",
+            "financing": "$15.000",
+            "mileage": "168,121",
+            "make": "Sedan",
+            "description": "Clean Title",
+            "images": [
+                "imagenes/Sedan/Toyota Corolla 2019 (1).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (2).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (3).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (4).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (5).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (6).webp",
+                "imagenes/Sedan/Toyota Corolla 2019 (7).webp",
+            ],
+             Rented: false,
+             bankInventory: false
+        },
 ];
 
 const itemsPerPage = 12;
